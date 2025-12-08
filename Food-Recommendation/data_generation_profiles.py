@@ -326,4 +326,5 @@ print(f"Gender distribution: Male={sum(1 for row in dataset if row[2]=='Male')},
       f"Female={sum(1 for row in dataset if row[2]=='Female')}, "
       f"Other={sum(1 for row in dataset if row[2]=='Other')}")
 print(f"Average height: {sum([row[3] for row in dataset])/len(dataset):.1f} cm")
+
 print(f"Average weight: {sum([row[4] for row in dataset])/len(dataset):.1f} kg")
