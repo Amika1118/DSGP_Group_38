@@ -1,0 +1,1000 @@
+District,Age,Gender,Height(cm),Weight(kg),Physical_Activity_Level,Medical_Conditions,Allergies_Intolerances,Dietary_Goals(kg),Restrictions,Cultural_Seasonal_Preferences,Cuisine,Height_m,BMI,BMR,TEE,Weight_Goal_Change_kg,BMI_Category,Veg_Servings_Target
+Polonnaruwa,22,Male,168.8,70.8,1.725,,Tree Nuts,63.3,,"Pumpkin curry lover, Spicy food lover",Mediterranean,1.6880000000000002,24.847824622088446,1658.0,2860.05,-7.5,Normal,5
+Colombo,48,Female,153.4,56.7,1.2,"Thyroid Disorder, IBS",,48.3,,"Lentils and pulses, Coconut based dishes, Gotu kola preferred",Local,1.534,24.09530009910095,1124.75,1349.7,-8.400000000000006,Normal,5
+Matara,47,Female,158.3,57.3,1.2,Arthritis,,50.8,,"Spicy food lover, Seafood daily",Local,1.5830000000000002,22.86613652879277,1166.375,1399.6499999999999,-6.5,Normal,5
+Kilinochchi,46,Male,172.1,66.7,1.725,,Fish,69.1,,More vegetarian,Local,1.7209999999999999,22.519777395207917,1517.625,2617.9031250000003,2.3999999999999915,Normal,5
+Puttalam,29,Other,165.5,69.9,1.9,,Dairy/Lactose,62.2,,"Sri Lankan traditional, Jackfruit curry lover",Local,1.655,25.520029937660297,1460.375,2774.7125,-7.700000000000003,Overweight,6
+Kurunegala,51,Male,159.0,61.7,1.375,"Hypertension, Heart Disease",,57.7,Low-sodium <2300mg/day,"Durian when available, Sri Lankan traditional",Local,1.59,24.405680155057155,1360.75,1871.03125,-4.0,Normal,5
+Ampara,23,Female,157.1,46.1,1.9,,Peanuts,45.4,,Bitter gourd preferred,Asian fusion,1.571,18.678782078579733,1166.875,2217.0625,-0.7000000000000028,Normal,5
+Kurunegala,49,Female,149.0,58.8,1.375,Diabetes,,55.8,Low-carb <100g/day,Gotu kola preferred,Mixed,1.49,26.485293455249764,1113.25,1530.71875,-3.0,Overweight,6
+Kilinochchi,21,Male,159.6,61.8,1.9,,Fish,54.6,,"Rice and curry daily, Jackfruit curry lover, More vegetarian",Local,1.5959999999999999,24.261782275236968,1515.5,2879.45,-7.199999999999996,Normal,5
+Kilinochchi,47,Male,169.4,71.0,1.2,,,69.7,,"Less oil preferred, Vegetable heavy, Bitter gourd preferred",Local,1.694,24.74181394434695,1538.75,1846.5,-1.2999999999999972,Normal,5
+Galle,46,Male,173.0,78.7,1.375,,,78.7,,Seafood daily,Local,1.73,26.295566173276754,1643.25,2259.46875,0.0,Overweight,6
+Kilinochchi,25,Female,156.8,56.6,1.375,,,52.4,Low-purine,"Gotu kola preferred, Bitter gourd preferred",Local,1.568,23.021006872136606,1260.0,1732.5,-4.200000000000003,Normal,5
+Puttalam,40,Male,166.1,58.2,1.55,Arthritis,Legumes,60.1,,"Less oil preferred, Lentils and pulses, Seafood focused",Local,1.661,21.095203523406436,1425.125,2208.94375,1.8999999999999986,Normal,5
+Kurunegala,55,Other,162.2,60.9,1.2,,"Tree Nuts, Soy",56.6,,"Durian when available, Mango in season, Seafood focused",Mixed,1.6219999999999999,23.148112953668807,1219.75,1463.7,-4.299999999999997,Normal,5
+Gampaha,24,Female,159.3,52.9,1.9,,,52.1,,Rice and curry daily,Mediterranean,1.5930000000000002,20.846066575795152,1243.625,2362.8875,-0.7999999999999972,Normal,5
+Puttalam,42,Male,162.4,80.8,1.55,Diabetes,,85.4,Low-carb <100g/day,"Vegetable heavy, Durian when available, Pumpkin curry lover",Local,1.624,30.63651144167536,1618.0,2507.9,4.6000000000000085,Obese,4
+Nuwara Eliya,51,Female,147.2,48.6,1.55,Anemia,"Soy, Fish",51.5,,Spicy food lover,Local,1.472,22.429554584120986,990.0,1534.5,2.8999999999999986,Normal,5
+Trincomalee,34,Male,179.1,72.4,1.725,,Fish,78.1,Low-purine,Bitter gourd preferred,Local,1.791,22.57082297148626,1678.375,2895.196875,5.699999999999989,Normal,5
+Kurunegala,39,Male,175.0,71.8,1.375,,,66.0,,Seafood focused,Local,1.75,23.444897959183674,1621.75,2229.90625,-5.799999999999997,Normal,5
+Badulla,58,Female,153.0,57.6,1.375,,,53.5,,"Vegetable heavy, Gotu kola preferred",Local,1.53,24.605920799692427,1081.25,1486.71875,-4.100000000000001,Normal,5
+Badulla,41,Male,171.2,72.1,1.2,"Anemia, Thyroid Disorder, Arthritis",,63.3,,Sri Lankan traditional,Mediterranean,1.712,24.599582933007248,1591.0,1909.1999999999998,-8.799999999999997,Normal,5
+Kegalle,52,Male,169.2,65.8,1.2,Asthma,,57.5,,"Bitter gourd preferred, Pumpkin curry lover, Mango in season",Local,1.692,22.983976884686108,1460.5,1752.6,-8.299999999999997,Normal,5
+Ampara,39,Female,153.5,59.7,1.2,,,54.7,Vegetarian,Seafood focused,Local,1.535,25.337138855584676,1200.375,1440.45,-5.0,Overweight,6
+Kalutara,31,Female,152.1,51.6,1.9,,,51.4,Gluten-free,Bitter gourd preferred,Local,1.521,22.304437415953124,1150.625,2186.1875,-0.20000000000000284,Normal,5
+Ratnapura,45,Female,151.0,51.5,1.55,,,52.5,,"Sri Lankan traditional, Gotu kola preferred",Local,1.51,22.586728652252095,1072.75,1662.7625,1.0,Normal,5
+Matale,48,Male,164.0,69.6,1.375,,,65.5,"Halal, Vegan",Gotu kola preferred,Local,1.64,25.877453896490188,1486.0,2043.25,-4.099999999999994,Overweight,6
+Polonnaruwa,18,Female,155.3,50.2,1.375,,,44.2,,"Jackfruit curry lover, Vegetable heavy",Asian fusion,1.5530000000000002,20.814251874837517,1221.625,1679.734375,-6.0,Normal,5
+Kandy,40,Female,159.1,57.7,1.2,,,50.8,,"Rice and curry daily, Lentils and pulses, Spicy food lover",Local,1.591,22.794782562662938,1210.375,1452.45,-6.900000000000006,Normal,5
+Mannar,23,Male,160.9,61.6,1.55,,,57.4,,"Jaffna cuisine specific, Mango in season",Local,1.609,23.794063921825686,1511.625,2343.01875,-4.200000000000003,Normal,5
+Ratnapura,41,Female,156.0,53.1,1.375,,,45.9,,"Hoppers and string hoppers, Spicy food lover",Mediterranean,1.56,21.819526627218934,1140.0,1567.5,-7.200000000000003,Normal,5
+Monaragala,54,Male,168.0,70.4,1.55,,,72.7,,"Mango in season, Lentils and pulses",Local,1.68,24.943310657596378,1489.0,2307.9500000000003,2.299999999999997,Normal,5
+Ratnapura,41,Female,154.5,53.2,1.2,,,49.4,,"Durian when available, Traditional breakfast only, Rice and curry daily",Local,1.545,22.287156607073662,1131.625,1357.95,-3.8000000000000043,Normal,5
+Jaffna,28,Male,166.2,55.2,1.375,,,48.3,Vegetarian,"Pumpkin curry lover, Hoppers and string hoppers",Local,1.662,19.983752340488387,1455.75,2001.65625,-6.900000000000006,Normal,5
+Gampaha,33,Male,173.4,73.1,1.725,"Osteoporosis, Diabetes",Fish,64.9,Low-carb <100g/day,Pumpkin curry lover,Local,1.734,24.31191623131375,1654.75,2854.4437500000004,-8.199999999999989,Normal,5
+Puttalam,60,Female,166.6,72.3,1.2,PCOS,Dairy/Lactose,68.4,,"Gotu kola preferred, Less oil preferred, Pumpkin curry lover",Local,1.666,26.048834900106502,1303.25,1563.8999999999999,-3.8999999999999915,Overweight,6
+Polonnaruwa,39,Male,158.7,60.5,1.55,Anemia,,55.7,Low-fat,"Durian when available, Mango in season, Less oil preferred",Local,1.587,24.021577332207297,1406.875,2180.65625,-4.799999999999997,Normal,5
+Gampaha,51,Female,157.2,60.2,1.2,,,52.6,,"Spicy food lover, Vegetable heavy",Asian fusion,1.5719999999999998,24.36079223562471,1168.5,1402.2,-7.600000000000001,Normal,5
+Mullaitivu,43,Other,155.0,52.1,1.2,,,47.4,Vegetarian,Hoppers and string hoppers,Local,1.55,21.68574401664932,1146.75,1376.1,-4.700000000000003,Normal,5
+Kegalle,34,Female,165.1,59.6,1.375,,,54.0,Low-fat,"Pumpkin curry lover, Mango in season, Rice and curry daily",Local,1.651,21.865132487661423,1296.875,1783.203125,-5.600000000000001,Normal,5
+Polonnaruwa,39,Female,154.7,52.4,1.2,,"Dairy/Lactose, Tree Nuts",55.7,,"Pumpkin curry lover, Seafood focused",Local,1.547,21.895287874982923,1134.875,1361.85,3.3000000000000043,Normal,5
+Anuradhapura,38,Female,153.5,59.0,1.725,,,54.3,,"Seafood focused, Pumpkin curry lover",Local,1.535,25.040053475368442,1198.375,2067.196875,-4.700000000000003,Overweight,6
+Mannar,34,Male,178.0,74.1,1.55,,,68.0,,Seafood focused,Local,1.78,23.387198586037115,1688.5,2617.175,-6.099999999999994,Normal,5
+Gampaha,23,Female,158.8,51.9,1.55,,,48.5,,Murunga dishes,Local,1.588,20.580994740148085,1235.5,1915.025,-3.3999999999999986,Normal,5
+Kilinochchi,54,Male,161.6,65.5,1.2,,,65.3,Low-FODMAP,Vegetable heavy,Local,1.6159999999999999,25.081793451622396,1400.0,1680.0,-0.20000000000000284,Overweight,6
+Colombo,18,Male,164.6,64.9,1.725,,Wheat/Gluten,60.1,,"Spicy food lover, Pumpkin curry lover",Local,1.646,23.95438553494683,1592.75,2747.49375,-4.800000000000004,Normal,5
+Colombo,53,Female,152.8,51.4,1.55,Heart Disease,Eggs,45.9,Low-sodium <2300mg/day,"Traditional breakfast only, Sri Lankan traditional, Murunga dishes",Local,1.528,22.014884460404044,1043.0,1616.65,-5.5,Normal,5
+Puttalam,46,Female,154.7,50.6,1.2,,Shellfish,51.0,Vegan,"Traditional breakfast only, Pumpkin curry lover",Local,1.547,21.143159665536945,1081.875,1298.25,0.3999999999999986,Normal,5
+Mannar,47,Female,152.6,59.7,1.725,Hypertension,"MSG, Sulfites",51.5,Low-sodium <2300mg/day,"Gotu kola preferred, Seafood focused",Local,1.526,25.63688550919063,1154.75,1991.9437500000001,-8.200000000000003,Overweight,6
+Matara,52,Other,161.3,54.3,1.375,,,47.1,Vegetarian,"Seafood daily, Hoppers and string hoppers",Mixed,1.6130000000000002,20.870415475009494,1163.125,1599.296875,-7.199999999999996,Normal,5
+Matara,43,Female,153.4,62.1,1.375,,"Peanuts, Eggs",54.4,,"Seafood focused, Bitter gourd preferred",Local,1.534,26.390090584729613,1203.75,1655.15625,-7.700000000000003,Overweight,6
+Ampara,40,Male,162.5,70.7,1.725,PCOS,,64.4,,"Pumpkin curry lover, Gotu kola preferred, Hoppers and string hoppers",Local,1.625,26.773964497041423,1527.625,2635.1531250000003,-6.299999999999997,Overweight,6
+Polonnaruwa,36,Male,158.0,74.4,1.2,,,64.6,,"Sri Lankan traditional, Spicy food lover",Mediterranean,1.58,29.80291619932703,1556.5,1867.8,-9.800000000000011,Overweight,6
+Matale,64,Male,171.0,79.3,1.2,Diabetes,,69.4,Low-carb <100g/day,"Durian when available, Jackfruit curry lover",Local,1.71,27.119455558975414,1546.75,1856.1,-9.899999999999991,Overweight,6
+Matara,56,Female,160.6,50.7,1.55,,,44.6,,Seafood focused,Local,1.6059999999999999,19.656983695947176,1069.75,1658.1125,-6.100000000000001,Normal,5
+Hambantota,45,Female,147.6,62.2,1.55,"Thyroid Disorder, Heart Disease",,65.1,Low-sodium <2300mg/day,Pumpkin curry lover,Local,1.476,28.55075976234017,1158.5,1795.675,2.8999999999999915,Overweight,6
+Ratnapura,24,Male,166.5,80.4,1.55,Asthma,,75.3,Halal,"Bitter gourd preferred, Lentils and pulses",Mixed,1.665,29.001974947920893,1729.625,2680.9187500000003,-5.1000000000000085,Overweight,6
+Kegalle,26,Other,156.5,53.2,1.55,,Soy,46.5,,"Sri Lankan traditional, Spicy food lover, Durian when available",Local,1.565,21.721156692423115,1252.125,1940.79375,-6.700000000000003,Normal,5
+Monaragala,51,Male,167.1,70.7,1.725,Hypertension,,65.0,Low-sodium <2300mg/day,"Gotu kola preferred, Rice and curry daily, Durian when available",Local,1.671,25.320163982979977,1501.375,2589.8718750000003,-5.700000000000003,Overweight,6
+Anuradhapura,19,Male,163.4,55.5,1.55,,Shellfish,50.0,Vegan,"Rice and curry daily, Sri Lankan traditional, Jackfruit curry lover",Local,1.6340000000000001,20.786859408919096,1486.25,2303.6875,-5.5,Normal,5
+Galle,50,Male,172.1,69.8,1.375,Thyroid Disorder,,61.1,,Hoppers and string hoppers,Local,1.7209999999999999,23.566423720922224,1528.625,2101.859375,-8.699999999999996,Normal,5
+Puttalam,32,Male,154.1,57.5,1.9,,,52.1,Dairy-free,"Murunga dishes, Traditional breakfast only",Mediterranean,1.541,24.213778608579428,1383.125,2627.9375,-5.399999999999999,Normal,5
+Matara,28,Male,162.1,52.2,1.725,,,48.8,Low-fat,"Gotu kola preferred, Vegetable heavy",Asian fusion,1.621,19.865727471903504,1400.125,2415.2156250000003,-3.4000000000000057,Normal,5
+Polonnaruwa,45,Female,144.2,52.5,1.55,,,49.5,,Rice and curry daily,Local,1.442,25.24810470893985,1040.25,1612.3875,-3.0,Overweight,6
+Kalutara,33,Male,163.6,66.7,1.9,Asthma,,65.5,,Mango in season,Local,1.636,24.92064251170187,1529.5,2906.0499999999997,-1.2000000000000028,Normal,5
+Gampaha,41,Other,168.5,71.1,1.725,,,61.0,,"Rice and curry daily, Hoppers and string hoppers",Local,1.685,25.042044924231078,1431.125,2468.690625,-10.099999999999994,Overweight,6
+Kandy,42,Male,165.6,64.6,1.375,,MSG,58.8,,Murunga dishes,Local,1.656,23.556559079558447,1476.0,2029.5,-5.799999999999997,Normal,5
+Kilinochchi,54,Male,163.5,62.7,1.375,,"Tree Nuts, Soy, Shellfish",56.2,,"Seafood focused, Murunga dishes",Local,1.635,23.454815812361474,1383.875,1902.828125,-6.5,Normal,5
+Nuwara Eliya,55,Female,156.9,58.8,1.375,"Asthma, High Cholesterol","Soy, Eggs",50.3,,Murunga dishes,Local,1.569,23.885340615924942,1132.625,1557.359375,-8.5,Normal,5
+Mullaitivu,59,Female,156.2,61.4,1.2,,,53.6,,Bitter gourd preferred,Local,1.5619999999999998,25.16554337080568,1134.25,1361.1,-7.799999999999997,Overweight,6
+Matara,51,Female,149.9,49.0,1.2,Arthritis,Peanuts,52.4,,"Gotu kola preferred, Sri Lankan traditional",Local,1.499,21.806843877684074,1010.875,1213.05,3.3999999999999986,Normal,5
+Matale,45,Female,158.2,53.9,1.375,,,46.3,Vegetarian,"Traditional breakfast only, Bitter gourd preferred",Local,1.5819999999999999,21.53653379277939,1141.75,1569.90625,-7.600000000000001,Normal,5
+Mannar,32,Male,163.4,54.2,1.9,,,51.4,Vegan,"Spicy food lover, Sri Lankan traditional, Lentils and pulses",Mediterranean,1.6340000000000001,20.29995999934081,1408.25,2675.6749999999997,-2.8000000000000043,Normal,5
+Mannar,27,Female,154.6,43.9,1.725,,Eggs,38.9,Vegan,Coconut based dishes,Local,1.546,18.367309369085014,1109.25,1913.4562500000002,-5.0,Underweight,4
+Trincomalee,27,Female,161.0,64.3,1.725,,Shellfish,58.3,,Lentils and pulses,Local,1.61,24.806141738358857,1353.25,2334.3562500000003,-6.0,Normal,5
+Mullaitivu,26,Male,163.3,60.9,1.725,,Soy,57.4,,Rice and curry daily,Local,1.633,22.837308737539324,1504.625,2595.478125,-3.5,Normal,5
+Badulla,31,Male,167.6,57.6,1.55,,Soy,52.5,,Pumpkin curry lover,Local,1.676,20.5056931778698,1473.5,2283.925,-5.100000000000001,Normal,5
+Anuradhapura,33,Male,168.5,62.6,1.725,,,63.0,,Traditional breakfast only,Mixed,1.685,22.0482702145832,1519.125,2620.490625,0.3999999999999986,Normal,5
+Monaragala,48,Female,152.5,48.2,1.55,Hypertension,,42.8,"Low-sodium <2300mg/day, Vegan",Mango in season,Local,1.525,20.725611394786352,1034.125,1602.89375,-5.400000000000006,Normal,5
+Kegalle,35,Male,175.5,68.6,1.55,,,67.7,,"Rice and curry daily, Jackfruit curry lover, Spicy food lover",Local,1.755,22.272546489070706,1612.875,2499.95625,-0.8999999999999915,Normal,5
+Nuwara Eliya,29,Male,178.9,73.4,1.55,,,67.5,,Seafood focused,Local,1.7890000000000001,22.93376609620746,1712.125,2653.7937500000003,-5.900000000000006,Normal,5
+Anuradhapura,55,Male,166.8,69.4,1.55,PCOS,,59.8,,Less oil preferred,Local,1.6680000000000001,24.944073518163883,1466.5,2273.0750000000003,-9.600000000000009,Normal,5
+Badulla,33,Male,173.0,71.0,1.55,,Soy,70.0,,Pumpkin curry lover,Local,1.73,23.722810651876106,1631.25,2528.4375,-1.0,Normal,5
+Batticaloa,27,Male,178.3,67.7,1.9,,,66.9,,"Traditional breakfast only, Mango in season",Local,1.7830000000000001,21.29540884196699,1661.375,3156.6124999999997,-0.7999999999999972,Normal,5
+Vavuniya,39,Male,165.8,64.6,1.725,,,55.9,,"Murunga dishes, Lentils and pulses",Local,1.6580000000000001,23.499762092191816,1492.25,2574.13125,-8.699999999999996,Normal,5
+Gampaha,39,Male,165.6,67.7,1.375,,,63.4,Gluten-free,Lentils and pulses,Mediterranean,1.656,24.68698219328339,1522.0,2092.75,-4.300000000000004,Normal,5
+Galle,42,Female,157.6,56.8,1.375,,,50.5,,"Traditional breakfast only, Hoppers and string hoppers",Local,1.5759999999999998,22.868406812852694,1182.0,1625.25,-6.299999999999997,Normal,5
+Trincomalee,45,Male,169.3,71.0,1.55,,,67.3,,"Less oil preferred, Rice and curry daily",Local,1.693,24.771050944980704,1548.125,2399.59375,-3.700000000000003,Normal,5
+Nuwara Eliya,45,Female,148.2,55.8,1.55,High Cholesterol,,50.2,,"Rice and curry daily, Seafood focused, Spicy food lover",Local,1.482,25.406087626415772,1098.25,1702.2875000000001,-5.599999999999994,Overweight,6
+Kilinochchi,63,Female,152.0,53.4,1.375,,,47.5,,"Less oil preferred, Traditional breakfast only",Local,1.52,23.11288088642659,1008.0,1386.0,-5.899999999999999,Normal,5
+Monaragala,33,Male,158.9,71.6,1.55,Asthma,,72.5,,"Lentils and pulses, Pumpkin curry lover",Local,1.589,28.357322862774716,1549.125,2401.14375,0.9000000000000057,Overweight,6
+Ratnapura,39,Female,154.1,55.6,1.2,,Sulfites,51.5,Gluten-free,Seafood focused,Local,1.541,23.413671141513326,1163.125,1395.75,-4.100000000000001,Normal,5
+Kurunegala,58,Male,177.3,74.8,1.2,,,66.8,,"Vegetable heavy, Bitter gourd preferred, Pumpkin curry lover",Local,1.7730000000000001,23.794913296489387,1571.125,1885.35,-8.0,Normal,5
+Gampaha,62,Female,156.5,57.0,1.2,,,51.6,,"Seafood focused, Durian when available, Pumpkin curry lover",Local,1.565,23.272667884739054,1077.125,1292.55,-5.399999999999999,Normal,5
+Kandy,33,Female,154.8,50.2,1.55,,Dairy/Lactose,45.5,,Seafood focused,Local,1.548,20.948928015811013,1143.5,1772.425,-4.700000000000003,Normal,5
+Matara,24,Male,167.4,48.5,1.725,Thyroid Disorder,Shellfish,43.6,,Jackfruit curry lover,Local,1.6740000000000002,17.307360160098433,1416.25,2443.03125,-4.899999999999999,Underweight,4
+Jaffna,29,Male,169.3,71.8,1.725,,,64.4,,Gotu kola preferred,Local,1.693,25.050161378163583,1636.125,2822.315625,-7.3999999999999915,Overweight,6
+Trincomalee,47,Female,162.2,64.9,1.375,"High Cholesterol, Arthritis",,55.8,Vegetarian,"Pumpkin curry lover, Rice and curry daily",Local,1.6219999999999999,24.668514461298948,1266.75,1741.78125,-9.100000000000009,Normal,5
+Badulla,46,Male,171.0,56.2,1.375,"Kidney Disease, Diabetes",Soy,56.5,Low-carb <100g/day,"Murunga dishes, Pumpkin curry lover, Bitter gourd preferred",Mixed,1.71,19.219588933347016,1405.75,1932.90625,0.29999999999999716,Normal,5
+Vavuniya,34,Male,168.9,69.7,1.55,"Osteoporosis, IBS, Arthritis",,72.7,,Coconut based dishes,Mixed,1.689,24.432813443726182,1587.625,2460.81875,3.0,Normal,5
+Ratnapura,46,Female,147.6,50.0,1.2,Thyroid Disorder,,43.8,,Rice and curry daily,Local,1.476,22.950771513135184,1031.5,1237.8,-6.200000000000003,Normal,5
+Jaffna,35,Male,159.7,52.3,1.375,Anemia,Sulfites,52.6,,"Murunga dishes, Durian when available, Hoppers and string hoppers",Local,1.597,20.506514837424117,1351.125,1857.796875,0.30000000000000426,Normal,5
+Mullaitivu,24,Male,162.7,56.7,1.9,,,51.5,,Spicy food lover,Local,1.6269999999999998,21.41943214705442,1468.875,2790.8624999999997,-5.200000000000003,Normal,5
+Polonnaruwa,25,Female,161.7,58.3,1.55,,,62.1,,"Hoppers and string hoppers, Traditional breakfast only",Asian fusion,1.617,22.2971068452118,1307.625,2026.8187500000001,3.8000000000000043,Normal,5
+Colombo,29,Other,178.5,88.2,1.55,,"Dairy/Lactose, Soy",79.1,,"Mango in season, Pumpkin curry lover",Local,1.785,27.68166089965398,1724.625,2673.1687500000003,-9.100000000000009,Overweight,6
+Ratnapura,41,Female,151.4,53.3,1.2,"High Cholesterol, PCOS",Fish,56.5,,"Mango in season, Pumpkin curry lover, Gotu kola preferred",Local,1.514,23.252810841655773,1113.25,1335.8999999999999,3.200000000000003,Normal,5
+Mannar,34,Female,160.4,54.9,1.375,"Osteoporosis, PCOS",,47.5,,Durian when available,Local,1.604,21.338486700953347,1220.5,1678.1875,-7.399999999999999,Normal,5
+Gampaha,45,Female,154.5,53.4,1.2,,,48.0,,"Vegetable heavy, Jackfruit curry lover, International fusion",Local,1.545,22.37094291010777,1113.625,1336.35,-5.399999999999999,Normal,5
+Matara,34,Male,160.5,60.9,1.9,,Shellfish,65.7,Vegan,Seafood daily,Local,1.605,23.64107491192826,1447.125,2749.5375,4.800000000000004,Normal,5
+Polonnaruwa,20,Male,171.9,58.9,1.9,,,63.3,,Gotu kola preferred,Local,1.719,19.932581174506193,1568.375,2979.9125,4.399999999999999,Normal,5
+Hambantota,55,Female,159.2,61.1,1.55,,,54.6,,"Seafood daily, Hoppers and string hoppers",Local,1.5919999999999999,24.107661422691354,1170.0,1813.5,-6.5,Normal,5
+Ratnapura,19,Female,156.6,53.0,1.9,,,56.5,Low-fat,"Less oil preferred, Lentils and pulses",Local,1.5659999999999998,21.611870380972423,1252.75,2380.225,3.5,Normal,5
+Vavuniya,35,Female,161.0,64.3,1.55,Thyroid Disorder,,66.0,Low-fat,"Jackfruit curry lover, Seafood focused",Local,1.61,24.806141738358857,1313.25,2035.5375000000001,1.7000000000000028,Normal,5
+Mullaitivu,34,Female,156.7,55.9,1.725,,,50.8,,"Less oil preferred, Vegetable heavy",Local,1.567,22.765322915313405,1207.375,2082.721875,-5.100000000000001,Normal,5
+Nuwara Eliya,22,Male,169.2,65.5,1.55,,,65.5,,Sri Lankan traditional,Mixed,1.692,22.879186716518845,1607.5,2491.625,0.0,Normal,5
+Kilinochchi,52,Female,151.2,63.3,1.2,"Diabetes, Hypertension",,67.2,Low-carb <100g/day,"Less oil preferred, Hoppers and string hoppers",Local,1.5119999999999998,27.688544553623927,1157.0,1388.3999999999999,3.9000000000000057,Overweight,6
+Vavuniya,35,Male,170.8,70.6,1.2,,,61.4,Vegan,"Seafood focused, Traditional breakfast only",Local,1.7080000000000002,24.200757970481924,1603.5,1924.1999999999998,-9.199999999999996,Normal,5
+Badulla,32,Female,168.7,70.1,1.55,,,62.8,,"Gotu kola preferred, Jackfruit curry lover, Murunga dishes",Local,1.6869999999999998,24.631329434719778,1434.375,2223.28125,-7.299999999999997,Normal,5
+Badulla,35,Male,176.0,68.9,1.55,,,63.7,,"Less oil preferred, Pumpkin curry lover",Local,1.76,22.243026859504134,1619.0,2509.4500000000003,-5.200000000000003,Normal,5
+Batticaloa,55,Female,164.2,82.6,1.2,,,75.6,,Jackfruit curry lover,Local,1.642,30.636118574389396,1416.25,1699.5,-7.0,Obese,4
+Monaragala,37,Male,168.1,66.8,1.55,,Tree Nuts,57.1,,Bitter gourd preferred,Local,1.681,23.639649637743602,1538.625,2384.86875,-9.699999999999996,Normal,5
+Ratnapura,39,Male,166.5,60.3,1.375,,,52.5,,Jackfruit curry lover,Local,1.665,21.751481210940668,1453.625,1998.734375,-7.799999999999997,Normal,5
+Ampara,41,Female,149.9,50.4,1.55,,,44.8,Low-sodium <2300mg/day,Jackfruit curry lover,Local,1.499,22.429896559903618,1074.875,1666.05625,-5.600000000000001,Normal,5
+Monaragala,24,Male,170.8,67.0,1.725,,,67.0,Gluten-free,"Lentils and pulses, Sri Lankan traditional",Local,1.7080000000000002,22.9667249861514,1622.5,2798.8125,0.0,Normal,5
+Galle,54,Female,146.6,51.0,1.2,Hypertension,,46.1,Low-sodium <2300mg/day,"Seafood daily, Durian when available",Local,1.466,23.730245733674057,995.25,1194.3,-4.899999999999999,Normal,5
+Kandy,34,Female,148.8,49.8,1.725,,,43.2,,"Pumpkin curry lover, Spicy food lover, Vegetable heavy",Mixed,1.4880000000000002,22.491762053416572,1097.0,1892.325,-6.599999999999994,Normal,5
+Kalutara,27,Female,155.7,63.2,1.55,,,59.2,,Lentils and pulses,Local,1.557,26.069929285316817,1309.125,2029.14375,-4.0,Overweight,6
+Anuradhapura,41,Other,158.9,68.2,1.725,,Fish,62.9,,Seafood focused,Local,1.589,27.01074607878821,1342.125,2315.165625,-5.300000000000004,Overweight,6
+Matara,52,Female,150.7,51.7,1.725,Hypertension,,44.2,Low-sodium <2300mg/day,Gotu kola preferred,Local,1.507,22.76481044662621,1037.875,1790.3343750000001,-7.5,Normal,5
+Batticaloa,41,Female,156.4,57.3,1.375,,Peanuts,58.2,Vegan,Vegetable heavy,Local,1.564,23.425082253517438,1184.5,1628.6875,0.9000000000000057,Normal,5
+Colombo,62,Male,164.5,65.7,1.2,,Sulfites,59.8,,Gotu kola preferred,Mediterranean,1.645,24.27915484890199,1380.125,1656.1499999999999,-5.900000000000006,Normal,5
+Colombo,27,Male,168.3,66.4,1.725,,,62.2,"Dairy-free, Vegetarian",Lentils and pulses,Mixed,1.683,23.442279917062343,1585.875,2735.634375,-4.200000000000003,Normal,5
+Matale,28,Female,154.2,51.3,1.725,,,44.9,,"Coconut based dishes, Gotu kola preferred",Mixed,1.5419999999999998,21.57489136852943,1175.75,2028.16875,-6.399999999999999,Normal,5
+Matale,55,Female,150.3,56.2,1.2,,,48.1,Low-FODMAP,Durian when available,Local,1.5030000000000001,24.87816560270455,1065.375,1278.45,-8.100000000000001,Normal,5
+Vavuniya,26,Female,156.0,48.9,1.55,,"Peanuts, Fish",44.6,,"Vegetable heavy, Mango in season",Asian fusion,1.56,20.09368836291913,1173.0,1818.15,-4.299999999999997,Normal,5
+Kegalle,19,Male,169.9,86.3,1.55,,,90.1,,Gotu kola preferred,Local,1.699,29.896754002371644,1834.875,2844.05625,3.799999999999997,Overweight,6
+Trincomalee,58,Female,147.8,50.2,1.375,,,47.3,,"Traditional breakfast only, Vegetable heavy",Local,1.4780000000000002,22.980255291409772,974.75,1340.28125,-2.9000000000000057,Normal,5
+Monaragala,18,Male,174.0,71.3,1.725,,Shellfish,70.0,,Gotu kola preferred,Local,1.74,23.550006605892456,1715.5,2959.2375,-1.2999999999999972,Normal,5
+Trincomalee,33,Female,156.5,59.4,1.9,,Peanuts,60.8,,Rice and curry daily,Local,1.565,24.252569690412276,1246.125,2367.6375,1.3999999999999986,Normal,5
+Monaragala,52,Male,166.5,81.8,1.2,,Dairy/Lactose,74.4,,"Traditional breakfast only, Hoppers and string hoppers",Local,1.665,29.506984461939414,1603.625,1924.35,-7.3999999999999915,Overweight,6
+Batticaloa,21,Male,169.1,53.7,1.55,,,53.8,,"Sri Lankan traditional, Less oil preferred, Spicy food lover",Local,1.6909999999999998,18.779631688407797,1493.875,2315.50625,0.09999999999999432,Normal,5
+Monaragala,51,Male,159.1,50.8,1.2,Osteoporosis,,43.6,,"Lentils and pulses, Pumpkin curry lover",Mixed,1.591,20.068890020507403,1252.375,1502.85,-7.199999999999996,Normal,5
+Kalutara,44,Male,168.0,65.2,1.725,Hypertension,,64.7,Low-sodium <2300mg/day,Coconut based dishes,Local,1.68,23.100907029478464,1487.0,2565.0750000000003,-0.5,Normal,5
+Kegalle,38,Male,162.0,57.1,1.375,,,49.4,Low-FODMAP,"Rice and curry daily, Coconut based dishes",Local,1.62,21.757354061880807,1398.5,1922.9375,-7.700000000000003,Normal,5
+Kilinochchi,21,Other,159.5,55.9,1.9,,,56.0,Vegan,Sri Lankan traditional,Local,1.595,21.973054510077535,1322.875,2513.4625,0.10000000000000142,Normal,5
+Kegalle,58,Male,157.7,63.1,1.55,"Diabetes, Thyroid Disorder, IBS","Soy, Peanuts",67.9,Low-carb <100g/day,"Mango in season, Sri Lankan traditional",Local,1.577,25.372658407216292,1331.625,2064.01875,4.800000000000004,Overweight,6
+Mullaitivu,29,Female,154.2,53.4,1.725,,,46.0,Vegan,Coconut based dishes,Local,1.5419999999999998,22.458074056130048,1191.75,2055.76875,-7.399999999999999,Normal,5
+Trincomalee,34,Female,163.7,56.7,1.725,,,51.7,,Spicy food lover,Local,1.6369999999999998,21.15854015775241,1259.125,2171.990625,-5.0,Normal,5
+Ampara,45,Other,163.7,60.5,1.55,,"Tree Nuts, Soy",52.4,,"Lentils and pulses, Sri Lankan traditional",Local,1.6369999999999998,22.57657283146421,1275.125,1976.4437500000001,-8.100000000000001,Normal,5
+Mannar,65,Male,176.2,74.3,1.2,Thyroid Disorder,Fish,64.6,,"Hoppers and string hoppers, Rice and curry daily, Sri Lankan traditional",Local,1.7619999999999998,23.931890419642322,1524.25,1829.1,-9.700000000000003,Normal,5
+Monaragala,57,Female,162.4,51.6,1.2,Diabetes,,51.9,Low-carb <100g/day,"Lentils and pulses, Less oil preferred, Hoppers and string hoppers",Local,1.624,19.56490087116892,1085.0,1302.0,0.29999999999999716,Normal,5
+Nuwara Eliya,30,Male,165.1,54.0,1.55,,,48.0,,Jackfruit curry lover,Mixed,1.651,19.81069050895498,1426.875,2211.65625,-6.0,Normal,5
+Matale,27,Male,170.6,71.7,1.375,,,74.3,Vegan,"Sri Lankan traditional, Rice and curry daily",Local,1.706,24.63548416800782,1653.25,2273.21875,2.5999999999999943,Normal,5
+Ratnapura,28,Female,150.1,50.2,1.375,,,44.2,Vegetarian,Hoppers and string hoppers,Local,1.501,22.281392684690335,1139.125,1566.296875,-6.0,Normal,5
+Kandy,20,Female,156.0,60.0,1.9,,,59.8,,"Rice and curry daily, Jackfruit curry lover",Local,1.56,24.654832347140037,1314.0,2496.6,-0.20000000000000284,Normal,5
+Galle,34,Female,154.5,46.7,1.55,IBS,Fish,41.3,,Vegetable heavy,Local,1.545,19.564101758465036,1101.625,1707.51875,-5.400000000000006,Normal,5
+Kalutara,37,Male,161.4,65.6,1.2,,Fish,59.3,,Jackfruit curry lover,Local,1.614,25.182380318434266,1484.75,1781.7,-6.299999999999997,Overweight,6
+Mannar,52,Other,152.9,52.4,1.375,,,53.7,,"Durian when available, Seafood focused",Local,1.5290000000000001,22.41384251538064,1091.625,1500.984375,1.3000000000000043,Normal,5
+Kegalle,28,Other,162.1,55.7,1.9,,,48.3,,"Gotu kola preferred, Durian when available, Coconut based dishes",Local,1.621,21.197720693199717,1302.125,2474.0375,-7.400000000000006,Normal,5
+Kurunegala,30,Female,155.7,55.1,1.725,,Dairy/Lactose,47.0,Vegan,Traditional breakfast only,Mixed,1.557,22.728688348432858,1213.125,2092.640625,-8.100000000000001,Normal,5
+Mannar,50,Male,158.8,56.2,1.2,,,48.4,,"Spicy food lover, Lentils and pulses",Local,1.588,22.286163861200816,1309.5,1571.3999999999999,-7.800000000000004,Normal,5
+Jaffna,33,Female,149.7,36.2,1.55,,,31.8,Vegan,Bitter gourd preferred,Mediterranean,1.4969999999999999,16.153438027245766,971.625,1506.01875,-4.400000000000002,Underweight,4
+Kegalle,41,Female,152.1,52.1,1.2,,,48.5,,Pumpkin curry lover,Local,1.521,22.520565685487554,1105.625,1326.75,-3.6000000000000014,Normal,5
+Mannar,50,Male,161.1,68.0,1.2,Kidney Disease,,62.3,Low-sodium <2300mg/day,Gotu kola preferred,Local,1.611,26.20099787271016,1441.875,1730.25,-5.700000000000003,Overweight,6
+Vavuniya,21,Female,150.5,42.3,1.55,"Diabetes, Arthritis",,37.6,"Low-carb <100g/day, Vegan","Traditional breakfast only, Spicy food lover",Local,1.505,18.67529055970685,1097.625,1701.3187500000001,-4.699999999999996,Normal,5
+Vavuniya,53,Male,156.5,55.1,1.375,,,48.8,,Gotu kola preferred,Local,1.565,22.496912288581086,1269.125,1745.046875,-6.300000000000004,Normal,5
+Hambantota,40,Male,163.9,48.7,1.2,,,48.9,,"Mango in season, Traditional breakfast only",Local,1.639,18.128883331515482,1316.375,1579.6499999999999,0.19999999999999574,Underweight,4
+Mullaitivu,26,Female,164.2,57.1,1.725,,,48.9,,Vegetable heavy,Local,1.642,21.17823693217475,1306.25,2253.28125,-8.200000000000003,Normal,5
+Ampara,22,Female,144.7,46.5,1.9,,Wheat/Gluten,40.1,,"Jackfruit curry lover, Mango in season",Local,1.4469999999999998,22.2083294130458,1098.375,2086.9125,-6.399999999999999,Normal,5
+Polonnaruwa,45,Male,172.4,67.4,1.375,Diabetes,,57.9,Low-carb <100g/day,Vegetable heavy,Local,1.724,22.676988172974955,1531.5,2105.8125,-9.500000000000007,Normal,5
+Ampara,28,Male,173.1,67.1,1.725,,Soy,60.8,,"Sri Lankan traditional, Rice and curry daily",Local,1.7309999999999999,22.393830382921152,1617.875,2790.8343750000004,-6.299999999999997,Normal,5
+Ratnapura,26,Female,155.3,42.6,1.375,,"Peanuts, Shellfish",39.2,Vegetarian,Durian when available,Local,1.5530000000000002,17.6630902364159,1105.625,1520.234375,-3.3999999999999986,Underweight,4
+Kilinochchi,28,Male,171.6,60.5,1.9,,,53.1,Vegetarian,Lentils and pulses,Mediterranean,1.716,20.545693622616703,1542.5,2930.75,-7.399999999999999,Normal,5
+Gampaha,30,Female,150.2,41.3,1.375,,Fish,38.2,,"Sri Lankan traditional, Traditional breakfast only",Local,1.5019999999999998,18.306705129955446,1040.75,1431.03125,-3.0999999999999943,Underweight,4
+Kandy,40,Female,153.4,50.9,1.375,,Eggs,44.4,,Bitter gourd preferred,Local,1.534,21.63052513305535,1106.75,1521.78125,-6.5,Normal,5
+Gampaha,39,Female,151.4,45.9,1.2,Asthma,,48.8,,"Traditional breakfast only, Spicy food lover",Local,1.514,20.02446562161351,1049.25,1259.1,2.8999999999999986,Normal,5
+Kandy,46,Female,150.2,52.4,1.725,,Dairy/Lactose,45.1,,"Lentils and pulses, Hoppers and string hoppers",Local,1.5019999999999998,23.22690917214686,1071.75,1848.7687500000002,-7.299999999999997,Normal,5
+Vavuniya,33,Male,158.2,67.8,1.725,,Peanuts,70.8,,"Vegetable heavy, Murunga dishes",Mediterranean,1.5819999999999999,27.09048221058335,1506.75,2599.14375,3.0,Overweight,6
+Anuradhapura,20,Female,144.6,46.1,1.375,,"Dairy/Lactose, Soy",49.7,,"Jackfruit curry lover, Bitter gourd preferred",Local,1.446,22.047753233511056,1103.75,1517.65625,3.6000000000000014,Normal,5
+Matara,42,Male,172.8,55.2,1.725,,,51.5,,Spicy food lover,Local,1.7280000000000002,18.4863683127572,1427.0,2461.5750000000003,-3.700000000000003,Underweight,4
+Matara,42,Male,167.6,74.5,1.725,,Dairy/Lactose,67.7,Vegetarian,"Traditional breakfast only, Durian when available",Local,1.676,26.522120516515628,1587.5,2738.4375,-6.799999999999997,Overweight,6
+Polonnaruwa,41,Male,171.0,72.2,1.55,,,76.9,,"Traditional breakfast only, Lentils and pulses, Mango in season",Local,1.71,24.69135802469136,1590.75,2465.6625,4.700000000000003,Normal,5
+Nuwara Eliya,42,Male,164.0,63.3,1.375,,,57.5,,"Pumpkin curry lover, Durian when available",Local,1.64,23.53509815585961,1453.0,1997.875,-5.799999999999997,Normal,5
+Trincomalee,25,Male,166.3,55.9,1.725,,,55.2,Vegan,"Murunga dishes, Bitter gourd preferred",Asian fusion,1.663,20.212838659964728,1478.375,2550.196875,-0.6999999999999957,Normal,5
+Monaragala,50,Male,164.2,65.0,1.55,,,64.5,,Coconut based dishes,Local,1.642,24.10832575466478,1431.25,2218.4375,-0.5,Normal,5
+Jaffna,38,Other,152.1,42.6,1.55,,Eggs,37.6,,"Traditional breakfast only, Bitter gourd preferred, Sri Lankan traditional",Local,1.521,18.414128564333392,1058.625,1640.86875,-5.0,Underweight,4
+Colombo,26,Female,157.6,58.3,1.55,,,53.7,Vegan,International fusion,Mixed,1.5759999999999998,23.472326006854086,1277.0,1979.3500000000001,-4.599999999999994,Normal,5
+Ratnapura,42,Male,169.3,59.4,1.725,,,62.6,Low-fat,"Pumpkin curry lover, Less oil preferred, Durian when available",Local,1.693,20.723949663828925,1447.125,2496.290625,3.200000000000003,Normal,5
+Monaragala,45,Female,148.1,45.9,1.2,,Dairy/Lactose,41.6,,"Spicy food lover, Sri Lankan traditional",Local,1.4809999999999999,20.926787701614103,998.625,1198.35,-4.299999999999997,Normal,5
+Monaragala,56,Male,164.3,69.1,1.375,Arthritis,Tree Nuts,62.2,,Less oil preferred,Mediterranean,1.643,25.597816443281573,1442.875,1983.953125,-6.8999999999999915,Overweight,6
+Badulla,31,Male,174.9,67.4,1.725,,,61.7,,"Less oil preferred, Rice and curry daily, Hoppers and string hoppers",Mixed,1.749,22.033337027349777,1617.125,2789.540625,-5.700000000000003,Normal,5
+Vavuniya,57,Male,160.4,60.8,1.55,Heart Disease,Sulfites,51.9,Low-sodium <2300mg/day,Gotu kola preferred,Local,1.604,23.631693832749793,1330.5,2062.275,-8.899999999999999,Normal,5
+Polonnaruwa,52,Female,155.8,64.9,1.55,Diabetes,,61.2,Low-carb <100g/day,Gotu kola preferred,Local,1.558,26.73682233072584,1201.75,1862.7125,-3.700000000000003,Overweight,6
+Matara,62,Male,162.6,60.7,1.375,,,53.4,"Halal, Vegan","Traditional breakfast only, Pumpkin curry lover",Local,1.626,22.95871667203757,1318.25,1812.59375,-7.300000000000004,Normal,5
+Badulla,20,Female,158.3,62.4,1.725,,Sulfites,62.1,,"Jackfruit curry lover, Rice and curry daily",Local,1.5830000000000002,24.90134239784762,1352.375,2332.846875,-0.29999999999999716,Normal,5
+Anuradhapura,34,Female,152.2,62.9,1.55,,,58.7,,Vegetable heavy,Local,1.5219999999999998,27.15322013879656,1249.25,1936.3375,-4.199999999999996,Overweight,6
+Puttalam,54,Male,162.1,62.3,1.375,Thyroid Disorder,Sulfites,56.4,,"Lentils and pulses, Hoppers and string hoppers",Mixed,1.621,23.709479339072573,1371.125,1885.296875,-5.899999999999999,Normal,5
+Nuwara Eliya,21,Female,153.3,43.1,1.55,,Fish,44.2,Vegan,"Seafood focused, Coconut based dishes, Durian when available",Mediterranean,1.5330000000000001,18.339730963380532,1123.125,1740.84375,1.1000000000000014,Underweight,4
+Polonnaruwa,19,Female,159.1,53.0,1.725,,Shellfish,53.3,Dairy-free,"Traditional breakfast only, Seafood focused",Local,1.591,20.938015178875833,1268.375,2187.946875,0.29999999999999716,Normal,5
+Trincomalee,23,Female,149.9,44.6,1.725,,,41.6,,"Mango in season, Lentils and pulses, Sri Lankan traditional",Local,1.499,19.848678304994074,1106.875,1909.359375,-3.0,Normal,5
+Ampara,30,Male,170.9,73.8,1.55,,,62.9,,"Spicy food lover, Durian when available",Local,1.709,25.268079601983235,1661.125,2574.74375,-10.899999999999999,Overweight,6
+Puttalam,32,Male,160.5,51.4,1.55,,,44.4,,"Durian when available, Seafood focused",Local,1.605,19.95322250366359,1362.125,2111.2937500000003,-7.0,Normal,5
+Matara,22,Male,169.2,73.9,1.375,,,77.5,,"Sri Lankan traditional, Less oil preferred, Rice and curry daily",Local,1.692,25.81331142520218,1691.5,2325.8125,3.5999999999999943,Overweight,6
+Puttalam,34,Male,165.2,59.0,1.375,,,55.9,,Gotu kola preferred,Local,1.652,21.61881701833276,1457.5,2004.0625,-3.1000000000000014,Normal,5
+Anuradhapura,63,Male,169.3,59.8,1.375,"Hypertension, Anemia",,54.5,"Low-sodium <2300mg/day, Vegetarian","Durian when available, Bitter gourd preferred",Local,1.693,20.863504880420365,1346.125,1850.921875,-5.299999999999997,Normal,5
+Anuradhapura,25,Female,146.7,42.4,1.725,IBS,,36.3,,"Rice and curry daily, Bitter gourd preferred",Local,1.4669999999999999,19.70178742607764,1054.875,1819.6593750000002,-6.100000000000001,Normal,5
+Ampara,52,Male,169.7,56.8,1.375,,,50.6,,Sri Lankan traditional,Local,1.6969999999999998,19.723530275792598,1373.625,1888.734375,-6.199999999999996,Normal,5
+Kandy,42,Female,153.3,46.2,1.55,"High Cholesterol, Hypertension",Soy,40.3,Low-sodium <2300mg/day,Mango in season,Local,1.5330000000000001,19.658829942185164,1049.125,1626.14375,-5.900000000000006,Normal,5
+Jaffna,42,Female,159.5,53.3,1.55,High Cholesterol,Dairy/Lactose,57.5,Vegan,"Bitter gourd preferred, Gotu kola preferred",Local,1.595,20.95105197472509,1158.875,1796.2562500000001,4.200000000000003,Normal,5
+Matara,35,Male,154.1,65.2,1.375,,,65.6,,"Durian when available, Traditional breakfast only",Local,1.541,27.45631939616311,1445.125,1987.046875,0.3999999999999915,Overweight,6
+Anuradhapura,39,Female,152.8,48.9,1.725,Asthma,,45.5,Vegan,"Lentils and pulses, Durian when available",Mixed,1.528,20.944121597543926,1088.0,1876.8000000000002,-3.3999999999999986,Normal,5
+Hambantota,29,Male,166.5,59.9,1.725,,,56.2,,"Coconut emphasis, Spicy food lover",Local,1.665,21.60719277836395,1499.625,2586.853125,-3.6999999999999957,Normal,5
+Vavuniya,39,Female,160.4,54.8,1.55,Diabetes,,54.2,Low-carb <100g/day,"Durian when available, Sri Lankan traditional, Lentils and pulses",Local,1.604,21.299618783465274,1194.5,1851.4750000000001,-0.5999999999999943,Normal,5
+Matara,32,Female,155.9,56.2,1.55,,,48.1,,"Coconut based dishes, Less oil preferred",Mediterranean,1.5590000000000002,23.122994995640777,1215.375,1883.83125,-8.100000000000001,Normal,5
+Hambantota,29,Female,157.4,53.3,1.375,"Asthma, Diabetes, IBS",,55.4,Low-carb <100g/day,"Coconut emphasis, Spicy food lover, Mango in season",Local,1.574,21.513831011884673,1210.75,1664.78125,2.1000000000000014,Normal,5
+Kegalle,60,Male,166.0,68.3,1.2,"Anemia, Arthritis",Shellfish,60.3,Vegan,"Spicy food lover, Vegetable heavy",Local,1.66,24.785890550152416,1425.5,1710.6,-8.0,Normal,5
+Matara,35,Male,169.5,70.4,1.55,,,62.9,,"Spicy food lover, Less oil preferred, Bitter gourd preferred",Mediterranean,1.695,24.503789559784547,1593.375,2469.7312500000003,-7.500000000000007,Normal,5
+Galle,20,Male,173.3,64.4,1.9,,,58.0,,Jackfruit curry lover,Local,1.733,21.443157817978886,1632.125,3101.0375,-6.400000000000006,Normal,5
+Gampaha,30,Male,162.5,54.7,1.55,,,51.9,Low-FODMAP,Western options sometimes,Local,1.625,20.714792899408284,1417.625,2197.31875,-2.8000000000000043,Normal,5
+Kurunegala,30,Male,163.8,58.9,1.9,,Peanuts,51.2,,"Gotu kola preferred, Durian when available",Local,1.6380000000000001,21.952677630333305,1467.75,2788.725,-7.699999999999996,Normal,5
+Matara,30,Female,151.0,51.0,1.725,,,46.2,,Less oil preferred,Local,1.51,22.367440024560327,1142.75,1971.24375,-4.799999999999997,Normal,5
+Ratnapura,47,Male,164.9,68.7,1.2,,,72.6,Dairy-free,Traditional breakfast only,Local,1.649,25.264774468676645,1487.625,1785.1499999999999,3.8999999999999915,Overweight,6
+Matale,20,Male,160.8,48.9,1.55,,,44.3,,Pumpkin curry lover,Local,1.608,18.911970000742553,1399.0,2168.4500000000003,-4.600000000000001,Normal,5
+Polonnaruwa,52,Female,151.6,53.0,1.375,Hypertension,"Soy, Fish",50.3,Low-sodium <2300mg/day,"Mango in season, Traditional breakfast only, Sri Lankan traditional",Local,1.516,23.06096448785514,1056.5,1452.6875,-2.700000000000003,Normal,5
+Jaffna,36,Female,158.9,64.4,1.2,,,66.0,,"Spicy food lover, Traditional breakfast only",Local,1.589,25.50574849668564,1296.125,1555.35,1.5999999999999943,Overweight,6
+Kurunegala,52,Male,169.7,69.5,1.55,Diabetes,,59.3,Low-carb <100g/day,Pumpkin curry lover,Local,1.6969999999999998,24.133544967739184,1500.625,2325.96875,-10.200000000000003,Normal,5
+Matara,18,Female,152.6,57.9,1.9,,,50.1,Vegan,Mango in season,Local,1.526,24.86391408680297,1281.75,2435.325,-7.799999999999997,Normal,5
+Hambantota,46,Male,167.5,63.9,1.55,Arthritis,,67.8,,"Rice and curry daily, Seafood daily",Local,1.675,22.775673869458675,1460.875,2264.3562500000003,3.8999999999999986,Normal,5
+Hambantota,40,Male,176.1,59.7,1.2,,Shellfish,52.0,Vegetarian,"Seafood focused, Lentils and pulses",Local,1.761,19.251103068858008,1502.625,1803.1499999999999,-7.700000000000003,Normal,5
+Matara,27,Female,148.0,61.0,1.375,,Peanuts,56.0,,Pumpkin curry lover,Mediterranean,1.48,27.848794740686635,1239.0,1703.625,-5.0,Overweight,6
+Colombo,41,Female,155.0,58.3,1.375,,,53.5,,"International fusion, Vegetable heavy",Local,1.55,24.266389177939644,1185.75,1630.40625,-4.799999999999997,Normal,5
+Matale,30,Female,146.7,49.5,1.725,,,44.0,Vegan,Mango in season,Mediterranean,1.4669999999999999,23.000907490350077,1100.875,1899.009375,-5.5,Normal,5
+Matale,41,Male,165.8,62.8,1.725,Diabetes,Dairy/Lactose,56.6,Low-carb <100g/day,"Rice and curry daily, Lentils and pulses",Local,1.6580000000000001,22.844969959592046,1464.25,2525.83125,-6.199999999999996,Normal,5
+Monaragala,21,Female,163.5,54.1,1.725,,,54.7,Low-purine,Gotu kola preferred,Mediterranean,1.635,20.237727838098177,1296.875,2237.109375,0.6000000000000014,Normal,5
+Kalutara,64,Male,165.5,56.2,1.375,"High Cholesterol, Diabetes",,50.8,Low-carb <100g/day,"Vegetable heavy, Western options sometimes, Murunga dishes",Local,1.655,20.51825010724619,1281.375,1761.890625,-5.400000000000006,Normal,5
+Badulla,35,Male,163.9,72.0,1.375,,,63.2,,Spicy food lover,Local,1.639,26.802455849468473,1574.375,2164.765625,-8.799999999999997,Overweight,6
+Batticaloa,32,Male,171.8,62.3,1.375,,"Tree Nuts, Soy, Shellfish",63.3,,"Jackfruit curry lover, Rice and curry daily",Local,1.7180000000000002,21.107739594866917,1541.75,2119.90625,1.0,Normal,5
+Matale,23,Female,155.0,54.3,1.725,,Shellfish,48.9,,"Jackfruit curry lover, Traditional breakfast only, Sri Lankan traditional",Mediterranean,1.55,22.601456815816853,1235.75,2131.6687500000003,-5.399999999999999,Normal,5
+Puttalam,26,Female,149.8,56.6,1.9,,,57.6,,Durian when available,Local,1.4980000000000002,25.222771438910083,1211.25,2301.375,1.0,Overweight,6
+Kurunegala,41,Female,155.3,56.9,1.375,,,52.4,,Rice and curry daily,Local,1.5530000000000002,23.59224963502499,1173.625,1613.734375,-4.5,Normal,5
+Hambantota,24,Female,156.8,56.7,1.55,,Soy,53.5,,"Gotu kola preferred, Jackfruit curry lover, Bitter gourd preferred",Local,1.568,23.061680029154516,1266.0,1962.3,-3.200000000000003,Normal,5
+Mannar,31,Female,159.2,61.9,1.725,,,58.5,,Gotu kola preferred,Local,1.5919999999999999,24.42331001742381,1298.0,2239.05,-3.3999999999999986,Normal,5
+Gampaha,35,Female,161.3,45.3,1.55,Diabetes,Tree Nuts,41.9,Low-carb <100g/day,"Seafood focused, Sri Lankan traditional",Local,1.6130000000000002,17.411230589648806,1125.125,1743.9437500000001,-3.3999999999999986,Underweight,4
+Badulla,40,Male,164.8,73.5,1.2,,Shellfish,74.6,Low-FODMAP,"Durian when available, Jackfruit curry lover, Pumpkin curry lover",Local,1.6480000000000001,27.062812234894896,1570.0,1884.0,1.0999999999999943,Overweight,6
+Anuradhapura,38,Male,174.5,71.3,1.2,,Soy,62.9,,"Durian when available, Spicy food lover, Murunga dishes",Local,1.745,23.415242896199537,1618.625,1942.35,-8.399999999999999,Normal,5
+Hambantota,46,Female,158.4,54.6,1.2,,,47.1,,"Bitter gourd preferred, Traditional breakfast only",Mixed,1.584,21.761172329354146,1145.0,1374.0,-7.5,Normal,5
+Kilinochchi,28,Male,171.8,77.9,1.9,,,73.0,,More vegetarian,Mixed,1.7180000000000002,26.393144694063132,1717.75,3263.725,-4.900000000000006,Overweight,6
+Kilinochchi,19,Male,168.8,56.9,1.55,,,49.8,,"Seafood focused, Coconut based dishes",Local,1.6880000000000002,19.9695087711417,1534.0,2377.7000000000003,-7.100000000000001,Normal,5
+Nuwara Eliya,22,Female,149.9,43.1,1.375,"IBS, Hypertension",,40.2,Low-sodium <2300mg/day,"Vegetable heavy, Coconut based dishes",Local,1.499,19.18112185975885,1096.875,1508.203125,-2.8999999999999986,Normal,5
+Mullaitivu,46,Female,158.4,54.1,1.2,"High Cholesterol, Thyroid Disorder, Arthritis",,57.7,,"Murunga dishes, Rice and curry daily",Local,1.584,21.56189419446995,1140.0,1368.0,3.6000000000000014,Normal,5
+Batticaloa,36,Female,155.2,64.7,1.2,,,67.7,,Vegetable heavy,Local,1.5519999999999998,26.860917738335644,1276.0,1531.2,3.0,Overweight,6
+Anuradhapura,64,Female,147.8,48.4,1.375,,,44.4,Pescatarian,"Coconut based dishes, Pumpkin curry lover",Local,1.4780000000000002,22.1562620737895,926.75,1274.28125,-4.0,Normal,5
+Kilinochchi,38,Female,156.8,55.2,1.375,,,56.2,,"Hoppers and string hoppers, Seafood focused",Local,1.568,22.451582673885877,1181.0,1623.875,1.0,Normal,5
+Matale,26,Male,163.2,69.0,1.725,,Dairy/Lactose,62.4,,Mango in season,Local,1.632,25.90650230680508,1585.0,2734.125,-6.600000000000001,Overweight,6
+Puttalam,43,Male,174.1,75.8,1.55,,,70.9,Vegetarian,"Traditional breakfast only, Hoppers and string hoppers",Mixed,1.7409999999999999,25.00757980403691,1636.125,2535.99375,-4.8999999999999915,Overweight,6
+Gampaha,20,Male,165.1,73.3,1.725,,,74.9,,"Gotu kola preferred, Bitter gourd preferred, Western options sometimes",Local,1.651,26.89117804271111,1669.875,2880.534375,1.6000000000000085,Overweight,6
+Matale,22,Male,163.5,59.7,1.375,,,56.2,,"Traditional breakfast only, Bitter gourd preferred",Local,1.635,22.332575821339393,1513.875,2081.578125,-3.5,Normal,5
+Kilinochchi,35,Other,159.1,59.8,1.375,,,53.2,,Sri Lankan traditional,Local,1.591,23.62440203201462,1289.375,1772.890625,-6.599999999999994,Normal,5
+Kandy,49,Female,160.2,58.8,1.55,Hypertension,,52.9,Low-sodium <2300mg/day,Hoppers and string hoppers,Local,1.6019999999999999,22.91143561185223,1183.25,1834.0375000000001,-5.899999999999999,Normal,5
+Ratnapura,36,Female,158.3,69.5,1.375,,Tree Nuts,60.0,,"Rice and curry daily, Traditional breakfast only, Mango in season",Local,1.5830000000000002,27.73466821555144,1343.375,1847.140625,-9.5,Overweight,6
+Kilinochchi,36,Male,162.8,56.3,1.375,,Nightshades,48.7,,"Traditional breakfast only, Hoppers and string hoppers",Local,1.6280000000000001,21.24220490313856,1405.5,1932.5625,-7.599999999999994,Normal,5
+Hambantota,33,Female,148.5,52.4,1.725,Diabetes,Dairy/Lactose,51.7,Low-carb <100g/day,"Durian when available, Traditional breakfast only",Mediterranean,1.485,23.761747667471568,1126.125,1942.5656250000002,-0.6999999999999957,Normal,5
+Matale,47,Female,162.0,57.9,1.375,,,49.6,,Pumpkin curry lover,Mediterranean,1.62,22.062185642432553,1195.5,1643.8125,-8.299999999999997,Normal,5
+Kandy,40,Male,167.5,53.3,1.2,Arthritis,,49.8,Low-purine,Lentils and pulses,Local,1.675,18.99754956560481,1384.875,1661.85,-3.5,Normal,5
+Hambantota,22,Female,157.1,62.6,1.725,IBS,Peanuts,55.1,,"Pumpkin curry lover, Lentils and pulses",Local,1.571,25.364246380023673,1336.875,2306.109375,-7.5,Overweight,6
+Galle,54,Male,174.9,70.1,1.55,Thyroid Disorder,,60.0,Low-purine,Vegetable heavy,Local,1.749,22.915978124884557,1529.125,2370.14375,-10.099999999999994,Normal,5
+Badulla,31,Male,173.7,68.6,1.55,"Hypertension, PCOS","Soy, Shellfish",59.7,Low-sodium <2300mg/day,"Bitter gourd preferred, Less oil preferred",Local,1.7369999999999999,22.736545417243782,1621.625,2513.51875,-8.899999999999991,Normal,5
+Kurunegala,33,Male,161.1,68.9,1.725,,,63.8,Vegan,Pumpkin curry lover,Local,1.611,26.547775785731325,1535.875,2649.384375,-5.1000000000000085,Overweight,6
+Kandy,48,Male,160.3,67.8,1.55,Diabetes,Dairy/Lactose,68.5,Low-carb <100g/day,"Traditional breakfast only, Murunga dishes",Local,1.6030000000000002,26.385337224457096,1444.875,2239.55625,0.7000000000000028,Overweight,6
+Batticaloa,31,Male,169.5,62.6,1.9,,,62.9,,"Rice and curry daily, Lentils and pulses, Pumpkin curry lover",Local,1.695,21.788881057422053,1535.375,2917.2125,0.29999999999999716,Normal,5
+Gampaha,23,Male,166.7,64.4,1.725,,,58.4,,International fusion,Local,1.6669999999999998,23.174729181338304,1575.875,2718.384375,-6.000000000000007,Normal,5
+Mannar,48,Male,169.2,65.7,1.2,,,67.6,,"Bitter gourd preferred, Vegetable heavy, Pumpkin curry lover",Local,1.692,22.949046828630355,1479.5,1775.3999999999999,1.8999999999999915,Normal,5
+Kurunegala,52,Male,169.1,73.7,1.375,Hypertension,,64.8,"Low-sodium <2300mg/day, Vegan","Gotu kola preferred, Seafood focused, Lentils and pulses",Local,1.6909999999999998,25.77390792245167,1538.875,2115.953125,-8.900000000000006,Overweight,6
+Kegalle,53,Female,147.7,51.5,1.55,,,45.8,,Pumpkin curry lover,Local,1.4769999999999999,23.607295616973236,1012.125,1568.79375,-5.700000000000003,Normal,5
+Ampara,41,Male,177.4,64.8,1.725,,,61.2,,Traditional breakfast only,Local,1.774,20.59054182358481,1556.75,2685.39375,-3.5999999999999943,Normal,5
+Anuradhapura,25,Male,155.3,52.7,1.375,,,49.5,,Pumpkin curry lover,Local,1.5530000000000002,21.85081820326568,1377.625,1894.234375,-3.200000000000003,Normal,5
+Nuwara Eliya,29,Female,158.0,44.0,1.375,,,39.6,,Pumpkin curry lover,Mediterranean,1.58,17.625380547989103,1121.5,1542.0625,-4.399999999999999,Underweight,4
+Nuwara Eliya,31,Male,166.0,67.0,1.55,,,66.3,,Durian when available,Mixed,1.66,24.31412396574249,1557.5,2414.125,-0.7000000000000028,Normal,5
+Colombo,33,Male,164.0,74.1,1.375,,,74.6,,"Spicy food lover, Murunga dishes, Pumpkin curry lover",Mediterranean,1.64,27.55056513979774,1606.0,2208.25,0.5,Overweight,6
+Ratnapura,35,Female,147.5,51.7,1.375,Diabetes,,45.6,Low-carb <100g/day,"Spicy food lover, Coconut based dishes",Local,1.475,23.763286411950588,1102.875,1516.453125,-6.100000000000001,Normal,5
+Anuradhapura,21,Female,149.9,40.7,1.9,,,41.5,,Pumpkin curry lover,Local,1.499,18.113031547382487,1077.875,2047.9624999999999,0.7999999999999972,Underweight,4
+Kalutara,40,Female,152.4,47.1,1.375,,Fish,50.3,Vegetarian,"Vegetable heavy, Mango in season",Local,1.524,20.279207225081116,1062.5,1460.9375,3.1999999999999957,Normal,5
+Kurunegala,49,Female,159.2,54.8,1.2,,,49.3,Vegetarian,"Spicy food lover, Seafood focused",Local,1.5919999999999999,21.621928739173256,1137.0,1364.3999999999999,-5.5,Normal,5
+Vavuniya,44,Female,155.7,52.1,1.55,Hypertension,,54.8,Low-sodium <2300mg/day,Traditional breakfast only,Local,1.557,21.491191705142505,1113.125,1725.34375,2.6999999999999957,Normal,5
+Polonnaruwa,57,Male,168.6,62.8,1.2,"Thyroid Disorder, Hypertension",Eggs,64.8,"Low-sodium <2300mg/day, Vegetarian","Less oil preferred, Mango in season",Local,1.686,22.092481661129476,1401.75,1682.1,2.0,Normal,5
+Kurunegala,43,Female,157.8,49.9,1.2,,Soy,45.1,,Less oil preferred,Mixed,1.578,20.0394846117641,1109.25,1331.1,-4.799999999999997,Normal,5
+Gampaha,53,Female,143.9,46.4,1.2,IBS,,41.3,Vegan,"Less oil preferred, Gotu kola preferred",Mediterranean,1.439,22.407654145585038,937.375,1124.85,-5.100000000000001,Normal,5
+Mullaitivu,32,Male,174.8,64.1,1.9,,,58.7,Low-sodium <2300mg/day,Lentils and pulses,Local,1.7480000000000002,20.978535783294664,1578.5,2999.1499999999996,-5.3999999999999915,Normal,5
+Batticaloa,35,Male,176.4,80.4,1.55,Diabetes,Dairy/Lactose,85.9,Low-carb <100g/day,"Coconut based dishes, Seafood focused",Local,1.764,25.837999598932544,1736.5,2691.5750000000003,5.5,Overweight,6
+Trincomalee,39,Female,153.9,48.0,1.375,,,49.0,Vegetarian,"Durian when available, Less oil preferred",Local,1.5390000000000001,20.2658114494235,1085.875,1493.078125,1.0,Normal,5
+Polonnaruwa,40,Male,169.6,73.0,1.725,,"Peanuts, Fish",67.5,,"Jackfruit curry lover, Rice and curry daily",Mixed,1.696,25.378804734781063,1595.0,2751.375,-5.5,Overweight,6
+Nuwara Eliya,26,Female,162.9,68.8,1.725,,Shellfish,70.6,,Less oil preferred,Local,1.629,25.926641923304622,1415.125,2441.0906250000003,1.7999999999999972,Overweight,6
+Puttalam,42,Male,172.9,63.2,1.55,,,59.2,Vegetarian,Pumpkin curry lover,Local,1.729,21.141076207893047,1507.625,2336.81875,-4.0,Normal,5
+Nuwara Eliya,49,Female,148.0,47.3,1.2,,,40.9,,"Pumpkin curry lover, Spicy food lover",Local,1.48,21.594229364499636,992.0,1190.3999999999999,-6.399999999999999,Normal,5
+Mullaitivu,49,Male,163.1,73.7,1.725,,,62.7,,"Murunga dishes, Mango in season",Local,1.631,27.705090030265087,1516.375,2615.7468750000003,-11.0,Overweight,6
+Monaragala,53,Female,160.9,59.8,1.375,"Diabetes, Thyroid Disorder",,53.3,Low-carb <100g/day,"Seafood focused, Murunga dishes",Local,1.609,23.098782833200907,1177.625,1619.234375,-6.5,Normal,5
+Mannar,36,Female,164.6,62.4,1.2,,"Dairy/Lactose, Soy",66.9,Vegan,"Jackfruit curry lover, Murunga dishes, Lentils and pulses",Local,1.646,23.0316434111045,1311.75,1574.1,4.500000000000007,Normal,5
+Gampaha,28,Female,153.2,48.4,1.375,,,42.4,,"Less oil preferred, Hoppers and string hoppers",Local,1.5319999999999998,20.62185985315873,1140.5,1568.1875,-6.0,Normal,5
+Hambantota,42,Male,172.1,73.5,1.2,,,67.7,,"Gotu kola preferred, Coconut based dishes, Pumpkin curry lover",Local,1.7209999999999999,24.815646754839307,1605.625,1926.75,-5.799999999999997,Normal,5
+Vavuniya,50,Female,157.7,52.7,1.2,"High Cholesterol, Diabetes, Arthritis",,47.9,Low-carb <100g/day,Coconut based dishes,Local,1.577,21.190793947072876,1101.625,1321.95,-4.800000000000004,Normal,5
+Matara,54,Female,149.8,54.0,1.55,,,50.6,,Mango in season,Local,1.4980000000000002,24.064128227935413,1045.25,1620.1375,-3.3999999999999986,Normal,5
+Jaffna,46,Male,163.8,72.8,1.375,Arthritis,,74.8,,"Lentils and pulses, Vegetable heavy",Local,1.6380000000000001,27.133360466693798,1526.75,2099.28125,2.0,Overweight,6
+Monaragala,23,Other,164.9,72.2,1.725,,"Soy, Sulfites",77.8,,"Traditional breakfast only, Mango in season",Mixed,1.649,26.5519172727577,1509.625,2604.103125,5.599999999999994,Overweight,6
+Kegalle,65,Female,155.6,43.8,1.375,Diabetes,Tree Nuts,40.2,Low-carb <100g/day,Durian when available,Local,1.556,18.090681399144863,924.5,1271.1875,-3.5999999999999943,Underweight,4
+Kegalle,26,Male,172.3,66.6,1.9,,,59.9,Low-FODMAP,Bitter gourd preferred,Local,1.723,22.433842900446617,1617.875,3073.9624999999996,-6.699999999999996,Normal,5
+Mannar,23,Male,179.1,66.0,1.725,,,70.5,,"Seafood focused, Gotu kola preferred, More vegetarian",Local,1.791,20.575612101078633,1669.375,2879.671875,4.5,Normal,5
+Ampara,64,Other,173.4,73.0,1.55,Arthritis,,68.0,,Traditional breakfast only,Local,1.734,24.278657795976795,1365.75,2116.9125,-5.0,Normal,5
+Jaffna,43,Male,167.9,65.2,1.55,Hypertension,"Dairy/Lactose, Peanuts",70.3,Low-sodium <2300mg/day,Mango in season,Local,1.679,23.128432683313225,1491.375,2311.63125,5.099999999999994,Normal,5
+Hambantota,43,Other,163.4,53.6,1.375,,Dairy/Lactose,50.6,,"Rice and curry daily, Traditional breakfast only, Seafood daily",Local,1.6340000000000001,20.075237194920064,1214.25,1669.59375,-3.0,Normal,5
+Kalutara,38,Female,152.5,47.8,1.375,,,42.1,,Seafood focused,Local,1.525,20.55361461972588,1080.125,1485.171875,-5.699999999999996,Normal,5
+Trincomalee,33,Male,170.1,61.2,1.725,,,53.9,,"Jackfruit curry lover, Bitter gourd preferred",Local,1.7009999999999998,21.151579058692526,1515.125,2613.5906250000003,-7.300000000000004,Normal,5
+Kalutara,20,Female,150.7,49.1,1.9,,,52.2,Vegan,"Seafood focused, Less oil preferred, Traditional breakfast only",Local,1.507,21.619965046989304,1171.875,2226.5625,3.1000000000000014,Normal,5
+Matale,62,Female,153.9,48.9,1.2,,,45.9,Vegetarian,"Jackfruit curry lover, Coconut based dishes",Local,1.5390000000000001,20.64579541410019,979.875,1175.85,-3.0,Normal,5
+Galle,31,Male,173.1,73.4,1.725,,,73.4,Low-purine,"Coconut based dishes, Traditional breakfast only",Local,1.7309999999999999,24.496380776548627,1665.875,2873.634375,0.0,Normal,5
+Kegalle,37,Female,163.6,53.6,1.55,Hypertension,,56.3,Low-sodium <2300mg/day,"Hoppers and string hoppers, Jackfruit curry lover",Local,1.636,20.026183487664472,1212.5,1879.375,2.6999999999999957,Normal,5
+Trincomalee,23,Female,153.7,49.7,1.375,,,42.4,,Bitter gourd preferred,Local,1.537,21.038203599860992,1181.625,1624.734375,-7.300000000000004,Normal,5
+Kalutara,53,Female,153.1,54.1,1.375,,Dairy/Lactose,54.9,,Coconut based dishes,Local,1.531,23.080588798192466,1071.875,1473.828125,0.7999999999999972,Normal,5
+Vavuniya,24,Female,153.6,60.2,1.55,,,54.3,,"Spicy food lover, Seafood focused",Mediterranean,1.536,25.51608615451389,1281.0,1985.55,-5.900000000000006,Overweight,6
+Kandy,25,Female,153.1,45.8,1.375,Osteoporosis,,42.8,Vegetarian,"Durian when available, Mango in season",Mediterranean,1.531,19.539574250595468,1128.875,1552.203125,-3.0,Normal,5
+Galle,33,Female,154.7,61.1,1.725,,Sulfites,56.1,,Seafood daily,Local,1.547,25.530574220638485,1251.875,2159.484375,-5.0,Overweight,6
+Kegalle,28,Female,160.3,62.5,1.375,,,55.8,,"Murunga dishes, Spicy food lover",Local,1.6030000000000002,24.322766615465614,1325.875,1823.078125,-6.700000000000003,Normal,5
+Vavuniya,41,Female,154.6,52.8,1.375,,,52.5,,"Rice and curry daily, Less oil preferred",Local,1.546,22.090978011109083,1128.25,1551.34375,-0.29999999999999716,Normal,5
+Polonnaruwa,27,Female,158.9,55.4,1.375,,,56.3,,"Hoppers and string hoppers, Murunga dishes",Local,1.589,21.94128053907429,1251.125,1720.296875,0.8999999999999986,Normal,5
+Kilinochchi,43,Male,164.5,63.8,1.375,,,57.4,,"Jaffna cuisine specific, Coconut based dishes, Traditional breakfast only",Local,1.645,23.577017950684123,1456.125,2002.171875,-6.399999999999999,Normal,5
+Jaffna,62,Female,144.6,41.7,1.2,High Cholesterol,Soy,38.4,,"Spicy food lover, Durian when available",Local,1.446,19.943412360898286,849.75,1019.6999999999999,-3.3000000000000043,Normal,5
+Kegalle,36,Female,151.8,50.4,1.55,,,44.7,,"Rice and curry daily, Coconut based dishes, Vegetable heavy",Local,1.518,21.871924260650843,1111.75,1723.2125,-5.699999999999996,Normal,5
+Matara,30,Female,146.6,56.1,1.725,,Tree Nuts,52.0,,Traditional breakfast only,Local,1.466,26.103270307041463,1166.25,2011.78125,-4.100000000000001,Overweight,6
+Kurunegala,62,Female,157.6,60.0,1.375,"Kidney Disease, Asthma","Dairy/Lactose, Peanuts",59.8,Low-sodium <2300mg/day,"Gotu kola preferred, Murunga dishes",Mixed,1.5759999999999998,24.156767760055665,1114.0,1531.75,-0.20000000000000284,Normal,5
+Ratnapura,49,Male,165.6,56.8,1.725,,"Tree Nuts, Peanuts",59.9,,Bitter gourd preferred,Local,1.656,20.712268664379565,1363.0,2351.175,3.1000000000000014,Normal,5
+Kandy,30,Male,166.8,71.3,1.55,,Dairy/Lactose,72.5,,"Sri Lankan traditional, Rice and curry daily, Bitter gourd preferred",Mediterranean,1.6680000000000001,25.626980430044448,1610.5,2496.275,1.2000000000000028,Overweight,6
+Gampaha,39,Male,160.6,66.8,1.725,,,60.5,Dairy-free,"Traditional breakfast only, Gotu kola preferred, Less oil preferred",Local,1.6059999999999999,25.899142226612845,1481.75,2556.01875,-6.299999999999997,Overweight,6
+Nuwara Eliya,61,Female,155.5,55.9,1.55,Heart Disease,,56.6,Low-sodium <2300mg/day,"Lentils and pulses, Bitter gourd preferred",Local,1.555,23.118040549622112,1064.875,1650.55625,0.7000000000000028,Normal,5
+Kurunegala,53,Female,155.2,49.6,1.2,PCOS,Soy,48.9,,"Pumpkin curry lover, Mango in season, Bitter gourd preferred",Local,1.5519999999999998,20.591986396003833,1040.0,1248.0,-0.7000000000000028,Normal,5
+Hambantota,35,Female,156.0,49.6,1.2,,,53.4,,"Gotu kola preferred, Pumpkin curry lover",Local,1.56,20.381328073635764,1135.0,1362.0,3.799999999999997,Normal,5
+Monaragala,46,Male,162.8,61.5,1.725,"Kidney Disease, High Cholesterol",,57.7,Low-sodium <2300mg/day,Spicy food lover,Local,1.6280000000000001,23.204184752096296,1407.5,2427.9375,-3.799999999999997,Normal,5
+Ampara,32,Female,141.8,34.9,1.725,,,32.1,,"Lentils and pulses, Pumpkin curry lover, Rice and curry daily",Local,1.4180000000000001,17.356932129919365,914.25,1577.0812500000002,-2.799999999999997,Underweight,4
+Matale,52,Female,151.7,41.1,1.2,Heart Disease,,41.3,Low-sodium <2300mg/day,Spicy food lover,Local,1.517,17.859556100950382,938.125,1125.75,0.19999999999999574,Underweight,4
+Vavuniya,32,Female,162.1,59.9,1.375,Anemia,,52.7,,Seafood focused,Local,1.621,22.79611255875517,1291.125,1775.296875,-7.199999999999996,Normal,5
+Hambantota,52,Male,171.4,61.1,1.725,"Diabetes, Heart Disease, Arthritis",,62.9,Low-carb <100g/day,Spicy food lover,Local,1.714,20.79790427926241,1427.25,2462.00625,1.7999999999999972,Normal,5
+Batticaloa,33,Male,161.2,66.0,1.55,,,62.1,,Durian when available,Mediterranean,1.6119999999999999,25.3988387343066,1507.5,2336.625,-3.8999999999999986,Overweight,6
+Puttalam,55,Male,166.0,69.8,1.2,Hypertension,"Sulfites, Peanuts, Fish",64.1,"Low-sodium <2300mg/day, Vegan","Mango in season, Pumpkin curry lover, Hoppers and string hoppers",Mixed,1.66,25.33023660908695,1465.5,1758.6,-5.700000000000003,Overweight,6
+Anuradhapura,41,Other,152.8,46.6,1.55,,,44.0,,Gotu kola preferred,Local,1.528,19.959019763712618,1088.0,1686.4,-2.6000000000000014,Normal,5
+Anuradhapura,32,Male,167.6,72.7,1.375,Asthma,,75.5,,"Seafood focused, Lentils and pulses, Hoppers and string hoppers",Local,1.676,25.8813176047072,1619.5,2226.8125,2.799999999999997,Overweight,6
+Mannar,43,Male,163.4,61.8,1.375,,Peanuts,52.7,,"Mango in season, Durian when available",Local,1.6340000000000001,23.14644885533694,1429.25,1965.21875,-9.099999999999994,Normal,5
+Trincomalee,25,Male,172.7,60.3,1.375,,,55.5,Vegan,"Durian when available, Bitter gourd preferred",Local,1.7269999999999999,20.217741386588365,1562.375,2148.265625,-4.799999999999997,Normal,5
+Batticaloa,45,Female,150.9,52.7,1.55,"Diabetes, Heart Disease",,56.0,Low-carb <100g/day,"Spicy food lover, Hoppers and string hoppers",Mixed,1.5090000000000001,23.143665069446364,1084.125,1680.39375,3.299999999999997,Normal,5
+Nuwara Eliya,27,Female,147.0,38.9,1.725,High Cholesterol,,33.6,,"Lentils and pulses, Murunga dishes",Mediterranean,1.47,18.00175852653987,1011.75,1745.2687500000002,-5.299999999999997,Underweight,4
+Kalutara,18,Male,170.7,55.1,1.375,,Soy,54.2,,"Jackfruit curry lover, Vegetable heavy",Mixed,1.7069999999999999,18.909696418723144,1532.875,2107.703125,-0.8999999999999986,Normal,5
+Ratnapura,53,Male,171.7,69.5,1.2,Arthritis,,69.8,,"Mango in season, Durian when available",Local,1.7169999999999999,23.57459357570277,1508.125,1809.75,0.29999999999999716,Normal,5
+Gampaha,42,Female,151.3,56.2,1.2,,,50.9,,"Pumpkin curry lover, Less oil preferred",Local,1.5130000000000001,24.550393614451355,1136.625,1363.95,-5.300000000000004,Normal,5
+Puttalam,61,Female,158.9,56.0,1.2,"Thyroid Disorder, Hypertension",,57.8,Low-sodium <2300mg/day,Mango in season,Local,1.589,22.17891173624838,1087.125,1304.55,1.7999999999999972,Normal,5
+Galle,33,Male,150.5,57.0,1.55,IBS,,49.4,Vegetarian,Jackfruit curry lover,Local,1.505,25.165285151378026,1350.625,2093.46875,-7.600000000000001,Overweight,6
+Kandy,43,Male,164.0,71.4,1.375,Asthma,,71.2,,Jackfruit curry lover,Local,1.64,26.546698393813212,1529.0,2102.375,-0.20000000000000284,Overweight,6
+Anuradhapura,47,Female,157.3,62.5,1.725,High Cholesterol,,66.2,,"Pumpkin curry lover, Bitter gourd preferred, Murunga dishes",Local,1.5730000000000002,25.259373349299945,1212.125,2090.915625,3.700000000000003,Overweight,6
+Matara,53,Male,163.7,63.8,1.55,"High Cholesterol, Hypertension",,58.0,Low-sodium <2300mg/day,"Lentils and pulses, Sri Lankan traditional, Pumpkin curry lover",Local,1.6369999999999998,23.808022258634985,1401.125,2171.74375,-5.799999999999997,Normal,5
+Colombo,54,Female,156.8,52.1,1.55,,,55.1,,"Traditional breakfast only, Bitter gourd preferred",Local,1.568,21.190714806330693,1070.0,1658.5,3.0,Normal,5
+Badulla,50,Female,153.2,64.2,1.55,Thyroid Disorder,,57.0,,"Murunga dishes, Coconut based dishes, Pumpkin curry lover",Local,1.5319999999999998,27.353789309355175,1188.5,1842.175,-7.200000000000003,Overweight,6
+Gampaha,42,Female,154.8,52.6,1.2,,,53.7,,Traditional breakfast only,Mediterranean,1.548,21.95047039106891,1122.5,1347.0,1.1000000000000014,Normal,5
+Trincomalee,18,Female,154.6,53.9,1.725,,,51.2,,"Less oil preferred, Lentils and pulses",Local,1.546,22.551206719673857,1254.25,2163.58125,-2.6999999999999957,Normal,5
+Badulla,55,Female,153.2,48.4,1.55,Arthritis,,45.7,,"Lentils and pulses, Murunga dishes",Local,1.5319999999999998,20.62185985315873,1005.5,1558.525,-2.6999999999999957,Normal,5
+Trincomalee,50,Female,144.0,41.3,1.55,Asthma,,35.2,,"Pumpkin curry lover, Mango in season",Local,1.44,19.9170524691358,902.0,1398.1000000000001,-6.099999999999994,Normal,5
+Nuwara Eliya,61,Female,162.0,63.8,1.375,Hypertension,Peanuts,68.7,Low-sodium <2300mg/day,Vegetable heavy,Local,1.62,24.31031854900167,1184.5,1628.6875,4.900000000000006,Normal,5
+Ampara,23,Male,173.6,68.5,1.55,,,67.5,Low-FODMAP,"Pumpkin curry lover, Seafood focused",Mixed,1.736,22.729565291256982,1660.0,2573.0,-1.0,Normal,5
+Kilinochchi,24,Male,171.4,58.6,1.725,,Tree Nuts,52.0,,"Jaffna cuisine specific, Gotu kola preferred",Local,1.714,19.946926199096193,1542.25,2660.3812500000004,-6.600000000000001,Normal,5
+Anuradhapura,36,Female,146.7,46.4,1.2,,,47.9,,"Gotu kola preferred, Hoppers and string hoppers",Local,1.4669999999999999,21.560446617217043,1039.875,1247.85,1.5,Normal,5
+Gampaha,36,Male,167.6,66.1,1.375,"High Cholesterol, Anemia, PCOS",,56.5,Vegan,Rice and curry daily,Local,1.676,23.53170692807628,1533.5,2108.5625,-9.599999999999994,Normal,5
+Kandy,32,Female,154.4,68.9,1.375,Anemia,,58.9,,"Gotu kola preferred, Mango in season",Local,1.544,28.901782598190554,1333.0,1832.875,-10.000000000000007,Overweight,6
+Polonnaruwa,26,Male,175.8,65.5,1.725,,Peanuts,60.9,,"Less oil preferred, Bitter gourd preferred, Pumpkin curry lover",Local,1.758,21.193542667293087,1628.75,2809.59375,-4.600000000000001,Normal,5
+Gampaha,25,Other,154.7,45.8,1.375,,Dairy/Lactose,45.3,,International fusion,Local,1.547,19.13748444034767,1171.875,1611.328125,-0.5,Normal,5
+Jaffna,19,Female,152.1,36.7,1.55,,,36.9,,Hoppers and string hoppers,Local,1.521,15.863814983827126,1061.625,1645.51875,0.19999999999999574,Underweight,4
+Batticaloa,61,Male,163.9,61.7,1.375,Arthritis,,60.7,Low-FODMAP,Murunga dishes,Local,1.639,22.968215637669513,1341.375,1844.390625,-1.0,Normal,5
+Mannar,26,Male,164.3,58.3,1.725,,,62.3,,Mango in season,Asian fusion,1.643,21.596999980366363,1484.875,2561.409375,4.0,Normal,5
+Gampaha,35,Male,170.7,75.6,1.725,,,66.8,,"Gotu kola preferred, Seafood focused",Mediterranean,1.7069999999999999,25.94506441479981,1652.875,2851.2093750000004,-8.799999999999997,Overweight,6
+Matale,35,Female,160.9,49.0,1.55,"Thyroid Disorder, PCOS",,44.5,,"Hoppers and string hoppers, Bitter gourd preferred, Mango in season",Asian fusion,1.609,18.927096301452252,1159.625,1797.41875,-4.5,Normal,5
+Hambantota,25,Female,153.5,54.0,1.375,,,49.2,,"Less oil preferred, Bitter gourd preferred, Gotu kola preferred",Mixed,1.535,22.91801504525247,1213.375,1668.390625,-4.799999999999997,Normal,5
+Galle,30,Male,166.0,61.6,1.375,,,64.6,,"Durian when available, Less oil preferred, Gotu kola preferred",Mediterranean,1.66,22.35447815357817,1508.5,2074.1875,2.999999999999993,Normal,5
+Anuradhapura,27,Female,153.1,46.2,1.375,,,43.3,,Bitter gourd preferred,Local,1.531,19.71022555409412,1122.875,1543.953125,-2.9000000000000057,Normal,5
+Badulla,18,Male,165.0,67.5,1.55,,,61.5,,"Hoppers and string hoppers, Sri Lankan traditional",Local,1.65,24.79338842975207,1621.25,2512.9375,-6.0,Normal,5
+Kilinochchi,37,Male,165.1,65.1,1.2,,,59.1,,Rice and curry daily,Local,1.651,23.88288800246239,1502.875,1803.45,-5.999999999999993,Normal,5
+Jaffna,44,Female,155.1,56.0,1.2,,Peanuts,49.4,Halal,"Rice and curry daily, Bitter gourd preferred",Local,1.551,23.279005953190076,1148.375,1378.05,-6.600000000000001,Normal,5
+Galle,39,Female,151.0,58.0,1.725,,MSG,52.7,,"Rice and curry daily, Mango in season",Local,1.51,25.437480812245077,1167.75,2014.36875,-5.299999999999997,Overweight,6
+Colombo,39,Male,168.6,75.6,1.55,,,65.6,Vegetarian,"Seafood focused, Traditional breakfast only",Local,1.686,26.595407859576245,1619.75,2510.6125,-10.0,Overweight,6
+Polonnaruwa,41,Male,170.9,74.2,1.55,,,70.3,,Seafood focused,Local,1.709,25.405033962969597,1610.125,2495.69375,-3.9000000000000057,Overweight,6
+Kandy,29,Male,167.7,77.3,1.9,,,76.0,Low-sodium <2300mg/day,Murunga dishes,Local,1.6769999999999998,27.48611560027295,1681.125,3194.1375,-1.2999999999999972,Overweight,6
+Kilinochchi,39,Female,155.5,50.1,1.375,PCOS,Dairy/Lactose,45.1,,"Gotu kola preferred, Vegetable heavy",Local,1.555,20.719388757353627,1116.875,1535.703125,-5.0,Normal,5
+Kegalle,54,Male,161.8,62.4,1.725,Thyroid Disorder,,58.0,,Coconut based dishes,Local,1.618,23.835680485758942,1370.25,2363.68125,-4.399999999999999,Normal,5
+Vavuniya,41,Male,175.6,78.3,1.2,Hypertension,,71.5,Low-sodium <2300mg/day,Sri Lankan traditional,Local,1.756,25.39292552446282,1680.5,2016.6,-6.799999999999997,Overweight,6
+Matara,27,Male,177.0,78.2,1.725,,,73.7,Low-carb <100g/day,"Spicy food lover, Traditional breakfast only",Mediterranean,1.77,24.96089884771298,1758.25,3032.9812500000003,-4.5,Normal,5
+Kegalle,40,Male,164.4,64.7,1.55,,Shellfish,55.0,,"Sri Lankan traditional, Mango in season",Local,1.6440000000000001,23.93870507515347,1479.5,2293.225,-9.700000000000003,Normal,5
+Kegalle,62,Male,165.8,63.4,1.375,,Soy,54.3,,"Sri Lankan traditional, Lentils and pulses, Gotu kola preferred",Local,1.6580000000000001,23.06323400379197,1365.25,1877.21875,-9.100000000000001,Normal,5
+Matale,26,Female,152.5,44.9,1.55,,,41.3,,Seafood focused,Local,1.525,19.306638000537493,1111.125,1722.24375,-3.6000000000000014,Normal,5
+Kilinochchi,45,Female,150.5,54.0,1.2,Hypertension,,49.7,Low-sodium <2300mg/day,"Vegetable heavy, Rice and curry daily",Local,1.505,23.840796459200234,1094.625,1313.55,-4.299999999999997,Normal,5
+Anuradhapura,38,Male,172.0,61.1,1.375,,,58.0,,Jackfruit curry lover,Local,1.72,20.653055705786915,1501.0,2063.875,-3.1000000000000014,Normal,5
+Mullaitivu,37,Male,170.4,69.3,1.375,,,61.8,,"Pumpkin curry lover, Spicy food lover",Local,1.704,23.86679230311446,1578.0,2169.75,-7.5,Normal,5
+Matale,32,Female,155.1,58.0,1.55,,Dairy/Lactose,62.1,,"Vegetable heavy, Bitter gourd preferred, Jackfruit curry lover",Local,1.551,24.110399022946865,1228.375,1903.98125,4.100000000000001,Normal,5
+Anuradhapura,53,Male,161.8,51.8,1.725,"Asthma, Thyroid Disorder",Sulfites,55.2,"Gluten-free, Vegetarian","Hoppers and string hoppers, Bitter gourd preferred",Local,1.618,19.786670659652454,1269.25,2189.45625,3.4000000000000057,Normal,5
+Hambantota,26,Male,175.3,78.6,1.55,,,74.6,Low-sodium <2300mg/day,"Mango in season, Pumpkin curry lover",Local,1.7530000000000001,25.57753654480022,1756.625,2722.76875,-4.0,Overweight,6
+Kurunegala,43,Male,171.9,53.1,1.2,Hypertension,Dairy/Lactose,48.5,Low-sodium <2300mg/day,Coconut based dishes,Local,1.719,17.969780311821374,1395.375,1674.45,-4.600000000000001,Underweight,4
+Gampaha,54,Female,152.0,38.8,1.2,,,40.1,"Dairy-free, Vegetarian",Coconut based dishes,Local,1.52,16.793628808864266,907.0,1088.3999999999999,1.3000000000000043,Underweight,4
+Kalutara,27,Female,156.5,47.9,1.55,,Tree Nuts,42.9,,Lentils and pulses,Local,1.565,19.557206871561412,1161.125,1799.74375,-5.0,Normal,5
+Colombo,31,Male,168.0,71.0,1.55,,"Soy, Fish",60.4,,"Western options sometimes, Vegetable heavy, Spicy food lover",Asian fusion,1.68,25.15589569160998,1610.0,2495.5,-10.600000000000001,Overweight,6
+Anuradhapura,32,Female,162.6,54.9,1.725,,"Fish, Eggs",48.9,,Sri Lankan traditional,Local,1.626,20.76496779727945,1244.25,2146.33125,-6.0,Normal,5
+Anuradhapura,47,Male,166.2,52.6,1.375,Diabetes,"Dairy/Lactose, Sulfites",54.5,Low-carb <100g/day,"Durian when available, Bitter gourd preferred",Local,1.662,19.04248864329147,1334.75,1835.28125,1.8999999999999986,Normal,5
+Jaffna,49,Female,153.2,61.9,1.55,Arthritis,,56.8,Vegan,Coconut based dishes,Local,1.5319999999999998,26.373824894845566,1170.5,1814.275,-5.100000000000001,Overweight,6
+Matale,58,Male,155.7,47.5,1.375,"Diabetes, Hypertension",Fish,43.8,Low-carb <100g/day,Lentils and pulses,Local,1.557,19.593696852097292,1163.125,1599.296875,-3.700000000000003,Normal,5
+Nuwara Eliya,42,Female,154.2,51.0,1.2,,,51.2,,Pumpkin curry lover,Local,1.5419999999999998,21.448722413157913,1102.75,1323.3,0.20000000000000284,Normal,5
+Jaffna,35,Female,151.0,53.0,1.725,"Asthma, Thyroid Disorder",,48.3,,More vegetarian,Local,1.51,23.244594535327398,1137.75,1962.61875,-4.700000000000003,Normal,5
+Gampaha,57,Male,162.5,65.7,1.375,Arthritis,,56.3,,Lentils and pulses,Local,1.625,24.880473372781065,1392.625,1914.859375,-9.400000000000006,Normal,5
+Badulla,20,Male,158.3,56.8,1.725,,,49.6,,Gotu kola preferred,Local,1.5830000000000002,22.66660654163053,1462.375,2522.596875,-7.199999999999996,Normal,5
+Galle,48,Female,154.9,63.5,1.375,Heart Disease,,56.3,Low-sodium <2300mg/day,Seafood focused,Local,1.5490000000000002,26.46493854091083,1202.125,1652.921875,-7.200000000000003,Overweight,6
+Galle,62,Female,157.1,57.9,1.375,High Cholesterol,Peanuts,52.1,Low-purine,Rice and curry daily,Local,1.571,23.45990200324873,1089.875,1498.578125,-5.799999999999997,Normal,5
+Kegalle,32,Male,169.5,66.4,1.375,Diabetes,Eggs,68.8,Low-carb <100g/day,"Rice and curry daily, Jackfruit curry lover",Local,1.695,23.111528789342245,1568.375,2156.515625,2.3999999999999915,Normal,5
+Colombo,34,Other,162.0,46.7,1.55,,,47.3,,Rice and curry daily,Asian fusion,1.62,17.79454351470812,1181.5,1831.325,0.5999999999999943,Underweight,4
+Kilinochchi,46,Male,163.9,54.2,1.55,,Soy,48.1,,"Coconut based dishes, Sri Lankan traditional",Asian fusion,1.639,20.17629315334988,1341.375,2079.13125,-6.100000000000001,Normal,5
+Kilinochchi,23,Female,163.0,58.8,1.55,,,63.3,,"Jackfruit curry lover, Murunga dishes",Local,1.63,22.131054988896835,1330.75,2062.6625,4.5,Normal,5
+Galle,54,Female,156.7,44.8,1.55,,,38.5,,"Less oil preferred, Coconut based dishes",Local,1.567,18.24483840082362,996.375,1544.3812500000001,-6.299999999999997,Underweight,4
+Badulla,37,Male,166.2,65.5,1.725,,Eggs,67.3,,Hoppers and string hoppers,Mediterranean,1.662,23.712604679383865,1513.75,2611.21875,1.7999999999999972,Normal,5
+Puttalam,55,Male,158.2,72.5,1.55,,,67.0,Vegan,"Coconut based dishes, Jackfruit curry lover",Local,1.5819999999999999,28.968435992142965,1443.75,2237.8125,-5.5,Overweight,6
+Matale,52,Female,155.7,63.0,1.375,IBS,,58.5,,"Seafood focused, Traditional breakfast only",Local,1.557,25.98742950909746,1182.125,1625.421875,-4.5,Overweight,6
+Ampara,38,Female,159.5,65.7,1.55,,"Soy, Peanuts, Legumes",57.0,,Hoppers and string hoppers,Local,1.595,25.825217912559822,1302.875,2019.45625,-8.700000000000003,Overweight,6
+Monaragala,29,Female,164.5,59.0,1.55,,,51.0,,Mango in season,Asian fusion,1.645,21.80319841834425,1312.125,2033.79375,-8.0,Normal,5
+Kegalle,27,Female,153.4,55.3,1.9,,Dairy/Lactose,55.8,,Mango in season,Local,1.534,23.500354417641667,1215.75,2309.9249999999997,0.5,Normal,5
+Matale,29,Female,163.0,59.8,1.725,,"Soy, Fish",64.5,Vegan,"Seafood focused, Murunga dishes",Local,1.63,22.507433475102562,1310.75,2261.0437500000003,4.700000000000003,Normal,5
+Kandy,33,Male,164.0,62.9,1.725,,,56.8,,"Pumpkin curry lover, Lentils and pulses",Local,1.64,23.386377156454493,1494.0,2577.15,-6.100000000000001,Normal,5
+Kandy,25,Female,158.0,53.9,1.9,,,48.0,,"Traditional breakfast only, Seafood focused",Local,1.58,21.59109117128665,1240.5,2356.95,-5.899999999999999,Normal,5
+Kalutara,54,Male,166.3,69.6,1.375,Arthritis,,60.9,,Vegetable heavy,Local,1.663,25.166611283247676,1470.375,2021.765625,-8.699999999999996,Overweight,6
+Batticaloa,47,Male,159.2,52.7,1.55,Hypertension,,44.9,Low-sodium <2300mg/day,Rice and curry daily,Mixed,1.5919999999999999,20.793351178000563,1292.0,2002.6000000000001,-7.800000000000004,Normal,5
+Trincomalee,60,Female,147.4,57.1,1.2,Diabetes,,53.2,Low-carb <100g/day,"Seafood focused, Coconut based dishes, Traditional breakfast only",Local,1.474,26.280954914584594,1031.25,1237.5,-3.8999999999999986,Overweight,6
+Matale,52,Male,165.0,64.3,1.375,Asthma,Legumes,59.8,,"Vegetable heavy, Bitter gourd preferred, Mango in season",Local,1.65,23.61799816345271,1419.25,1951.46875,-4.5,Normal,5
+Mullaitivu,35,Male,166.1,72.8,1.375,,"Soy, Peanuts",74.7,,"Jackfruit curry lover, Vegetable heavy, Spicy food lover",Local,1.661,26.387127431340005,1596.125,2194.671875,1.9000000000000057,Overweight,6
+Jaffna,43,Male,162.4,64.6,1.2,Arthritis,"Dairy/Lactose, Soy",55.7,,Durian when available,Local,1.624,24.494042563517674,1451.0,1741.2,-8.899999999999991,Normal,5
+Badulla,24,Female,153.8,64.3,1.55,,,58.1,,"Traditional breakfast only, Spicy food lover",Asian fusion,1.538,27.183057387957607,1323.25,2051.0375,-6.199999999999996,Overweight,6
+Trincomalee,59,Male,175.3,56.0,1.2,,,52.9,,"Sri Lankan traditional, Bitter gourd preferred",Local,1.7530000000000001,18.22318125329278,1365.625,1638.75,-3.1000000000000014,Underweight,4
+Ratnapura,25,Female,165.5,62.5,1.55,,,63.0,,"Durian when available, Rice and curry daily",Local,1.655,22.81833864240012,1373.375,2128.7312500000003,0.5,Normal,5
+Nuwara Eliya,44,Female,157.2,57.5,1.2,,"Dairy/Lactose, Fish",58.3,,Sri Lankan traditional,Local,1.5719999999999998,23.268198563927253,1176.5,1411.8,0.7999999999999972,Normal,5
+Puttalam,30,Female,160.8,59.7,1.9,,,56.7,,Lentils and pulses,Mixed,1.608,23.088846810722504,1291.0,2452.9,-3.0,Normal,5
+Nuwara Eliya,26,Male,164.5,62.5,1.375,,,55.3,,Bitter gourd preferred,Mixed,1.645,23.09660849400874,1528.125,2101.171875,-7.200000000000003,Normal,5
+Kurunegala,47,Other,157.4,54.6,1.2,,,50.3,Dairy-free,"Vegetable heavy, Coconut based dishes, Less oil preferred",Mixed,1.574,22.038558597540398,1166.75,1400.1,-4.300000000000004,Normal,5
+Hambantota,25,Female,157.4,45.4,1.725,,,45.2,Vegan,Lentils and pulses,Local,1.574,18.325101837515277,1151.75,1986.7687500000002,-0.19999999999999574,Underweight,4
+Kegalle,36,Female,147.5,60.6,1.375,Arthritis,Dairy/Lactose,52.9,,Bitter gourd preferred,Local,1.475,27.85406492387245,1186.875,1631.953125,-7.700000000000003,Overweight,6
+Monaragala,47,Female,151.8,56.2,1.55,Diabetes,,59.4,"Low-carb <100g/day, Vegetarian",Durian when available,Local,1.518,24.388931417630506,1114.75,1727.8625,3.1999999999999957,Normal,5
+Polonnaruwa,59,Male,158.6,57.4,1.2,Hypertension,Peanuts,60.2,Low-sodium <2300mg/day,Vegetable heavy,Local,1.5859999999999999,22.819468584668183,1275.25,1530.3,2.8000000000000043,Normal,5
+Ampara,30,Male,162.6,56.7,1.375,,,56.9,,"Gotu kola preferred, Jackfruit curry lover",Local,1.626,21.445786413583697,1438.25,1977.59375,0.19999999999999574,Normal,5
+Ratnapura,36,Female,161.2,49.9,1.55,,Fish,49.3,Vegetarian,"Spicy food lover, Lentils and pulses",Mediterranean,1.6119999999999999,19.203061406695443,1165.5,1806.525,-0.6000000000000014,Normal,5
+Batticaloa,37,Female,159.7,63.3,1.375,Thyroid Disorder,Dairy/Lactose,63.9,,"Gotu kola preferred, Vegetable heavy, Less oil preferred",Local,1.597,24.819548550840278,1285.125,1767.046875,0.6000000000000014,Normal,5
+Vavuniya,42,Male,166.5,64.3,1.55,,,56.5,,Spicy food lover,Local,1.665,23.194365536707878,1478.625,2291.86875,-7.799999999999997,Normal,5
+Nuwara Eliya,34,Male,170.3,72.7,1.9,"Anemia, PCOS",,69.1,,Gotu kola preferred,Mixed,1.703,25.067158953027178,1626.375,3090.1124999999997,-3.6000000000000085,Overweight,6
+Kurunegala,28,Male,162.9,52.9,1.9,,"Tree Nuts, Nightshades",45.1,,Murunga dishes,Mixed,1.629,19.93487438579672,1412.125,2683.0375,-7.799999999999997,Normal,5
+Hambantota,55,Female,155.9,56.4,1.55,Arthritis,,58.1,,Mango in season,Mixed,1.5590000000000002,23.205283234059426,1102.375,1708.68125,1.7000000000000028,Normal,5
+Nuwara Eliya,36,Male,175.3,65.6,1.2,Asthma,,57.6,Vegetarian,Sri Lankan traditional,Local,1.7530000000000001,21.347155182428683,1576.625,1891.9499999999998,-7.999999999999993,Normal,5
+Colombo,46,Male,167.6,66.8,1.55,"IBS, PCOS",,62.5,,"Traditional breakfast only, Hoppers and string hoppers, Mango in season",Local,1.676,23.780908060446226,1490.5,2310.275,-4.299999999999997,Normal,5
+Gampaha,40,Female,161.7,59.2,1.375,,,50.8,Dairy-free,Traditional breakfast only,Local,1.617,22.641316041793118,1241.625,1707.234375,-8.400000000000006,Normal,5
+Badulla,27,Female,158.6,60.2,1.55,Asthma,,56.9,,Vegetable heavy,Local,1.5859999999999999,23.932613393676387,1297.25,2010.7375,-3.3000000000000043,Normal,5
+Matale,50,Female,152.6,61.7,1.375,IBS,,60.8,Pescatarian,"Mango in season, Gotu kola preferred",Local,1.526,26.495742645176914,1159.75,1594.65625,-0.9000000000000057,Overweight,6
+Mullaitivu,60,Male,164.1,66.3,1.375,,,62.1,,Mango in season,Local,1.641,24.62047153216202,1393.625,1916.234375,-4.199999999999996,Normal,5
+Ampara,39,Male,161.5,58.2,1.55,,,55.3,Vegan,"Jackfruit curry lover, Rice and curry daily, Pumpkin curry lover",Local,1.615,22.314025822158747,1401.375,2172.13125,-2.9000000000000057,Normal,5
+Kegalle,50,Male,170.9,65.2,1.2,"Diabetes, Arthritis",Dairy/Lactose,61.6,"Low-carb <100g/day, Vegetarian","Vegetable heavy, Sri Lankan traditional",Local,1.709,22.32356084077652,1475.125,1770.1499999999999,-3.6000000000000014,Normal,5
+Matale,19,Male,170.0,64.5,1.55,,,68.6,,Jackfruit curry lover,Local,1.7,22.318339100346023,1617.5,2507.125,4.099999999999994,Normal,5
+Polonnaruwa,20,Female,164.4,62.3,1.9,,,62.8,,"Durian when available, Murunga dishes, Gotu kola preferred",Mediterranean,1.6440000000000001,23.05071601517869,1389.5,2640.0499999999997,0.5,Normal,5
+Vavuniya,39,Male,174.2,56.1,1.2,,,51.0,Vegan,"Coconut based dishes, Spicy food lover",Local,1.742,18.48700505245564,1459.75,1751.7,-5.100000000000001,Underweight,4
+Kalutara,31,Male,165.5,63.6,1.725,,Dairy/Lactose,58.7,,"Mango in season, Rice and curry daily",Local,1.655,23.219941402506365,1520.375,2622.646875,-4.899999999999999,Normal,5
+Kalutara,56,Other,160.2,45.4,1.2,Hypertension,,40.9,Low-sodium <2300mg/day,Murunga dishes,Local,1.6019999999999999,17.69012205404917,1047.25,1256.7,-4.5,Underweight,4
+Gampaha,28,Female,161.2,66.1,1.55,,,58.0,,"Durian when available, Hoppers and string hoppers, Pumpkin curry lover",Mediterranean,1.6119999999999999,25.43732182329797,1367.5,2119.625,-8.099999999999994,Overweight,6
+Kilinochchi,35,Female,145.5,53.1,1.375,Diabetes,Eggs,56.9,Low-carb <100g/day,"Gotu kola preferred, Mango in season, Jackfruit curry lover",Local,1.455,25.08236794558401,1104.375,1518.515625,3.799999999999997,Overweight,6
+Nuwara Eliya,58,Male,161.9,61.3,1.55,,,52.6,,"Lentils and pulses, Traditional breakfast only",Local,1.619,23.386583273595175,1339.875,2076.80625,-8.699999999999996,Normal,5
+Anuradhapura,58,Male,158.0,56.3,1.375,,,48.0,Low-carb <100g/day,"Seafood focused, Jackfruit curry lover",Local,1.58,22.552475564813328,1265.5,1740.0625,-8.299999999999997,Normal,5
+Nuwara Eliya,37,Male,173.3,60.8,1.375,,,56.7,Dairy-free,Hoppers and string hoppers,Local,1.733,20.2444719772223,1511.125,2077.796875,-4.099999999999994,Normal,5
+Kilinochchi,63,Male,165.9,69.3,1.2,Osteoporosis,,60.2,,Coconut based dishes,Mediterranean,1.659,25.179115068555863,1419.875,1703.85,-9.099999999999994,Overweight,6
+Kegalle,40,Male,168.5,65.0,1.2,,,60.4,,Bitter gourd preferred,Local,1.685,22.893571309072016,1508.125,1809.75,-4.600000000000001,Normal,5
+Kegalle,29,Male,161.0,64.8,1.375,,,59.0,Low-purine,"Seafood focused, Hoppers and string hoppers",Local,1.61,24.999035531036608,1514.25,2082.09375,-5.799999999999997,Normal,5
+Ratnapura,51,Male,177.1,69.1,1.55,"Kidney Disease, Osteoporosis",,61.2,Low-sodium <2300mg/day,Coconut based dishes,Local,1.771,22.031340618235767,1547.875,2399.20625,-7.8999999999999915,Normal,5
+Kurunegala,55,Male,156.5,62.3,1.55,"Asthma, Heart Disease",,56.3,Low-sodium <2300mg/day,Bitter gourd preferred,Local,1.565,25.436617705600753,1331.125,2063.24375,-6.0,Overweight,6
+Kegalle,28,Male,161.7,60.5,1.55,,,53.6,,"Jackfruit curry lover, Gotu kola preferred, Murunga dishes",Mediterranean,1.617,23.138507103521682,1480.625,2294.96875,-6.899999999999999,Normal,5
+Kalutara,45,Female,161.6,66.6,1.55,"Thyroid Disorder, Heart Disease",Dairy/Lactose,57.6,Low-sodium <2300mg/day,Pumpkin curry lover,Local,1.6159999999999999,25.503014410351927,1290.0,1999.5,-8.999999999999993,Overweight,6
+Polonnaruwa,52,Male,163.4,65.6,1.55,,,56.4,Vegetarian,"Durian when available, Hoppers and string hoppers",Local,1.6340000000000001,24.569693283335,1422.25,2204.4875,-9.199999999999996,Normal,5
+Puttalam,59,Female,148.8,57.4,1.375,,,59.6,,"Seafood focused, Jackfruit curry lover",Local,1.4880000000000002,25.92423979650826,1048.0,1441.0,2.200000000000003,Overweight,6
+Vavuniya,50,Female,157.4,53.1,1.2,,Dairy/Lactose,52.1,,"Lentils and pulses, Vegetable heavy",Local,1.574,21.433103691014562,1103.75,1324.5,-1.0,Normal,5
+Matara,34,Female,153.7,42.4,1.55,Hypertension,"Wheat/Gluten, Peanuts, Sulfites",39.7,Low-sodium <2300mg/day,Gotu kola preferred,Local,1.537,17.948085163664103,1053.625,1633.11875,-2.6999999999999957,Underweight,4
+Mannar,59,Male,165.6,62.6,1.375,Heart Disease,,59.4,Low-sodium <2300mg/day,"Rice and curry daily, Jackfruit curry lover",Mixed,1.656,22.8272538448972,1371.0,1885.125,-3.200000000000003,Normal,5
+Mannar,45,Female,161.1,54.2,1.55,Arthritis,Sesame,50.7,Low-sodium <2300mg/day,"Gotu kola preferred, Lentils and pulses",Local,1.611,20.88373653971898,1162.875,1802.45625,-3.5,Normal,5
+Polonnaruwa,33,Male,179.8,66.0,1.375,,,70.5,,Mango in season,Local,1.798,20.415713417825515,1623.75,2232.65625,4.5,Normal,5
+Batticaloa,30,Female,150.1,44.6,1.725,,,41.6,Halal,"Durian when available, Lentils and pulses",Local,1.501,19.795818998748782,1073.125,1851.140625,-3.0,Normal,5
+Kandy,31,Male,168.8,65.5,1.55,Diabetes,,69.0,Low-carb <100g/day,Gotu kola preferred,Local,1.6880000000000002,22.987747355180694,1560.0,2418.0,3.5,Normal,5
+Anuradhapura,29,Male,165.6,75.9,1.9,"Asthma, Arthritis",Tree Nuts,81.9,,Hoppers and string hoppers,Local,1.656,27.677133655394528,1654.0,3142.6,6.0,Overweight,6
+Matara,40,Male,168.6,52.3,1.375,"Asthma, Diabetes",Eggs,54.3,Low-carb <100g/day,Gotu kola preferred,Local,1.686,18.398675013966105,1381.75,1899.90625,2.0,Underweight,4
+Kilinochchi,36,Male,164.8,60.8,1.725,PCOS,Peanuts,55.8,,Coconut based dishes,Local,1.6480000000000001,22.38665284192666,1463.0,2523.675,-5.0,Normal,5
+Mannar,54,Other,171.5,60.9,1.725,Thyroid Disorder,,56.8,"Pescatarian, Vegan","More vegetarian, Bitter gourd preferred, Pumpkin curry lover",Local,1.715,20.705658356637112,1282.875,2212.959375,-4.100000000000001,Normal,5
+Trincomalee,45,Male,162.1,64.5,1.2,,,55.9,,"Gotu kola preferred, Durian when available, Less oil preferred",Local,1.621,24.546732221030194,1438.125,1725.75,-8.600000000000001,Normal,5
+Colombo,43,Female,155.9,57.6,1.375,,,52.1,,"Less oil preferred, Lentils and pulses, Murunga dishes",Asian fusion,1.5590000000000002,23.69901266457133,1174.375,1614.765625,-5.5,Normal,5
+Anuradhapura,42,Male,166.4,73.7,1.55,"Hypertension, Arthritis",,69.8,Low-sodium <2300mg/day,"Spicy food lover, Jackfruit curry lover",Mixed,1.6640000000000001,26.617106601331354,1572.0,2436.6,-3.9000000000000057,Overweight,6
+Kalutara,29,Male,159.9,53.5,1.55,Thyroid Disorder,,48.7,,"Bitter gourd preferred, Jackfruit curry lover",Local,1.599,20.92458505765603,1394.375,2161.28125,-4.799999999999997,Normal,5
+Polonnaruwa,27,Male,168.5,62.7,1.375,,Soy,58.9,,Coconut based dishes,Local,1.685,22.083491093520237,1550.125,2131.421875,-3.8000000000000043,Normal,5
+Galle,30,Female,154.9,49.8,1.9,,,49.1,,Pumpkin curry lover,Local,1.5490000000000002,20.755180147045028,1155.125,2194.7374999999997,-0.6999999999999957,Normal,5
+Colombo,42,Male,169.1,72.7,1.725,,,65.5,Vegetarian,"Traditional breakfast only, Less oil preferred",Local,1.6909999999999998,25.424194110749475,1578.875,2723.5593750000003,-7.200000000000003,Overweight,6
+Nuwara Eliya,47,Male,168.8,61.6,1.375,,Soy,56.5,,"Mango in season, Jackfruit curry lover, Seafood focused",Local,1.6880000000000002,21.6190112531165,1441.0,1981.375,-5.100000000000001,Normal,5
+Ratnapura,38,Other,166.5,52.0,1.375,"Asthma, Osteoporosis",,44.4,,"Pumpkin curry lover, Vegetable heavy, Seafood focused",Mixed,1.665,18.75749623497371,1242.625,1708.609375,-7.600000000000001,Normal,5
+Mannar,52,Female,158.4,59.0,1.55,"IBS, PCOS",Peanuts,62.6,,"Vegetable heavy, Traditional breakfast only",Local,1.584,23.514819916335068,1159.0,1796.45,3.6000000000000014,Normal,5
+Kalutara,46,Male,169.3,76.9,1.2,Diabetes,,78.3,Low-carb <100g/day,"Spicy food lover, Seafood focused, Coconut based dishes",Local,1.693,26.829490389704453,1602.125,1922.55,1.3999999999999915,Overweight,6
+Kalutara,26,Male,160.3,68.4,1.55,,Shellfish,61.1,,"Coconut based dishes, Spicy food lover",Local,1.6030000000000002,26.618835783965572,1560.875,2419.3562500000003,-7.300000000000004,Overweight,6
+Kurunegala,30,Male,159.3,56.0,1.55,,,50.7,,"Pumpkin curry lover, Lentils and pulses",Local,1.5930000000000002,22.06766972106859,1410.625,2186.46875,-5.299999999999997,Normal,5
+Mullaitivu,63,Male,152.1,53.7,1.2,Diabetes,,49.4,Low-carb <100g/day,Murunga dishes,Local,1.521,23.212176147997727,1177.625,1413.1499999999999,-4.300000000000004,Normal,5
+Batticaloa,54,Male,167.2,66.3,1.2,Hypertension,Dairy/Lactose,68.4,Low-sodium <2300mg/day,"Mango in season, Seafood focused",Local,1.672,23.715974908999335,1443.0,1731.6,2.1000000000000085,Normal,5
+Badulla,38,Male,160.3,66.2,1.375,,Dairy/Lactose,62.2,,"Pumpkin curry lover, Murunga dishes, Sri Lankan traditional",Mixed,1.6030000000000002,25.76267439910118,1478.875,2033.453125,-4.0,Overweight,6
+Jaffna,28,Female,158.4,53.1,1.725,,,47.1,,"Vegetable heavy, Durian when available",Mediterranean,1.584,21.163337924701562,1220.0,2104.5,-6.0,Normal,5
+Kurunegala,33,Male,159.5,47.3,1.725,,,43.0,Vegan,Murunga dishes,Local,1.595,18.592584585450222,1309.875,2259.534375,-4.299999999999997,Normal,5
+Jaffna,25,Male,179.8,64.8,1.725,,,56.0,,"Murunga dishes, Durian when available",Local,1.798,20.044518628410504,1651.75,2849.26875,-8.799999999999997,Normal,5
+Polonnaruwa,35,Male,164.7,50.7,1.55,,,50.4,,"Durian when available, Spicy food lover",Local,1.6469999999999998,18.690493174652158,1366.375,2117.88125,-0.30000000000000426,Normal,5
+Kilinochchi,45,Male,162.5,61.4,1.2,Kidney Disease,,62.2,Low-sodium <2300mg/day,Vegetable heavy,Local,1.625,23.25207100591716,1409.625,1691.55,0.8000000000000043,Normal,5
+Vavuniya,52,Female,158.4,59.7,1.375,,Peanuts,55.9,,Mango in season,Local,1.584,23.793809305172942,1166.0,1603.25,-3.8000000000000043,Normal,5
+Jaffna,28,Male,156.6,50.3,1.375,,Peanuts,43.9,,Durian when available,Local,1.5659999999999998,20.51088830496062,1346.75,1851.78125,-6.399999999999999,Normal,5
+Galle,43,Female,148.3,63.1,1.375,,,59.1,Vegan,Seafood daily,Local,1.483,28.69109062065058,1181.875,1625.078125,-4.0,Overweight,6
+Matara,50,Female,154.9,65.1,1.725,Heart Disease,,59.2,"Low-sodium <2300mg/day, Vegetarian","Spicy food lover, Sri Lankan traditional",Local,1.5490000000000002,27.131771638004643,1208.125,2084.015625,-5.8999999999999915,Overweight,6
+Mullaitivu,31,Female,158.1,59.8,1.55,,,53.9,,"Rice and curry daily, Lentils and pulses",Asian fusion,1.581,23.924201089711353,1270.125,1968.6937500000001,-5.899999999999999,Normal,5
+Mullaitivu,45,Female,159.3,55.1,1.2,Hypertension,,54.5,Low-sodium <2300mg/day,Coconut based dishes,Local,1.5930000000000002,21.71301074340856,1160.625,1392.75,-0.6000000000000014,Normal,5
+Vavuniya,36,Female,163.1,63.8,1.375,,Sesame,65.8,Vegetarian,Sri Lankan traditional,Local,1.631,23.983510772468282,1316.375,1810.015625,2.0,Normal,5
+Ratnapura,54,Female,154.4,51.5,1.2,Hypertension,,47.4,Low-sodium <2300mg/day,"Jackfruit curry lover, Gotu kola preferred",Local,1.544,21.6029289376896,1049.0,1258.8,-4.100000000000001,Normal,5
+Kurunegala,31,Female,158.4,49.0,1.55,,,42.2,,Lentils and pulses,Mixed,1.584,19.529257218651157,1164.0,1804.2,-6.799999999999997,Normal,5
+Monaragala,63,Male,166.0,70.8,1.2,"Osteoporosis, Diabetes",,64.0,"Low-carb <100g/day, Vegan","Spicy food lover, Durian when available, Traditional breakfast only",Local,1.66,25.693133981709973,1435.5,1722.6,-6.799999999999997,Overweight,6
+Kalutara,24,Female,158.2,46.6,1.55,,,42.8,,Hoppers and string hoppers,Mixed,1.5819999999999999,18.619711961846374,1173.75,1819.3125,-3.8000000000000043,Normal,5
+Hambantota,55,Male,175.3,82.1,1.725,,,70.2,,"Seafood daily, Pumpkin curry lover, Bitter gourd preferred",Local,1.7530000000000001,26.71648537313102,1646.625,2840.4281250000004,-11.899999999999991,Overweight,6
+Puttalam,50,Male,159.7,64.0,1.2,,,59.2,,Spicy food lover,Local,1.597,25.094014332603127,1393.125,1671.75,-4.799999999999997,Overweight,6
+Badulla,35,Male,163.9,73.8,1.55,,Peanuts,65.4,,"Gotu kola preferred, Spicy food lover",Mediterranean,1.639,27.472517245705184,1592.375,2468.18125,-8.399999999999991,Overweight,6
+Kurunegala,27,Male,166.5,70.0,1.55,,"Dairy/Lactose, Tree Nuts",65.2,,Less oil preferred,Local,1.665,25.25047570092615,1610.625,2496.46875,-4.799999999999997,Overweight,6
+Monaragala,60,Male,172.5,56.0,1.2,Diabetes,Soy,52.8,Low-carb <100g/day,Sri Lankan traditional,Local,1.725,18.81957571938668,1343.125,1611.75,-3.200000000000003,Normal,5
+Mannar,32,Female,146.6,52.3,1.375,,Dairy/Lactose,48.6,,"More vegetarian, Lentils and pulses",Mixed,1.466,24.335134350414766,1118.25,1537.59375,-3.6999999999999957,Normal,5
+Vavuniya,46,Female,160.0,72.7,1.725,,,73.4,,"Rice and curry daily, Mango in season, Hoppers and string hoppers",Local,1.6,28.398437499999996,1336.0,2304.6,0.7000000000000028,Overweight,6
+Batticaloa,29,Female,154.0,52.7,1.725,,,54.5,,Lentils and pulses,Local,1.54,22.221285208298198,1183.5,2041.5375000000001,1.7999999999999972,Normal,5
+Kalutara,63,Female,148.9,49.9,1.375,,,46.7,,Gotu kola preferred,Local,1.489,22.50666517524303,953.625,1311.234375,-3.1999999999999957,Normal,5
+Trincomalee,65,Female,157.1,50.7,1.375,,,47.7,,Vegetable heavy,Asian fusion,1.571,20.54260848989138,1002.875,1378.953125,-3.0,Normal,5
+Matale,44,Female,158.9,55.5,1.55,"Thyroid Disorder, Heart Disease",,59.1,Low-sodium <2300mg/day,"Bitter gourd preferred, Pumpkin curry lover",Local,1.589,21.980885738603305,1167.125,1809.04375,3.6000000000000014,Normal,5
+Mullaitivu,33,Female,154.2,45.5,1.9,,Dairy/Lactose,41.2,,"Spicy food lover, Jackfruit curry lover",Local,1.5419999999999998,19.135624898013432,1092.75,2076.225,-4.299999999999997,Normal,5
+Ampara,35,Female,149.1,52.2,1.375,,,56.2,,"Spicy food lover, Hoppers and string hoppers",Local,1.4909999999999999,23.480925796226053,1117.875,1537.078125,4.0,Normal,5
+Jaffna,30,Male,155.4,56.8,1.9,,,56.0,,"Sri Lankan traditional, Rice and curry daily",Asian fusion,1.554,23.520486840950156,1394.25,2649.075,-0.7999999999999972,Normal,5
+Kurunegala,39,Male,167.7,59.8,1.725,,,51.8,Vegetarian,"Bitter gourd preferred, Mango in season",Local,1.6769999999999998,21.2635150439369,1456.125,2511.815625,-8.0,Normal,5
+Matale,57,Other,163.8,48.8,1.2,"Diabetes, Thyroid Disorder",,50.1,Low-carb <100g/day,"Coconut based dishes, Rice and curry daily",Mixed,1.6380000000000001,18.188296576574963,1098.75,1318.5,1.3000000000000043,Underweight,4
+Polonnaruwa,20,Female,157.4,48.8,1.55,,Peanuts,45.9,,Bitter gourd preferred,Local,1.574,19.69746629230717,1210.75,1876.6625000000001,-2.8999999999999986,Normal,5
+Kurunegala,38,Male,163.9,56.4,1.2,,,57.2,,"Murunga dishes, Lentils and pulses",Local,1.639,20.995257082083636,1403.375,1684.05,0.8000000000000043,Normal,5
+Jaffna,19,Other,169.1,57.5,1.55,,,49.1,,Seafood focused,Mediterranean,1.6909999999999998,20.108544172876133,1408.875,2183.75625,-8.399999999999999,Normal,5
+Ampara,53,Female,154.0,55.8,1.375,Arthritis,,57.8,Pescatarian,Rice and curry daily,Local,1.54,23.528419632315735,1094.5,1504.9375,2.0,Normal,5
+Mullaitivu,28,Female,155.4,55.6,1.725,,,58.0,,Gotu kola preferred,Local,1.554,23.023575147127268,1226.25,2115.28125,2.3999999999999986,Normal,5
+Trincomalee,34,Male,171.1,78.7,1.55,,,73.1,,Sri Lankan traditional,Mediterranean,1.7109999999999999,26.882813137804995,1691.375,2621.63125,-5.6000000000000085,Overweight,6
+Trincomalee,24,Female,158.9,51.2,1.725,,Soy,46.6,,"Gotu kola preferred, Durian when available, Spicy food lover",Mediterranean,1.589,20.277862158855665,1224.125,2111.615625,-4.600000000000001,Normal,5
+Kegalle,46,Male,171.0,64.0,1.55,Hypertension,Peanuts,59.5,Low-sodium <2300mg/day,"Mango in season, Murunga dishes",Local,1.71,21.887076365377382,1483.75,2299.8125,-4.5,Normal,5
+Kalutara,32,Female,144.1,46.9,1.55,Asthma,,44.0,,Less oil preferred,Local,1.4409999999999998,22.586289014924777,1048.625,1625.36875,-2.8999999999999986,Normal,5
+Ampara,40,Male,173.0,49.3,1.2,,,46.1,,"Less oil preferred, Rice and curry daily",Local,1.73,16.472317818837915,1379.25,1655.1,-3.1999999999999957,Underweight,4
+Hambantota,31,Female,162.4,61.0,1.9,PCOS,,52.1,,"Seafood daily, Gotu kola preferred",Mixed,1.624,23.129049479482635,1309.0,2487.1,-8.899999999999999,Normal,5
+Mullaitivu,42,Male,174.2,66.9,1.725,"Asthma, Thyroid Disorder",,57.7,Vegetarian,"Traditional breakfast only, Spicy food lover",Local,1.742,22.046000677527317,1552.75,2678.49375,-9.200000000000003,Normal,5
+Anuradhapura,55,Female,158.4,65.7,1.375,Kidney Disease,,64.7,Low-sodium <2300mg/day,"Sri Lankan traditional, Hoppers and string hoppers, Coconut based dishes",Local,1.584,26.185146923783286,1211.0,1665.125,-1.0,Overweight,6
+Ampara,18,Male,170.5,75.7,1.55,High Cholesterol,,70.2,,Bitter gourd preferred,Local,1.705,26.04036772989568,1737.625,2693.31875,-5.5,Overweight,6
+Jaffna,32,Female,148.4,43.3,1.725,High Cholesterol,,38.9,,"More vegetarian, Spicy food lover",Asian fusion,1.484,19.661656047253363,1039.5,1793.1375,-4.399999999999999,Normal,5
+Ratnapura,53,Male,170.9,74.3,1.2,Diabetes,,64.6,Low-carb <100g/day,"Traditional breakfast only, Jackfruit curry lover",Local,1.709,25.439272553216185,1551.125,1861.35,-9.700000000000003,Overweight,6
+Vavuniya,32,Female,149.1,53.6,1.375,,Dairy/Lactose,50.2,,"Spicy food lover, Jackfruit curry lover",Local,1.4909999999999999,24.110682426776176,1146.875,1576.953125,-3.3999999999999986,Normal,5
+Mullaitivu,38,Male,162.5,67.4,1.55,Osteoporosis,,62.8,Vegan,Coconut based dishes,Local,1.625,25.52426035502959,1504.625,2332.1687500000003,-4.6000000000000085,Overweight,6
+Jaffna,31,Female,154.2,49.9,1.725,,,49.4,Low-purine,"Mango in season, Pumpkin curry lover, More vegetarian",Local,1.5419999999999998,20.986102910129016,1146.75,1978.1437500000002,-0.5,Normal,5
+Ratnapura,54,Female,154.4,56.0,1.725,Heart Disease,Peanuts,50.2,Low-sodium <2300mg/day,Sri Lankan traditional,Local,1.544,23.490563505060535,1094.0,1887.15,-5.799999999999997,Normal,5
+Badulla,51,Female,160.7,64.9,1.55,Diabetes,Peanuts,60.5,"Low-carb <100g/day, Vegetarian","Bitter gourd preferred, Vegetable heavy",Local,1.607,25.13118361679166,1237.375,1917.93125,-4.400000000000006,Overweight,6
+Colombo,34,Male,162.8,69.3,1.725,,Soy,61.7,,"Coconut based dishes, Lentils and pulses",Local,1.6280000000000001,26.1471545255329,1545.5,2665.9875,-7.599999999999994,Overweight,6
+Ratnapura,60,Female,147.9,40.8,1.2,,Shellfish,38.0,,Pumpkin curry lover,Local,1.479,18.651931640670533,871.375,1045.6499999999999,-2.799999999999997,Normal,5
+Ampara,31,Male,162.9,58.0,1.9,Asthma,Fish,57.3,,"Spicy food lover, Gotu kola preferred, Durian when available",Mediterranean,1.629,21.856762086506805,1448.125,2751.4375,-0.7000000000000028,Normal,5
+Hambantota,30,Male,173.6,70.5,1.375,,,62.8,Vegan,"Sri Lankan traditional, Vegetable heavy, Bitter gourd preferred",Local,1.736,23.393202234067406,1645.0,2261.875,-7.700000000000003,Normal,5
+Kilinochchi,37,Male,164.8,65.6,1.55,,,57.8,,Lentils and pulses,Local,1.6480000000000001,24.15402017155245,1506.0,2334.3,-7.799999999999997,Normal,5
+Ampara,40,Male,171.0,71.1,1.725,Hypertension,,66.4,Low-sodium <2300mg/day,Durian when available,Local,1.71,24.315173899661435,1584.75,2733.6937500000004,-4.699999999999989,Normal,5
+Puttalam,48,Female,155.4,55.1,1.2,Anemia,,51.4,,"Bitter gourd preferred, Gotu kola preferred, Lentils and pulses",Local,1.554,22.816528608034396,1121.25,1345.5,-3.700000000000003,Normal,5
+Badulla,41,Male,168.5,69.1,1.2,,,64.0,,Seafood focused,Local,1.685,24.3376273454904,1544.125,1852.9499999999998,-5.099999999999994,Normal,5
+Kilinochchi,52,Female,149.2,47.5,1.725,Hypertension,,42.3,Low-sodium <2300mg/day,Less oil preferred,Local,1.492,21.33811067426633,986.5,1701.7125,-5.200000000000003,Normal,5
+Galle,22,Male,162.3,66.1,1.55,,,56.5,,"Jackfruit curry lover, Pumpkin curry lover",Mediterranean,1.6230000000000002,25.093683718602993,1570.375,2434.08125,-9.599999999999994,Overweight,6
+Mannar,37,Female,147.5,48.8,1.2,,,43.2,,Bitter gourd preferred,Local,1.475,22.430336110313124,1063.875,1276.6499999999999,-5.599999999999994,Normal,5
+Polonnaruwa,25,Female,156.5,49.5,1.9,,Soy,50.5,,Durian when available,Mediterranean,1.565,20.21047474201023,1187.125,2255.5375,1.0,Normal,5
+Ratnapura,52,Male,165.4,72.9,1.55,Hypertension,,68.0,Low-sodium <2300mg/day,Hoppers and string hoppers,Local,1.6540000000000001,26.647502884071297,1507.75,2337.0125000000003,-4.900000000000006,Overweight,6
+Gampaha,41,Female,150.1,49.8,1.2,Heart Disease,Dairy/Lactose,50.7,Low-sodium <2300mg/day,"Rice and curry daily, Gotu kola preferred",Local,1.501,22.103851707123077,1070.125,1284.1499999999999,0.9000000000000057,Normal,5
+Gampaha,19,Male,169.4,71.3,1.725,,"Dairy/Lactose, Shellfish",71.1,Low-carb <100g/day,"Durian when available, International fusion, Less oil preferred",Local,1.694,24.846356820168133,1681.75,2901.01875,-0.20000000000000284,Normal,5
+Gampaha,33,Male,171.4,68.2,1.375,,Tree Nuts,64.8,,"Spicy food lover, Western options sometimes",Local,1.714,23.21468202693448,1593.25,2190.71875,-3.4000000000000057,Normal,5
+Polonnaruwa,29,Male,165.9,60.9,1.725,,,54.2,,"Hoppers and string hoppers, Durian when available",Local,1.659,22.12710112085212,1505.875,2597.634375,-6.699999999999996,Normal,5
+Batticaloa,33,Male,164.1,51.7,1.375,,,46.2,,"Lentils and pulses, Traditional breakfast only, Seafood focused",Mediterranean,1.641,19.198768902153496,1382.625,1901.109375,-5.5,Normal,5
+Batticaloa,36,Male,159.8,55.8,1.375,,,48.9,,"Murunga dishes, Jackfruit curry lover",Local,1.598,21.85146953090612,1381.75,1899.90625,-6.899999999999999,Normal,5
+Galle,27,Female,156.3,59.5,1.725,,,62.8,,Hoppers and string hoppers,Local,1.5630000000000002,24.35560991563953,1275.875,2200.884375,3.299999999999997,Normal,5
+Kurunegala,32,Female,145.9,48.1,1.9,Asthma,Tree Nuts,50.9,,"Less oil preferred, Seafood focused",Local,1.459,22.596152265182052,1071.875,2036.5625,2.799999999999997,Normal,5
+Trincomalee,65,Female,152.9,54.1,1.375,,Soy,48.6,,"Less oil preferred, Vegetable heavy",Local,1.5290000000000001,23.141009161871995,1010.625,1389.609375,-5.5,Normal,5
+Monaragala,61,Male,167.2,69.9,1.375,Anemia,,70.9,,"Gotu kola preferred, Sri Lankan traditional",Local,1.672,25.003720152926906,1444.0,1985.5,1.0,Overweight,6
+Badulla,44,Other,162.5,57.2,1.55,"Asthma, Thyroid Disorder",Soy,52.1,,Durian when available,Local,1.625,21.661538461538463,1239.625,1921.41875,-5.100000000000001,Normal,5
+Batticaloa,27,Male,172.8,61.4,1.725,,,57.5,,Hoppers and string hoppers,Local,1.7280000000000002,20.56273576817558,1564.0,2697.9,-3.8999999999999986,Normal,5
+Kalutara,43,Female,155.2,50.1,1.375,Diabetes,Peanuts,50.5,Low-carb <100g/day,"Western options sometimes, Traditional breakfast only",Local,1.5519999999999998,20.799566904028065,1095.0,1505.625,0.3999999999999986,Normal,5
+Batticaloa,38,Female,154.0,47.6,1.375,,Shellfish,44.0,,"Murunga dishes, Mango in season, Traditional breakfast only",Mixed,1.54,20.070838252656436,1087.5,1495.3125,-3.6000000000000014,Normal,5
+Mannar,45,Female,153.1,59.6,1.2,Heart Disease,"Fish, Shellfish",55.0,Low-sodium <2300mg/day,"Coconut based dishes, Lentils and pulses",Local,1.531,25.427044221298907,1166.875,1400.25,-4.600000000000001,Overweight,6
+Puttalam,56,Female,158.9,46.5,1.375,Hypertension,Dairy/Lactose,47.4,"Low-sodium <2300mg/day, Vegetarian",Vegetable heavy,Local,1.589,18.41641778099196,1017.125,1398.546875,0.8999999999999986,Underweight,4
+Polonnaruwa,49,Female,153.6,55.7,1.2,"Diabetes, Heart Disease",,51.6,Low-carb <100g/day,"Pumpkin curry lover, Jackfruit curry lover",Local,1.536,23.60873752170139,1111.0,1333.2,-4.100000000000001,Normal,5
+Gampaha,27,Male,168.9,63.1,1.725,,,56.3,Vegan,"Coconut based dishes, Pumpkin curry lover",Asian fusion,1.689,22.119232830690418,1556.625,2685.1781250000004,-6.800000000000004,Normal,5
+Hambantota,55,Male,162.4,60.4,1.375,Arthritis,,56.7,,Durian when available,Local,1.624,22.90155063214346,1349.0,1854.875,-3.6999999999999957,Normal,5
+Nuwara Eliya,32,Female,163.2,62.5,1.725,,Tree Nuts,57.5,,"Coconut based dishes, Seafood focused",Local,1.632,23.466034698193006,1324.0,2283.9,-5.0,Normal,5
+Galle,48,Female,152.7,59.2,1.55,,,50.7,,Seafood focused,Local,1.527,25.3888852435253,1145.375,1775.33125,-8.5,Overweight,6
+Ratnapura,31,Male,161.6,61.4,1.725,,,53.4,,Coconut based dishes,Local,1.6159999999999999,23.51178805999412,1474.0,2542.65,-8.0,Normal,5
+Monaragala,31,Male,161.7,63.1,1.725,,,58.2,Low-sodium <2300mg/day,"Mango in season, Rice and curry daily",Mediterranean,1.617,24.13288922697881,1491.625,2573.053125,-4.899999999999999,Normal,5
+Vavuniya,43,Male,174.9,63.8,1.375,,,57.6,Vegan,"Seafood focused, Traditional breakfast only, Mango in season",Local,1.749,20.856482230636733,1521.125,2091.546875,-6.199999999999996,Normal,5
+Kalutara,31,Female,155.3,49.6,1.55,"Diabetes, Arthritis",,42.9,Low-carb <100g/day,"Coconut based dishes, Vegetable heavy",Local,1.5530000000000002,20.565475956014758,1150.625,1783.46875,-6.700000000000003,Normal,5
+Matara,41,Male,171.6,76.6,1.2,,,77.6,Halal,"Rice and curry daily, Durian when available",Mediterranean,1.716,26.013225313924615,1638.5,1966.1999999999998,1.0,Overweight,6
+Kilinochchi,53,Male,165.7,66.2,1.2,Heart Disease,,58.6,Low-sodium <2300mg/day,Bitter gourd preferred,Local,1.6569999999999998,24.11087506086904,1437.625,1725.1499999999999,-7.600000000000001,Normal,5
+Batticaloa,38,Female,161.5,58.8,1.375,,,55.7,Vegan,Less oil preferred,Local,1.615,22.544067325479972,1246.375,1713.765625,-3.0999999999999943,Normal,5
+Matale,29,Female,155.7,48.8,1.55,,,49.0,,Jackfruit curry lover,Local,1.557,20.129945397523112,1155.125,1790.4437500000001,0.20000000000000284,Normal,5
+Anuradhapura,56,Female,142.3,41.0,1.2,Hypertension,,37.5,Low-sodium <2300mg/day,"Pumpkin curry lover, Jackfruit curry lover, Bitter gourd preferred",Mixed,1.423,20.247623496922607,858.375,1030.05,-3.5,Normal,5
+Colombo,29,Male,161.3,57.9,1.55,,Sulfites,61.7,Pescatarian,Hoppers and string hoppers,Local,1.6130000000000002,22.254089429153773,1447.125,2243.0437500000003,3.8000000000000043,Normal,5
+Galle,64,Male,166.0,70.1,1.375,,,69.9,,"Gotu kola preferred, Murunga dishes, Mango in season",Local,1.66,25.439105820873856,1423.5,1957.3125,-0.19999999999998863,Overweight,6
+Hambantota,51,Male,169.1,61.1,1.375,Diabetes,,54.3,Low-carb <100g/day,"Vegetable heavy, Durian when available",Mixed,1.6909999999999998,21.36751389500403,1417.875,1949.578125,-6.800000000000004,Normal,5
+Ratnapura,48,Male,176.4,62.8,1.375,"Diabetes, Thyroid Disorder",Eggs,65.6,Low-carb <100g/day,"Durian when available, Vegetable heavy",Local,1.764,20.18192008473835,1495.5,2056.3125,2.799999999999997,Normal,5
+Colombo,29,Male,169.9,65.9,1.9,,,58.6,,"Spicy food lover, Seafood focused",Local,1.699,22.829618641440227,1580.875,3003.6625,-7.300000000000004,Normal,5
+Kurunegala,35,Female,159.8,63.5,1.55,IBS,Soy,67.1,,"Traditional breakfast only, Hoppers and string hoppers",Local,1.598,24.86681568481252,1297.75,2011.5125,3.5999999999999943,Normal,5
+Batticaloa,44,Female,158.9,57.7,1.375,"Heart Disease, Arthritis",,50.2,Low-sodium <2300mg/day,Rice and curry daily,Local,1.589,22.852200128241638,1189.125,1635.046875,-7.5,Normal,5
+Matara,31,Male,155.2,53.0,1.9,,,54.9,,"Durian when available, Hoppers and string hoppers",Local,1.5519999999999998,22.003533850568612,1350.0,2565.0,1.8999999999999986,Normal,5
+Nuwara Eliya,33,Female,152.8,55.6,1.725,"Asthma, Diabetes",,47.4,Low-carb <100g/day,Traditional breakfast only,Local,1.528,23.813766070009045,1185.0,2044.125,-8.200000000000003,Normal,5
+Mannar,32,Female,167.1,61.3,1.375,,,57.4,,Lentils and pulses,Local,1.671,21.953692392597915,1336.375,1837.515625,-3.8999999999999986,Normal,5
+Kegalle,34,Female,156.5,46.8,1.9,,,43.7,,"Seafood focused, Bitter gourd preferred, Mango in season",Local,1.565,19.108085210627852,1115.125,2118.7374999999997,-3.0999999999999943,Normal,5
+Gampaha,62,Male,178.3,61.4,1.55,PCOS,"MSG, Dairy/Lactose",55.8,Low-sodium <2300mg/day,"Less oil preferred, Murunga dishes, Vegetable heavy",Local,1.7830000000000001,19.313709053128107,1423.375,2206.2312500000003,-5.600000000000001,Normal,5
+Vavuniya,39,Female,166.6,64.2,1.725,"Osteoporosis, Hypertension",,56.1,"Low-sodium <2300mg/day, Vegetarian","Durian when available, Jackfruit curry lover",Local,1.666,23.130500699679633,1327.25,2289.50625,-8.100000000000001,Normal,5
+Anuradhapura,43,Male,174.0,72.6,1.725,,Nightshades,62.5,Pescatarian,Mango in season,Local,1.74,23.979389615537055,1603.5,2766.0375000000004,-10.099999999999994,Normal,5
+Matara,37,Other,154.5,48.4,1.725,,,51.2,,"Spicy food lover, Coconut emphasis",Local,1.545,20.276285334254982,1136.625,1960.6781250000001,2.8000000000000043,Normal,5
+Kilinochchi,30,Other,163.4,65.1,1.55,,,61.2,,"More vegetarian, Murunga dishes",Local,1.6340000000000001,24.382424279651044,1394.25,2161.0875,-3.8999999999999915,Normal,5
+Badulla,35,Male,171.5,55.6,1.2,,Soy,48.3,Vegan,"Durian when available, Rice and curry daily, Coconut based dishes",Local,1.715,18.903688089146527,1457.875,1749.45,-7.300000000000004,Normal,5
+Polonnaruwa,52,Female,161.3,58.2,1.725,,,62.2,,Pumpkin curry lover,Local,1.6130000000000002,22.36939559199913,1169.125,2016.7406250000001,4.0,Normal,5
+Kilinochchi,40,Female,158.4,65.0,1.55,,,68.2,Gluten-free,"Less oil preferred, Hoppers and string hoppers",Local,1.584,25.90615753494541,1279.0,1982.45,3.200000000000003,Overweight,6
+Kandy,57,Female,152.4,55.2,1.375,"Heart Disease, Arthritis",,51.8,Low-sodium <2300mg/day,"Traditional breakfast only, Vegetable heavy, Coconut based dishes",Local,1.524,23.766714200095066,1058.5,1455.4375,-3.4000000000000057,Normal,5
+Kalutara,27,Female,161.3,57.1,1.375,,,52.0,,"Traditional breakfast only, Gotu kola preferred, Hoppers and string hoppers",Asian fusion,1.6130000000000002,21.94660632823282,1283.125,1764.296875,-5.100000000000001,Normal,5
+Batticaloa,49,Female,153.0,53.9,1.725,Thyroid Disorder,Tree Nuts,47.9,,"Coconut based dishes, Bitter gourd preferred",Local,1.53,23.02533213721218,1089.25,1878.9562500000002,-6.0,Normal,5
+Trincomalee,45,Female,163.2,67.1,1.55,Heart Disease,,61.3,Low-sodium <2300mg/day,Less oil preferred,Local,1.632,25.19313485198001,1305.0,2022.75,-5.799999999999997,Overweight,6
+Puttalam,25,Female,162.4,60.6,1.55,,,62.8,,"Bitter gourd preferred, Gotu kola preferred",Asian fusion,1.624,22.97738358125652,1335.0,2069.25,2.1999999999999957,Normal,5
+Nuwara Eliya,25,Female,159.3,61.7,1.375,,Dairy/Lactose,62.2,,"Murunga dishes, Coconut based dishes, Hoppers and string hoppers",Local,1.5930000000000002,24.313843246248787,1326.625,1824.109375,0.5,Normal,5
+Kurunegala,40,Male,155.9,56.3,1.2,,,53.4,,Jackfruit curry lover,Local,1.5590000000000002,23.1641391148501,1342.375,1610.85,-2.8999999999999986,Normal,5
+Kalutara,44,Male,169.1,78.6,1.725,,"Soy, Fish",71.5,,"Murunga dishes, Mango in season, Seafood focused",Local,1.6909999999999998,27.487505599792414,1627.875,2808.0843750000004,-7.099999999999994,Overweight,6
+Nuwara Eliya,23,Male,162.9,57.6,1.55,,,54.3,Vegan,Rice and curry daily,Asian fusion,1.629,21.706025796255034,1484.125,2300.39375,-3.3000000000000043,Normal,5
+Gampaha,37,Male,174.2,61.4,1.375,"IBS, PCOS",,54.5,,Seafood focused,Local,1.742,20.233549201796368,1522.75,2093.78125,-6.899999999999999,Normal,5
+Puttalam,33,Female,157.3,48.6,1.9,Asthma,,48.2,,Durian when available,Local,1.5730000000000002,19.64168871641564,1143.125,2171.9375,-0.3999999999999986,Normal,5
+Kandy,45,Male,162.9,62.2,1.55,,,58.7,,"Mango in season, Coconut based dishes, Murunga dishes",Local,1.629,23.4394931341504,1420.125,2201.19375,-3.5,Normal,5
+Mannar,25,Female,161.6,56.6,1.375,,,50.8,,Jaffna cuisine specific,Local,1.6159999999999999,21.673732967356145,1290.0,1773.75,-5.800000000000004,Normal,5
+Jaffna,33,Female,153.1,56.8,1.55,,,51.2,,"Traditional breakfast only, Rice and curry daily",Local,1.531,24.232485096808354,1198.875,1858.2562500000001,-5.599999999999994,Normal,5
+Gampaha,27,Male,156.0,50.9,1.725,,,46.8,,Bitter gourd preferred,Mediterranean,1.56,20.915516107823798,1354.0,2335.65,-4.100000000000001,Normal,5
+Trincomalee,54,Male,162.7,59.2,1.55,Diabetes,,50.8,Low-carb <100g/day,"Traditional breakfast only, Sri Lankan traditional",Mixed,1.6269999999999998,22.363851553891035,1343.875,2083.00625,-8.400000000000006,Normal,5
+Badulla,51,Other,171.5,63.8,1.2,Heart Disease,,55.1,Low-sodium <2300mg/day,Spicy food lover,Local,1.715,21.691642087905546,1326.875,1592.25,-8.699999999999996,Normal,5
+Colombo,32,Male,169.1,66.2,1.55,Diabetes,,58.3,"Low-carb <100g/day, Vegetarian",Mango in season,Local,1.6909999999999998,23.151054334685217,1563.875,2424.00625,-7.900000000000006,Normal,5
+Kurunegala,30,Female,153.3,42.7,1.55,,Fish,43.8,,"Rice and curry daily, Mango in season",Local,1.5330000000000001,18.169524643534775,1074.125,1664.89375,1.0999999999999943,Underweight,4
+Kandy,32,Male,167.9,51.8,1.725,,Peanuts,51.2,,"Seafood focused, Hoppers and string hoppers",Mixed,1.679,18.375043144104676,1412.375,2436.346875,-0.5999999999999943,Underweight,4
+Hambantota,61,Male,167.9,69.1,1.2,,Peanuts,59.8,,Seafood daily,Mixed,1.679,24.511881877560484,1440.375,1728.45,-9.299999999999997,Normal,5
+Gampaha,19,Male,158.9,52.8,1.9,,Tree Nuts,47.2,,Less oil preferred,Mediterranean,1.589,20.9115453513199,1431.125,2719.1375,-5.599999999999994,Normal,5
+Gampaha,37,Male,170.1,61.5,1.375,,,64.5,,"Mango in season, Seafood focused",Local,1.7009999999999998,21.255263269764548,1498.125,2059.921875,3.0,Normal,5
+Mannar,30,Female,161.0,76.0,1.9,,"Peanuts, Eggs",75.2,,Murunga dishes,Local,1.61,29.319856487018246,1455.25,2764.975,-0.7999999999999972,Overweight,6
+Mullaitivu,43,Male,162.6,64.4,1.55,Diabetes,Dairy/Lactose,65.1,Low-carb <100g/day,"Coconut based dishes, Murunga dishes",Local,1.626,24.35817716110741,1450.25,2247.8875000000003,0.6999999999999886,Normal,5
+Kandy,43,Male,172.2,57.4,1.2,,Dairy/Lactose,52.0,,"Spicy food lover, Seafood focused",Local,1.722,19.35733643050716,1440.25,1728.3,-5.399999999999999,Normal,5
+Puttalam,49,Male,165.2,74.3,1.375,,,65.9,Vegan,Sri Lankan traditional,Mixed,1.652,27.225052618002103,1535.5,2111.3125,-8.399999999999991,Overweight,6
+Gampaha,27,Male,170.3,59.9,1.55,,,60.7,,Jackfruit curry lover,Mediterranean,1.703,20.653683924158567,1533.375,2376.7312500000003,0.8000000000000043,Normal,5
+Nuwara Eliya,58,Male,175.9,86.0,1.375,"Diabetes, Hypertension",,87.9,Low-carb <100g/day,"Mango in season, Vegetable heavy",Local,1.7590000000000001,27.795006013094028,1674.375,2302.265625,1.9000000000000057,Overweight,6
+Puttalam,41,Female,152.3,58.7,1.725,,,57.7,Low-fat,"Jackfruit curry lover, Coconut based dishes, Hoppers and string hoppers",Local,1.5230000000000001,25.30686186721528,1172.875,2023.2093750000001,-1.0,Overweight,6
+Monaragala,47,Male,174.0,74.0,1.725,Asthma,,76.9,,"Spicy food lover, Pumpkin curry lover",Asian fusion,1.74,24.441802087462015,1597.5,2755.6875,2.9000000000000057,Normal,5
+Kilinochchi,25,Female,154.4,57.5,1.9,Anemia,Fish,53.1,,"Bitter gourd preferred, More vegetarian",Mediterranean,1.544,24.119775027517516,1254.0,2382.6,-4.399999999999999,Normal,5
+Matale,60,Female,149.2,48.9,1.375,Diabetes,,50.1,Low-carb <100g/day,Less oil preferred,Local,1.492,21.967023409928913,960.5,1320.6875,1.2000000000000028,Normal,5
+Kalutara,18,Female,149.1,52.2,1.725,,,47.9,,Seafood focused,Local,1.4909999999999999,23.480925796226053,1202.875,2074.959375,-4.300000000000004,Normal,5
+Ratnapura,58,Male,165.9,58.6,1.2,Anemia,"Dairy/Lactose, Tree Nuts, Shellfish",50.6,Low-sodium <2300mg/day,Coconut based dishes,Local,1.659,21.291430635171338,1337.875,1605.45,-8.0,Normal,5
+Kurunegala,39,Female,154.4,47.5,1.375,,Dairy/Lactose,42.7,,"Less oil preferred, Sri Lankan traditional, Hoppers and string hoppers",Mediterranean,1.544,19.92503154447099,1084.0,1490.5,-4.799999999999997,Normal,5
+Badulla,28,Male,172.1,73.5,1.725,,Soy,64.4,Low-purine,"Gotu kola preferred, Spicy food lover, Lentils and pulses",Mediterranean,1.7209999999999999,24.815646754839307,1675.625,2890.453125,-9.099999999999994,Normal,5
+Batticaloa,33,Male,164.8,69.1,1.725,Thyroid Disorder,,73.8,,"Pumpkin curry lover, Durian when available, Gotu kola preferred",Local,1.6480000000000001,25.442725516071253,1561.0,2692.7250000000004,4.700000000000003,Overweight,6
+Kegalle,26,Female,156.2,52.7,1.375,,,52.0,,Mango in season,Local,1.5619999999999998,21.59974162282507,1212.25,1666.84375,-0.7000000000000028,Normal,5
+Kilinochchi,33,Male,162.1,73.5,1.55,,,62.9,,Jackfruit curry lover,Local,1.621,27.971857647220453,1588.125,2461.59375,-10.600000000000001,Overweight,6
+Kilinochchi,55,Male,166.7,71.7,1.375,Arthritis,,67.2,,"Seafood focused, Lentils and pulses, Mango in season",Local,1.6669999999999998,25.801678296614227,1488.875,2047.203125,-4.5,Overweight,6
+Batticaloa,29,Male,165.0,71.1,1.55,,,71.3,,Hoppers and string hoppers,Mediterranean,1.65,26.115702479338843,1602.25,2483.4875,0.20000000000000284,Overweight,6
+Puttalam,59,Female,147.4,48.7,1.2,,,44.7,,"Spicy food lover, Gotu kola preferred, Less oil preferred",Local,1.474,22.414754892123813,952.25,1142.7,-4.0,Normal,5
+Galle,50,Female,149.3,53.8,1.2,PCOS,,55.9,,"Coconut based dishes, Jackfruit curry lover, Traditional breakfast only",Local,1.493,24.135853451404607,1060.125,1272.1499999999999,2.1000000000000014,Normal,5
+Ratnapura,54,Female,152.4,56.8,1.375,Thyroid Disorder,,51.3,,"Vegetable heavy, Pumpkin curry lover",Local,1.524,24.455604466764484,1089.5,1498.0625,-5.5,Normal,5
+Kandy,63,Male,164.9,62.7,1.2,,,57.6,,"Hoppers and string hoppers, Murunga dishes",Local,1.649,23.058243947394843,1347.625,1617.1499999999999,-5.100000000000001,Normal,5
+Anuradhapura,46,Female,151.2,57.5,1.55,,,59.0,,Lentils and pulses,Mixed,1.5119999999999998,25.151521513955384,1129.0,1749.95,1.5,Overweight,6
+Kilinochchi,23,Female,148.7,49.2,1.725,,"Soy, Fish",42.3,,"Jaffna cuisine specific, Sri Lankan traditional",Local,1.4869999999999999,22.250673738642327,1145.375,1975.7718750000001,-6.900000000000006,Normal,5
+Monaragala,26,Male,167.8,55.6,1.375,,,50.6,,Bitter gourd preferred,Local,1.6780000000000002,19.74653405708879,1479.75,2034.65625,-5.0,Normal,5
+Gampaha,26,Male,166.4,65.9,1.725,,,61.2,,"Traditional breakfast only, Spicy food lover",Local,1.6640000000000001,23.800099389792894,1574.0,2715.15,-4.700000000000003,Normal,5
+Trincomalee,29,Female,154.9,60.4,1.55,,,51.5,,Jackfruit curry lover,Local,1.5490000000000002,25.17294941529156,1266.125,1962.49375,-8.899999999999999,Overweight,6
+Kandy,49,Male,158.0,60.1,1.725,,,53.3,,Durian when available,Local,1.58,24.07466752123057,1348.5,2326.1625,-6.800000000000004,Normal,5
+Colombo,28,Female,158.3,65.3,1.55,,,58.8,,"Less oil preferred, Gotu kola preferred, Jackfruit curry lover",Mixed,1.5830000000000002,26.058616323388616,1341.375,2079.13125,-6.5,Overweight,6
+Colombo,36,Female,158.8,52.4,1.55,Anemia,Wheat/Gluten,47.6,Vegetarian,Spicy food lover,Local,1.588,20.779270219340262,1175.5,1822.025,-4.799999999999997,Normal,5
+Galle,18,Female,157.8,49.4,1.725,,,45.6,Low-purine,"Seafood focused, Coconut based dishes",Local,1.578,19.838688172768464,1229.25,2120.45625,-3.799999999999997,Normal,5
+Badulla,26,Female,157.5,54.8,1.725,Arthritis,Eggs,56.8,,"Sri Lankan traditional, Rice and curry daily",Mixed,1.575,22.091206853111615,1241.375,2141.3718750000003,2.0,Normal,5
+Mullaitivu,43,Female,153.2,41.7,1.375,,,35.9,,Lentils and pulses,Local,1.5319999999999998,17.767180906543782,998.5,1372.9375,-5.800000000000004,Underweight,4
+Puttalam,33,Other,161.4,57.6,1.9,,,59.6,Gluten-free,"Vegetable heavy, Rice and curry daily",Local,1.614,22.111358328381307,1291.75,2454.325,2.0,Normal,5
+Polonnaruwa,23,Female,156.5,54.4,1.375,,Peanuts,51.1,Vegetarian,"Spicy food lover, Vegetable heavy",Mediterranean,1.565,22.211107595259726,1246.125,1713.421875,-3.299999999999997,Normal,5
+Badulla,51,Female,149.9,61.5,1.55,High Cholesterol,,54.5,,"Coconut based dishes, Sri Lankan traditional, Pumpkin curry lover",Local,1.499,27.369814254644297,1135.875,1760.60625,-7.0,Overweight,6
+Trincomalee,53,Male,179.7,89.3,1.375,Diabetes,Soy,82.6,Low-carb <100g/day,"Lentils and pulses, Murunga dishes",Local,1.797,27.653831015583076,1756.125,2414.671875,-6.700000000000003,Overweight,6
+Anuradhapura,32,Male,164.2,74.9,1.725,,,78.0,,"Jackfruit curry lover, Bitter gourd preferred",Local,1.642,27.78020921575988,1620.25,2794.93125,3.0999999999999943,Overweight,6
+Anuradhapura,53,Other,148.3,54.7,1.2,"Diabetes, Thyroid Disorder",,48.7,Low-carb <100g/day,Pumpkin curry lover,Local,1.483,24.87167443660201,1080.875,1297.05,-6.0,Normal,5
+Mullaitivu,20,Female,154.5,51.6,1.375,,Soy,45.3,Vegan,Pumpkin curry lover,Local,1.545,21.616866182800766,1220.625,1678.359375,-6.300000000000004,Normal,5
+Nuwara Eliya,23,Male,160.9,43.0,1.55,,,42.4,,Mango in season,Local,1.609,16.609492672702995,1325.625,2054.71875,-0.6000000000000014,Underweight,4
+Batticaloa,47,Male,173.3,83.4,1.375,Diabetes,,73.9,"Low-carb <100g/day, Vegan",Bitter gourd preferred,Local,1.733,27.769555310860856,1687.125,2319.796875,-9.5,Overweight,6
+Mullaitivu,19,Male,172.4,65.3,1.9,,,61.0,,"Lentils and pulses, Spicy food lover",Local,1.724,21.970435129009857,1640.5,3116.95,-4.299999999999997,Normal,5
+Badulla,32,Male,170.9,65.4,1.725,,,62.1,,"Traditional breakfast only, Seafood focused",Local,1.709,22.3920380212697,1567.125,2703.290625,-3.3000000000000043,Normal,5
+Matara,49,Male,160.2,59.1,1.55,Diabetes,,62.1,Low-carb <100g/day,"Less oil preferred, Bitter gourd preferred",Local,1.6019999999999999,23.02833069150454,1352.25,2095.9875,3.0,Normal,5
+Mannar,60,Male,166.4,60.3,1.375,Heart Disease,"Sulfites, Eggs",54.8,Low-sodium <2300mg/day,"Less oil preferred, Durian when available",Local,1.6640000000000001,21.777632673816562,1348.0,1853.5,-5.5,Normal,5
+Kegalle,18,Male,158.3,57.7,1.725,Anemia,,61.7,,"Mango in season, Durian when available, Coconut based dishes",Mediterranean,1.5830000000000002,23.025760518522564,1481.375,2555.3718750000003,4.0,Normal,5
+Monaragala,44,Female,149.2,47.2,1.2,,Dairy/Lactose,43.6,,"Hoppers and string hoppers, Durian when available",Mixed,1.492,21.20334365948149,1023.5,1228.2,-3.6000000000000014,Normal,5
+Puttalam,30,Male,162.4,64.5,1.725,,Soy,63.7,,"Coconut based dishes, Pumpkin curry lover",Local,1.624,24.45612608896115,1515.0,2613.375,-0.7999999999999972,Normal,5
+Nuwara Eliya,22,Female,157.4,67.1,1.375,,,60.5,,"Seafood focused, Spicy food lover",Local,1.574,27.084016151922356,1383.75,1902.65625,-6.599999999999994,Overweight,6
+Hambantota,24,Female,155.4,49.8,1.9,,,49.4,,Bitter gourd preferred,Local,1.554,20.621835293649962,1188.25,2257.6749999999997,-0.3999999999999986,Normal,5
+Ampara,43,Male,165.7,70.1,1.725,Diabetes,,65.9,Low-carb <100g/day,"Rice and curry daily, Durian when available",Local,1.6569999999999998,25.531304256297876,1526.625,2633.428125,-4.199999999999989,Overweight,6
+Kilinochchi,60,Male,166.0,77.5,1.2,PCOS,,66.1,,Vegetable heavy,Local,1.66,28.124546378284222,1517.5,1821.0,-11.400000000000006,Overweight,6
+Ratnapura,40,Female,157.7,56.3,1.2,,,57.4,,"Murunga dishes, Pumpkin curry lover, Jackfruit curry lover",Local,1.577,22.638362414045595,1187.625,1425.1499999999999,1.1000000000000014,Normal,5
+Kalutara,33,Male,166.6,59.7,1.55,,"Soy, Eggs",54.8,,"Coconut based dishes, Lentils and pulses, Seafood focused",Mediterranean,1.666,21.509203921664707,1478.25,2291.2875,-4.900000000000006,Normal,5
+Anuradhapura,52,Male,162.8,67.3,1.725,"Kidney Disease, Arthritis",,63.5,Low-sodium <2300mg/day,Lentils and pulses,Local,1.6280000000000001,25.392546891318386,1435.5,2476.2375,-3.799999999999997,Overweight,6
+Colombo,43,Female,158.2,56.7,1.725,,Dairy/Lactose,57.8,,Vegetable heavy,Local,1.5819999999999999,22.655314769027672,1179.75,2035.0687500000001,1.0999999999999943,Normal,5
+Monaragala,40,Male,173.0,63.4,1.725,Hypertension,,59.6,"Low-sodium <2300mg/day, Vegetarian",Mango in season,Mixed,1.73,21.183467539844298,1520.25,2622.43125,-3.799999999999997,Normal,5
+Nuwara Eliya,29,Female,162.6,59.5,1.725,,,54.3,,Sri Lankan traditional,Local,1.626,22.50483759450141,1305.25,2251.55625,-5.200000000000003,Normal,5
+Nuwara Eliya,54,Female,143.6,45.7,1.55,Hypertension,,41.3,Low-sodium <2300mg/day,"Vegetable heavy, Rice and curry daily",Local,1.436,22.16191680697698,923.5,1431.425,-4.400000000000006,Normal,5
+Vavuniya,22,Male,169.7,56.8,1.725,,,56.5,,"Spicy food lover, Bitter gourd preferred",Local,1.6969999999999998,19.723530275792598,1523.625,2628.253125,-0.29999999999999716,Normal,5
+Ampara,18,Male,162.3,55.3,1.725,,,50.8,Vegan,"Seafood focused, Pumpkin curry lover",Mixed,1.6230000000000002,20.99365672675863,1482.375,2557.096875,-4.5,Normal,5
+Kegalle,50,Male,175.1,82.1,1.375,,,76.9,,Jackfruit curry lover,Local,1.751,26.777551605495237,1670.375,2296.765625,-5.199999999999989,Overweight,6
+Gampaha,32,Female,156.4,50.2,1.9,,"Fish, Soy, Peanuts",45.1,Vegan,"Spicy food lover, Rice and curry daily",Local,1.564,20.522497890516153,1158.5,2201.15,-5.100000000000001,Normal,5
+Galle,41,Male,158.2,66.6,1.375,Diabetes,,58.2,"Low-carb <100g/day, Vegetarian","Seafood focused, Murunga dishes, Hoppers and string hoppers",Local,1.5819999999999999,26.611004649334085,1454.75,2000.28125,-8.399999999999991,Overweight,6
+Batticaloa,50,Male,167.3,61.3,1.2,Diabetes,,53.3,Low-carb <100g/day,"Spicy food lover, Coconut based dishes",Local,1.673,21.901234365001752,1413.625,1696.35,-8.0,Normal,5
+Kalutara,26,Male,164.8,62.3,1.9,,,56.3,,"Mango in season, Spicy food lover, Hoppers and string hoppers",Local,1.6480000000000001,22.93895513243472,1528.0,2903.2,-6.0,Normal,5
+Kilinochchi,45,Female,153.8,59.1,1.2,Asthma,,63.7,,Seafood focused,Local,1.538,24.984738594530246,1166.25,1399.5,4.600000000000001,Normal,5
+Matara,49,Male,168.6,68.7,1.55,Diabetes,Sulfites,63.1,Low-carb <100g/day,"Bitter gourd preferred, Seafood focused",Local,1.686,24.168049205726035,1500.75,2326.1625,-5.600000000000001,Normal,5
+Colombo,31,Male,168.1,76.4,1.9,,,80.7,,Murunga dishes,Mixed,1.681,27.036964555742685,1664.625,3162.7875,4.299999999999997,Overweight,6
+Kandy,18,Male,155.5,65.3,1.725,,Eggs,60.1,,"Lentils and pulses, Gotu kola preferred, Sri Lankan traditional",Local,1.555,27.005510695712413,1539.875,2656.284375,-5.199999999999996,Overweight,6
+Jaffna,26,Other,162.5,54.1,1.9,,,56.0,,Traditional breakfast only,Local,1.625,20.48757396449704,1298.625,2467.3875,1.8999999999999986,Normal,5
+Batticaloa,40,Male,168.2,58.3,1.2,Hypertension,Eggs,61.8,Low-sodium <2300mg/day,"Less oil preferred, Traditional breakfast only",Local,1.682,20.607085444116272,1439.25,1727.1,3.5,Normal,5
+Galle,28,Female,156.7,58.5,1.375,,Shellfish,53.7,,"Seafood daily, Traditional breakfast only",Mixed,1.567,23.824175143932635,1263.375,1737.140625,-4.799999999999997,Normal,5
+Galle,46,Male,162.7,68.6,1.55,"Osteoporosis, Anemia",,73.3,,"Coconut emphasis, Vegetable heavy",Local,1.6269999999999998,25.914868523596702,1477.875,2290.70625,4.700000000000003,Overweight,6
+Nuwara Eliya,62,Male,170.8,64.4,1.375,Diabetes,Fish,57.2,Low-carb <100g/day,Durian when available,Local,1.7080000000000002,22.075478941912692,1406.5,1933.9375,-7.200000000000003,Normal,5
+Matale,34,Male,161.3,65.0,1.9,"Diabetes, Thyroid Disorder",,59.9,Low-carb <100g/day,"Traditional breakfast only, Hoppers and string hoppers",Local,1.6130000000000002,24.983001949827205,1493.125,2836.9375,-5.100000000000001,Normal,5
+Puttalam,37,Male,177.0,67.2,1.55,PCOS,,59.5,Low-carb <100g/day,"Murunga dishes, Spicy food lover",Local,1.77,21.449774968878675,1598.25,2477.2875,-7.700000000000003,Normal,5
+Matara,25,Male,168.9,60.1,1.9,,,64.4,,"Rice and curry daily, Mango in season",Asian fusion,1.689,21.067605279310524,1536.625,2919.5874999999996,4.300000000000004,Normal,5
+Galle,44,Male,170.3,76.2,1.375,,Peanuts,65.2,Low-sodium <2300mg/day,"Vegetable heavy, Traditional breakfast only",Local,1.703,26.273968531233436,1611.375,2215.640625,-11.0,Overweight,6
+Mullaitivu,32,Male,168.4,73.3,1.55,,,62.4,,Less oil preferred,Local,1.6840000000000002,25.847574771074406,1630.5,2527.275,-10.899999999999999,Overweight,6
+Kegalle,50,Other,166.0,70.2,1.55,Thyroid Disorder,Soy,64.0,,"Gotu kola preferred, Durian when available",Local,1.66,25.47539555813616,1361.5,2110.3250000000003,-6.200000000000003,Overweight,6
+Kilinochchi,34,Male,177.1,69.4,1.55,,,62.4,,Mango in season,Mediterranean,1.771,22.12699043278672,1635.875,2535.6062500000003,-7.000000000000007,Normal,5
+Ratnapura,39,Female,163.0,55.3,1.375,,,57.0,Vegan,"Bitter gourd preferred, Sri Lankan traditional",Mixed,1.63,20.813730287176785,1215.75,1671.65625,1.7000000000000028,Normal,5
+Batticaloa,19,Female,152.7,46.8,1.55,,,41.5,Low-FODMAP,Bitter gourd preferred,Local,1.527,20.070943064138245,1166.375,1807.8812500000001,-5.299999999999997,Normal,5
+Kandy,22,Female,162.7,61.8,1.9,,,61.5,,"Sri Lankan traditional, Traditional breakfast only",Local,1.6269999999999998,23.34604773700111,1363.875,2591.3624999999997,-0.29999999999999716,Normal,5
+Monaragala,20,Female,147.2,41.4,1.375,,Tree Nuts,42.9,,"Gotu kola preferred, Traditional breakfast only",Mixed,1.472,19.106657608695652,1073.0,1475.375,1.5,Normal,5
+Badulla,32,Female,165.8,62.6,1.725,Diabetes,,58.8,Low-carb <100g/day,"Lentils and pulses, Murunga dishes",Local,1.6580000000000001,22.77221527819207,1341.25,2313.65625,-3.8000000000000043,Normal,5
+Hambantota,34,Female,155.1,53.7,1.9,,"Soy, Eggs",47.1,,Bitter gourd preferred,Local,1.551,22.322903922969772,1175.375,2233.2125,-6.600000000000001,Normal,5
+Trincomalee,55,Female,154.4,46.8,1.55,Hypertension,,40.2,Low-sodium <2300mg/day,Jackfruit curry lover,Local,1.544,19.631399500657732,997.0,1545.3500000000001,-6.599999999999994,Normal,5
+Hambantota,43,Male,173.0,81.6,1.55,,,86.7,,Gotu kola preferred,Local,1.73,27.2645260449731,1687.25,2615.2375,5.1000000000000085,Overweight,6
+Matale,60,Female,147.1,43.7,1.2,Arthritis,,45.7,,"Coconut based dishes, Seafood focused",Local,1.4709999999999999,20.195568898084474,895.375,1074.45,2.0,Normal,5
+Mannar,29,Female,160.1,52.0,1.55,,,52.1,Vegan,Spicy food lover,Local,1.601,20.287133158889997,1214.625,1882.66875,0.10000000000000142,Normal,5
+Kegalle,19,Female,150.9,54.9,1.725,,,51.3,,Less oil preferred,Local,1.5090000000000001,24.109814275381503,1236.125,2132.315625,-3.6000000000000014,Normal,5
+Vavuniya,34,Female,157.2,55.8,1.725,,Soy,58.8,,Less oil preferred,Mediterranean,1.5719999999999998,22.58026921508071,1209.5,2086.3875000000003,3.0,Normal,5
+Badulla,65,Female,163.8,52.9,1.55,PCOS,,49.2,Low-fat,"Spicy food lover, Coconut based dishes",Local,1.6380000000000001,19.716411657803597,1066.75,1653.4625,-3.6999999999999957,Normal,5
+Badulla,55,Female,150.7,55.5,1.725,Asthma,,48.9,Low-sodium <2300mg/day,"Coconut based dishes, Pumpkin curry lover, Durian when available",Local,1.507,24.43804603071092,1060.875,1830.009375,-6.600000000000001,Normal,5
+Ratnapura,25,Female,155.6,55.1,1.375,Hypertension,Fish,50.5,Low-sodium <2300mg/day,Spicy food lover,Mediterranean,1.556,22.757911988421963,1237.5,1701.5625,-4.600000000000001,Normal,5
+Kurunegala,49,Male,164.2,61.6,1.2,,,56.0,Vegetarian,"Spicy food lover, Sri Lankan traditional, Coconut based dishes",Local,1.642,22.84727486903616,1402.25,1682.7,-5.600000000000001,Normal,5
+Mannar,54,Female,156.0,51.6,1.2,"Diabetes, Arthritis",Eggs,47.9,Low-carb <100g/day,Coconut based dishes,Local,1.56,21.203155818540434,1060.0,1272.0,-3.700000000000003,Normal,5
+Kegalle,50,Female,148.1,51.0,1.375,Diabetes,,48.0,Low-carb <100g/day,Bitter gourd preferred,Local,1.4809999999999999,23.25198633512678,1024.625,1408.859375,-3.0,Normal,5
+Matara,38,Male,159.4,59.7,1.725,,,60.6,,"Coconut emphasis, Coconut based dishes",Mixed,1.594,23.496203611724646,1408.25,2429.2312500000003,0.8999999999999986,Normal,5
+Mullaitivu,33,Male,166.7,70.9,1.725,Asthma,,69.8,,Jackfruit curry lover,Local,1.6669999999999998,25.513793462063443,1590.875,2744.259375,-1.1000000000000085,Overweight,6
+Vavuniya,65,Female,155.3,59.2,1.2,"Diabetes, PCOS",,53.1,"Low-carb <100g/day, Vegan",Seafood focused,Local,1.5530000000000002,24.545890657178905,1076.625,1291.95,-6.100000000000001,Normal,5
+Gampaha,29,Male,169.3,52.6,1.375,,,49.5,,"Hoppers and string hoppers, Sri Lankan traditional",Local,1.693,18.351510981774435,1444.125,1985.671875,-3.1000000000000014,Underweight,4
+Colombo,46,Female,154.6,53.9,1.55,Anemia,,46.4,Vegetarian,"Lentils and pulses, Hoppers and string hoppers",Local,1.546,22.551206719673857,1114.25,1727.0875,-7.5,Normal,5
+Kandy,54,Female,154.9,54.0,1.55,Kidney Disease,Soy,47.0,Low-sodium <2300mg/day,"Durian when available, Bitter gourd preferred",Local,1.5490000000000002,22.505617026916298,1077.125,1669.54375,-7.0,Normal,5
+Gampaha,36,Female,158.7,53.6,1.2,,Fish,48.7,,"Lentils and pulses, Rice and curry daily, Western options sometimes",Local,1.587,21.28192636374068,1186.875,1424.25,-4.899999999999999,Normal,5
+Nuwara Eliya,52,Female,152.7,50.0,1.55,,,42.5,,"Durian when available, Vegetable heavy, Gotu kola preferred",Local,1.527,21.44331523946394,1033.375,1601.73125,-7.5,Normal,5
+Hambantota,47,Female,154.9,68.2,1.55,"Kidney Disease, Thyroid Disorder",,58.8,Low-sodium <2300mg/day,Coconut based dishes,Local,1.5490000000000002,28.423760763623914,1254.125,1943.89375,-9.400000000000006,Overweight,6
+Kalutara,29,Male,175.5,76.4,1.55,,,67.0,,Bitter gourd preferred,Mediterranean,1.755,24.80499346596213,1720.875,2667.3562500000003,-9.400000000000006,Normal,5
+Matale,34,Male,179.1,79.6,1.55,Osteoporosis,,68.1,,"Vegetable heavy, Murunga dishes, Mango in season",Local,1.791,24.815435200694832,1750.375,2713.08125,-11.5,Normal,5
+Badulla,34,Female,151.6,66.8,1.375,Asthma,Dairy/Lactose,67.9,,Durian when available,Local,1.516,29.06551750544761,1284.5,1766.1875,1.1000000000000085,Overweight,6
+Hambantota,28,Male,168.1,65.6,1.375,,"Tree Nuts, Sulfites",57.3,,Hoppers and string hoppers,Mixed,1.681,23.214985272993715,1571.625,2160.984375,-8.299999999999997,Normal,5
+Kandy,29,Female,155.7,53.5,1.55,,,50.6,,Coconut based dishes,Local,1.557,22.068690138678,1202.125,1863.29375,-2.8999999999999986,Normal,5
+Matale,31,Other,166.9,58.1,1.375,"Asthma, Arthritis",,62.6,,"Durian when available, Sri Lankan traditional",Local,1.669,20.857557956907065,1341.125,1844.046875,4.5,Normal,5
+Nuwara Eliya,26,Other,163.8,64.2,1.375,,,66.9,,Traditional breakfast only,Mediterranean,1.6380000000000001,23.928045906067883,1407.75,1935.65625,2.700000000000003,Normal,5
+Anuradhapura,24,Female,160.6,50.4,1.725,,,44.8,,"Traditional breakfast only, Jackfruit curry lover",Local,1.6059999999999999,19.540670182953406,1226.75,2116.14375,-5.600000000000001,Normal,5
+Matara,34,Male,171.2,63.9,1.55,"Kidney Disease, PCOS",,57.8,Low-sodium <2300mg/day,"Gotu kola preferred, Spicy food lover",Mixed,1.712,21.80184950650712,1544.0,2393.2000000000003,-6.100000000000001,Normal,5
+Monaragala,50,Male,153.1,50.2,1.2,,"MSG, Fish",49.4,,"Rice and curry daily, Coconut based dishes, Bitter gourd preferred",Asian fusion,1.531,21.416738589080623,1213.875,1456.6499999999999,-0.8000000000000043,Normal,5
+Trincomalee,51,Male,167.2,58.5,1.375,Diabetes,"Soy, Fish",54.5,Low-carb <100g/day,"Mango in season, Bitter gourd preferred",Local,1.672,20.925860213822943,1380.0,1897.5,-4.0,Normal,5
+Polonnaruwa,65,Male,160.9,56.1,1.55,High Cholesterol,Eggs,50.2,,Less oil preferred,Local,1.609,21.669593928805536,1246.625,1932.26875,-5.899999999999999,Normal,5
+Anuradhapura,46,Male,160.7,69.4,1.375,,,63.9,,"Pumpkin curry lover, Spicy food lover",Local,1.607,26.87371560871096,1473.375,2025.890625,-5.500000000000007,Overweight,6
+Nuwara Eliya,35,Female,150.0,47.5,1.55,,,42.5,,"Pumpkin curry lover, Gotu kola preferred",Mediterranean,1.5,21.11111111111111,1076.5,1668.575,-5.0,Normal,5
+Jaffna,23,Female,150.8,42.3,1.725,,,42.8,,"Jackfruit curry lover, Vegetable heavy, Less oil preferred",Local,1.508,18.6010596007852,1089.5,1879.3875,0.5,Normal,5
+Matale,52,Male,153.0,58.3,1.375,Arthritis,,52.8,,"Less oil preferred, Durian when available, Vegetable heavy",Local,1.53,24.90495108718869,1284.25,1765.84375,-5.5,Normal,5
+Anuradhapura,59,Female,146.6,49.5,1.2,High Cholesterol,,49.6,Vegetarian,"Lentils and pulses, Seafood focused",Local,1.466,23.032297329742466,955.25,1146.3,0.10000000000000142,Normal,5
+Hambantota,24,Female,151.0,60.2,1.55,,,52.2,,"Hoppers and string hoppers, Coconut emphasis, Jackfruit curry lover",Local,1.51,26.402350774088855,1264.75,1960.3625,-8.0,Overweight,6
+Galle,52,Female,154.9,65.4,1.2,"Diabetes, Anemia",,59.6,Low-carb <100g/day,Rice and curry daily,Local,1.5490000000000002,27.25680284370974,1201.125,1441.35,-5.800000000000004,Overweight,6
+Kegalle,29,Male,161.6,50.0,1.9,,Dairy/Lactose,46.1,,"Hoppers and string hoppers, Rice and curry daily, Less oil preferred",Local,1.6159999999999999,19.146407214978925,1370.0,2603.0,-3.8999999999999986,Normal,5
+Nuwara Eliya,54,Male,160.5,59.9,1.2,Asthma,,55.9,,Murunga dishes,Local,1.605,23.25287992158461,1337.125,1604.55,-4.0,Normal,5
+Mullaitivu,45,Male,177.7,78.6,1.55,Diabetes,Dairy/Lactose,82.0,Low-carb <100g/day,"Gotu kola preferred, Coconut based dishes",Local,1.777,24.891306378729777,1676.625,2598.76875,3.4000000000000057,Normal,5
+Batticaloa,28,Female,151.9,53.7,1.55,,Peanuts,46.5,,Vegetable heavy,Local,1.5190000000000001,23.273341276029193,1185.375,1837.33125,-7.200000000000003,Normal,5
+Kandy,32,Male,158.1,52.7,1.55,,Tree Nuts,46.5,,Vegetable heavy,Mixed,1.581,21.08370229812355,1360.125,2108.19375,-6.200000000000003,Normal,5
+Kilinochchi,24,Male,177.7,74.7,1.55,Thyroid Disorder,,67.0,,"Mango in season, Durian when available",Local,1.777,23.656241558411125,1742.625,2701.06875,-7.700000000000003,Normal,5
+Nuwara Eliya,20,Female,162.6,51.3,1.9,,Nightshades,45.9,,"Pumpkin curry lover, Less oil preferred",Mediterranean,1.626,19.403330564670963,1268.25,2409.6749999999997,-5.399999999999999,Normal,5
+Matara,54,Male,171.3,76.6,1.375,Arthritis,,77.0,,Mango in season,Local,1.713,26.10441972362712,1571.625,2160.984375,0.4000000000000057,Overweight,6
+Vavuniya,53,Male,158.1,64.5,1.2,Heart Disease,Shellfish,54.9,Low-sodium <2300mg/day,"Sri Lankan traditional, Hoppers and string hoppers",Local,1.581,25.804531275692014,1373.125,1647.75,-9.600000000000001,Overweight,6
+Batticaloa,60,Male,167.1,65.1,1.375,Anemia,,58.0,,"Traditional breakfast only, Sri Lankan traditional",Mixed,1.671,23.31460643977364,1400.375,1925.515625,-7.099999999999994,Normal,5
+Matale,46,Female,158.7,44.5,1.55,"Hypertension, Arthritis",,40.9,Low-sodium <2300mg/day,"Durian when available, Gotu kola preferred, Hoppers and string hoppers",Local,1.587,17.668763492284707,1045.875,1621.10625,-3.6000000000000014,Underweight,4
+Mannar,44,Female,163.1,58.4,1.2,,Fish,52.3,,"Pumpkin curry lover, Spicy food lover, Murunga dishes",Local,1.631,21.95355845003366,1222.375,1466.85,-6.100000000000001,Normal,5
+Anuradhapura,25,Female,150.2,45.3,1.725,,,48.5,,"Rice and curry daily, Hoppers and string hoppers",Local,1.5019999999999998,20.079751631646047,1105.75,1907.41875,3.200000000000003,Normal,5
+Colombo,28,Female,156.3,51.1,1.9,,,54.4,,Jackfruit curry lover,Local,1.5630000000000002,20.917170868725712,1186.875,2255.0625,3.299999999999997,Normal,5
+Kurunegala,31,Female,154.6,55.9,1.55,,"Dairy/Lactose, Tree Nuts",47.8,,"Murunga dishes, Less oil preferred, Bitter gourd preferred",Mixed,1.546,23.387986189791626,1209.25,1874.3375,-8.100000000000001,Normal,5
+Kurunegala,65,Female,153.2,55.2,1.375,"Kidney Disease, Asthma, Hypertension",Fish,47.6,Low-sodium <2300mg/day,"Lentils and pulses, Jackfruit curry lover",Local,1.5319999999999998,23.51914594823062,1023.5,1407.3125,-7.600000000000001,Normal,5
+Trincomalee,24,Male,175.5,72.5,1.9,,,66.6,,"Less oil preferred, Sri Lankan traditional, Jackfruit curry lover",Local,1.755,23.53876997751642,1706.875,3243.0625,-5.900000000000006,Normal,5
+Anuradhapura,19,Female,159.3,59.4,1.375,,,54.8,Gluten-free,Hoppers and string hoppers,Local,1.5930000000000002,23.40749252556204,1333.625,1833.734375,-4.600000000000001,Normal,5
+Kandy,31,Male,167.8,69.8,1.55,,,74.5,,Spicy food lover,Asian fusion,1.6780000000000002,24.78971361843161,1596.75,2474.9625,4.700000000000003,Normal,5
+Matale,37,Male,167.3,65.4,1.2,,,65.5,,"Mango in season, Sri Lankan traditional, Seafood focused",Local,1.673,23.36608038288931,1519.625,1823.55,0.09999999999999432,Normal,5
+Matara,54,Female,153.8,52.3,1.725,,,52.5,,"Spicy food lover, Traditional breakfast only",Mediterranean,1.538,22.11001401850984,1053.25,1816.85625,0.20000000000000284,Normal,5
+Matale,41,Female,165.5,62.2,1.55,,,63.0,,Jackfruit curry lover,Mixed,1.655,22.7088106169166,1290.375,2000.08125,0.7999999999999972,Normal,5
+Monaragala,31,Male,167.6,58.4,1.375,,,50.4,Low-carb <100g/day,"Jackfruit curry lover, Hoppers and string hoppers, Bitter gourd preferred",Local,1.676,20.79049447200688,1481.5,2037.0625,-8.0,Normal,5
+Galle,23,Female,148.0,46.6,1.725,,Dairy/Lactose,42.5,,Less oil preferred,Local,1.48,21.27465303140979,1115.0,1923.375,-4.100000000000001,Normal,5
+Polonnaruwa,50,Female,155.3,55.4,1.55,Diabetes,,48.2,Low-carb <100g/day,"Jackfruit curry lover, Seafood focused",Local,1.5530000000000002,22.970309837968095,1113.625,1726.11875,-7.199999999999996,Normal,5
+Kalutara,20,Female,150.7,46.0,1.375,,,41.8,,"Lentils and pulses, Sri Lankan traditional",Local,1.507,20.25495707049914,1140.875,1568.703125,-4.200000000000003,Normal,5
+Kegalle,44,Female,153.4,48.6,1.375,"Diabetes, Hypertension, PCOS",Peanuts,45.7,Low-carb <100g/day,"Pumpkin curry lover, Murunga dishes, Durian when available",Local,1.534,20.653114370657956,1063.75,1462.65625,-2.8999999999999986,Normal,5
+Matara,52,Male,171.6,60.5,1.375,Arthritis,Dairy/Lactose,52.4,Low-sodium <2300mg/day,"Coconut emphasis, Coconut based dishes",Local,1.716,20.545693622616703,1422.5,1955.9375,-8.100000000000001,Normal,5
+Nuwara Eliya,62,Female,150.1,46.1,1.2,Arthritis,Sesame,41.2,,"Pumpkin curry lover, Mango in season",Local,1.501,20.461597664625984,928.125,1113.75,-4.899999999999999,Normal,5
+Vavuniya,26,Female,154.7,59.8,1.725,,,54.1,,"Vegetable heavy, Durian when available",Local,1.547,24.987370513816387,1273.875,2197.4343750000003,-5.699999999999996,Normal,5
+Nuwara Eliya,21,Female,148.0,47.6,1.725,,,51.3,,Sri Lankan traditional,Mediterranean,1.48,21.73119065010957,1135.0,1957.875,3.6999999999999957,Normal,5
+Kegalle,58,Female,146.2,50.4,1.55,Thyroid Disorder,,50.4,,Lentils and pulses,Local,1.462,23.5795651254489,966.75,1498.4625,0.0,Normal,5
+Mannar,34,Male,177.6,80.9,1.9,,Shellfish,81.9,,Gotu kola preferred,Local,1.776,25.64853705056408,1754.0,3332.6,1.0,Overweight,6
+Nuwara Eliya,65,Female,155.4,58.2,1.375,Diabetes,Dairy/Lactose,61.5,Low-carb <100g/day,Bitter gourd preferred,Asian fusion,1.554,24.1002171504102,1067.25,1467.46875,3.299999999999997,Normal,5
+Kalutara,35,Female,153.1,49.1,1.55,,Wheat/Gluten,48.9,,Gotu kola preferred,Local,1.531,20.947447504459333,1111.875,1723.40625,-0.20000000000000284,Normal,5
+Vavuniya,28,Female,161.7,53.8,1.375,,,48.8,,"Coconut based dishes, Rice and curry daily",Local,1.617,20.57606086230523,1247.625,1715.484375,-5.0,Normal,5
+Galle,31,Male,170.8,69.4,1.725,,,60.5,Vegetarian,"Murunga dishes, Durian when available",Local,1.7080000000000002,23.789413642371752,1611.5,2779.8375,-8.900000000000006,Normal,5
+Kilinochchi,55,Female,157.3,58.5,1.55,,,59.3,"Vegetarian, Low-FODMAP","More vegetarian, Lentils and pulses",Local,1.5730000000000002,23.642773454944752,1132.125,1754.79375,0.7999999999999972,Normal,5
+Monaragala,36,Female,155.7,54.4,1.2,,,49.6,,"Spicy food lover, Gotu kola preferred, Pumpkin curry lover",Local,1.557,22.439939131665106,1176.125,1411.35,-4.799999999999997,Normal,5
+Matale,25,Female,150.8,48.5,1.55,,Peanuts,48.4,Vegetarian,Traditional breakfast only,Local,1.508,21.32745604345348,1141.5,1769.325,-0.10000000000000142,Normal,5
+Kandy,30,Female,160.6,67.4,1.375,,,63.6,Gluten-free,"Mango in season, Pumpkin curry lover",Local,1.6059999999999999,26.13176925260039,1366.75,1879.28125,-3.8000000000000043,Overweight,6
+Jaffna,41,Male,157.6,42.6,1.2,Diabetes,,38.6,"Low-carb <100g/day, Vegetarian","Durian when available, Jackfruit curry lover",Local,1.5759999999999998,17.151305109639523,1211.0,1453.2,-4.0,Underweight,4
+Colombo,52,Female,157.5,54.1,1.375,IBS,,50.6,Vegan,"Pumpkin curry lover, Gotu kola preferred",Local,1.575,21.809019904258,1104.375,1518.515625,-3.5,Normal,5
+Gampaha,27,Male,162.8,56.7,1.375,,,52.3,,Coconut based dishes,Local,1.6280000000000001,21.393126429981464,1454.5,1999.9375,-4.400000000000006,Normal,5
+Puttalam,31,Female,150.4,48.3,1.55,Hypertension,Dairy/Lactose,50.4,Low-sodium <2300mg/day,"Pumpkin curry lover, Spicy food lover, Bitter gourd preferred",Local,1.504,21.35263411045722,1107.0,1715.8500000000001,2.1000000000000014,Normal,5
+Vavuniya,28,Male,160.7,59.9,1.725,,Fish,54.9,,"Rice and curry daily, Pumpkin curry lover",Local,1.607,23.195036959103547,1468.375,2532.946875,-5.0,Normal,5
+Badulla,40,Male,167.0,56.6,1.55,,,49.8,,"Hoppers and string hoppers, Less oil preferred",Local,1.67,20.294739861594177,1414.75,2192.8625,-6.800000000000004,Normal,5
+Monaragala,20,Male,161.6,59.6,1.55,,,63.0,,"Coconut based dishes, Pumpkin curry lover",Local,1.6159999999999999,22.82251740025488,1511.0,2342.05,3.3999999999999986,Normal,5
+Badulla,24,Male,162.3,58.0,1.55,Anemia,Shellfish,54.1,,"Durian when available, Traditional breakfast only",Local,1.6230000000000002,22.018663474719723,1479.375,2293.03125,-3.8999999999999986,Normal,5
+Kandy,63,Female,163.0,71.9,1.55,Diabetes,,70.8,Low-carb <100g/day,"Sri Lankan traditional, Spicy food lover, Rice and curry daily",Local,1.63,27.061613158191882,1261.75,1955.7125,-1.1000000000000085,Overweight,6
+Kurunegala,57,Male,161.8,59.6,1.375,Diabetes,,59.7,Low-carb <100g/day,"Durian when available, Sri Lankan traditional, Bitter gourd preferred",Local,1.618,22.766130720372324,1327.25,1824.96875,0.10000000000000142,Normal,5
+Kalutara,62,Female,152.6,60.0,1.2,"High Cholesterol, PCOS",,56.9,,Rice and curry daily,Local,1.526,25.76571407958857,1082.75,1299.3,-3.1000000000000014,Overweight,6
+Kilinochchi,37,Female,156.4,57.4,1.375,,,49.2,,"Spicy food lover, Vegetable heavy, Bitter gourd preferred",Local,1.564,23.465963723418866,1205.5,1657.5625,-8.199999999999996,Normal,5
+Trincomalee,32,Female,166.5,60.6,1.725,Anemia,"Dairy/Lactose, Peanuts",55.0,,Mango in season,Local,1.665,21.85969753537321,1325.625,2286.703125,-5.600000000000001,Normal,5
+Monaragala,39,Male,165.0,70.0,1.55,,,65.2,,"Traditional breakfast only, Murunga dishes, Coconut based dishes",Local,1.65,25.71166207529844,1541.25,2388.9375,-4.799999999999997,Overweight,6
+Ratnapura,35,Male,166.3,65.3,1.375,Asthma,"Dairy/Lactose, Tree Nuts",60.2,Vegetarian,Murunga dishes,Local,1.663,23.611777540173467,1522.375,2093.265625,-5.099999999999994,Normal,5
+Trincomalee,26,Female,157.5,57.3,1.9,,,52.0,Vegan,Jackfruit curry lover,Local,1.575,23.09901738473167,1266.375,2406.1124999999997,-5.299999999999997,Normal,5
+Kegalle,59,Male,165.7,65.8,1.375,Arthritis,,56.1,Low-fat,"Murunga dishes, Hoppers and string hoppers",Local,1.6569999999999998,23.965190015184028,1403.625,1929.984375,-9.699999999999996,Normal,5
+Monaragala,20,Male,176.6,68.8,1.55,,,59.4,,"Bitter gourd preferred, Murunga dishes",Mediterranean,1.766,22.060077800251126,1696.75,2629.9625,-9.399999999999999,Normal,5
+Ampara,53,Female,155.6,57.0,1.55,PCOS,,51.9,,Pumpkin curry lover,Local,1.556,23.542667574229615,1116.5,1730.575,-5.100000000000001,Normal,5
+Trincomalee,47,Female,158.7,55.5,1.725,Asthma,,47.3,,"Durian when available, Murunga dishes",Local,1.587,22.036323007231488,1150.875,1985.259375,-8.200000000000003,Normal,5
+Monaragala,47,Male,152.8,46.1,1.2,Diabetes,,45.6,Low-carb <100g/day,"Rice and curry daily, Lentils and pulses, Durian when available",Local,1.528,19.744867191140596,1186.0,1423.2,-0.5,Normal,5
+Kalutara,26,Male,158.7,53.7,1.55,,"Dairy/Lactose, Peanuts",49.3,,Sri Lankan traditional,Local,1.587,21.321631450240197,1403.875,2176.00625,-4.400000000000006,Normal,5
+Polonnaruwa,38,Male,171.5,60.8,1.725,,,52.3,,"Bitter gourd preferred, Rice and curry daily",Local,1.715,20.671658917627855,1494.875,2578.659375,-8.5,Normal,5
+Mullaitivu,26,Female,158.9,57.6,1.55,,,52.1,,"Coconut based dishes, Sri Lankan traditional, Durian when available",Local,1.589,22.81259492871262,1278.125,1981.09375,-5.5,Normal,5
+Mannar,32,Female,157.0,41.9,1.55,,Fish,38.8,Low-FODMAP,"Jackfruit curry lover, Vegetable heavy, Seafood focused",Local,1.57,16.99866120329425,1079.25,1672.8375,-3.1000000000000014,Underweight,4
+Kegalle,52,Other,151.7,51.3,1.2,Hypertension,,44.1,Low-sodium <2300mg/day,"Spicy food lover, Murunga dishes, Sri Lankan traditional",Local,1.517,22.291854695346828,1073.125,1287.75,-7.199999999999996,Normal,5
+Kurunegala,25,Female,160.7,56.1,1.725,,Sesame,48.1,,Seafood focused,Asian fusion,1.607,21.723565499260587,1279.375,2206.921875,-8.0,Normal,5
+Mullaitivu,48,Female,152.5,49.3,1.2,"Hypertension, Heart Disease",,43.2,Low-sodium <2300mg/day,"Pumpkin curry lover, Lentils and pulses",Mixed,1.525,21.198602526202635,1045.125,1254.1499999999999,-6.099999999999994,Normal,5
+Polonnaruwa,30,Female,156.2,57.9,1.725,Anemia,,59.2,,"Traditional breakfast only, Pumpkin curry lover",Local,1.5619999999999998,23.73102542621578,1244.25,2146.33125,1.3000000000000043,Normal,5
+Matale,47,Male,170.3,69.0,1.55,,,69.3,Vegan,"Murunga dishes, Coconut based dishes, Jackfruit curry lover",Local,1.703,23.791388827494846,1524.375,2362.78125,0.29999999999999716,Normal,5
+Polonnaruwa,38,Female,164.9,62.6,1.375,Asthma,,59.1,,Less oil preferred,Local,1.649,23.021468438706812,1305.625,1795.234375,-3.5,Normal,5
+Hambantota,29,Male,158.7,49.5,1.725,,Tree Nuts,48.5,,"Jackfruit curry lover, Durian when available",Local,1.587,19.654017817260517,1346.875,2323.359375,-1.0,Normal,5
+Vavuniya,34,Male,176.5,62.9,1.375,"Osteoporosis, Anemia",,66.2,Vegetarian,"Jackfruit curry lover, Sri Lankan traditional",Local,1.765,20.19115794204271,1567.125,2154.796875,3.3000000000000043,Normal,5
+Polonnaruwa,51,Male,163.3,64.3,1.725,,,58.3,,Rice and curry daily,Local,1.633,24.11229805950375,1413.625,2438.503125,-6.0,Normal,5
+Kilinochchi,38,Female,162.6,66.7,1.375,"Osteoporosis, IBS",,65.8,Low-carb <100g/day,"More vegetarian, Pumpkin curry lover",Local,1.626,25.228112059718388,1332.25,1831.84375,-0.9000000000000057,Overweight,6
+Matara,27,Male,173.6,75.7,1.375,,Tree Nuts,76.3,,Rice and curry daily,Mediterranean,1.736,25.118658285374504,1712.0,2354.0,0.5999999999999943,Overweight,6
+Colombo,28,Female,162.6,57.6,1.55,,,51.1,,"Mango in season, Murunga dishes, Jackfruit curry lover",Local,1.626,21.78619572173582,1291.25,2001.4375,-6.5,Normal,5
+Kalutara,49,Male,168.4,62.5,1.55,,,58.8,Vegan,International fusion,Local,1.6840000000000002,22.03920086210301,1437.5,2228.125,-3.700000000000003,Normal,5
+Galle,32,Female,147.0,45.7,1.375,"Diabetes, IBS",,41.7,Low-carb <100g/day,"Coconut emphasis, Murunga dishes, Pumpkin curry lover",Mediterranean,1.47,21.14859549261882,1054.75,1450.28125,-4.0,Normal,5
+Kilinochchi,18,Male,175.8,68.4,1.375,Heart Disease,Peanuts,67.6,Low-sodium <2300mg/day,"Jaffna cuisine specific, Hoppers and string hoppers, Jackfruit curry lover",Local,1.758,22.13188272431828,1697.75,2334.40625,-0.8000000000000114,Normal,5
+Puttalam,35,Male,166.0,66.7,1.55,,,62.4,,"Vegetable heavy, Murunga dishes",Local,1.66,24.205254753955582,1534.5,2378.475,-4.300000000000004,Normal,5
+Colombo,44,Male,155.0,54.2,1.725,,,49.5,,Pumpkin curry lover,Mediterranean,1.55,22.559833506763788,1295.75,2235.1687500000003,-4.700000000000003,Normal,5
+Puttalam,42,Male,164.4,60.9,1.725,,,61.1,,Gotu kola preferred,Local,1.6440000000000001,22.53272239686007,1431.5,2469.3375,0.20000000000000284,Normal,5
+Colombo,55,Male,167.6,65.6,1.725,Arthritis,,60.4,,International fusion,Local,1.676,23.353706119240606,1433.5,2472.7875,-5.199999999999996,Normal,5
+Kalutara,45,Male,170.1,72.4,1.375,Diabetes,,73.0,Low-carb <100g/day,"Jackfruit curry lover, International fusion, Lentils and pulses",Local,1.7009999999999998,25.02245627204802,1567.125,2154.796875,0.5999999999999943,Overweight,6
+Mannar,36,Male,167.6,66.0,1.2,,,64.7,Vegan,Hoppers and string hoppers,Local,1.676,23.496106766309147,1532.5,1839.0,-1.2999999999999972,Normal,5
+Gampaha,39,Female,153.2,66.9,1.375,,,66.3,Pescatarian,"Durian when available, Vegetable heavy, International fusion",Local,1.5319999999999998,28.504182317692543,1270.5,1746.9375,-0.6000000000000085,Overweight,6
+Monaragala,37,Male,161.8,68.2,1.725,,,64.4,,"Rice and curry daily, Gotu kola preferred",Local,1.618,26.05117642834551,1513.25,2610.3562500000003,-3.799999999999997,Overweight,6
+Mannar,65,Male,154.4,57.7,1.375,,Sulfites,61.7,Vegetarian,"More vegetarian, Hoppers and string hoppers, Sri Lankan traditional",Local,1.544,24.203669897178447,1222.0,1680.25,4.0,Normal,5
+Ampara,27,Female,151.1,50.5,1.725,,,50.3,,"Lentils and pulses, Seafood focused, Traditional breakfast only",Local,1.511,22.118845212321208,1153.375,1989.571875,-0.20000000000000284,Normal,5
+Ampara,52,Female,159.5,70.6,1.2,Diabetes,,73.4,Low-carb <100g/day,"Murunga dishes, Less oil preferred",Local,1.595,27.751299613800963,1281.875,1538.25,2.8000000000000114,Overweight,6
+Kalutara,40,Male,174.8,61.2,1.375,,,52.5,Vegan,"Bitter gourd preferred, Rice and curry daily, Western options sometimes",Local,1.7480000000000002,20.02942886018149,1509.5,2075.5625,-8.700000000000003,Normal,5
+Puttalam,40,Female,160.4,54.6,1.725,,"Dairy/Lactose, Soy",56.1,"Gluten-free, Vegan","Rice and curry daily, Murunga dishes, Vegetable heavy",Local,1.604,21.221882948489124,1187.5,2048.4375,1.5,Normal,5
+Kilinochchi,31,Other,165.2,70.4,1.375,"IBS, Anemia",Shellfish,59.9,"Low-carb <100g/day, Vegetarian","Pumpkin curry lover, Durian when available, Murunga dishes",Local,1.652,25.796012171027566,1453.5,1998.5625,-10.500000000000007,Overweight,6
+Badulla,23,Female,153.5,45.9,1.725,,,40.8,,"Spicy food lover, Gotu kola preferred, Hoppers and string hoppers",Local,1.535,19.4803127884646,1142.375,1970.5968750000002,-5.100000000000001,Normal,5
+Colombo,48,Male,175.6,68.2,1.725,Arthritis,Fish,69.3,,"Western options sometimes, Spicy food lover",Local,1.756,22.117465143912703,1544.5,2664.2625000000003,1.0999999999999943,Normal,5
+Anuradhapura,33,Male,173.7,71.0,1.725,,,60.8,,Sri Lankan traditional,Mixed,1.7369999999999999,23.5319930703252,1635.625,2821.453125,-10.200000000000003,Normal,5
+Badulla,47,Male,171.9,67.4,1.375,,"Peanuts, Shellfish",63.8,Vegan,Traditional breakfast only,Local,1.719,22.809099680164984,1518.375,2087.765625,-3.6000000000000085,Normal,5
+Kandy,61,Female,151.6,52.8,1.55,,Fish,48.0,,Sri Lankan traditional,Local,1.516,22.9739419803538,1009.5,1564.7250000000001,-4.799999999999997,Normal,5
+Mullaitivu,64,Male,156.9,56.7,1.2,Arthritis,,56.9,,"Lentils and pulses, Less oil preferred, Sri Lankan traditional",Local,1.569,23.03229273678477,1232.625,1479.1499999999999,0.19999999999999574,Normal,5
+Ampara,38,Male,170.5,65.0,1.2,,,60.9,,"Spicy food lover, Vegetable heavy",Local,1.705,22.359628830161416,1530.625,1836.75,-4.100000000000001,Normal,5
+Polonnaruwa,35,Female,160.2,61.3,1.725,Diabetes,,54.1,Low-carb <100g/day,Bitter gourd preferred,Local,1.6019999999999999,23.885561275621455,1278.25,2204.9812500000003,-7.199999999999996,Normal,5
+Matara,19,Male,163.7,59.3,1.9,,,59.2,,"Seafood daily, Pumpkin curry lover",Local,1.6369999999999998,22.128773039765743,1526.125,2899.6375,-0.09999999999999432,Normal,5
+Puttalam,47,Male,166.2,54.6,1.2,,,55.7,,Vegetable heavy,Local,1.662,19.76653764113525,1354.75,1625.7,1.1000000000000014,Normal,5
+Batticaloa,56,Female,162.4,75.3,1.2,,Soy,66.7,,Durian when available,Local,1.624,28.55110534106627,1327.0,1592.3999999999999,-8.599999999999994,Overweight,6
+Trincomalee,43,Female,152.5,50.2,1.375,PCOS,Shellfish,50.1,Vegetarian,"Hoppers and string hoppers, Less oil preferred",Local,1.525,21.585595270088692,1079.125,1483.796875,-0.10000000000000142,Normal,5
+Kegalle,55,Female,166.5,73.7,1.375,Hypertension,,75.2,Low-sodium <2300mg/day,"Mango in season, Vegetable heavy",Local,1.665,26.58514370226082,1341.625,1844.734375,1.5,Overweight,6
+Nuwara Eliya,45,Male,176.5,81.6,1.725,Hypertension,,71.6,Low-sodium <2300mg/day,"Jackfruit curry lover, Gotu kola preferred, Coconut based dishes",Mixed,1.765,26.193934627514867,1699.125,2930.9906250000004,-10.0,Overweight,6
+Mannar,39,Female,151.2,45.7,1.2,,,40.2,Low-sodium <2300mg/day,"Lentils and pulses, Seafood focused",Local,1.5119999999999998,19.98999188152628,1046.0,1255.2,-5.5,Normal,5
+Kandy,29,Male,167.5,56.6,1.55,Anemia,,60.4,,"Lentils and pulses, Murunga dishes",Mixed,1.675,20.173758075295165,1472.875,2282.95625,3.799999999999997,Normal,5
+Kandy,39,Male,168.2,61.2,1.55,,,53.6,,"Vegetable heavy, Coconut based dishes",Local,1.682,21.632137721782435,1473.25,2283.5375,-7.600000000000001,Normal,5
+Colombo,34,Female,159.5,54.1,1.725,,Eggs,49.4,,"Murunga dishes, Pumpkin curry lover, Rice and curry daily",Local,1.595,21.265514293295073,1206.875,2081.859375,-4.700000000000003,Normal,5
+Monaragala,28,Male,161.0,57.6,1.55,,,50.9,,"Traditional breakfast only, Coconut based dishes, Lentils and pulses",Local,1.61,22.221364916476986,1447.25,2243.2375,-6.700000000000003,Normal,5
+Mullaitivu,30,Female,151.1,49.8,1.375,"Hypertension, Anemia",Fish,43.2,Low-sodium <2300mg/day,"Hoppers and string hoppers, Spicy food lover",Local,1.511,21.812247357892993,1131.375,1555.640625,-6.599999999999994,Normal,5
+Kandy,44,Female,160.9,63.3,1.725,,,65.5,,Murunga dishes,Local,1.609,24.450718283304642,1257.625,2169.4031250000003,2.200000000000003,Normal,5
+Galle,39,Female,152.6,37.8,1.375,,,34.5,,"Rice and curry daily, Less oil preferred, Gotu kola preferred",Local,1.526,16.2323998701408,975.75,1341.65625,-3.299999999999997,Underweight,4
+Mannar,54,Female,168.2,73.8,1.375,,,64.2,,"Spicy food lover, Hoppers and string hoppers",Mixed,1.682,26.085813135090582,1358.25,1867.59375,-9.599999999999994,Overweight,6
+Mannar,62,Male,154.6,62.2,1.375,,Shellfish,57.0,,"More vegetarian, Hoppers and string hoppers, Traditional breakfast only",Local,1.546,26.023841520662597,1283.25,1764.46875,-5.200000000000003,Overweight,6
+Kilinochchi,32,Female,149.7,59.7,1.55,,"Tree Nuts, Eggs",62.2,,Murunga dishes,Local,1.4969999999999999,26.63978591786111,1211.625,1878.01875,2.5,Overweight,6
+Jaffna,22,Female,151.7,52.8,1.9,,Shellfish,55.7,,Sri Lankan traditional,Local,1.517,22.943663312169832,1205.125,2289.7374999999997,2.9000000000000057,Normal,5
+Polonnaruwa,37,Female,150.4,45.7,1.725,"Asthma, Heart Disease",,42.5,Low-sodium <2300mg/day,"Vegetable heavy, Bitter gourd preferred",Mediterranean,1.504,20.203216953372568,1051.0,1812.9750000000001,-3.200000000000003,Normal,5
+Trincomalee,50,Male,161.6,48.6,1.2,,,49.0,,"Seafood focused, Less oil preferred",Mixed,1.6159999999999999,18.61030781295952,1251.0,1501.2,0.3999999999999986,Normal,5
+Batticaloa,45,Male,164.5,52.5,1.375,"Kidney Disease, Thyroid Disorder",,47.6,Low-sodium <2300mg/day,Lentils and pulses,Local,1.645,19.401151134967343,1333.125,1833.046875,-4.899999999999999,Normal,5
+Trincomalee,36,Male,173.1,68.0,1.55,Asthma,,61.7,,"Jackfruit curry lover, Coconut based dishes",Local,1.7309999999999999,22.694194724867938,1586.875,2459.65625,-6.299999999999997,Normal,5
+Trincomalee,47,Female,155.7,53.7,1.375,,,46.1,Low-FODMAP,"Mango in season, Less oil preferred",Local,1.557,22.151189914897362,1114.125,1531.921875,-7.600000000000001,Normal,5
+Ratnapura,35,Male,173.9,60.4,1.2,Arthritis,,56.2,,Lentils and pulses,Mediterranean,1.739,19.972745799523228,1520.875,1825.05,-4.199999999999996,Normal,5
+Monaragala,39,Female,155.5,55.8,1.375,,,52.7,Vegetarian,Mango in season,Local,1.555,23.07668448423817,1173.875,1614.078125,-3.0999999999999943,Normal,5
+Kandy,48,Female,155.4,50.4,1.375,"Heart Disease, PCOS",,45.1,Low-sodium <2300mg/day,"Mango in season, Bitter gourd preferred",Mixed,1.554,20.87029114056141,1074.25,1477.09375,-5.299999999999997,Normal,5
+Kegalle,30,Female,150.6,53.0,1.375,"Thyroid Disorder, Hypertension, Anemia",,53.3,Low-sodium <2300mg/day,Seafood focused,Local,1.506,23.368235777562614,1160.25,1595.34375,0.29999999999999716,Normal,5
+Badulla,55,Male,173.1,55.7,1.375,Heart Disease,,50.8,"Low-sodium <2300mg/day, Vegan",Mango in season,Mediterranean,1.7309999999999999,18.58921538492859,1368.875,1882.203125,-4.900000000000006,Normal,5
+Matara,19,Female,154.0,59.2,1.375,,,51.2,,"Hoppers and string hoppers, Seafood focused",Local,1.54,24.962050936076913,1298.5,1785.4375,-8.0,Normal,5
+Badulla,24,Male,163.2,53.5,1.55,,,48.8,,"Lentils and pulses, Hoppers and string hoppers",Local,1.632,20.086925701653215,1440.0,2232.0,-4.700000000000003,Normal,5
+Kalutara,47,Male,158.4,62.4,1.725,Diabetes,,54.8,Low-carb <100g/day,Hoppers and string hoppers,Local,1.584,24.869911233547594,1384.0,2387.4,-7.600000000000001,Normal,5
+Ampara,28,Male,170.6,51.4,1.375,,,44.4,,"Seafood focused, Traditional breakfast only",Local,1.706,17.66058418738636,1445.25,1987.21875,-7.0,Underweight,4
+Galle,42,Female,150.9,48.7,1.2,,,44.2,,"Vegetable heavy, Seafood focused",Local,1.5090000000000001,21.387030149564286,1059.125,1270.95,-4.5,Normal,5
+Vavuniya,36,Male,162.8,67.3,1.55,,,59.6,,"Traditional breakfast only, Coconut based dishes",Local,1.6280000000000001,25.392546891318386,1515.5,2349.025,-7.699999999999996,Overweight,6
+Kalutara,42,Male,172.6,91.1,1.375,Diabetes,Soy,95.0,Low-carb <100g/day,"Pumpkin curry lover, Traditional breakfast only",Local,1.726,30.579951636010627,1784.75,2454.03125,3.9000000000000057,Obese,4
+Monaragala,20,Male,161.4,55.7,1.725,,,49.6,,Coconut based dishes,Local,1.614,21.38199060574373,1470.75,2537.0437500000003,-6.100000000000001,Normal,5
+Mannar,26,Male,166.4,61.4,1.55,,Fish,55.7,,More vegetarian,Local,1.6640000000000001,22.174902921597628,1529.0,2369.9500000000003,-5.699999999999996,Normal,5
+Matale,42,Male,169.5,81.4,1.2,,Fish,74.9,,"Durian when available, Hoppers and string hoppers",Local,1.695,28.332506678500884,1668.375,2002.05,-6.5,Overweight,6
+Mannar,62,Female,153.7,74.8,1.2,"IBS, Arthritis",Dairy/Lactose,69.2,,"Spicy food lover, More vegetarian, Pumpkin curry lover",Local,1.537,31.663131373633842,1237.625,1485.1499999999999,-5.599999999999994,Obese,4
+Puttalam,52,Male,156.8,54.0,1.2,Thyroid Disorder,,54.4,,"Spicy food lover, Jackfruit curry lover",Local,1.568,21.963504789670967,1265.0,1518.0,0.3999999999999986,Normal,5
+Kandy,65,Male,168.7,70.8,1.2,,Soy,64.9,,"Rice and curry daily, Less oil preferred",Local,1.6869999999999998,24.8772913548953,1442.375,1730.85,-5.8999999999999915,Normal,5
+Jaffna,32,Female,153.7,55.5,1.55,IBS,,48.4,,Murunga dishes,Mixed,1.537,23.49336619300372,1194.625,1851.66875,-7.100000000000001,Normal,5
+Trincomalee,52,Male,158.0,59.4,1.375,,,50.8,,Spicy food lover,Local,1.58,23.794263739785286,1326.5,1823.9375,-8.600000000000001,Normal,5
+Vavuniya,27,Male,174.0,60.6,1.55,,Sulfites,62.7,,Coconut based dishes,Local,1.74,20.01585414189457,1563.5,2423.425,2.1000000000000014,Normal,5
+Colombo,33,Female,147.9,53.6,1.725,,,48.0,,Seafood focused,Local,1.479,24.503518037743646,1134.375,1956.796875,-5.600000000000001,Normal,5
+Hambantota,35,Female,160.2,58.8,1.55,,,54.3,,"Rice and curry daily, Seafood focused, Less oil preferred",Local,1.6019999999999999,22.91143561185223,1253.25,1942.5375000000001,-4.5,Normal,5
+Mannar,58,Male,152.7,50.6,1.2,,,47.1,,"Sri Lankan traditional, Seafood focused",Local,1.527,21.700635022337504,1175.375,1410.45,-3.5,Normal,5
+Kilinochchi,27,Male,170.1,60.1,1.55,,Dairy/Lactose,54.4,Vegan,Mango in season,Local,1.7009999999999998,20.77140361809511,1534.125,2377.89375,-5.700000000000003,Normal,5
+Mannar,51,Male,165.7,55.8,1.725,,,51.6,,Seafood focused,Local,1.6569999999999998,20.323063873058796,1343.625,2317.753125,-4.199999999999996,Normal,5
+Kurunegala,27,Female,157.8,48.9,1.9,High Cholesterol,Shellfish,52.3,,Pumpkin curry lover,Mediterranean,1.578,19.637891733772832,1179.25,2240.575,3.3999999999999986,Normal,5
+Kandy,53,Female,152.9,50.8,1.55,,,46.4,,"Seafood focused, Mango in season, Hoppers and string hoppers",Local,1.5290000000000001,21.72945037750642,1037.625,1608.3187500000001,-4.399999999999999,Normal,5
+Trincomalee,47,Male,166.3,74.3,1.375,Arthritis,,76.9,,"Gotu kola preferred, Vegetable heavy",Local,1.663,26.866080723352045,1552.375,2134.515625,2.6000000000000085,Overweight,6
+Kalutara,18,Male,160.0,57.3,1.55,,,57.7,,"Rice and curry daily, Mango in season",Local,1.6,22.382812499999993,1488.0,2306.4,0.4000000000000057,Normal,5
+Gampaha,49,Female,151.0,55.0,1.375,"Diabetes, Heart Disease",Sulfites,54.4,Low-carb <100g/day,Sri Lankan traditional,Local,1.51,24.121749046094468,1087.75,1495.65625,-0.6000000000000014,Normal,5
+Jaffna,19,Male,163.2,68.5,1.725,,,63.7,,"Coconut based dishes, Traditional breakfast only, Jaffna cuisine specific",Local,1.632,25.718774029219535,1615.0,2785.875,-4.799999999999997,Overweight,6
+Colombo,34,Female,145.8,37.1,1.55,,Dairy/Lactose,36.5,,"Pumpkin curry lover, Mango in season",Local,1.4580000000000002,17.452548824798985,951.25,1474.4375,-0.6000000000000014,Underweight,4
+Monaragala,62,Male,163.3,61.6,1.2,Hypertension,"Dairy/Lactose, Peanuts",56.1,Low-sodium <2300mg/day,Seafood focused,Local,1.633,23.099806539120237,1331.625,1597.95,-5.5,Normal,5
+Mannar,38,Male,166.5,71.4,1.725,,Shellfish,71.1,,"Seafood focused, Bitter gourd preferred",Local,1.665,25.755485214944674,1569.625,2707.603125,-0.30000000000001137,Overweight,6
+Anuradhapura,48,Male,163.1,66.1,1.55,Diabetes,Soy,61.0,Low-carb <100g/day,"Vegetable heavy, Gotu kola preferred, Bitter gourd preferred",Local,1.631,24.84812009498673,1445.375,2240.33125,-5.099999999999994,Normal,5
+Nuwara Eliya,47,Female,155.9,59.0,1.725,Diabetes,,53.1,Low-carb <100g/day,"Jackfruit curry lover, Durian when available, Spicy food lover",Local,1.5590000000000002,24.275030333501885,1168.375,2015.446875,-5.899999999999999,Normal,5
+Kurunegala,42,Male,165.9,63.6,1.55,"Kidney Disease, Asthma",,55.1,Low-sodium <2300mg/day,"Murunga dishes, Durian when available",Local,1.659,23.10810560404261,1467.875,2275.20625,-8.5,Normal,5
+Vavuniya,47,Female,154.4,48.2,1.2,,,44.9,"Vegetarian, Vegan","Coconut based dishes, Jackfruit curry lover",Local,1.544,20.218663588284247,1051.0,1261.2,-3.3000000000000043,Normal,5
+Ampara,65,Female,153.3,48.8,1.375,Thyroid Disorder,,43.2,,"Sri Lankan traditional, Rice and curry daily",Local,1.5330000000000001,20.765171021182596,960.125,1320.171875,-5.599999999999994,Normal,5
+Mullaitivu,26,Female,154.8,41.3,1.55,,Dairy/Lactose,38.8,Vegetarian,Durian when available,Mixed,1.548,17.23487504089631,1089.5,1688.7250000000001,-2.5,Underweight,4
+Kurunegala,51,Female,156.1,62.0,1.55,Asthma,,63.1,,"Coconut based dishes, Murunga dishes",Local,1.561,25.444029086629122,1179.625,1828.41875,1.1000000000000014,Overweight,6
+Galle,33,Male,166.9,59.0,1.9,,,58.2,,"Jackfruit curry lover, Sri Lankan traditional",Asian fusion,1.669,21.180652658477054,1473.125,2798.9375,-0.7999999999999972,Normal,5
+Galle,34,Female,156.1,58.2,1.375,,,60.0,,Mango in season,Local,1.561,23.884556336158308,1226.625,1686.609375,1.7999999999999972,Normal,5
+Kegalle,46,Male,172.5,58.9,1.55,,,52.2,,"Spicy food lover, Less oil preferred, Murunga dishes",Local,1.725,19.794160890569206,1442.125,2235.2937500000003,-6.699999999999996,Normal,5
+Matale,43,Female,163.3,68.3,1.55,,,60.2,,"Sri Lankan traditional, Seafood focused",Local,1.633,25.61228549710896,1327.625,2057.81875,-8.099999999999994,Overweight,6
+Vavuniya,32,Female,155.6,45.3,1.9,Anemia,,38.7,,Bitter gourd preferred,Local,1.556,18.71022528267722,1104.5,2098.5499999999997,-6.599999999999994,Normal,5
+Colombo,50,Female,149.0,49.1,1.2,,,52.3,,Sri Lankan traditional,Local,1.49,22.11612089545516,1011.25,1213.5,3.1999999999999957,Normal,5
+Anuradhapura,43,Male,162.0,67.9,1.2,,,66.8,,"Hoppers and string hoppers, Coconut based dishes",Local,1.62,25.87258039932937,1481.5,1777.8,-1.1000000000000085,Overweight,6
+Puttalam,44,Male,159.4,64.0,1.375,,Soy,65.9,,Seafood focused,Mixed,1.594,25.188559985768464,1421.25,1954.21875,1.9000000000000057,Overweight,6
+Gampaha,30,Female,155.8,53.3,1.55,,,49.5,,"Rice and curry daily, Hoppers and string hoppers",Local,1.558,21.957975812445103,1195.75,1853.4125000000001,-3.799999999999997,Normal,5
+Badulla,54,Male,159.7,54.5,1.375,,MSG,53.5,,"Murunga dishes, Jackfruit curry lover",Local,1.597,21.36912158010735,1278.125,1757.421875,-1.0,Normal,5
+Kegalle,39,Male,172.5,64.5,1.55,,Dairy/Lactose,64.3,,"Sri Lankan traditional, Jackfruit curry lover",Local,1.725,21.676118462507873,1533.125,2376.34375,-0.20000000000000284,Normal,5
+Nuwara Eliya,26,Male,164.2,57.8,1.725,Anemia,,51.4,,Hoppers and string hoppers,Asian fusion,1.642,21.437865055686526,1479.25,2551.70625,-6.399999999999999,Normal,5
+Kurunegala,62,Female,151.9,57.2,1.2,,,51.6,,Vegetable heavy,Local,1.5190000000000001,24.790225716738732,1050.375,1260.45,-5.600000000000001,Normal,5
+Colombo,29,Female,152.5,50.9,1.55,,,46.9,,Bitter gourd preferred,Local,1.525,21.886589626444508,1156.125,1791.99375,-4.0,Normal,5
+Kandy,49,Female,152.8,52.6,1.375,Arthritis,,50.0,,Gotu kola preferred,Mixed,1.528,22.528850634576905,1075.0,1478.125,-2.6000000000000014,Normal,5
+Kalutara,63,Male,165.7,61.9,1.2,,,55.4,,Vegetable heavy,Local,1.6569999999999998,22.54476081975519,1344.625,1613.55,-6.5,Normal,5
+Jaffna,31,Male,168.8,58.6,1.725,,,55.3,,"Lentils and pulses, Traditional breakfast only",Local,1.6880000000000002,20.566137328451738,1491.0,2571.975,-3.3000000000000043,Normal,5
+Hambantota,30,Male,167.7,66.0,1.725,"Thyroid Disorder, IBS","Soy, Peanuts",58.1,,Coconut based dishes,Local,1.6769999999999998,23.4680935267531,1563.125,2696.390625,-7.899999999999999,Normal,5
+Matara,44,Male,169.5,80.8,1.2,"Asthma, Thyroid Disorder",Dairy/Lactose,81.0,,"Coconut based dishes, Sri Lankan traditional",Local,1.695,28.123667562934536,1652.375,1982.85,0.20000000000000284,Overweight,6
+Kurunegala,31,Female,154.0,56.5,1.55,,Tree Nuts,55.5,,Mango in season,Local,1.54,23.823579018384216,1211.5,1877.825,-1.0,Normal,5
+Hambantota,53,Male,155.3,58.1,1.725,,"Dairy/Lactose, Peanuts",53.0,,"Rice and curry daily, Sri Lankan traditional, Coconut emphasis",Local,1.5530000000000002,24.089801472670512,1291.625,2228.053125,-5.100000000000001,Normal,5
+Kurunegala,41,Male,160.5,62.4,1.55,"High Cholesterol, PCOS",,64.8,,"Traditional breakfast only, Pumpkin curry lover",Local,1.605,24.223367397443734,1427.125,2212.0437500000003,2.3999999999999986,Normal,5
+Batticaloa,31,Female,158.4,54.5,1.55,,,53.5,Pescatarian,"Gotu kola preferred, Seafood focused",Local,1.584,21.721316702377308,1219.0,1889.45,-1.0,Normal,5
+Kurunegala,35,Female,153.0,47.0,1.375,,"Soy, Sulfites",46.4,,"Murunga dishes, Jackfruit curry lover",Local,1.53,20.07774787474903,1090.25,1499.09375,-0.6000000000000014,Normal,5
+Ratnapura,26,Male,157.0,60.5,1.375,Osteoporosis,,55.8,,"Sri Lankan traditional, Vegetable heavy, Bitter gourd preferred",Local,1.57,24.544606272059717,1461.25,2009.21875,-4.700000000000003,Normal,5
+Batticaloa,41,Male,161.1,56.4,1.55,,,49.4,Vegan,"Sri Lankan traditional, Hoppers and string hoppers, Jackfruit curry lover",Local,1.611,21.731415882659604,1370.875,2124.8562500000003,-7.0,Normal,5
+Vavuniya,19,Male,167.4,64.8,1.9,,,68.6,,"Rice and curry daily, Durian when available",Local,1.6740000000000002,23.124060585038727,1604.25,3048.075,3.799999999999997,Normal,5
+Kilinochchi,47,Female,154.7,56.8,1.375,,Fish,49.5,,"Pumpkin curry lover, Gotu kola preferred",Local,1.547,23.73382349807309,1138.875,1565.953125,-7.299999999999997,Normal,5
+Mannar,45,Male,167.2,67.5,1.2,Heart Disease,,71.4,Low-sodium <2300mg/day,"Gotu kola preferred, Hoppers and string hoppers",Mediterranean,1.672,24.145223323641858,1500.0,1800.0,3.9000000000000057,Normal,5
+Vavuniya,33,Female,149.5,51.1,1.55,"IBS, PCOS",,47.6,Low-sodium <2300mg/day,"Murunga dishes, Bitter gourd preferred",Local,1.495,22.863278934240107,1119.375,1735.03125,-3.5,Normal,5
+Matara,34,Male,168.6,65.2,1.725,"Thyroid Disorder, PCOS",,56.1,,"Traditional breakfast only, Bitter gourd preferred",Mediterranean,1.686,22.936780323338247,1540.75,2657.7937500000003,-9.100000000000001,Normal,5
+Gampaha,57,Male,163.1,54.6,1.2,Kidney Disease,,48.4,Low-sodium <2300mg/day,"Durian when available, Less oil preferred",Local,1.631,20.525073482394486,1285.375,1542.45,-6.200000000000003,Normal,5
+Galle,65,Male,168.0,67.8,1.375,,,66.9,,"Durian when available, Pumpkin curry lover, Spicy food lover",Mediterranean,1.68,24.022108843537417,1408.0,1936.0,-0.8999999999999915,Normal,5
+Kegalle,57,Female,155.1,65.0,1.55,Diabetes,,58.2,Low-carb <100g/day,Jackfruit curry lover,Local,1.551,27.020274767095625,1173.375,1818.73125,-6.799999999999997,Overweight,6
+Hambantota,46,Male,174.6,77.9,1.375,Thyroid Disorder,,68.3,,"Sri Lankan traditional, Spicy food lover",Local,1.746,25.553416810015108,1645.25,2262.21875,-9.600000000000009,Overweight,6
+Monaragala,18,Female,164.3,63.9,1.9,,,59.9,Low-fat,"Spicy food lover, Gotu kola preferred, Hoppers and string hoppers",Mediterranean,1.643,23.671497405581658,1414.875,2688.2625,-4.0,Normal,5
+Matara,55,Male,163.0,55.2,1.2,,,48.6,Low-carb <100g/day,Less oil preferred,Local,1.63,20.776092438556216,1300.75,1560.8999999999999,-6.600000000000001,Normal,5
+Polonnaruwa,25,Female,150.5,65.4,1.375,,,57.4,,Spicy food lover,Mixed,1.505,28.87385348947584,1308.625,1799.359375,-8.000000000000007,Overweight,6
+Puttalam,28,Male,173.2,69.4,1.375,,"Dairy/Lactose, Tree Nuts",65.2,Vegetarian,Durian when available,Local,1.732,23.134690568513356,1641.5,2257.0625,-4.200000000000003,Normal,5
+Monaragala,26,Male,170.6,74.5,1.375,,Dairy/Lactose,80.0,,"Coconut based dishes, Bitter gourd preferred",Asian fusion,1.706,25.59753933774871,1686.25,2318.59375,5.5,Overweight,6
+Puttalam,23,Male,165.8,57.4,1.55,,,60.1,Vegetarian,"Vegetable heavy, Durian when available",Local,1.6580000000000001,20.88059356179273,1500.25,2325.3875000000003,2.700000000000003,Normal,5
+Galle,42,Female,154.8,46.6,1.2,"Heart Disease, Hypertension",,42.4,"Low-sodium <2300mg/day, Vegan",Vegetable heavy,Local,1.548,19.44661445292417,1062.5,1275.0,-4.200000000000003,Normal,5
+Kalutara,36,Male,164.9,74.3,1.2,IBS,,67.9,"Dairy-free, Vegan",Western options sometimes,Local,1.649,27.324202955206328,1598.625,1918.35,-6.3999999999999915,Overweight,6
+Kalutara,18,Female,151.8,62.3,1.55,,,58.0,,Seafood focused,Local,1.518,27.036128599971182,1320.75,2047.1625000000001,-4.299999999999997,Overweight,6
+Kalutara,45,Female,154.8,52.2,1.725,,,49.0,"Vegetarian, Vegan",International fusion,Local,1.548,21.783546661859262,1103.5,1903.5375000000001,-3.200000000000003,Normal,5
+Kalutara,32,Female,148.1,50.2,1.725,,,45.5,,"Seafood focused, Coconut based dishes",Local,1.4809999999999999,22.887249294575774,1106.625,1908.9281250000001,-4.700000000000003,Normal,5
+Gampaha,64,Female,152.5,59.1,1.375,PCOS,,52.8,"Low-fat, Vegan","Durian when available, Coconut based dishes",Local,1.525,25.412523515184095,1063.125,1461.796875,-6.300000000000004,Overweight,6
+Ratnapura,39,Female,159.0,52.6,1.375,,,49.4,,Bitter gourd preferred,Local,1.59,20.80613899766623,1163.75,1600.15625,-3.200000000000003,Normal,5
+Monaragala,48,Male,172.0,86.4,1.2,Diabetes,Peanuts,79.9,Low-carb <100g/day,"Murunga dishes, Pumpkin curry lover",Local,1.72,29.204975662520287,1704.0,2044.8,-6.5,Overweight,6
+Kandy,36,Female,147.2,48.8,1.2,"Osteoporosis, Diabetes",,42.7,Low-carb <100g/day,"Seafood focused, Mango in season, Jackfruit curry lover",Mixed,1.472,22.5218572778828,1067.0,1280.3999999999999,-6.099999999999994,Normal,5
+Ratnapura,54,Female,148.7,42.0,1.55,Heart Disease,"Fish, Sulfites",42.9,"Low-sodium <2300mg/day, Vegan","Less oil preferred, Bitter gourd preferred",Local,1.4869999999999999,18.99447758176784,918.375,1423.48125,0.8999999999999986,Normal,5
+Kandy,49,Female,157.0,57.5,1.55,Hypertension,,57.1,Low-sodium <2300mg/day,Spicy food lover,Local,1.57,23.327518357742708,1150.25,1782.8875,-0.3999999999999986,Normal,5
+Badulla,23,Male,167.4,58.9,1.55,,,54.3,,"Pumpkin curry lover, Seafood focused",Mediterranean,1.6740000000000002,21.018629142882425,1525.25,2364.1375000000003,-4.600000000000001,Normal,5
+Kandy,20,Male,166.3,58.3,1.725,,,54.6,,"Traditional breakfast only, Sri Lankan traditional, Gotu kola preferred",Asian fusion,1.663,21.080652842145682,1527.375,2634.721875,-3.6999999999999957,Normal,5
+Vavuniya,23,Female,158.5,54.9,1.375,,,51.1,,Pumpkin curry lover,Local,1.585,21.85313815442486,1263.625,1737.484375,-3.799999999999997,Normal,5
+Jaffna,19,Other,157.9,57.3,1.375,,,53.4,,"Traditional breakfast only, Murunga dishes",Local,1.579,22.98213449883104,1336.875,1838.203125,-3.8999999999999986,Normal,5
+Gampaha,20,Male,166.4,63.1,1.375,,Peanuts,62.3,,"Bitter gourd preferred, Gotu kola preferred, Lentils and pulses",Local,1.6640000000000001,22.78886603180473,1576.0,2167.0,-0.8000000000000043,Normal,5
+Colombo,40,Female,154.8,54.5,1.375,,,55.5,,Traditional breakfast only,Local,1.548,22.743358104814746,1151.5,1583.3125,1.0,Normal,5
+Matale,62,Other,162.4,57.3,1.2,Arthritis,,50.2,,Bitter gourd preferred,Local,1.624,21.726139920891065,1150.0,1380.0,-7.099999999999994,Normal,5
+Mullaitivu,38,Female,155.4,41.7,1.375,,,42.3,,Murunga dishes,Mixed,1.554,17.267681360345453,1037.25,1426.21875,0.5999999999999943,Underweight,4
+Matale,27,Female,151.1,51.5,1.9,,,45.7,,"Rice and curry daily, Coconut based dishes",Local,1.511,22.55684214721866,1163.375,2210.4125,-5.799999999999997,Normal,5
