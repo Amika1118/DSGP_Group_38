@@ -1,0 +1,5029 @@
+Vegetable_Name,Week_Start,ISO_Year,ISO_Week,Is_Train,Time_Index
+Bitter Gourd,2009-12-28,2009,53,True,0
+Bitter Gourd,2010-01-04,2010,1,True,1
+Bitter Gourd,2010-01-11,2010,2,True,2
+Bitter Gourd,2010-01-18,2010,3,True,3
+Bitter Gourd,2010-01-25,2010,4,True,4
+Bitter Gourd,2010-02-01,2010,5,True,5
+Bitter Gourd,2010-02-08,2010,6,True,6
+Bitter Gourd,2010-02-15,2010,7,True,7
+Bitter Gourd,2010-02-22,2010,8,True,8
+Bitter Gourd,2010-03-01,2010,9,True,9
+Bitter Gourd,2010-03-08,2010,10,True,10
+Bitter Gourd,2010-03-15,2010,11,True,11
+Bitter Gourd,2010-03-22,2010,12,True,12
+Bitter Gourd,2010-03-29,2010,13,True,13
+Bitter Gourd,2010-04-05,2010,14,True,14
+Bitter Gourd,2010-04-12,2010,15,True,15
+Bitter Gourd,2010-04-19,2010,16,True,16
+Bitter Gourd,2010-04-26,2010,17,True,17
+Bitter Gourd,2010-05-03,2010,18,True,18
+Bitter Gourd,2010-05-10,2010,19,True,19
+Bitter Gourd,2010-05-17,2010,20,True,20
+Bitter Gourd,2010-05-24,2010,21,True,21
+Bitter Gourd,2010-05-31,2010,22,True,22
+Bitter Gourd,2010-06-07,2010,23,True,23
+Bitter Gourd,2010-06-14,2010,24,True,24
+Bitter Gourd,2010-06-21,2010,25,True,25
+Bitter Gourd,2010-06-28,2010,26,True,26
+Bitter Gourd,2010-07-05,2010,27,True,27
+Bitter Gourd,2010-07-12,2010,28,True,28
+Bitter Gourd,2010-07-19,2010,29,True,29
+Bitter Gourd,2010-07-26,2010,30,True,30
+Bitter Gourd,2010-08-02,2010,31,True,31
+Bitter Gourd,2010-08-09,2010,32,True,32
+Bitter Gourd,2010-08-16,2010,33,True,33
+Bitter Gourd,2010-08-23,2010,34,True,34
+Bitter Gourd,2010-08-30,2010,35,True,35
+Bitter Gourd,2010-09-06,2010,36,True,36
+Bitter Gourd,2010-09-13,2010,37,True,37
+Bitter Gourd,2010-09-20,2010,38,True,38
+Bitter Gourd,2010-09-27,2010,39,True,39
+Bitter Gourd,2010-10-04,2010,40,True,40
+Bitter Gourd,2010-10-11,2010,41,True,41
+Bitter Gourd,2010-10-18,2010,42,True,42
+Bitter Gourd,2010-10-25,2010,43,True,43
+Bitter Gourd,2010-11-01,2010,44,True,44
+Bitter Gourd,2010-11-08,2010,45,True,45
+Bitter Gourd,2010-11-15,2010,46,True,46
+Bitter Gourd,2010-11-22,2010,47,True,47
+Bitter Gourd,2010-11-29,2010,48,True,48
+Bitter Gourd,2010-12-06,2010,49,True,49
+Bitter Gourd,2010-12-13,2010,50,True,50
+Bitter Gourd,2010-12-20,2010,51,True,51
+Bitter Gourd,2010-12-27,2010,52,True,52
+Bitter Gourd,2011-01-03,2011,1,True,53
+Bitter Gourd,2011-01-10,2011,2,True,54
+Bitter Gourd,2011-01-17,2011,3,True,55
+Bitter Gourd,2011-01-24,2011,4,True,56
+Bitter Gourd,2011-01-31,2011,5,True,57
+Bitter Gourd,2011-02-07,2011,6,True,58
+Bitter Gourd,2011-02-14,2011,7,True,59
+Bitter Gourd,2011-02-21,2011,8,True,60
+Bitter Gourd,2011-02-28,2011,9,True,61
+Bitter Gourd,2011-03-07,2011,10,True,62
+Bitter Gourd,2011-03-14,2011,11,True,63
+Bitter Gourd,2011-03-21,2011,12,True,64
+Bitter Gourd,2011-03-28,2011,13,True,65
+Bitter Gourd,2011-04-04,2011,14,True,66
+Bitter Gourd,2011-04-11,2011,15,True,67
+Bitter Gourd,2011-04-18,2011,16,True,68
+Bitter Gourd,2011-04-25,2011,17,True,69
+Bitter Gourd,2011-05-02,2011,18,True,70
+Bitter Gourd,2011-05-09,2011,19,True,71
+Bitter Gourd,2011-05-16,2011,20,True,72
+Bitter Gourd,2011-05-23,2011,21,True,73
+Bitter Gourd,2011-05-30,2011,22,True,74
+Bitter Gourd,2011-06-06,2011,23,True,75
+Bitter Gourd,2011-06-13,2011,24,True,76
+Bitter Gourd,2011-06-20,2011,25,True,77
+Bitter Gourd,2011-06-27,2011,26,True,78
+Bitter Gourd,2011-07-04,2011,27,True,79
+Bitter Gourd,2011-07-11,2011,28,True,80
+Bitter Gourd,2011-07-18,2011,29,True,81
+Bitter Gourd,2011-07-25,2011,30,True,82
+Bitter Gourd,2011-08-01,2011,31,True,83
+Bitter Gourd,2011-08-08,2011,32,True,84
+Bitter Gourd,2011-08-15,2011,33,True,85
+Bitter Gourd,2011-08-22,2011,34,True,86
+Bitter Gourd,2011-08-29,2011,35,True,87
+Bitter Gourd,2011-09-05,2011,36,True,88
+Bitter Gourd,2011-09-12,2011,37,True,89
+Bitter Gourd,2011-09-19,2011,38,True,90
+Bitter Gourd,2011-09-26,2011,39,True,91
+Bitter Gourd,2011-10-03,2011,40,True,92
+Bitter Gourd,2011-10-10,2011,41,True,93
+Bitter Gourd,2011-10-17,2011,42,True,94
+Bitter Gourd,2011-10-24,2011,43,True,95
+Bitter Gourd,2011-10-31,2011,44,True,96
+Bitter Gourd,2011-11-07,2011,45,True,97
+Bitter Gourd,2011-11-14,2011,46,True,98
+Bitter Gourd,2011-11-21,2011,47,True,99
+Bitter Gourd,2011-11-28,2011,48,True,100
+Bitter Gourd,2011-12-05,2011,49,True,101
+Bitter Gourd,2011-12-12,2011,50,True,102
+Bitter Gourd,2011-12-19,2011,51,True,103
+Bitter Gourd,2011-12-26,2011,52,True,104
+Bitter Gourd,2012-01-02,2012,1,True,105
+Bitter Gourd,2012-01-09,2012,2,True,106
+Bitter Gourd,2012-01-16,2012,3,True,107
+Bitter Gourd,2012-01-23,2012,4,True,108
+Bitter Gourd,2012-01-30,2012,5,True,109
+Bitter Gourd,2012-02-06,2012,6,True,110
+Bitter Gourd,2012-02-13,2012,7,True,111
+Bitter Gourd,2012-02-20,2012,8,True,112
+Bitter Gourd,2012-02-27,2012,9,True,113
+Bitter Gourd,2012-03-05,2012,10,True,114
+Bitter Gourd,2012-03-12,2012,11,True,115
+Bitter Gourd,2012-03-19,2012,12,True,116
+Bitter Gourd,2012-03-26,2012,13,True,117
+Bitter Gourd,2012-04-02,2012,14,True,118
+Bitter Gourd,2012-04-09,2012,15,True,119
+Bitter Gourd,2012-04-16,2012,16,True,120
+Bitter Gourd,2012-04-23,2012,17,True,121
+Bitter Gourd,2012-04-30,2012,18,True,122
+Bitter Gourd,2012-05-07,2012,19,True,123
+Bitter Gourd,2012-05-14,2012,20,True,124
+Bitter Gourd,2012-05-21,2012,21,True,125
+Bitter Gourd,2012-05-28,2012,22,True,126
+Bitter Gourd,2012-06-04,2012,23,True,127
+Bitter Gourd,2012-06-11,2012,24,True,128
+Bitter Gourd,2012-06-18,2012,25,True,129
+Bitter Gourd,2012-06-25,2012,26,True,130
+Bitter Gourd,2012-07-02,2012,27,True,131
+Bitter Gourd,2012-07-09,2012,28,True,132
+Bitter Gourd,2012-07-16,2012,29,True,133
+Bitter Gourd,2012-07-23,2012,30,True,134
+Bitter Gourd,2012-07-30,2012,31,True,135
+Bitter Gourd,2012-08-06,2012,32,True,136
+Bitter Gourd,2012-08-13,2012,33,True,137
+Bitter Gourd,2012-08-20,2012,34,True,138
+Bitter Gourd,2012-08-27,2012,35,True,139
+Bitter Gourd,2012-09-03,2012,36,True,140
+Bitter Gourd,2012-09-10,2012,37,True,141
+Bitter Gourd,2012-09-17,2012,38,True,142
+Bitter Gourd,2012-09-24,2012,39,True,143
+Bitter Gourd,2012-10-01,2012,40,True,144
+Bitter Gourd,2012-10-08,2012,41,True,145
+Bitter Gourd,2012-10-15,2012,42,True,146
+Bitter Gourd,2012-10-22,2012,43,True,147
+Bitter Gourd,2012-10-29,2012,44,True,148
+Bitter Gourd,2012-11-05,2012,45,True,149
+Bitter Gourd,2012-11-12,2012,46,True,150
+Bitter Gourd,2012-11-19,2012,47,True,151
+Bitter Gourd,2012-11-26,2012,48,True,152
+Bitter Gourd,2012-12-03,2012,49,True,153
+Bitter Gourd,2012-12-10,2012,50,True,154
+Bitter Gourd,2012-12-17,2012,51,True,155
+Bitter Gourd,2012-12-24,2012,52,True,156
+Bitter Gourd,2012-12-31,2013,1,True,157
+Bitter Gourd,2013-01-07,2013,2,True,158
+Bitter Gourd,2013-01-14,2013,3,True,159
+Bitter Gourd,2013-01-21,2013,4,True,160
+Bitter Gourd,2013-01-28,2013,5,True,161
+Bitter Gourd,2013-02-04,2013,6,True,162
+Bitter Gourd,2013-02-11,2013,7,True,163
+Bitter Gourd,2013-02-18,2013,8,True,164
+Bitter Gourd,2013-02-25,2013,9,True,165
+Bitter Gourd,2013-03-04,2013,10,True,166
+Bitter Gourd,2013-03-11,2013,11,True,167
+Bitter Gourd,2013-03-18,2013,12,True,168
+Bitter Gourd,2013-03-25,2013,13,True,169
+Bitter Gourd,2013-04-01,2013,14,True,170
+Bitter Gourd,2013-04-08,2013,15,True,171
+Bitter Gourd,2013-04-15,2013,16,True,172
+Bitter Gourd,2013-04-22,2013,17,True,173
+Bitter Gourd,2013-04-29,2013,18,True,174
+Bitter Gourd,2013-05-06,2013,19,True,175
+Bitter Gourd,2013-05-13,2013,20,True,176
+Bitter Gourd,2013-05-20,2013,21,True,177
+Bitter Gourd,2013-05-27,2013,22,True,178
+Bitter Gourd,2013-06-03,2013,23,True,179
+Bitter Gourd,2013-06-10,2013,24,True,180
+Bitter Gourd,2013-06-17,2013,25,True,181
+Bitter Gourd,2013-06-24,2013,26,True,182
+Bitter Gourd,2013-07-01,2013,27,True,183
+Bitter Gourd,2013-07-08,2013,28,True,184
+Bitter Gourd,2013-07-15,2013,29,True,185
+Bitter Gourd,2013-07-22,2013,30,True,186
+Bitter Gourd,2013-07-29,2013,31,True,187
+Bitter Gourd,2013-08-05,2013,32,True,188
+Bitter Gourd,2013-08-12,2013,33,True,189
+Bitter Gourd,2013-08-19,2013,34,True,190
+Bitter Gourd,2013-08-26,2013,35,True,191
+Bitter Gourd,2013-09-02,2013,36,True,192
+Bitter Gourd,2013-09-09,2013,37,True,193
+Bitter Gourd,2013-09-16,2013,38,True,194
+Bitter Gourd,2013-09-23,2013,39,True,195
+Bitter Gourd,2013-09-30,2013,40,True,196
+Bitter Gourd,2013-10-07,2013,41,True,197
+Bitter Gourd,2013-10-14,2013,42,True,198
+Bitter Gourd,2013-10-21,2013,43,True,199
+Bitter Gourd,2013-10-28,2013,44,True,200
+Bitter Gourd,2013-11-04,2013,45,True,201
+Bitter Gourd,2013-11-11,2013,46,True,202
+Bitter Gourd,2013-11-18,2013,47,True,203
+Bitter Gourd,2013-11-25,2013,48,True,204
+Bitter Gourd,2013-12-02,2013,49,True,205
+Bitter Gourd,2013-12-09,2013,50,True,206
+Bitter Gourd,2013-12-16,2013,51,True,207
+Bitter Gourd,2013-12-23,2013,52,True,208
+Bitter Gourd,2013-12-30,2014,1,True,209
+Bitter Gourd,2014-01-06,2014,2,True,210
+Bitter Gourd,2014-01-13,2014,3,True,211
+Bitter Gourd,2014-01-20,2014,4,True,212
+Bitter Gourd,2014-01-27,2014,5,True,213
+Bitter Gourd,2014-02-03,2014,6,True,214
+Bitter Gourd,2014-02-10,2014,7,True,215
+Bitter Gourd,2014-02-17,2014,8,True,216
+Bitter Gourd,2014-02-24,2014,9,True,217
+Bitter Gourd,2014-03-03,2014,10,True,218
+Bitter Gourd,2014-03-10,2014,11,True,219
+Bitter Gourd,2014-03-17,2014,12,True,220
+Bitter Gourd,2014-03-24,2014,13,True,221
+Bitter Gourd,2014-03-31,2014,14,True,222
+Bitter Gourd,2014-04-07,2014,15,True,223
+Bitter Gourd,2014-04-14,2014,16,True,224
+Bitter Gourd,2014-04-21,2014,17,True,225
+Bitter Gourd,2014-04-28,2014,18,True,226
+Bitter Gourd,2014-05-05,2014,19,True,227
+Bitter Gourd,2014-05-12,2014,20,True,228
+Bitter Gourd,2014-05-19,2014,21,True,229
+Bitter Gourd,2014-05-26,2014,22,True,230
+Bitter Gourd,2014-06-02,2014,23,True,231
+Bitter Gourd,2014-06-09,2014,24,True,232
+Bitter Gourd,2014-06-16,2014,25,True,233
+Bitter Gourd,2014-06-23,2014,26,True,234
+Bitter Gourd,2014-06-30,2014,27,True,235
+Bitter Gourd,2014-07-07,2014,28,True,236
+Bitter Gourd,2014-07-14,2014,29,True,237
+Bitter Gourd,2014-07-21,2014,30,True,238
+Bitter Gourd,2014-07-28,2014,31,True,239
+Bitter Gourd,2014-08-04,2014,32,True,240
+Bitter Gourd,2014-08-11,2014,33,True,241
+Bitter Gourd,2014-08-18,2014,34,True,242
+Bitter Gourd,2014-08-25,2014,35,True,243
+Bitter Gourd,2014-09-01,2014,36,True,244
+Bitter Gourd,2014-09-08,2014,37,True,245
+Bitter Gourd,2014-09-15,2014,38,True,246
+Bitter Gourd,2014-09-22,2014,39,True,247
+Bitter Gourd,2014-09-29,2014,40,True,248
+Bitter Gourd,2014-10-06,2014,41,True,249
+Bitter Gourd,2014-10-13,2014,42,True,250
+Bitter Gourd,2014-10-20,2014,43,True,251
+Bitter Gourd,2014-10-27,2014,44,True,252
+Bitter Gourd,2014-11-03,2014,45,True,253
+Bitter Gourd,2014-11-10,2014,46,True,254
+Bitter Gourd,2014-11-17,2014,47,True,255
+Bitter Gourd,2014-11-24,2014,48,True,256
+Bitter Gourd,2014-12-01,2014,49,True,257
+Bitter Gourd,2014-12-08,2014,50,True,258
+Bitter Gourd,2014-12-15,2014,51,True,259
+Bitter Gourd,2014-12-22,2014,52,True,260
+Bitter Gourd,2014-12-29,2015,1,True,261
+Bitter Gourd,2015-01-05,2015,2,True,262
+Bitter Gourd,2015-01-12,2015,3,True,263
+Bitter Gourd,2015-01-19,2015,4,True,264
+Bitter Gourd,2015-01-26,2015,5,True,265
+Bitter Gourd,2015-02-02,2015,6,True,266
+Bitter Gourd,2015-02-09,2015,7,True,267
+Bitter Gourd,2015-02-16,2015,8,True,268
+Bitter Gourd,2015-02-23,2015,9,True,269
+Bitter Gourd,2015-03-02,2015,10,True,270
+Bitter Gourd,2015-03-09,2015,11,True,271
+Bitter Gourd,2015-03-16,2015,12,True,272
+Bitter Gourd,2015-03-23,2015,13,True,273
+Bitter Gourd,2015-03-30,2015,14,True,274
+Bitter Gourd,2015-04-06,2015,15,True,275
+Bitter Gourd,2015-04-13,2015,16,True,276
+Bitter Gourd,2015-04-20,2015,17,True,277
+Bitter Gourd,2015-04-27,2015,18,True,278
+Bitter Gourd,2015-05-04,2015,19,True,279
+Bitter Gourd,2015-05-11,2015,20,True,280
+Bitter Gourd,2015-05-18,2015,21,True,281
+Bitter Gourd,2015-05-25,2015,22,True,282
+Bitter Gourd,2015-06-01,2015,23,True,283
+Bitter Gourd,2015-06-08,2015,24,True,284
+Bitter Gourd,2015-06-15,2015,25,True,285
+Bitter Gourd,2015-06-22,2015,26,True,286
+Bitter Gourd,2015-06-29,2015,27,True,287
+Bitter Gourd,2015-07-06,2015,28,True,288
+Bitter Gourd,2015-07-13,2015,29,True,289
+Bitter Gourd,2015-07-20,2015,30,True,290
+Bitter Gourd,2015-07-27,2015,31,True,291
+Bitter Gourd,2015-08-03,2015,32,True,292
+Bitter Gourd,2015-08-10,2015,33,True,293
+Bitter Gourd,2015-08-17,2015,34,True,294
+Bitter Gourd,2015-08-24,2015,35,True,295
+Bitter Gourd,2015-08-31,2015,36,True,296
+Bitter Gourd,2015-09-07,2015,37,True,297
+Bitter Gourd,2015-09-14,2015,38,True,298
+Bitter Gourd,2015-09-21,2015,39,True,299
+Bitter Gourd,2015-09-28,2015,40,True,300
+Bitter Gourd,2015-10-05,2015,41,True,301
+Bitter Gourd,2015-10-12,2015,42,True,302
+Bitter Gourd,2015-10-19,2015,43,True,303
+Bitter Gourd,2015-10-26,2015,44,True,304
+Bitter Gourd,2015-11-02,2015,45,True,305
+Bitter Gourd,2015-11-09,2015,46,True,306
+Bitter Gourd,2015-11-16,2015,47,True,307
+Bitter Gourd,2015-11-23,2015,48,True,308
+Bitter Gourd,2015-11-30,2015,49,True,309
+Bitter Gourd,2015-12-07,2015,50,True,310
+Bitter Gourd,2015-12-14,2015,51,True,311
+Bitter Gourd,2015-12-21,2015,52,True,312
+Bitter Gourd,2015-12-28,2015,53,True,313
+Bitter Gourd,2016-01-04,2016,1,True,314
+Bitter Gourd,2016-01-11,2016,2,True,315
+Bitter Gourd,2016-01-18,2016,3,True,316
+Bitter Gourd,2016-01-25,2016,4,True,317
+Bitter Gourd,2016-02-01,2016,5,True,318
+Bitter Gourd,2016-02-08,2016,6,True,319
+Bitter Gourd,2016-02-15,2016,7,True,320
+Bitter Gourd,2016-02-22,2016,8,True,321
+Bitter Gourd,2016-02-29,2016,9,True,322
+Bitter Gourd,2016-03-07,2016,10,True,323
+Bitter Gourd,2016-03-14,2016,11,True,324
+Bitter Gourd,2016-03-21,2016,12,True,325
+Bitter Gourd,2016-03-28,2016,13,True,326
+Bitter Gourd,2016-04-04,2016,14,True,327
+Bitter Gourd,2016-04-11,2016,15,True,328
+Bitter Gourd,2016-04-18,2016,16,True,329
+Bitter Gourd,2016-04-25,2016,17,True,330
+Bitter Gourd,2016-05-02,2016,18,True,331
+Bitter Gourd,2016-05-09,2016,19,True,332
+Bitter Gourd,2016-05-16,2016,20,True,333
+Bitter Gourd,2016-05-23,2016,21,True,334
+Bitter Gourd,2016-05-30,2016,22,True,335
+Bitter Gourd,2016-06-06,2016,23,True,336
+Bitter Gourd,2016-06-13,2016,24,True,337
+Bitter Gourd,2016-06-20,2016,25,True,338
+Bitter Gourd,2016-06-27,2016,26,True,339
+Bitter Gourd,2016-07-04,2016,27,True,340
+Bitter Gourd,2016-07-11,2016,28,True,341
+Bitter Gourd,2016-07-18,2016,29,True,342
+Bitter Gourd,2016-07-25,2016,30,True,343
+Bitter Gourd,2016-08-01,2016,31,True,344
+Bitter Gourd,2016-08-08,2016,32,True,345
+Bitter Gourd,2016-08-15,2016,33,True,346
+Bitter Gourd,2016-08-22,2016,34,True,347
+Bitter Gourd,2016-08-29,2016,35,True,348
+Bitter Gourd,2016-09-05,2016,36,True,349
+Bitter Gourd,2016-09-12,2016,37,True,350
+Bitter Gourd,2016-09-19,2016,38,True,351
+Bitter Gourd,2016-09-26,2016,39,True,352
+Bitter Gourd,2016-10-03,2016,40,True,353
+Bitter Gourd,2016-10-10,2016,41,True,354
+Bitter Gourd,2016-10-17,2016,42,True,355
+Bitter Gourd,2016-10-24,2016,43,True,356
+Bitter Gourd,2016-10-31,2016,44,True,357
+Bitter Gourd,2016-11-07,2016,45,True,358
+Bitter Gourd,2016-11-14,2016,46,True,359
+Bitter Gourd,2016-11-21,2016,47,True,360
+Bitter Gourd,2016-11-28,2016,48,True,361
+Bitter Gourd,2016-12-05,2016,49,True,362
+Bitter Gourd,2016-12-12,2016,50,True,363
+Bitter Gourd,2016-12-19,2016,51,True,364
+Bitter Gourd,2016-12-26,2016,52,True,365
+Bitter Gourd,2017-01-02,2017,1,True,366
+Bitter Gourd,2017-01-09,2017,2,True,367
+Bitter Gourd,2017-01-16,2017,3,True,368
+Bitter Gourd,2017-01-23,2017,4,True,369
+Bitter Gourd,2017-01-30,2017,5,True,370
+Bitter Gourd,2017-02-06,2017,6,True,371
+Bitter Gourd,2017-02-13,2017,7,True,372
+Bitter Gourd,2017-02-20,2017,8,True,373
+Bitter Gourd,2017-02-27,2017,9,True,374
+Bitter Gourd,2017-03-06,2017,10,True,375
+Bitter Gourd,2017-03-13,2017,11,True,376
+Bitter Gourd,2017-03-20,2017,12,True,377
+Bitter Gourd,2017-03-27,2017,13,True,378
+Bitter Gourd,2017-04-03,2017,14,True,379
+Bitter Gourd,2017-04-10,2017,15,True,380
+Bitter Gourd,2017-04-17,2017,16,True,381
+Bitter Gourd,2017-04-24,2017,17,True,382
+Bitter Gourd,2017-05-01,2017,18,True,383
+Bitter Gourd,2017-05-08,2017,19,True,384
+Bitter Gourd,2017-05-15,2017,20,True,385
+Bitter Gourd,2017-05-22,2017,21,True,386
+Bitter Gourd,2017-05-29,2017,22,True,387
+Bitter Gourd,2017-06-05,2017,23,True,388
+Bitter Gourd,2017-06-12,2017,24,True,389
+Bitter Gourd,2017-06-19,2017,25,True,390
+Bitter Gourd,2017-06-26,2017,26,True,391
+Bitter Gourd,2017-07-03,2017,27,True,392
+Bitter Gourd,2017-07-10,2017,28,True,393
+Bitter Gourd,2017-07-17,2017,29,True,394
+Bitter Gourd,2017-07-24,2017,30,True,395
+Bitter Gourd,2017-07-31,2017,31,True,396
+Bitter Gourd,2017-08-07,2017,32,True,397
+Bitter Gourd,2017-08-14,2017,33,True,398
+Bitter Gourd,2017-08-21,2017,34,True,399
+Bitter Gourd,2017-08-28,2017,35,True,400
+Bitter Gourd,2017-09-04,2017,36,True,401
+Bitter Gourd,2017-09-11,2017,37,True,402
+Bitter Gourd,2017-09-18,2017,38,True,403
+Bitter Gourd,2017-09-25,2017,39,True,404
+Bitter Gourd,2017-10-02,2017,40,True,405
+Bitter Gourd,2017-10-09,2017,41,True,406
+Bitter Gourd,2017-10-16,2017,42,True,407
+Bitter Gourd,2017-10-23,2017,43,True,408
+Bitter Gourd,2017-10-30,2017,44,True,409
+Bitter Gourd,2017-11-06,2017,45,True,410
+Bitter Gourd,2017-11-13,2017,46,True,411
+Bitter Gourd,2017-11-20,2017,47,True,412
+Bitter Gourd,2017-11-27,2017,48,True,413
+Bitter Gourd,2017-12-04,2017,49,True,414
+Bitter Gourd,2017-12-11,2017,50,True,415
+Bitter Gourd,2017-12-18,2017,51,True,416
+Bitter Gourd,2017-12-25,2017,52,True,417
+Bitter Gourd,2018-01-01,2018,1,True,418
+Bitter Gourd,2018-01-08,2018,2,True,419
+Bitter Gourd,2018-01-15,2018,3,True,420
+Bitter Gourd,2018-01-22,2018,4,True,421
+Bitter Gourd,2018-01-29,2018,5,True,422
+Bitter Gourd,2018-02-05,2018,6,True,423
+Bitter Gourd,2018-02-12,2018,7,True,424
+Bitter Gourd,2018-02-19,2018,8,True,425
+Bitter Gourd,2018-02-26,2018,9,True,426
+Bitter Gourd,2018-03-05,2018,10,True,427
+Bitter Gourd,2018-03-12,2018,11,True,428
+Bitter Gourd,2018-03-19,2018,12,True,429
+Bitter Gourd,2018-03-26,2018,13,True,430
+Bitter Gourd,2018-04-02,2018,14,True,431
+Bitter Gourd,2018-04-09,2018,15,True,432
+Bitter Gourd,2018-04-16,2018,16,True,433
+Bitter Gourd,2018-04-23,2018,17,True,434
+Bitter Gourd,2018-04-30,2018,18,True,435
+Bitter Gourd,2018-05-07,2018,19,True,436
+Bitter Gourd,2018-05-14,2018,20,True,437
+Bitter Gourd,2018-05-21,2018,21,True,438
+Bitter Gourd,2018-05-28,2018,22,True,439
+Bitter Gourd,2018-06-04,2018,23,True,440
+Bitter Gourd,2018-06-11,2018,24,True,441
+Bitter Gourd,2018-06-18,2018,25,True,442
+Bitter Gourd,2018-06-25,2018,26,True,443
+Bitter Gourd,2018-07-02,2018,27,True,444
+Bitter Gourd,2018-07-09,2018,28,True,445
+Bitter Gourd,2018-07-16,2018,29,True,446
+Bitter Gourd,2018-07-23,2018,30,True,447
+Bitter Gourd,2018-07-30,2018,31,True,448
+Bitter Gourd,2018-08-06,2018,32,True,449
+Bitter Gourd,2018-08-13,2018,33,True,450
+Bitter Gourd,2018-08-20,2018,34,True,451
+Bitter Gourd,2018-08-27,2018,35,True,452
+Bitter Gourd,2018-09-03,2018,36,True,453
+Bitter Gourd,2018-09-10,2018,37,True,454
+Bitter Gourd,2018-09-17,2018,38,True,455
+Bitter Gourd,2018-09-24,2018,39,True,456
+Bitter Gourd,2018-10-01,2018,40,True,457
+Bitter Gourd,2018-10-08,2018,41,True,458
+Bitter Gourd,2018-10-15,2018,42,True,459
+Bitter Gourd,2018-10-22,2018,43,True,460
+Bitter Gourd,2018-10-29,2018,44,True,461
+Bitter Gourd,2018-11-05,2018,45,True,462
+Bitter Gourd,2018-11-12,2018,46,True,463
+Bitter Gourd,2018-11-19,2018,47,True,464
+Bitter Gourd,2018-11-26,2018,48,True,465
+Bitter Gourd,2018-12-03,2018,49,True,466
+Bitter Gourd,2018-12-10,2018,50,True,467
+Bitter Gourd,2018-12-17,2018,51,True,468
+Bitter Gourd,2018-12-24,2018,52,True,469
+Bitter Gourd,2018-12-31,2019,1,True,470
+Bitter Gourd,2019-01-07,2019,2,True,471
+Bitter Gourd,2019-01-14,2019,3,True,472
+Bitter Gourd,2019-01-21,2019,4,True,473
+Bitter Gourd,2019-01-28,2019,5,True,474
+Bitter Gourd,2019-02-04,2019,6,True,475
+Bitter Gourd,2019-02-11,2019,7,True,476
+Bitter Gourd,2019-02-18,2019,8,True,477
+Bitter Gourd,2019-02-25,2019,9,True,478
+Bitter Gourd,2019-03-04,2019,10,True,479
+Bitter Gourd,2019-03-11,2019,11,True,480
+Bitter Gourd,2019-03-18,2019,12,True,481
+Bitter Gourd,2019-03-25,2019,13,True,482
+Bitter Gourd,2019-04-01,2019,14,True,483
+Bitter Gourd,2019-04-08,2019,15,True,484
+Bitter Gourd,2019-04-15,2019,16,True,485
+Bitter Gourd,2019-04-22,2019,17,True,486
+Bitter Gourd,2019-04-29,2019,18,True,487
+Bitter Gourd,2019-05-06,2019,19,True,488
+Bitter Gourd,2019-05-13,2019,20,True,489
+Bitter Gourd,2019-05-20,2019,21,True,490
+Bitter Gourd,2019-05-27,2019,22,True,491
+Bitter Gourd,2019-06-03,2019,23,True,492
+Bitter Gourd,2019-06-10,2019,24,True,493
+Bitter Gourd,2019-06-17,2019,25,True,494
+Bitter Gourd,2019-06-24,2019,26,True,495
+Bitter Gourd,2019-07-01,2019,27,True,496
+Bitter Gourd,2019-07-08,2019,28,True,497
+Bitter Gourd,2019-07-15,2019,29,True,498
+Bitter Gourd,2019-07-22,2019,30,True,499
+Bitter Gourd,2019-07-29,2019,31,True,500
+Bitter Gourd,2019-08-05,2019,32,True,501
+Bitter Gourd,2019-08-12,2019,33,True,502
+Bitter Gourd,2019-08-19,2019,34,True,503
+Bitter Gourd,2019-08-26,2019,35,True,504
+Bitter Gourd,2019-09-02,2019,36,True,505
+Bitter Gourd,2019-09-09,2019,37,True,506
+Bitter Gourd,2019-09-16,2019,38,True,507
+Bitter Gourd,2019-09-23,2019,39,True,508
+Bitter Gourd,2019-09-30,2019,40,True,509
+Bitter Gourd,2019-10-07,2019,41,True,510
+Bitter Gourd,2019-10-14,2019,42,True,511
+Bitter Gourd,2019-10-21,2019,43,True,512
+Bitter Gourd,2019-10-28,2019,44,True,513
+Bitter Gourd,2019-11-04,2019,45,True,514
+Bitter Gourd,2019-11-11,2019,46,True,515
+Bitter Gourd,2019-11-18,2019,47,True,516
+Bitter Gourd,2019-11-25,2019,48,True,517
+Bitter Gourd,2019-12-02,2019,49,True,518
+Bitter Gourd,2019-12-09,2019,50,True,519
+Bitter Gourd,2019-12-16,2019,51,True,520
+Bitter Gourd,2019-12-23,2019,52,True,521
+Bitter Gourd,2019-12-30,2020,1,True,522
+Bitter Gourd,2020-01-06,2020,2,True,523
+Bitter Gourd,2020-01-13,2020,3,True,524
+Bitter Gourd,2020-01-20,2020,4,True,525
+Bitter Gourd,2020-01-27,2020,5,True,526
+Bitter Gourd,2020-02-03,2020,6,True,527
+Bitter Gourd,2020-02-10,2020,7,True,528
+Bitter Gourd,2020-02-17,2020,8,True,529
+Bitter Gourd,2020-02-24,2020,9,True,530
+Bitter Gourd,2020-03-02,2020,10,True,531
+Bitter Gourd,2020-03-09,2020,11,True,532
+Bitter Gourd,2020-03-16,2020,12,True,533
+Bitter Gourd,2020-03-23,2020,13,True,534
+Bitter Gourd,2020-03-30,2020,14,True,535
+Bitter Gourd,2020-04-06,2020,15,True,536
+Bitter Gourd,2020-04-13,2020,16,True,537
+Bitter Gourd,2020-04-20,2020,17,True,538
+Bitter Gourd,2020-04-27,2020,18,True,539
+Bitter Gourd,2020-05-04,2020,19,True,540
+Bitter Gourd,2020-05-11,2020,20,True,541
+Bitter Gourd,2020-05-18,2020,21,True,542
+Bitter Gourd,2020-05-25,2020,22,True,543
+Bitter Gourd,2020-06-01,2020,23,True,544
+Bitter Gourd,2020-06-08,2020,24,True,545
+Bitter Gourd,2020-06-15,2020,25,True,546
+Bitter Gourd,2020-06-22,2020,26,True,547
+Bitter Gourd,2020-06-29,2020,27,True,548
+Bitter Gourd,2020-07-06,2020,28,True,549
+Bitter Gourd,2020-07-13,2020,29,True,550
+Bitter Gourd,2020-07-20,2020,30,True,551
+Bitter Gourd,2020-07-27,2020,31,True,552
+Bitter Gourd,2020-08-03,2020,32,True,553
+Bitter Gourd,2020-08-10,2020,33,True,554
+Bitter Gourd,2020-08-17,2020,34,True,555
+Bitter Gourd,2020-08-24,2020,35,True,556
+Bitter Gourd,2020-08-31,2020,36,True,557
+Bitter Gourd,2020-09-07,2020,37,True,558
+Bitter Gourd,2020-09-14,2020,38,True,559
+Bitter Gourd,2020-09-21,2020,39,True,560
+Bitter Gourd,2020-09-28,2020,40,True,561
+Bitter Gourd,2020-10-05,2020,41,True,562
+Bitter Gourd,2020-10-12,2020,42,True,563
+Bitter Gourd,2020-10-19,2020,43,True,564
+Bitter Gourd,2020-10-26,2020,44,True,565
+Bitter Gourd,2020-11-02,2020,45,True,566
+Bitter Gourd,2020-11-09,2020,46,True,567
+Bitter Gourd,2020-11-16,2020,47,True,568
+Bitter Gourd,2020-11-23,2020,48,True,569
+Bitter Gourd,2020-11-30,2020,49,True,570
+Bitter Gourd,2020-12-07,2020,50,True,571
+Bitter Gourd,2020-12-14,2020,51,True,572
+Bitter Gourd,2020-12-21,2020,52,True,573
+Bitter Gourd,2020-12-28,2020,53,True,574
+Bitter Gourd,2021-01-04,2021,1,True,575
+Bitter Gourd,2021-01-11,2021,2,True,576
+Bitter Gourd,2021-01-18,2021,3,True,577
+Bitter Gourd,2021-01-25,2021,4,True,578
+Bitter Gourd,2021-02-01,2021,5,True,579
+Bitter Gourd,2021-02-08,2021,6,True,580
+Bitter Gourd,2021-02-15,2021,7,True,581
+Bitter Gourd,2021-02-22,2021,8,True,582
+Bitter Gourd,2021-03-01,2021,9,True,583
+Bitter Gourd,2021-03-08,2021,10,True,584
+Bitter Gourd,2021-03-15,2021,11,True,585
+Bitter Gourd,2021-03-22,2021,12,True,586
+Bitter Gourd,2021-03-29,2021,13,True,587
+Bitter Gourd,2021-04-05,2021,14,True,588
+Bitter Gourd,2021-04-12,2021,15,True,589
+Bitter Gourd,2021-04-19,2021,16,True,590
+Bitter Gourd,2021-04-26,2021,17,True,591
+Bitter Gourd,2021-05-03,2021,18,True,592
+Bitter Gourd,2021-05-10,2021,19,True,593
+Bitter Gourd,2021-05-17,2021,20,True,594
+Bitter Gourd,2021-05-24,2021,21,True,595
+Bitter Gourd,2021-05-31,2021,22,True,596
+Bitter Gourd,2021-06-07,2021,23,True,597
+Bitter Gourd,2021-06-14,2021,24,True,598
+Bitter Gourd,2021-06-21,2021,25,True,599
+Bitter Gourd,2021-06-28,2021,26,True,600
+Bitter Gourd,2021-07-05,2021,27,True,601
+Bitter Gourd,2021-07-12,2021,28,True,602
+Bitter Gourd,2021-07-19,2021,29,True,603
+Bitter Gourd,2021-07-26,2021,30,True,604
+Bitter Gourd,2021-08-02,2021,31,True,605
+Bitter Gourd,2021-08-09,2021,32,True,606
+Bitter Gourd,2021-08-16,2021,33,True,607
+Bitter Gourd,2021-08-23,2021,34,True,608
+Bitter Gourd,2021-08-30,2021,35,True,609
+Bitter Gourd,2021-09-06,2021,36,True,610
+Bitter Gourd,2021-09-13,2021,37,True,611
+Bitter Gourd,2021-09-20,2021,38,True,612
+Bitter Gourd,2021-09-27,2021,39,True,613
+Bitter Gourd,2021-10-04,2021,40,True,614
+Bitter Gourd,2021-10-11,2021,41,True,615
+Bitter Gourd,2021-10-18,2021,42,True,616
+Bitter Gourd,2021-10-25,2021,43,True,617
+Bitter Gourd,2021-11-01,2021,44,True,618
+Bitter Gourd,2021-11-08,2021,45,True,619
+Bitter Gourd,2021-11-15,2021,46,True,620
+Bitter Gourd,2021-11-22,2021,47,True,621
+Bitter Gourd,2021-11-29,2021,48,True,622
+Bitter Gourd,2021-12-06,2021,49,True,623
+Bitter Gourd,2021-12-13,2021,50,True,624
+Bitter Gourd,2021-12-20,2021,51,True,625
+Bitter Gourd,2021-12-27,2021,52,True,626
+Bitter Gourd,2022-01-03,2022,1,True,627
+Bitter Gourd,2022-01-10,2022,2,True,628
+Bitter Gourd,2022-01-17,2022,3,True,629
+Bitter Gourd,2022-01-24,2022,4,True,630
+Bitter Gourd,2022-01-31,2022,5,True,631
+Bitter Gourd,2022-02-07,2022,6,True,632
+Bitter Gourd,2022-02-14,2022,7,True,633
+Bitter Gourd,2022-02-21,2022,8,True,634
+Bitter Gourd,2022-02-28,2022,9,True,635
+Bitter Gourd,2022-03-07,2022,10,True,636
+Bitter Gourd,2022-03-14,2022,11,True,637
+Bitter Gourd,2022-03-21,2022,12,True,638
+Bitter Gourd,2022-03-28,2022,13,True,639
+Bitter Gourd,2022-04-04,2022,14,True,640
+Bitter Gourd,2022-04-11,2022,15,True,641
+Bitter Gourd,2022-04-18,2022,16,True,642
+Bitter Gourd,2022-04-25,2022,17,True,643
+Bitter Gourd,2022-05-02,2022,18,True,644
+Bitter Gourd,2022-05-09,2022,19,True,645
+Bitter Gourd,2022-05-16,2022,20,True,646
+Bitter Gourd,2022-05-23,2022,21,True,647
+Bitter Gourd,2022-05-30,2022,22,True,648
+Bitter Gourd,2022-06-06,2022,23,True,649
+Bitter Gourd,2022-06-13,2022,24,True,650
+Bitter Gourd,2022-06-20,2022,25,True,651
+Bitter Gourd,2022-06-27,2022,26,True,652
+Bitter Gourd,2022-07-04,2022,27,True,653
+Bitter Gourd,2022-07-11,2022,28,True,654
+Bitter Gourd,2022-07-18,2022,29,True,655
+Bitter Gourd,2022-07-25,2022,30,True,656
+Bitter Gourd,2022-08-01,2022,31,True,657
+Bitter Gourd,2022-08-08,2022,32,True,658
+Bitter Gourd,2022-08-15,2022,33,True,659
+Bitter Gourd,2022-08-22,2022,34,True,660
+Bitter Gourd,2022-08-29,2022,35,True,661
+Bitter Gourd,2022-09-05,2022,36,True,662
+Bitter Gourd,2022-09-12,2022,37,True,663
+Bitter Gourd,2022-09-19,2022,38,True,664
+Bitter Gourd,2022-09-26,2022,39,True,665
+Bitter Gourd,2022-10-03,2022,40,True,666
+Bitter Gourd,2022-10-10,2022,41,True,667
+Bitter Gourd,2022-10-17,2022,42,True,668
+Bitter Gourd,2022-10-24,2022,43,True,669
+Bitter Gourd,2022-10-31,2022,44,True,670
+Bitter Gourd,2022-11-07,2022,45,True,671
+Bitter Gourd,2022-11-14,2022,46,True,672
+Bitter Gourd,2022-11-21,2022,47,True,673
+Bitter Gourd,2022-11-28,2022,48,True,674
+Bitter Gourd,2022-12-05,2022,49,True,675
+Bitter Gourd,2022-12-12,2022,50,True,676
+Bitter Gourd,2022-12-19,2022,51,True,677
+Bitter Gourd,2022-12-26,2022,52,True,678
+Bitter Gourd,2022-12-26,2022,52,True,679
+Bitter Gourd,2023-01-02,2023,1,False,680
+Bitter Gourd,2023-01-09,2023,2,False,681
+Bitter Gourd,2023-01-16,2023,3,False,682
+Bitter Gourd,2023-01-23,2023,4,False,683
+Bitter Gourd,2023-01-30,2023,5,False,684
+Bitter Gourd,2023-02-06,2023,6,False,685
+Bitter Gourd,2023-02-13,2023,7,False,686
+Bitter Gourd,2023-02-20,2023,8,False,687
+Bitter Gourd,2023-02-27,2023,9,False,688
+Bitter Gourd,2023-03-06,2023,10,False,689
+Bitter Gourd,2023-03-13,2023,11,False,690
+Bitter Gourd,2023-03-20,2023,12,False,691
+Bitter Gourd,2023-03-27,2023,13,False,692
+Bitter Gourd,2023-04-03,2023,14,False,693
+Bitter Gourd,2023-04-10,2023,15,False,694
+Bitter Gourd,2023-04-17,2023,16,False,695
+Bitter Gourd,2023-04-24,2023,17,False,696
+Bitter Gourd,2023-05-01,2023,18,False,697
+Bitter Gourd,2023-05-08,2023,19,False,698
+Bitter Gourd,2023-05-15,2023,20,False,699
+Bitter Gourd,2023-05-22,2023,21,False,700
+Bitter Gourd,2023-05-29,2023,22,False,701
+Bitter Gourd,2023-06-05,2023,23,False,702
+Bitter Gourd,2023-06-12,2023,24,False,703
+Bitter Gourd,2023-06-19,2023,25,False,704
+Bitter Gourd,2023-06-26,2023,26,False,705
+Bitter Gourd,2023-07-03,2023,27,False,706
+Bitter Gourd,2023-07-10,2023,28,False,707
+Bitter Gourd,2023-07-17,2023,29,False,708
+Bitter Gourd,2023-07-24,2023,30,False,709
+Bitter Gourd,2023-07-31,2023,31,False,710
+Bitter Gourd,2023-08-07,2023,32,False,711
+Bitter Gourd,2023-08-14,2023,33,False,712
+Bitter Gourd,2023-08-21,2023,34,False,713
+Bitter Gourd,2023-08-28,2023,35,False,714
+Bitter Gourd,2023-09-04,2023,36,False,715
+Bitter Gourd,2023-09-11,2023,37,False,716
+Bitter Gourd,2023-09-18,2023,38,False,717
+Bitter Gourd,2023-09-25,2023,39,False,718
+Bitter Gourd,2023-10-02,2023,40,False,719
+Bitter Gourd,2023-10-09,2023,41,False,720
+Bitter Gourd,2023-10-16,2023,42,False,721
+Bitter Gourd,2023-10-23,2023,43,False,722
+Bitter Gourd,2023-10-30,2023,44,False,723
+Bitter Gourd,2023-11-06,2023,45,False,724
+Bitter Gourd,2023-11-13,2023,46,False,725
+Bitter Gourd,2023-11-20,2023,47,False,726
+Bitter Gourd,2023-11-27,2023,48,False,727
+Bitter Gourd,2023-12-04,2023,49,False,728
+Bitter Gourd,2023-12-11,2023,50,False,729
+Bitter Gourd,2023-12-18,2023,51,False,730
+Bitter Gourd,2023-12-25,2023,52,False,731
+Bitter Gourd,2024-01-01,2024,1,False,732
+Bitter Gourd,2024-01-08,2024,2,False,733
+Bitter Gourd,2024-01-15,2024,3,False,734
+Bitter Gourd,2024-01-22,2024,4,False,735
+Bitter Gourd,2024-01-29,2024,5,False,736
+Bitter Gourd,2024-02-05,2024,6,False,737
+Bitter Gourd,2024-02-12,2024,7,False,738
+Bitter Gourd,2024-02-19,2024,8,False,739
+Bitter Gourd,2024-02-26,2024,9,False,740
+Bitter Gourd,2024-03-04,2024,10,False,741
+Bitter Gourd,2024-03-11,2024,11,False,742
+Bitter Gourd,2024-03-18,2024,12,False,743
+Bitter Gourd,2024-03-25,2024,13,False,744
+Bitter Gourd,2024-04-01,2024,14,False,745
+Bitter Gourd,2024-04-08,2024,15,False,746
+Bitter Gourd,2024-04-15,2024,16,False,747
+Bitter Gourd,2024-04-22,2024,17,False,748
+Bitter Gourd,2024-04-29,2024,18,False,749
+Bitter Gourd,2024-05-06,2024,19,False,750
+Bitter Gourd,2024-05-13,2024,20,False,751
+Bitter Gourd,2024-05-20,2024,21,False,752
+Bitter Gourd,2024-05-27,2024,22,False,753
+Bitter Gourd,2024-06-03,2024,23,False,754
+Bitter Gourd,2024-06-10,2024,24,False,755
+Bitter Gourd,2024-06-17,2024,25,False,756
+Bitter Gourd,2024-06-24,2024,26,False,757
+Bitter Gourd,2024-07-01,2024,27,False,758
+Bitter Gourd,2024-07-08,2024,28,False,759
+Bitter Gourd,2024-07-15,2024,29,False,760
+Bitter Gourd,2024-07-22,2024,30,False,761
+Bitter Gourd,2024-07-29,2024,31,False,762
+Bitter Gourd,2024-08-05,2024,32,False,763
+Bitter Gourd,2024-08-12,2024,33,False,764
+Bitter Gourd,2024-08-19,2024,34,False,765
+Bitter Gourd,2024-08-26,2024,35,False,766
+Bitter Gourd,2024-09-02,2024,36,False,767
+Bitter Gourd,2024-09-09,2024,37,False,768
+Bitter Gourd,2024-09-16,2024,38,False,769
+Bitter Gourd,2024-09-23,2024,39,False,770
+Bitter Gourd,2024-09-30,2024,40,False,771
+Bitter Gourd,2024-10-07,2024,41,False,772
+Bitter Gourd,2024-10-14,2024,42,False,773
+Bitter Gourd,2024-10-21,2024,43,False,774
+Bitter Gourd,2024-10-28,2024,44,False,775
+Bitter Gourd,2024-11-04,2024,45,False,776
+Bitter Gourd,2024-11-11,2024,46,False,777
+Bitter Gourd,2024-11-18,2024,47,False,778
+Bitter Gourd,2024-11-25,2024,48,False,779
+Bitter Gourd,2024-12-02,2024,49,False,780
+Bitter Gourd,2024-12-09,2024,50,False,781
+Bitter Gourd,2024-12-16,2024,51,False,782
+Bitter Gourd,2024-12-23,2024,52,False,783
+Bitter Gourd,2024-12-30,2025,1,False,784
+Bitter Gourd,2025-01-06,2025,2,False,785
+Bitter Gourd,2025-01-13,2025,3,False,786
+Bitter Gourd,2025-01-20,2025,4,False,787
+Bitter Gourd,2025-01-27,2025,5,False,788
+Bitter Gourd,2025-02-03,2025,6,False,789
+Bitter Gourd,2025-02-10,2025,7,False,790
+Bitter Gourd,2025-02-17,2025,8,False,791
+Bitter Gourd,2025-02-24,2025,9,False,792
+Bitter Gourd,2025-03-03,2025,10,False,793
+Bitter Gourd,2025-03-10,2025,11,False,794
+Bitter Gourd,2025-03-17,2025,12,False,795
+Bitter Gourd,2025-03-24,2025,13,False,796
+Bitter Gourd,2025-03-31,2025,14,False,797
+Bitter Gourd,2025-04-07,2025,15,False,798
+Bitter Gourd,2025-04-14,2025,16,False,799
+Bitter Gourd,2025-04-21,2025,17,False,800
+Bitter Gourd,2025-04-28,2025,18,False,801
+Bitter Gourd,2025-05-05,2025,19,False,802
+Bitter Gourd,2025-05-12,2025,20,False,803
+Bitter Gourd,2025-05-19,2025,21,False,804
+Bitter Gourd,2025-05-26,2025,22,False,805
+Bitter Gourd,2025-06-02,2025,23,False,806
+Bitter Gourd,2025-06-09,2025,24,False,807
+Bitter Gourd,2025-06-16,2025,25,False,808
+Bitter Gourd,2025-06-23,2025,26,False,809
+Bitter Gourd,2025-06-30,2025,27,False,810
+Bitter Gourd,2025-07-07,2025,28,False,811
+Bitter Gourd,2025-07-14,2025,29,False,812
+Bitter Gourd,2025-07-21,2025,30,False,813
+Bitter Gourd,2025-07-28,2025,31,False,814
+Bitter Gourd,2025-08-04,2025,32,False,815
+Bitter Gourd,2025-08-11,2025,33,False,816
+Bitter Gourd,2025-08-18,2025,34,False,817
+Bitter Gourd,2025-08-25,2025,35,False,818
+Bitter Gourd,2025-09-01,2025,36,False,819
+Bitter Gourd,2025-09-08,2025,37,False,820
+Bitter Gourd,2025-09-15,2025,38,False,821
+Bitter Gourd,2025-09-22,2025,39,False,822
+Bitter Gourd,2025-09-29,2025,40,False,823
+Bitter Gourd,2025-10-06,2025,41,False,824
+Bitter Gourd,2025-10-13,2025,42,False,825
+Bitter Gourd,2025-10-20,2025,43,False,826
+Bitter Gourd,2025-10-27,2025,44,False,827
+Bitter Gourd,2025-11-03,2025,45,False,828
+Bitter Gourd,2025-11-10,2025,46,False,829
+Bitter Gourd,2025-11-17,2025,47,False,830
+Bitter Gourd,2025-11-24,2025,48,False,831
+Bitter Gourd,2025-12-01,2025,49,False,832
+Bitter Gourd,2025-12-08,2025,50,False,833
+Bitter Gourd,2025-12-15,2025,51,False,834
+Bitter Gourd,2025-12-22,2025,52,False,835
+Bitter Gourd,2025-12-29,2026,1,False,836
+Bitter Gourd,2026-01-05,2026,2,False,837
+Brinjal,2009-12-28,2009,53,True,0
+Brinjal,2010-01-04,2010,1,True,1
+Brinjal,2010-01-11,2010,2,True,2
+Brinjal,2010-01-18,2010,3,True,3
+Brinjal,2010-01-25,2010,4,True,4
+Brinjal,2010-02-01,2010,5,True,5
+Brinjal,2010-02-08,2010,6,True,6
+Brinjal,2010-02-15,2010,7,True,7
+Brinjal,2010-02-22,2010,8,True,8
+Brinjal,2010-03-01,2010,9,True,9
+Brinjal,2010-03-08,2010,10,True,10
+Brinjal,2010-03-15,2010,11,True,11
+Brinjal,2010-03-22,2010,12,True,12
+Brinjal,2010-03-29,2010,13,True,13
+Brinjal,2010-04-05,2010,14,True,14
+Brinjal,2010-04-12,2010,15,True,15
+Brinjal,2010-04-19,2010,16,True,16
+Brinjal,2010-04-26,2010,17,True,17
+Brinjal,2010-05-03,2010,18,True,18
+Brinjal,2010-05-10,2010,19,True,19
+Brinjal,2010-05-17,2010,20,True,20
+Brinjal,2010-05-24,2010,21,True,21
+Brinjal,2010-05-31,2010,22,True,22
+Brinjal,2010-06-07,2010,23,True,23
+Brinjal,2010-06-14,2010,24,True,24
+Brinjal,2010-06-21,2010,25,True,25
+Brinjal,2010-06-28,2010,26,True,26
+Brinjal,2010-07-05,2010,27,True,27
+Brinjal,2010-07-12,2010,28,True,28
+Brinjal,2010-07-19,2010,29,True,29
+Brinjal,2010-07-26,2010,30,True,30
+Brinjal,2010-08-02,2010,31,True,31
+Brinjal,2010-08-09,2010,32,True,32
+Brinjal,2010-08-16,2010,33,True,33
+Brinjal,2010-08-23,2010,34,True,34
+Brinjal,2010-08-30,2010,35,True,35
+Brinjal,2010-09-06,2010,36,True,36
+Brinjal,2010-09-13,2010,37,True,37
+Brinjal,2010-09-20,2010,38,True,38
+Brinjal,2010-09-27,2010,39,True,39
+Brinjal,2010-10-04,2010,40,True,40
+Brinjal,2010-10-11,2010,41,True,41
+Brinjal,2010-10-18,2010,42,True,42
+Brinjal,2010-10-25,2010,43,True,43
+Brinjal,2010-11-01,2010,44,True,44
+Brinjal,2010-11-08,2010,45,True,45
+Brinjal,2010-11-15,2010,46,True,46
+Brinjal,2010-11-22,2010,47,True,47
+Brinjal,2010-11-29,2010,48,True,48
+Brinjal,2010-12-06,2010,49,True,49
+Brinjal,2010-12-13,2010,50,True,50
+Brinjal,2010-12-20,2010,51,True,51
+Brinjal,2010-12-27,2010,52,True,52
+Brinjal,2011-01-03,2011,1,True,53
+Brinjal,2011-01-10,2011,2,True,54
+Brinjal,2011-01-17,2011,3,True,55
+Brinjal,2011-01-24,2011,4,True,56
+Brinjal,2011-01-31,2011,5,True,57
+Brinjal,2011-02-07,2011,6,True,58
+Brinjal,2011-02-14,2011,7,True,59
+Brinjal,2011-02-21,2011,8,True,60
+Brinjal,2011-02-28,2011,9,True,61
+Brinjal,2011-03-07,2011,10,True,62
+Brinjal,2011-03-14,2011,11,True,63
+Brinjal,2011-03-21,2011,12,True,64
+Brinjal,2011-03-28,2011,13,True,65
+Brinjal,2011-04-04,2011,14,True,66
+Brinjal,2011-04-11,2011,15,True,67
+Brinjal,2011-04-18,2011,16,True,68
+Brinjal,2011-04-25,2011,17,True,69
+Brinjal,2011-05-02,2011,18,True,70
+Brinjal,2011-05-09,2011,19,True,71
+Brinjal,2011-05-16,2011,20,True,72
+Brinjal,2011-05-23,2011,21,True,73
+Brinjal,2011-05-30,2011,22,True,74
+Brinjal,2011-06-06,2011,23,True,75
+Brinjal,2011-06-13,2011,24,True,76
+Brinjal,2011-06-20,2011,25,True,77
+Brinjal,2011-06-27,2011,26,True,78
+Brinjal,2011-07-04,2011,27,True,79
+Brinjal,2011-07-11,2011,28,True,80
+Brinjal,2011-07-18,2011,29,True,81
+Brinjal,2011-07-25,2011,30,True,82
+Brinjal,2011-08-01,2011,31,True,83
+Brinjal,2011-08-08,2011,32,True,84
+Brinjal,2011-08-15,2011,33,True,85
+Brinjal,2011-08-22,2011,34,True,86
+Brinjal,2011-08-29,2011,35,True,87
+Brinjal,2011-09-05,2011,36,True,88
+Brinjal,2011-09-12,2011,37,True,89
+Brinjal,2011-09-19,2011,38,True,90
+Brinjal,2011-09-26,2011,39,True,91
+Brinjal,2011-10-03,2011,40,True,92
+Brinjal,2011-10-10,2011,41,True,93
+Brinjal,2011-10-17,2011,42,True,94
+Brinjal,2011-10-24,2011,43,True,95
+Brinjal,2011-10-31,2011,44,True,96
+Brinjal,2011-11-07,2011,45,True,97
+Brinjal,2011-11-14,2011,46,True,98
+Brinjal,2011-11-21,2011,47,True,99
+Brinjal,2011-11-28,2011,48,True,100
+Brinjal,2011-12-05,2011,49,True,101
+Brinjal,2011-12-12,2011,50,True,102
+Brinjal,2011-12-19,2011,51,True,103
+Brinjal,2011-12-26,2011,52,True,104
+Brinjal,2012-01-02,2012,1,True,105
+Brinjal,2012-01-09,2012,2,True,106
+Brinjal,2012-01-16,2012,3,True,107
+Brinjal,2012-01-23,2012,4,True,108
+Brinjal,2012-01-30,2012,5,True,109
+Brinjal,2012-02-06,2012,6,True,110
+Brinjal,2012-02-13,2012,7,True,111
+Brinjal,2012-02-20,2012,8,True,112
+Brinjal,2012-02-27,2012,9,True,113
+Brinjal,2012-03-05,2012,10,True,114
+Brinjal,2012-03-12,2012,11,True,115
+Brinjal,2012-03-19,2012,12,True,116
+Brinjal,2012-03-26,2012,13,True,117
+Brinjal,2012-04-02,2012,14,True,118
+Brinjal,2012-04-09,2012,15,True,119
+Brinjal,2012-04-16,2012,16,True,120
+Brinjal,2012-04-23,2012,17,True,121
+Brinjal,2012-04-30,2012,18,True,122
+Brinjal,2012-05-07,2012,19,True,123
+Brinjal,2012-05-14,2012,20,True,124
+Brinjal,2012-05-21,2012,21,True,125
+Brinjal,2012-05-28,2012,22,True,126
+Brinjal,2012-06-04,2012,23,True,127
+Brinjal,2012-06-11,2012,24,True,128
+Brinjal,2012-06-18,2012,25,True,129
+Brinjal,2012-06-25,2012,26,True,130
+Brinjal,2012-07-02,2012,27,True,131
+Brinjal,2012-07-09,2012,28,True,132
+Brinjal,2012-07-16,2012,29,True,133
+Brinjal,2012-07-23,2012,30,True,134
+Brinjal,2012-07-30,2012,31,True,135
+Brinjal,2012-08-06,2012,32,True,136
+Brinjal,2012-08-13,2012,33,True,137
+Brinjal,2012-08-20,2012,34,True,138
+Brinjal,2012-08-27,2012,35,True,139
+Brinjal,2012-09-03,2012,36,True,140
+Brinjal,2012-09-10,2012,37,True,141
+Brinjal,2012-09-17,2012,38,True,142
+Brinjal,2012-09-24,2012,39,True,143
+Brinjal,2012-10-01,2012,40,True,144
+Brinjal,2012-10-08,2012,41,True,145
+Brinjal,2012-10-15,2012,42,True,146
+Brinjal,2012-10-22,2012,43,True,147
+Brinjal,2012-10-29,2012,44,True,148
+Brinjal,2012-11-05,2012,45,True,149
+Brinjal,2012-11-12,2012,46,True,150
+Brinjal,2012-11-19,2012,47,True,151
+Brinjal,2012-11-26,2012,48,True,152
+Brinjal,2012-12-03,2012,49,True,153
+Brinjal,2012-12-10,2012,50,True,154
+Brinjal,2012-12-17,2012,51,True,155
+Brinjal,2012-12-24,2012,52,True,156
+Brinjal,2012-12-31,2013,1,True,157
+Brinjal,2013-01-07,2013,2,True,158
+Brinjal,2013-01-14,2013,3,True,159
+Brinjal,2013-01-21,2013,4,True,160
+Brinjal,2013-01-28,2013,5,True,161
+Brinjal,2013-02-04,2013,6,True,162
+Brinjal,2013-02-11,2013,7,True,163
+Brinjal,2013-02-18,2013,8,True,164
+Brinjal,2013-02-25,2013,9,True,165
+Brinjal,2013-03-04,2013,10,True,166
+Brinjal,2013-03-11,2013,11,True,167
+Brinjal,2013-03-18,2013,12,True,168
+Brinjal,2013-03-25,2013,13,True,169
+Brinjal,2013-04-01,2013,14,True,170
+Brinjal,2013-04-08,2013,15,True,171
+Brinjal,2013-04-15,2013,16,True,172
+Brinjal,2013-04-22,2013,17,True,173
+Brinjal,2013-04-29,2013,18,True,174
+Brinjal,2013-05-06,2013,19,True,175
+Brinjal,2013-05-13,2013,20,True,176
+Brinjal,2013-05-20,2013,21,True,177
+Brinjal,2013-05-27,2013,22,True,178
+Brinjal,2013-06-03,2013,23,True,179
+Brinjal,2013-06-10,2013,24,True,180
+Brinjal,2013-06-17,2013,25,True,181
+Brinjal,2013-06-24,2013,26,True,182
+Brinjal,2013-07-01,2013,27,True,183
+Brinjal,2013-07-08,2013,28,True,184
+Brinjal,2013-07-15,2013,29,True,185
+Brinjal,2013-07-22,2013,30,True,186
+Brinjal,2013-07-29,2013,31,True,187
+Brinjal,2013-08-05,2013,32,True,188
+Brinjal,2013-08-12,2013,33,True,189
+Brinjal,2013-08-19,2013,34,True,190
+Brinjal,2013-08-26,2013,35,True,191
+Brinjal,2013-09-02,2013,36,True,192
+Brinjal,2013-09-09,2013,37,True,193
+Brinjal,2013-09-16,2013,38,True,194
+Brinjal,2013-09-23,2013,39,True,195
+Brinjal,2013-09-30,2013,40,True,196
+Brinjal,2013-10-07,2013,41,True,197
+Brinjal,2013-10-14,2013,42,True,198
+Brinjal,2013-10-21,2013,43,True,199
+Brinjal,2013-10-28,2013,44,True,200
+Brinjal,2013-11-04,2013,45,True,201
+Brinjal,2013-11-11,2013,46,True,202
+Brinjal,2013-11-18,2013,47,True,203
+Brinjal,2013-11-25,2013,48,True,204
+Brinjal,2013-12-02,2013,49,True,205
+Brinjal,2013-12-09,2013,50,True,206
+Brinjal,2013-12-16,2013,51,True,207
+Brinjal,2013-12-23,2013,52,True,208
+Brinjal,2013-12-30,2014,1,True,209
+Brinjal,2014-01-06,2014,2,True,210
+Brinjal,2014-01-13,2014,3,True,211
+Brinjal,2014-01-20,2014,4,True,212
+Brinjal,2014-01-27,2014,5,True,213
+Brinjal,2014-02-03,2014,6,True,214
+Brinjal,2014-02-10,2014,7,True,215
+Brinjal,2014-02-17,2014,8,True,216
+Brinjal,2014-02-24,2014,9,True,217
+Brinjal,2014-03-03,2014,10,True,218
+Brinjal,2014-03-10,2014,11,True,219
+Brinjal,2014-03-17,2014,12,True,220
+Brinjal,2014-03-24,2014,13,True,221
+Brinjal,2014-03-31,2014,14,True,222
+Brinjal,2014-04-07,2014,15,True,223
+Brinjal,2014-04-14,2014,16,True,224
+Brinjal,2014-04-21,2014,17,True,225
+Brinjal,2014-04-28,2014,18,True,226
+Brinjal,2014-05-05,2014,19,True,227
+Brinjal,2014-05-12,2014,20,True,228
+Brinjal,2014-05-19,2014,21,True,229
+Brinjal,2014-05-26,2014,22,True,230
+Brinjal,2014-06-02,2014,23,True,231
+Brinjal,2014-06-09,2014,24,True,232
+Brinjal,2014-06-16,2014,25,True,233
+Brinjal,2014-06-23,2014,26,True,234
+Brinjal,2014-06-30,2014,27,True,235
+Brinjal,2014-07-07,2014,28,True,236
+Brinjal,2014-07-14,2014,29,True,237
+Brinjal,2014-07-21,2014,30,True,238
+Brinjal,2014-07-28,2014,31,True,239
+Brinjal,2014-08-04,2014,32,True,240
+Brinjal,2014-08-11,2014,33,True,241
+Brinjal,2014-08-18,2014,34,True,242
+Brinjal,2014-08-25,2014,35,True,243
+Brinjal,2014-09-01,2014,36,True,244
+Brinjal,2014-09-08,2014,37,True,245
+Brinjal,2014-09-15,2014,38,True,246
+Brinjal,2014-09-22,2014,39,True,247
+Brinjal,2014-09-29,2014,40,True,248
+Brinjal,2014-10-06,2014,41,True,249
+Brinjal,2014-10-13,2014,42,True,250
+Brinjal,2014-10-20,2014,43,True,251
+Brinjal,2014-10-27,2014,44,True,252
+Brinjal,2014-11-03,2014,45,True,253
+Brinjal,2014-11-10,2014,46,True,254
+Brinjal,2014-11-17,2014,47,True,255
+Brinjal,2014-11-24,2014,48,True,256
+Brinjal,2014-12-01,2014,49,True,257
+Brinjal,2014-12-08,2014,50,True,258
+Brinjal,2014-12-15,2014,51,True,259
+Brinjal,2014-12-22,2014,52,True,260
+Brinjal,2014-12-29,2015,1,True,261
+Brinjal,2015-01-05,2015,2,True,262
+Brinjal,2015-01-12,2015,3,True,263
+Brinjal,2015-01-19,2015,4,True,264
+Brinjal,2015-01-26,2015,5,True,265
+Brinjal,2015-02-02,2015,6,True,266
+Brinjal,2015-02-09,2015,7,True,267
+Brinjal,2015-02-16,2015,8,True,268
+Brinjal,2015-02-23,2015,9,True,269
+Brinjal,2015-03-02,2015,10,True,270
+Brinjal,2015-03-09,2015,11,True,271
+Brinjal,2015-03-16,2015,12,True,272
+Brinjal,2015-03-23,2015,13,True,273
+Brinjal,2015-03-30,2015,14,True,274
+Brinjal,2015-04-06,2015,15,True,275
+Brinjal,2015-04-13,2015,16,True,276
+Brinjal,2015-04-20,2015,17,True,277
+Brinjal,2015-04-27,2015,18,True,278
+Brinjal,2015-05-04,2015,19,True,279
+Brinjal,2015-05-11,2015,20,True,280
+Brinjal,2015-05-18,2015,21,True,281
+Brinjal,2015-05-25,2015,22,True,282
+Brinjal,2015-06-01,2015,23,True,283
+Brinjal,2015-06-08,2015,24,True,284
+Brinjal,2015-06-15,2015,25,True,285
+Brinjal,2015-06-22,2015,26,True,286
+Brinjal,2015-06-29,2015,27,True,287
+Brinjal,2015-07-06,2015,28,True,288
+Brinjal,2015-07-13,2015,29,True,289
+Brinjal,2015-07-20,2015,30,True,290
+Brinjal,2015-07-27,2015,31,True,291
+Brinjal,2015-08-03,2015,32,True,292
+Brinjal,2015-08-10,2015,33,True,293
+Brinjal,2015-08-17,2015,34,True,294
+Brinjal,2015-08-24,2015,35,True,295
+Brinjal,2015-08-31,2015,36,True,296
+Brinjal,2015-09-07,2015,37,True,297
+Brinjal,2015-09-14,2015,38,True,298
+Brinjal,2015-09-21,2015,39,True,299
+Brinjal,2015-09-28,2015,40,True,300
+Brinjal,2015-10-05,2015,41,True,301
+Brinjal,2015-10-12,2015,42,True,302
+Brinjal,2015-10-19,2015,43,True,303
+Brinjal,2015-10-26,2015,44,True,304
+Brinjal,2015-11-02,2015,45,True,305
+Brinjal,2015-11-09,2015,46,True,306
+Brinjal,2015-11-16,2015,47,True,307
+Brinjal,2015-11-23,2015,48,True,308
+Brinjal,2015-11-30,2015,49,True,309
+Brinjal,2015-12-07,2015,50,True,310
+Brinjal,2015-12-14,2015,51,True,311
+Brinjal,2015-12-21,2015,52,True,312
+Brinjal,2015-12-28,2015,53,True,313
+Brinjal,2016-01-04,2016,1,True,314
+Brinjal,2016-01-11,2016,2,True,315
+Brinjal,2016-01-18,2016,3,True,316
+Brinjal,2016-01-25,2016,4,True,317
+Brinjal,2016-02-01,2016,5,True,318
+Brinjal,2016-02-08,2016,6,True,319
+Brinjal,2016-02-15,2016,7,True,320
+Brinjal,2016-02-22,2016,8,True,321
+Brinjal,2016-02-29,2016,9,True,322
+Brinjal,2016-03-07,2016,10,True,323
+Brinjal,2016-03-14,2016,11,True,324
+Brinjal,2016-03-21,2016,12,True,325
+Brinjal,2016-03-28,2016,13,True,326
+Brinjal,2016-04-04,2016,14,True,327
+Brinjal,2016-04-11,2016,15,True,328
+Brinjal,2016-04-18,2016,16,True,329
+Brinjal,2016-04-25,2016,17,True,330
+Brinjal,2016-05-02,2016,18,True,331
+Brinjal,2016-05-09,2016,19,True,332
+Brinjal,2016-05-16,2016,20,True,333
+Brinjal,2016-05-23,2016,21,True,334
+Brinjal,2016-05-30,2016,22,True,335
+Brinjal,2016-06-06,2016,23,True,336
+Brinjal,2016-06-13,2016,24,True,337
+Brinjal,2016-06-20,2016,25,True,338
+Brinjal,2016-06-27,2016,26,True,339
+Brinjal,2016-07-04,2016,27,True,340
+Brinjal,2016-07-11,2016,28,True,341
+Brinjal,2016-07-18,2016,29,True,342
+Brinjal,2016-07-25,2016,30,True,343
+Brinjal,2016-08-01,2016,31,True,344
+Brinjal,2016-08-08,2016,32,True,345
+Brinjal,2016-08-15,2016,33,True,346
+Brinjal,2016-08-22,2016,34,True,347
+Brinjal,2016-08-29,2016,35,True,348
+Brinjal,2016-09-05,2016,36,True,349
+Brinjal,2016-09-12,2016,37,True,350
+Brinjal,2016-09-19,2016,38,True,351
+Brinjal,2016-09-26,2016,39,True,352
+Brinjal,2016-10-03,2016,40,True,353
+Brinjal,2016-10-10,2016,41,True,354
+Brinjal,2016-10-17,2016,42,True,355
+Brinjal,2016-10-24,2016,43,True,356
+Brinjal,2016-10-31,2016,44,True,357
+Brinjal,2016-11-07,2016,45,True,358
+Brinjal,2016-11-14,2016,46,True,359
+Brinjal,2016-11-21,2016,47,True,360
+Brinjal,2016-11-28,2016,48,True,361
+Brinjal,2016-12-05,2016,49,True,362
+Brinjal,2016-12-12,2016,50,True,363
+Brinjal,2016-12-19,2016,51,True,364
+Brinjal,2016-12-26,2016,52,True,365
+Brinjal,2017-01-02,2017,1,True,366
+Brinjal,2017-01-09,2017,2,True,367
+Brinjal,2017-01-16,2017,3,True,368
+Brinjal,2017-01-23,2017,4,True,369
+Brinjal,2017-01-30,2017,5,True,370
+Brinjal,2017-02-06,2017,6,True,371
+Brinjal,2017-02-13,2017,7,True,372
+Brinjal,2017-02-20,2017,8,True,373
+Brinjal,2017-02-27,2017,9,True,374
+Brinjal,2017-03-06,2017,10,True,375
+Brinjal,2017-03-13,2017,11,True,376
+Brinjal,2017-03-20,2017,12,True,377
+Brinjal,2017-03-27,2017,13,True,378
+Brinjal,2017-04-03,2017,14,True,379
+Brinjal,2017-04-10,2017,15,True,380
+Brinjal,2017-04-17,2017,16,True,381
+Brinjal,2017-04-24,2017,17,True,382
+Brinjal,2017-05-01,2017,18,True,383
+Brinjal,2017-05-08,2017,19,True,384
+Brinjal,2017-05-15,2017,20,True,385
+Brinjal,2017-05-22,2017,21,True,386
+Brinjal,2017-05-29,2017,22,True,387
+Brinjal,2017-06-05,2017,23,True,388
+Brinjal,2017-06-12,2017,24,True,389
+Brinjal,2017-06-19,2017,25,True,390
+Brinjal,2017-06-26,2017,26,True,391
+Brinjal,2017-07-03,2017,27,True,392
+Brinjal,2017-07-10,2017,28,True,393
+Brinjal,2017-07-17,2017,29,True,394
+Brinjal,2017-07-24,2017,30,True,395
+Brinjal,2017-07-31,2017,31,True,396
+Brinjal,2017-08-07,2017,32,True,397
+Brinjal,2017-08-14,2017,33,True,398
+Brinjal,2017-08-21,2017,34,True,399
+Brinjal,2017-08-28,2017,35,True,400
+Brinjal,2017-09-04,2017,36,True,401
+Brinjal,2017-09-11,2017,37,True,402
+Brinjal,2017-09-18,2017,38,True,403
+Brinjal,2017-09-25,2017,39,True,404
+Brinjal,2017-10-02,2017,40,True,405
+Brinjal,2017-10-09,2017,41,True,406
+Brinjal,2017-10-16,2017,42,True,407
+Brinjal,2017-10-23,2017,43,True,408
+Brinjal,2017-10-30,2017,44,True,409
+Brinjal,2017-11-06,2017,45,True,410
+Brinjal,2017-11-13,2017,46,True,411
+Brinjal,2017-11-20,2017,47,True,412
+Brinjal,2017-11-27,2017,48,True,413
+Brinjal,2017-12-04,2017,49,True,414
+Brinjal,2017-12-11,2017,50,True,415
+Brinjal,2017-12-18,2017,51,True,416
+Brinjal,2017-12-25,2017,52,True,417
+Brinjal,2018-01-01,2018,1,True,418
+Brinjal,2018-01-08,2018,2,True,419
+Brinjal,2018-01-15,2018,3,True,420
+Brinjal,2018-01-22,2018,4,True,421
+Brinjal,2018-01-29,2018,5,True,422
+Brinjal,2018-02-05,2018,6,True,423
+Brinjal,2018-02-12,2018,7,True,424
+Brinjal,2018-02-19,2018,8,True,425
+Brinjal,2018-02-26,2018,9,True,426
+Brinjal,2018-03-05,2018,10,True,427
+Brinjal,2018-03-12,2018,11,True,428
+Brinjal,2018-03-19,2018,12,True,429
+Brinjal,2018-03-26,2018,13,True,430
+Brinjal,2018-04-02,2018,14,True,431
+Brinjal,2018-04-09,2018,15,True,432
+Brinjal,2018-04-16,2018,16,True,433
+Brinjal,2018-04-23,2018,17,True,434
+Brinjal,2018-04-30,2018,18,True,435
+Brinjal,2018-05-07,2018,19,True,436
+Brinjal,2018-05-14,2018,20,True,437
+Brinjal,2018-05-21,2018,21,True,438
+Brinjal,2018-05-28,2018,22,True,439
+Brinjal,2018-06-04,2018,23,True,440
+Brinjal,2018-06-11,2018,24,True,441
+Brinjal,2018-06-18,2018,25,True,442
+Brinjal,2018-06-25,2018,26,True,443
+Brinjal,2018-07-02,2018,27,True,444
+Brinjal,2018-07-09,2018,28,True,445
+Brinjal,2018-07-16,2018,29,True,446
+Brinjal,2018-07-23,2018,30,True,447
+Brinjal,2018-07-30,2018,31,True,448
+Brinjal,2018-08-06,2018,32,True,449
+Brinjal,2018-08-13,2018,33,True,450
+Brinjal,2018-08-20,2018,34,True,451
+Brinjal,2018-08-27,2018,35,True,452
+Brinjal,2018-09-03,2018,36,True,453
+Brinjal,2018-09-10,2018,37,True,454
+Brinjal,2018-09-17,2018,38,True,455
+Brinjal,2018-09-24,2018,39,True,456
+Brinjal,2018-10-01,2018,40,True,457
+Brinjal,2018-10-08,2018,41,True,458
+Brinjal,2018-10-15,2018,42,True,459
+Brinjal,2018-10-22,2018,43,True,460
+Brinjal,2018-10-29,2018,44,True,461
+Brinjal,2018-11-05,2018,45,True,462
+Brinjal,2018-11-12,2018,46,True,463
+Brinjal,2018-11-19,2018,47,True,464
+Brinjal,2018-11-26,2018,48,True,465
+Brinjal,2018-12-03,2018,49,True,466
+Brinjal,2018-12-10,2018,50,True,467
+Brinjal,2018-12-17,2018,51,True,468
+Brinjal,2018-12-24,2018,52,True,469
+Brinjal,2018-12-31,2019,1,True,470
+Brinjal,2019-01-07,2019,2,True,471
+Brinjal,2019-01-14,2019,3,True,472
+Brinjal,2019-01-21,2019,4,True,473
+Brinjal,2019-01-28,2019,5,True,474
+Brinjal,2019-02-04,2019,6,True,475
+Brinjal,2019-02-11,2019,7,True,476
+Brinjal,2019-02-18,2019,8,True,477
+Brinjal,2019-02-25,2019,9,True,478
+Brinjal,2019-03-04,2019,10,True,479
+Brinjal,2019-03-11,2019,11,True,480
+Brinjal,2019-03-18,2019,12,True,481
+Brinjal,2019-03-25,2019,13,True,482
+Brinjal,2019-04-01,2019,14,True,483
+Brinjal,2019-04-08,2019,15,True,484
+Brinjal,2019-04-15,2019,16,True,485
+Brinjal,2019-04-22,2019,17,True,486
+Brinjal,2019-04-29,2019,18,True,487
+Brinjal,2019-05-06,2019,19,True,488
+Brinjal,2019-05-13,2019,20,True,489
+Brinjal,2019-05-20,2019,21,True,490
+Brinjal,2019-05-27,2019,22,True,491
+Brinjal,2019-06-03,2019,23,True,492
+Brinjal,2019-06-10,2019,24,True,493
+Brinjal,2019-06-17,2019,25,True,494
+Brinjal,2019-06-24,2019,26,True,495
+Brinjal,2019-07-01,2019,27,True,496
+Brinjal,2019-07-08,2019,28,True,497
+Brinjal,2019-07-15,2019,29,True,498
+Brinjal,2019-07-22,2019,30,True,499
+Brinjal,2019-07-29,2019,31,True,500
+Brinjal,2019-08-05,2019,32,True,501
+Brinjal,2019-08-12,2019,33,True,502
+Brinjal,2019-08-19,2019,34,True,503
+Brinjal,2019-08-26,2019,35,True,504
+Brinjal,2019-09-02,2019,36,True,505
+Brinjal,2019-09-09,2019,37,True,506
+Brinjal,2019-09-16,2019,38,True,507
+Brinjal,2019-09-23,2019,39,True,508
+Brinjal,2019-09-30,2019,40,True,509
+Brinjal,2019-10-07,2019,41,True,510
+Brinjal,2019-10-14,2019,42,True,511
+Brinjal,2019-10-21,2019,43,True,512
+Brinjal,2019-10-28,2019,44,True,513
+Brinjal,2019-11-04,2019,45,True,514
+Brinjal,2019-11-11,2019,46,True,515
+Brinjal,2019-11-18,2019,47,True,516
+Brinjal,2019-11-25,2019,48,True,517
+Brinjal,2019-12-02,2019,49,True,518
+Brinjal,2019-12-09,2019,50,True,519
+Brinjal,2019-12-16,2019,51,True,520
+Brinjal,2019-12-23,2019,52,True,521
+Brinjal,2019-12-30,2020,1,True,522
+Brinjal,2020-01-06,2020,2,True,523
+Brinjal,2020-01-13,2020,3,True,524
+Brinjal,2020-01-20,2020,4,True,525
+Brinjal,2020-01-27,2020,5,True,526
+Brinjal,2020-02-03,2020,6,True,527
+Brinjal,2020-02-10,2020,7,True,528
+Brinjal,2020-02-17,2020,8,True,529
+Brinjal,2020-02-24,2020,9,True,530
+Brinjal,2020-03-02,2020,10,True,531
+Brinjal,2020-03-09,2020,11,True,532
+Brinjal,2020-03-16,2020,12,True,533
+Brinjal,2020-03-23,2020,13,True,534
+Brinjal,2020-03-30,2020,14,True,535
+Brinjal,2020-04-06,2020,15,True,536
+Brinjal,2020-04-13,2020,16,True,537
+Brinjal,2020-04-20,2020,17,True,538
+Brinjal,2020-04-27,2020,18,True,539
+Brinjal,2020-05-04,2020,19,True,540
+Brinjal,2020-05-11,2020,20,True,541
+Brinjal,2020-05-18,2020,21,True,542
+Brinjal,2020-05-25,2020,22,True,543
+Brinjal,2020-06-01,2020,23,True,544
+Brinjal,2020-06-08,2020,24,True,545
+Brinjal,2020-06-15,2020,25,True,546
+Brinjal,2020-06-22,2020,26,True,547
+Brinjal,2020-06-29,2020,27,True,548
+Brinjal,2020-07-06,2020,28,True,549
+Brinjal,2020-07-13,2020,29,True,550
+Brinjal,2020-07-20,2020,30,True,551
+Brinjal,2020-07-27,2020,31,True,552
+Brinjal,2020-08-03,2020,32,True,553
+Brinjal,2020-08-10,2020,33,True,554
+Brinjal,2020-08-17,2020,34,True,555
+Brinjal,2020-08-24,2020,35,True,556
+Brinjal,2020-08-31,2020,36,True,557
+Brinjal,2020-09-07,2020,37,True,558
+Brinjal,2020-09-14,2020,38,True,559
+Brinjal,2020-09-21,2020,39,True,560
+Brinjal,2020-09-28,2020,40,True,561
+Brinjal,2020-10-05,2020,41,True,562
+Brinjal,2020-10-12,2020,42,True,563
+Brinjal,2020-10-19,2020,43,True,564
+Brinjal,2020-10-26,2020,44,True,565
+Brinjal,2020-11-02,2020,45,True,566
+Brinjal,2020-11-09,2020,46,True,567
+Brinjal,2020-11-16,2020,47,True,568
+Brinjal,2020-11-23,2020,48,True,569
+Brinjal,2020-11-30,2020,49,True,570
+Brinjal,2020-12-07,2020,50,True,571
+Brinjal,2020-12-14,2020,51,True,572
+Brinjal,2020-12-21,2020,52,True,573
+Brinjal,2020-12-28,2020,53,True,574
+Brinjal,2021-01-04,2021,1,True,575
+Brinjal,2021-01-11,2021,2,True,576
+Brinjal,2021-01-18,2021,3,True,577
+Brinjal,2021-01-25,2021,4,True,578
+Brinjal,2021-02-01,2021,5,True,579
+Brinjal,2021-02-08,2021,6,True,580
+Brinjal,2021-02-15,2021,7,True,581
+Brinjal,2021-02-22,2021,8,True,582
+Brinjal,2021-03-01,2021,9,True,583
+Brinjal,2021-03-08,2021,10,True,584
+Brinjal,2021-03-15,2021,11,True,585
+Brinjal,2021-03-22,2021,12,True,586
+Brinjal,2021-03-29,2021,13,True,587
+Brinjal,2021-04-05,2021,14,True,588
+Brinjal,2021-04-12,2021,15,True,589
+Brinjal,2021-04-19,2021,16,True,590
+Brinjal,2021-04-26,2021,17,True,591
+Brinjal,2021-05-03,2021,18,True,592
+Brinjal,2021-05-10,2021,19,True,593
+Brinjal,2021-05-17,2021,20,True,594
+Brinjal,2021-05-24,2021,21,True,595
+Brinjal,2021-05-31,2021,22,True,596
+Brinjal,2021-06-07,2021,23,True,597
+Brinjal,2021-06-14,2021,24,True,598
+Brinjal,2021-06-21,2021,25,True,599
+Brinjal,2021-06-28,2021,26,True,600
+Brinjal,2021-07-05,2021,27,True,601
+Brinjal,2021-07-12,2021,28,True,602
+Brinjal,2021-07-19,2021,29,True,603
+Brinjal,2021-07-26,2021,30,True,604
+Brinjal,2021-08-02,2021,31,True,605
+Brinjal,2021-08-09,2021,32,True,606
+Brinjal,2021-08-16,2021,33,True,607
+Brinjal,2021-08-23,2021,34,True,608
+Brinjal,2021-08-30,2021,35,True,609
+Brinjal,2021-09-06,2021,36,True,610
+Brinjal,2021-09-13,2021,37,True,611
+Brinjal,2021-09-20,2021,38,True,612
+Brinjal,2021-09-27,2021,39,True,613
+Brinjal,2021-10-04,2021,40,True,614
+Brinjal,2021-10-11,2021,41,True,615
+Brinjal,2021-10-18,2021,42,True,616
+Brinjal,2021-10-25,2021,43,True,617
+Brinjal,2021-11-01,2021,44,True,618
+Brinjal,2021-11-08,2021,45,True,619
+Brinjal,2021-11-15,2021,46,True,620
+Brinjal,2021-11-22,2021,47,True,621
+Brinjal,2021-11-29,2021,48,True,622
+Brinjal,2021-12-06,2021,49,True,623
+Brinjal,2021-12-13,2021,50,True,624
+Brinjal,2021-12-20,2021,51,True,625
+Brinjal,2021-12-27,2021,52,True,626
+Brinjal,2022-01-03,2022,1,True,627
+Brinjal,2022-01-10,2022,2,True,628
+Brinjal,2022-01-17,2022,3,True,629
+Brinjal,2022-01-24,2022,4,True,630
+Brinjal,2022-01-31,2022,5,True,631
+Brinjal,2022-02-07,2022,6,True,632
+Brinjal,2022-02-14,2022,7,True,633
+Brinjal,2022-02-21,2022,8,True,634
+Brinjal,2022-02-28,2022,9,True,635
+Brinjal,2022-03-07,2022,10,True,636
+Brinjal,2022-03-14,2022,11,True,637
+Brinjal,2022-03-21,2022,12,True,638
+Brinjal,2022-03-28,2022,13,True,639
+Brinjal,2022-04-04,2022,14,True,640
+Brinjal,2022-04-11,2022,15,True,641
+Brinjal,2022-04-18,2022,16,True,642
+Brinjal,2022-04-25,2022,17,True,643
+Brinjal,2022-05-02,2022,18,True,644
+Brinjal,2022-05-09,2022,19,True,645
+Brinjal,2022-05-16,2022,20,True,646
+Brinjal,2022-05-23,2022,21,True,647
+Brinjal,2022-05-30,2022,22,True,648
+Brinjal,2022-06-06,2022,23,True,649
+Brinjal,2022-06-13,2022,24,True,650
+Brinjal,2022-06-20,2022,25,True,651
+Brinjal,2022-06-27,2022,26,True,652
+Brinjal,2022-07-04,2022,27,True,653
+Brinjal,2022-07-11,2022,28,True,654
+Brinjal,2022-07-18,2022,29,True,655
+Brinjal,2022-07-25,2022,30,True,656
+Brinjal,2022-08-01,2022,31,True,657
+Brinjal,2022-08-08,2022,32,True,658
+Brinjal,2022-08-15,2022,33,True,659
+Brinjal,2022-08-22,2022,34,True,660
+Brinjal,2022-08-29,2022,35,True,661
+Brinjal,2022-09-05,2022,36,True,662
+Brinjal,2022-09-12,2022,37,True,663
+Brinjal,2022-09-19,2022,38,True,664
+Brinjal,2022-09-26,2022,39,True,665
+Brinjal,2022-10-03,2022,40,True,666
+Brinjal,2022-10-10,2022,41,True,667
+Brinjal,2022-10-17,2022,42,True,668
+Brinjal,2022-10-24,2022,43,True,669
+Brinjal,2022-10-31,2022,44,True,670
+Brinjal,2022-11-07,2022,45,True,671
+Brinjal,2022-11-14,2022,46,True,672
+Brinjal,2022-11-21,2022,47,True,673
+Brinjal,2022-11-28,2022,48,True,674
+Brinjal,2022-12-05,2022,49,True,675
+Brinjal,2022-12-12,2022,50,True,676
+Brinjal,2022-12-19,2022,51,True,677
+Brinjal,2022-12-26,2022,52,True,678
+Brinjal,2022-12-26,2022,52,True,679
+Brinjal,2023-01-02,2023,1,False,680
+Brinjal,2023-01-09,2023,2,False,681
+Brinjal,2023-01-16,2023,3,False,682
+Brinjal,2023-01-23,2023,4,False,683
+Brinjal,2023-01-30,2023,5,False,684
+Brinjal,2023-02-06,2023,6,False,685
+Brinjal,2023-02-13,2023,7,False,686
+Brinjal,2023-02-20,2023,8,False,687
+Brinjal,2023-02-27,2023,9,False,688
+Brinjal,2023-03-06,2023,10,False,689
+Brinjal,2023-03-13,2023,11,False,690
+Brinjal,2023-03-20,2023,12,False,691
+Brinjal,2023-03-27,2023,13,False,692
+Brinjal,2023-04-03,2023,14,False,693
+Brinjal,2023-04-10,2023,15,False,694
+Brinjal,2023-04-17,2023,16,False,695
+Brinjal,2023-04-24,2023,17,False,696
+Brinjal,2023-05-01,2023,18,False,697
+Brinjal,2023-05-08,2023,19,False,698
+Brinjal,2023-05-15,2023,20,False,699
+Brinjal,2023-05-22,2023,21,False,700
+Brinjal,2023-05-29,2023,22,False,701
+Brinjal,2023-06-05,2023,23,False,702
+Brinjal,2023-06-12,2023,24,False,703
+Brinjal,2023-06-19,2023,25,False,704
+Brinjal,2023-06-26,2023,26,False,705
+Brinjal,2023-07-03,2023,27,False,706
+Brinjal,2023-07-10,2023,28,False,707
+Brinjal,2023-07-17,2023,29,False,708
+Brinjal,2023-07-24,2023,30,False,709
+Brinjal,2023-07-31,2023,31,False,710
+Brinjal,2023-08-07,2023,32,False,711
+Brinjal,2023-08-14,2023,33,False,712
+Brinjal,2023-08-21,2023,34,False,713
+Brinjal,2023-08-28,2023,35,False,714
+Brinjal,2023-09-04,2023,36,False,715
+Brinjal,2023-09-11,2023,37,False,716
+Brinjal,2023-09-18,2023,38,False,717
+Brinjal,2023-09-25,2023,39,False,718
+Brinjal,2023-10-02,2023,40,False,719
+Brinjal,2023-10-09,2023,41,False,720
+Brinjal,2023-10-16,2023,42,False,721
+Brinjal,2023-10-23,2023,43,False,722
+Brinjal,2023-10-30,2023,44,False,723
+Brinjal,2023-11-06,2023,45,False,724
+Brinjal,2023-11-13,2023,46,False,725
+Brinjal,2023-11-20,2023,47,False,726
+Brinjal,2023-11-27,2023,48,False,727
+Brinjal,2023-12-04,2023,49,False,728
+Brinjal,2023-12-11,2023,50,False,729
+Brinjal,2023-12-18,2023,51,False,730
+Brinjal,2023-12-25,2023,52,False,731
+Brinjal,2024-01-01,2024,1,False,732
+Brinjal,2024-01-08,2024,2,False,733
+Brinjal,2024-01-15,2024,3,False,734
+Brinjal,2024-01-22,2024,4,False,735
+Brinjal,2024-01-29,2024,5,False,736
+Brinjal,2024-02-05,2024,6,False,737
+Brinjal,2024-02-12,2024,7,False,738
+Brinjal,2024-02-19,2024,8,False,739
+Brinjal,2024-02-26,2024,9,False,740
+Brinjal,2024-03-04,2024,10,False,741
+Brinjal,2024-03-11,2024,11,False,742
+Brinjal,2024-03-18,2024,12,False,743
+Brinjal,2024-03-25,2024,13,False,744
+Brinjal,2024-04-01,2024,14,False,745
+Brinjal,2024-04-08,2024,15,False,746
+Brinjal,2024-04-15,2024,16,False,747
+Brinjal,2024-04-22,2024,17,False,748
+Brinjal,2024-04-29,2024,18,False,749
+Brinjal,2024-05-06,2024,19,False,750
+Brinjal,2024-05-13,2024,20,False,751
+Brinjal,2024-05-20,2024,21,False,752
+Brinjal,2024-05-27,2024,22,False,753
+Brinjal,2024-06-03,2024,23,False,754
+Brinjal,2024-06-10,2024,24,False,755
+Brinjal,2024-06-17,2024,25,False,756
+Brinjal,2024-06-24,2024,26,False,757
+Brinjal,2024-07-01,2024,27,False,758
+Brinjal,2024-07-08,2024,28,False,759
+Brinjal,2024-07-15,2024,29,False,760
+Brinjal,2024-07-22,2024,30,False,761
+Brinjal,2024-07-29,2024,31,False,762
+Brinjal,2024-08-05,2024,32,False,763
+Brinjal,2024-08-12,2024,33,False,764
+Brinjal,2024-08-19,2024,34,False,765
+Brinjal,2024-08-26,2024,35,False,766
+Brinjal,2024-09-02,2024,36,False,767
+Brinjal,2024-09-09,2024,37,False,768
+Brinjal,2024-09-16,2024,38,False,769
+Brinjal,2024-09-23,2024,39,False,770
+Brinjal,2024-09-30,2024,40,False,771
+Brinjal,2024-10-07,2024,41,False,772
+Brinjal,2024-10-14,2024,42,False,773
+Brinjal,2024-10-21,2024,43,False,774
+Brinjal,2024-10-28,2024,44,False,775
+Brinjal,2024-11-04,2024,45,False,776
+Brinjal,2024-11-11,2024,46,False,777
+Brinjal,2024-11-18,2024,47,False,778
+Brinjal,2024-11-25,2024,48,False,779
+Brinjal,2024-12-02,2024,49,False,780
+Brinjal,2024-12-09,2024,50,False,781
+Brinjal,2024-12-16,2024,51,False,782
+Brinjal,2024-12-23,2024,52,False,783
+Brinjal,2024-12-30,2025,1,False,784
+Brinjal,2025-01-06,2025,2,False,785
+Brinjal,2025-01-13,2025,3,False,786
+Brinjal,2025-01-20,2025,4,False,787
+Brinjal,2025-01-27,2025,5,False,788
+Brinjal,2025-02-03,2025,6,False,789
+Brinjal,2025-02-10,2025,7,False,790
+Brinjal,2025-02-17,2025,8,False,791
+Brinjal,2025-02-24,2025,9,False,792
+Brinjal,2025-03-03,2025,10,False,793
+Brinjal,2025-03-10,2025,11,False,794
+Brinjal,2025-03-17,2025,12,False,795
+Brinjal,2025-03-24,2025,13,False,796
+Brinjal,2025-03-31,2025,14,False,797
+Brinjal,2025-04-07,2025,15,False,798
+Brinjal,2025-04-14,2025,16,False,799
+Brinjal,2025-04-21,2025,17,False,800
+Brinjal,2025-04-28,2025,18,False,801
+Brinjal,2025-05-05,2025,19,False,802
+Brinjal,2025-05-12,2025,20,False,803
+Brinjal,2025-05-19,2025,21,False,804
+Brinjal,2025-05-26,2025,22,False,805
+Brinjal,2025-06-02,2025,23,False,806
+Brinjal,2025-06-09,2025,24,False,807
+Brinjal,2025-06-16,2025,25,False,808
+Brinjal,2025-06-23,2025,26,False,809
+Brinjal,2025-06-30,2025,27,False,810
+Brinjal,2025-07-07,2025,28,False,811
+Brinjal,2025-07-14,2025,29,False,812
+Brinjal,2025-07-21,2025,30,False,813
+Brinjal,2025-07-28,2025,31,False,814
+Brinjal,2025-08-04,2025,32,False,815
+Brinjal,2025-08-11,2025,33,False,816
+Brinjal,2025-08-18,2025,34,False,817
+Brinjal,2025-08-25,2025,35,False,818
+Brinjal,2025-09-01,2025,36,False,819
+Brinjal,2025-09-08,2025,37,False,820
+Brinjal,2025-09-15,2025,38,False,821
+Brinjal,2025-09-22,2025,39,False,822
+Brinjal,2025-09-29,2025,40,False,823
+Brinjal,2025-10-06,2025,41,False,824
+Brinjal,2025-10-13,2025,42,False,825
+Brinjal,2025-10-20,2025,43,False,826
+Brinjal,2025-10-27,2025,44,False,827
+Brinjal,2025-11-03,2025,45,False,828
+Brinjal,2025-11-10,2025,46,False,829
+Brinjal,2025-11-17,2025,47,False,830
+Brinjal,2025-11-24,2025,48,False,831
+Brinjal,2025-12-01,2025,49,False,832
+Brinjal,2025-12-08,2025,50,False,833
+Brinjal,2025-12-15,2025,51,False,834
+Brinjal,2025-12-22,2025,52,False,835
+Brinjal,2025-12-29,2026,1,False,836
+Brinjal,2026-01-05,2026,2,False,837
+Cabbage,2009-12-28,2009,53,True,0
+Cabbage,2010-01-04,2010,1,True,1
+Cabbage,2010-01-11,2010,2,True,2
+Cabbage,2010-01-18,2010,3,True,3
+Cabbage,2010-01-25,2010,4,True,4
+Cabbage,2010-02-01,2010,5,True,5
+Cabbage,2010-02-08,2010,6,True,6
+Cabbage,2010-02-15,2010,7,True,7
+Cabbage,2010-02-22,2010,8,True,8
+Cabbage,2010-03-01,2010,9,True,9
+Cabbage,2010-03-08,2010,10,True,10
+Cabbage,2010-03-15,2010,11,True,11
+Cabbage,2010-03-22,2010,12,True,12
+Cabbage,2010-03-29,2010,13,True,13
+Cabbage,2010-04-05,2010,14,True,14
+Cabbage,2010-04-12,2010,15,True,15
+Cabbage,2010-04-19,2010,16,True,16
+Cabbage,2010-04-26,2010,17,True,17
+Cabbage,2010-05-03,2010,18,True,18
+Cabbage,2010-05-10,2010,19,True,19
+Cabbage,2010-05-17,2010,20,True,20
+Cabbage,2010-05-24,2010,21,True,21
+Cabbage,2010-05-31,2010,22,True,22
+Cabbage,2010-06-07,2010,23,True,23
+Cabbage,2010-06-14,2010,24,True,24
+Cabbage,2010-06-21,2010,25,True,25
+Cabbage,2010-06-28,2010,26,True,26
+Cabbage,2010-07-05,2010,27,True,27
+Cabbage,2010-07-12,2010,28,True,28
+Cabbage,2010-07-19,2010,29,True,29
+Cabbage,2010-07-26,2010,30,True,30
+Cabbage,2010-08-02,2010,31,True,31
+Cabbage,2010-08-09,2010,32,True,32
+Cabbage,2010-08-16,2010,33,True,33
+Cabbage,2010-08-23,2010,34,True,34
+Cabbage,2010-08-30,2010,35,True,35
+Cabbage,2010-09-06,2010,36,True,36
+Cabbage,2010-09-13,2010,37,True,37
+Cabbage,2010-09-20,2010,38,True,38
+Cabbage,2010-09-27,2010,39,True,39
+Cabbage,2010-10-04,2010,40,True,40
+Cabbage,2010-10-11,2010,41,True,41
+Cabbage,2010-10-18,2010,42,True,42
+Cabbage,2010-10-25,2010,43,True,43
+Cabbage,2010-11-01,2010,44,True,44
+Cabbage,2010-11-08,2010,45,True,45
+Cabbage,2010-11-15,2010,46,True,46
+Cabbage,2010-11-22,2010,47,True,47
+Cabbage,2010-11-29,2010,48,True,48
+Cabbage,2010-12-06,2010,49,True,49
+Cabbage,2010-12-13,2010,50,True,50
+Cabbage,2010-12-20,2010,51,True,51
+Cabbage,2010-12-27,2010,52,True,52
+Cabbage,2011-01-03,2011,1,True,53
+Cabbage,2011-01-10,2011,2,True,54
+Cabbage,2011-01-17,2011,3,True,55
+Cabbage,2011-01-24,2011,4,True,56
+Cabbage,2011-01-31,2011,5,True,57
+Cabbage,2011-02-07,2011,6,True,58
+Cabbage,2011-02-14,2011,7,True,59
+Cabbage,2011-02-21,2011,8,True,60
+Cabbage,2011-02-28,2011,9,True,61
+Cabbage,2011-03-07,2011,10,True,62
+Cabbage,2011-03-14,2011,11,True,63
+Cabbage,2011-03-21,2011,12,True,64
+Cabbage,2011-03-28,2011,13,True,65
+Cabbage,2011-04-04,2011,14,True,66
+Cabbage,2011-04-11,2011,15,True,67
+Cabbage,2011-04-18,2011,16,True,68
+Cabbage,2011-04-25,2011,17,True,69
+Cabbage,2011-05-02,2011,18,True,70
+Cabbage,2011-05-09,2011,19,True,71
+Cabbage,2011-05-16,2011,20,True,72
+Cabbage,2011-05-23,2011,21,True,73
+Cabbage,2011-05-30,2011,22,True,74
+Cabbage,2011-06-06,2011,23,True,75
+Cabbage,2011-06-13,2011,24,True,76
+Cabbage,2011-06-20,2011,25,True,77
+Cabbage,2011-06-27,2011,26,True,78
+Cabbage,2011-07-04,2011,27,True,79
+Cabbage,2011-07-11,2011,28,True,80
+Cabbage,2011-07-18,2011,29,True,81
+Cabbage,2011-07-25,2011,30,True,82
+Cabbage,2011-08-01,2011,31,True,83
+Cabbage,2011-08-08,2011,32,True,84
+Cabbage,2011-08-15,2011,33,True,85
+Cabbage,2011-08-22,2011,34,True,86
+Cabbage,2011-08-29,2011,35,True,87
+Cabbage,2011-09-05,2011,36,True,88
+Cabbage,2011-09-12,2011,37,True,89
+Cabbage,2011-09-19,2011,38,True,90
+Cabbage,2011-09-26,2011,39,True,91
+Cabbage,2011-10-03,2011,40,True,92
+Cabbage,2011-10-10,2011,41,True,93
+Cabbage,2011-10-17,2011,42,True,94
+Cabbage,2011-10-24,2011,43,True,95
+Cabbage,2011-10-31,2011,44,True,96
+Cabbage,2011-11-07,2011,45,True,97
+Cabbage,2011-11-14,2011,46,True,98
+Cabbage,2011-11-21,2011,47,True,99
+Cabbage,2011-11-28,2011,48,True,100
+Cabbage,2011-12-05,2011,49,True,101
+Cabbage,2011-12-12,2011,50,True,102
+Cabbage,2011-12-19,2011,51,True,103
+Cabbage,2011-12-26,2011,52,True,104
+Cabbage,2012-01-02,2012,1,True,105
+Cabbage,2012-01-09,2012,2,True,106
+Cabbage,2012-01-16,2012,3,True,107
+Cabbage,2012-01-23,2012,4,True,108
+Cabbage,2012-01-30,2012,5,True,109
+Cabbage,2012-02-06,2012,6,True,110
+Cabbage,2012-02-13,2012,7,True,111
+Cabbage,2012-02-20,2012,8,True,112
+Cabbage,2012-02-27,2012,9,True,113
+Cabbage,2012-03-05,2012,10,True,114
+Cabbage,2012-03-12,2012,11,True,115
+Cabbage,2012-03-19,2012,12,True,116
+Cabbage,2012-03-26,2012,13,True,117
+Cabbage,2012-04-02,2012,14,True,118
+Cabbage,2012-04-09,2012,15,True,119
+Cabbage,2012-04-16,2012,16,True,120
+Cabbage,2012-04-23,2012,17,True,121
+Cabbage,2012-04-30,2012,18,True,122
+Cabbage,2012-05-07,2012,19,True,123
+Cabbage,2012-05-14,2012,20,True,124
+Cabbage,2012-05-21,2012,21,True,125
+Cabbage,2012-05-28,2012,22,True,126
+Cabbage,2012-06-04,2012,23,True,127
+Cabbage,2012-06-11,2012,24,True,128
+Cabbage,2012-06-18,2012,25,True,129
+Cabbage,2012-06-25,2012,26,True,130
+Cabbage,2012-07-02,2012,27,True,131
+Cabbage,2012-07-09,2012,28,True,132
+Cabbage,2012-07-16,2012,29,True,133
+Cabbage,2012-07-23,2012,30,True,134
+Cabbage,2012-07-30,2012,31,True,135
+Cabbage,2012-08-06,2012,32,True,136
+Cabbage,2012-08-13,2012,33,True,137
+Cabbage,2012-08-20,2012,34,True,138
+Cabbage,2012-08-27,2012,35,True,139
+Cabbage,2012-09-03,2012,36,True,140
+Cabbage,2012-09-10,2012,37,True,141
+Cabbage,2012-09-17,2012,38,True,142
+Cabbage,2012-09-24,2012,39,True,143
+Cabbage,2012-10-01,2012,40,True,144
+Cabbage,2012-10-08,2012,41,True,145
+Cabbage,2012-10-15,2012,42,True,146
+Cabbage,2012-10-22,2012,43,True,147
+Cabbage,2012-10-29,2012,44,True,148
+Cabbage,2012-11-05,2012,45,True,149
+Cabbage,2012-11-12,2012,46,True,150
+Cabbage,2012-11-19,2012,47,True,151
+Cabbage,2012-11-26,2012,48,True,152
+Cabbage,2012-12-03,2012,49,True,153
+Cabbage,2012-12-10,2012,50,True,154
+Cabbage,2012-12-17,2012,51,True,155
+Cabbage,2012-12-24,2012,52,True,156
+Cabbage,2012-12-31,2013,1,True,157
+Cabbage,2013-01-07,2013,2,True,158
+Cabbage,2013-01-14,2013,3,True,159
+Cabbage,2013-01-21,2013,4,True,160
+Cabbage,2013-01-28,2013,5,True,161
+Cabbage,2013-02-04,2013,6,True,162
+Cabbage,2013-02-11,2013,7,True,163
+Cabbage,2013-02-18,2013,8,True,164
+Cabbage,2013-02-25,2013,9,True,165
+Cabbage,2013-03-04,2013,10,True,166
+Cabbage,2013-03-11,2013,11,True,167
+Cabbage,2013-03-18,2013,12,True,168
+Cabbage,2013-03-25,2013,13,True,169
+Cabbage,2013-04-01,2013,14,True,170
+Cabbage,2013-04-08,2013,15,True,171
+Cabbage,2013-04-15,2013,16,True,172
+Cabbage,2013-04-22,2013,17,True,173
+Cabbage,2013-04-29,2013,18,True,174
+Cabbage,2013-05-06,2013,19,True,175
+Cabbage,2013-05-13,2013,20,True,176
+Cabbage,2013-05-20,2013,21,True,177
+Cabbage,2013-05-27,2013,22,True,178
+Cabbage,2013-06-03,2013,23,True,179
+Cabbage,2013-06-10,2013,24,True,180
+Cabbage,2013-06-17,2013,25,True,181
+Cabbage,2013-06-24,2013,26,True,182
+Cabbage,2013-07-01,2013,27,True,183
+Cabbage,2013-07-08,2013,28,True,184
+Cabbage,2013-07-15,2013,29,True,185
+Cabbage,2013-07-22,2013,30,True,186
+Cabbage,2013-07-29,2013,31,True,187
+Cabbage,2013-08-05,2013,32,True,188
+Cabbage,2013-08-12,2013,33,True,189
+Cabbage,2013-08-19,2013,34,True,190
+Cabbage,2013-08-26,2013,35,True,191
+Cabbage,2013-09-02,2013,36,True,192
+Cabbage,2013-09-09,2013,37,True,193
+Cabbage,2013-09-16,2013,38,True,194
+Cabbage,2013-09-23,2013,39,True,195
+Cabbage,2013-09-30,2013,40,True,196
+Cabbage,2013-10-07,2013,41,True,197
+Cabbage,2013-10-14,2013,42,True,198
+Cabbage,2013-10-21,2013,43,True,199
+Cabbage,2013-10-28,2013,44,True,200
+Cabbage,2013-11-04,2013,45,True,201
+Cabbage,2013-11-11,2013,46,True,202
+Cabbage,2013-11-18,2013,47,True,203
+Cabbage,2013-11-25,2013,48,True,204
+Cabbage,2013-12-02,2013,49,True,205
+Cabbage,2013-12-09,2013,50,True,206
+Cabbage,2013-12-16,2013,51,True,207
+Cabbage,2013-12-23,2013,52,True,208
+Cabbage,2013-12-30,2014,1,True,209
+Cabbage,2014-01-06,2014,2,True,210
+Cabbage,2014-01-13,2014,3,True,211
+Cabbage,2014-01-20,2014,4,True,212
+Cabbage,2014-01-27,2014,5,True,213
+Cabbage,2014-02-03,2014,6,True,214
+Cabbage,2014-02-10,2014,7,True,215
+Cabbage,2014-02-17,2014,8,True,216
+Cabbage,2014-02-24,2014,9,True,217
+Cabbage,2014-03-03,2014,10,True,218
+Cabbage,2014-03-10,2014,11,True,219
+Cabbage,2014-03-17,2014,12,True,220
+Cabbage,2014-03-24,2014,13,True,221
+Cabbage,2014-03-31,2014,14,True,222
+Cabbage,2014-04-07,2014,15,True,223
+Cabbage,2014-04-14,2014,16,True,224
+Cabbage,2014-04-21,2014,17,True,225
+Cabbage,2014-04-28,2014,18,True,226
+Cabbage,2014-05-05,2014,19,True,227
+Cabbage,2014-05-12,2014,20,True,228
+Cabbage,2014-05-19,2014,21,True,229
+Cabbage,2014-05-26,2014,22,True,230
+Cabbage,2014-06-02,2014,23,True,231
+Cabbage,2014-06-09,2014,24,True,232
+Cabbage,2014-06-16,2014,25,True,233
+Cabbage,2014-06-23,2014,26,True,234
+Cabbage,2014-06-30,2014,27,True,235
+Cabbage,2014-07-07,2014,28,True,236
+Cabbage,2014-07-14,2014,29,True,237
+Cabbage,2014-07-21,2014,30,True,238
+Cabbage,2014-07-28,2014,31,True,239
+Cabbage,2014-08-04,2014,32,True,240
+Cabbage,2014-08-11,2014,33,True,241
+Cabbage,2014-08-18,2014,34,True,242
+Cabbage,2014-08-25,2014,35,True,243
+Cabbage,2014-09-01,2014,36,True,244
+Cabbage,2014-09-08,2014,37,True,245
+Cabbage,2014-09-15,2014,38,True,246
+Cabbage,2014-09-22,2014,39,True,247
+Cabbage,2014-09-29,2014,40,True,248
+Cabbage,2014-10-06,2014,41,True,249
+Cabbage,2014-10-13,2014,42,True,250
+Cabbage,2014-10-20,2014,43,True,251
+Cabbage,2014-10-27,2014,44,True,252
+Cabbage,2014-11-03,2014,45,True,253
+Cabbage,2014-11-10,2014,46,True,254
+Cabbage,2014-11-17,2014,47,True,255
+Cabbage,2014-11-24,2014,48,True,256
+Cabbage,2014-12-01,2014,49,True,257
+Cabbage,2014-12-08,2014,50,True,258
+Cabbage,2014-12-15,2014,51,True,259
+Cabbage,2014-12-22,2014,52,True,260
+Cabbage,2014-12-29,2015,1,True,261
+Cabbage,2015-01-05,2015,2,True,262
+Cabbage,2015-01-12,2015,3,True,263
+Cabbage,2015-01-19,2015,4,True,264
+Cabbage,2015-01-26,2015,5,True,265
+Cabbage,2015-02-02,2015,6,True,266
+Cabbage,2015-02-09,2015,7,True,267
+Cabbage,2015-02-16,2015,8,True,268
+Cabbage,2015-02-23,2015,9,True,269
+Cabbage,2015-03-02,2015,10,True,270
+Cabbage,2015-03-09,2015,11,True,271
+Cabbage,2015-03-16,2015,12,True,272
+Cabbage,2015-03-23,2015,13,True,273
+Cabbage,2015-03-30,2015,14,True,274
+Cabbage,2015-04-06,2015,15,True,275
+Cabbage,2015-04-13,2015,16,True,276
+Cabbage,2015-04-20,2015,17,True,277
+Cabbage,2015-04-27,2015,18,True,278
+Cabbage,2015-05-04,2015,19,True,279
+Cabbage,2015-05-11,2015,20,True,280
+Cabbage,2015-05-18,2015,21,True,281
+Cabbage,2015-05-25,2015,22,True,282
+Cabbage,2015-06-01,2015,23,True,283
+Cabbage,2015-06-08,2015,24,True,284
+Cabbage,2015-06-15,2015,25,True,285
+Cabbage,2015-06-22,2015,26,True,286
+Cabbage,2015-06-29,2015,27,True,287
+Cabbage,2015-07-06,2015,28,True,288
+Cabbage,2015-07-13,2015,29,True,289
+Cabbage,2015-07-20,2015,30,True,290
+Cabbage,2015-07-27,2015,31,True,291
+Cabbage,2015-08-03,2015,32,True,292
+Cabbage,2015-08-10,2015,33,True,293
+Cabbage,2015-08-17,2015,34,True,294
+Cabbage,2015-08-24,2015,35,True,295
+Cabbage,2015-08-31,2015,36,True,296
+Cabbage,2015-09-07,2015,37,True,297
+Cabbage,2015-09-14,2015,38,True,298
+Cabbage,2015-09-21,2015,39,True,299
+Cabbage,2015-09-28,2015,40,True,300
+Cabbage,2015-10-05,2015,41,True,301
+Cabbage,2015-10-12,2015,42,True,302
+Cabbage,2015-10-19,2015,43,True,303
+Cabbage,2015-10-26,2015,44,True,304
+Cabbage,2015-11-02,2015,45,True,305
+Cabbage,2015-11-09,2015,46,True,306
+Cabbage,2015-11-16,2015,47,True,307
+Cabbage,2015-11-23,2015,48,True,308
+Cabbage,2015-11-30,2015,49,True,309
+Cabbage,2015-12-07,2015,50,True,310
+Cabbage,2015-12-14,2015,51,True,311
+Cabbage,2015-12-21,2015,52,True,312
+Cabbage,2015-12-28,2015,53,True,313
+Cabbage,2016-01-04,2016,1,True,314
+Cabbage,2016-01-11,2016,2,True,315
+Cabbage,2016-01-18,2016,3,True,316
+Cabbage,2016-01-25,2016,4,True,317
+Cabbage,2016-02-01,2016,5,True,318
+Cabbage,2016-02-08,2016,6,True,319
+Cabbage,2016-02-15,2016,7,True,320
+Cabbage,2016-02-22,2016,8,True,321
+Cabbage,2016-02-29,2016,9,True,322
+Cabbage,2016-03-07,2016,10,True,323
+Cabbage,2016-03-14,2016,11,True,324
+Cabbage,2016-03-21,2016,12,True,325
+Cabbage,2016-03-28,2016,13,True,326
+Cabbage,2016-04-04,2016,14,True,327
+Cabbage,2016-04-11,2016,15,True,328
+Cabbage,2016-04-18,2016,16,True,329
+Cabbage,2016-04-25,2016,17,True,330
+Cabbage,2016-05-02,2016,18,True,331
+Cabbage,2016-05-09,2016,19,True,332
+Cabbage,2016-05-16,2016,20,True,333
+Cabbage,2016-05-23,2016,21,True,334
+Cabbage,2016-05-30,2016,22,True,335
+Cabbage,2016-06-06,2016,23,True,336
+Cabbage,2016-06-13,2016,24,True,337
+Cabbage,2016-06-20,2016,25,True,338
+Cabbage,2016-06-27,2016,26,True,339
+Cabbage,2016-07-04,2016,27,True,340
+Cabbage,2016-07-11,2016,28,True,341
+Cabbage,2016-07-18,2016,29,True,342
+Cabbage,2016-07-25,2016,30,True,343
+Cabbage,2016-08-01,2016,31,True,344
+Cabbage,2016-08-08,2016,32,True,345
+Cabbage,2016-08-15,2016,33,True,346
+Cabbage,2016-08-22,2016,34,True,347
+Cabbage,2016-08-29,2016,35,True,348
+Cabbage,2016-09-05,2016,36,True,349
+Cabbage,2016-09-12,2016,37,True,350
+Cabbage,2016-09-19,2016,38,True,351
+Cabbage,2016-09-26,2016,39,True,352
+Cabbage,2016-10-03,2016,40,True,353
+Cabbage,2016-10-10,2016,41,True,354
+Cabbage,2016-10-17,2016,42,True,355
+Cabbage,2016-10-24,2016,43,True,356
+Cabbage,2016-10-31,2016,44,True,357
+Cabbage,2016-11-07,2016,45,True,358
+Cabbage,2016-11-14,2016,46,True,359
+Cabbage,2016-11-21,2016,47,True,360
+Cabbage,2016-11-28,2016,48,True,361
+Cabbage,2016-12-05,2016,49,True,362
+Cabbage,2016-12-12,2016,50,True,363
+Cabbage,2016-12-19,2016,51,True,364
+Cabbage,2016-12-26,2016,52,True,365
+Cabbage,2017-01-02,2017,1,True,366
+Cabbage,2017-01-09,2017,2,True,367
+Cabbage,2017-01-16,2017,3,True,368
+Cabbage,2017-01-23,2017,4,True,369
+Cabbage,2017-01-30,2017,5,True,370
+Cabbage,2017-02-06,2017,6,True,371
+Cabbage,2017-02-13,2017,7,True,372
+Cabbage,2017-02-20,2017,8,True,373
+Cabbage,2017-02-27,2017,9,True,374
+Cabbage,2017-03-06,2017,10,True,375
+Cabbage,2017-03-13,2017,11,True,376
+Cabbage,2017-03-20,2017,12,True,377
+Cabbage,2017-03-27,2017,13,True,378
+Cabbage,2017-04-03,2017,14,True,379
+Cabbage,2017-04-10,2017,15,True,380
+Cabbage,2017-04-17,2017,16,True,381
+Cabbage,2017-04-24,2017,17,True,382
+Cabbage,2017-05-01,2017,18,True,383
+Cabbage,2017-05-08,2017,19,True,384
+Cabbage,2017-05-15,2017,20,True,385
+Cabbage,2017-05-22,2017,21,True,386
+Cabbage,2017-05-29,2017,22,True,387
+Cabbage,2017-06-05,2017,23,True,388
+Cabbage,2017-06-12,2017,24,True,389
+Cabbage,2017-06-19,2017,25,True,390
+Cabbage,2017-06-26,2017,26,True,391
+Cabbage,2017-07-03,2017,27,True,392
+Cabbage,2017-07-10,2017,28,True,393
+Cabbage,2017-07-17,2017,29,True,394
+Cabbage,2017-07-24,2017,30,True,395
+Cabbage,2017-07-31,2017,31,True,396
+Cabbage,2017-08-07,2017,32,True,397
+Cabbage,2017-08-14,2017,33,True,398
+Cabbage,2017-08-21,2017,34,True,399
+Cabbage,2017-08-28,2017,35,True,400
+Cabbage,2017-09-04,2017,36,True,401
+Cabbage,2017-09-11,2017,37,True,402
+Cabbage,2017-09-18,2017,38,True,403
+Cabbage,2017-09-25,2017,39,True,404
+Cabbage,2017-10-02,2017,40,True,405
+Cabbage,2017-10-09,2017,41,True,406
+Cabbage,2017-10-16,2017,42,True,407
+Cabbage,2017-10-23,2017,43,True,408
+Cabbage,2017-10-30,2017,44,True,409
+Cabbage,2017-11-06,2017,45,True,410
+Cabbage,2017-11-13,2017,46,True,411
+Cabbage,2017-11-20,2017,47,True,412
+Cabbage,2017-11-27,2017,48,True,413
+Cabbage,2017-12-04,2017,49,True,414
+Cabbage,2017-12-11,2017,50,True,415
+Cabbage,2017-12-18,2017,51,True,416
+Cabbage,2017-12-25,2017,52,True,417
+Cabbage,2018-01-01,2018,1,True,418
+Cabbage,2018-01-08,2018,2,True,419
+Cabbage,2018-01-15,2018,3,True,420
+Cabbage,2018-01-22,2018,4,True,421
+Cabbage,2018-01-29,2018,5,True,422
+Cabbage,2018-02-05,2018,6,True,423
+Cabbage,2018-02-12,2018,7,True,424
+Cabbage,2018-02-19,2018,8,True,425
+Cabbage,2018-02-26,2018,9,True,426
+Cabbage,2018-03-05,2018,10,True,427
+Cabbage,2018-03-12,2018,11,True,428
+Cabbage,2018-03-19,2018,12,True,429
+Cabbage,2018-03-26,2018,13,True,430
+Cabbage,2018-04-02,2018,14,True,431
+Cabbage,2018-04-09,2018,15,True,432
+Cabbage,2018-04-16,2018,16,True,433
+Cabbage,2018-04-23,2018,17,True,434
+Cabbage,2018-04-30,2018,18,True,435
+Cabbage,2018-05-07,2018,19,True,436
+Cabbage,2018-05-14,2018,20,True,437
+Cabbage,2018-05-21,2018,21,True,438
+Cabbage,2018-05-28,2018,22,True,439
+Cabbage,2018-06-04,2018,23,True,440
+Cabbage,2018-06-11,2018,24,True,441
+Cabbage,2018-06-18,2018,25,True,442
+Cabbage,2018-06-25,2018,26,True,443
+Cabbage,2018-07-02,2018,27,True,444
+Cabbage,2018-07-09,2018,28,True,445
+Cabbage,2018-07-16,2018,29,True,446
+Cabbage,2018-07-23,2018,30,True,447
+Cabbage,2018-07-30,2018,31,True,448
+Cabbage,2018-08-06,2018,32,True,449
+Cabbage,2018-08-13,2018,33,True,450
+Cabbage,2018-08-20,2018,34,True,451
+Cabbage,2018-08-27,2018,35,True,452
+Cabbage,2018-09-03,2018,36,True,453
+Cabbage,2018-09-10,2018,37,True,454
+Cabbage,2018-09-17,2018,38,True,455
+Cabbage,2018-09-24,2018,39,True,456
+Cabbage,2018-10-01,2018,40,True,457
+Cabbage,2018-10-08,2018,41,True,458
+Cabbage,2018-10-15,2018,42,True,459
+Cabbage,2018-10-22,2018,43,True,460
+Cabbage,2018-10-29,2018,44,True,461
+Cabbage,2018-11-05,2018,45,True,462
+Cabbage,2018-11-12,2018,46,True,463
+Cabbage,2018-11-19,2018,47,True,464
+Cabbage,2018-11-26,2018,48,True,465
+Cabbage,2018-12-03,2018,49,True,466
+Cabbage,2018-12-10,2018,50,True,467
+Cabbage,2018-12-17,2018,51,True,468
+Cabbage,2018-12-24,2018,52,True,469
+Cabbage,2018-12-31,2019,1,True,470
+Cabbage,2019-01-07,2019,2,True,471
+Cabbage,2019-01-14,2019,3,True,472
+Cabbage,2019-01-21,2019,4,True,473
+Cabbage,2019-01-28,2019,5,True,474
+Cabbage,2019-02-04,2019,6,True,475
+Cabbage,2019-02-11,2019,7,True,476
+Cabbage,2019-02-18,2019,8,True,477
+Cabbage,2019-02-25,2019,9,True,478
+Cabbage,2019-03-04,2019,10,True,479
+Cabbage,2019-03-11,2019,11,True,480
+Cabbage,2019-03-18,2019,12,True,481
+Cabbage,2019-03-25,2019,13,True,482
+Cabbage,2019-04-01,2019,14,True,483
+Cabbage,2019-04-08,2019,15,True,484
+Cabbage,2019-04-15,2019,16,True,485
+Cabbage,2019-04-22,2019,17,True,486
+Cabbage,2019-04-29,2019,18,True,487
+Cabbage,2019-05-06,2019,19,True,488
+Cabbage,2019-05-13,2019,20,True,489
+Cabbage,2019-05-20,2019,21,True,490
+Cabbage,2019-05-27,2019,22,True,491
+Cabbage,2019-06-03,2019,23,True,492
+Cabbage,2019-06-10,2019,24,True,493
+Cabbage,2019-06-17,2019,25,True,494
+Cabbage,2019-06-24,2019,26,True,495
+Cabbage,2019-07-01,2019,27,True,496
+Cabbage,2019-07-08,2019,28,True,497
+Cabbage,2019-07-15,2019,29,True,498
+Cabbage,2019-07-22,2019,30,True,499
+Cabbage,2019-07-29,2019,31,True,500
+Cabbage,2019-08-05,2019,32,True,501
+Cabbage,2019-08-12,2019,33,True,502
+Cabbage,2019-08-19,2019,34,True,503
+Cabbage,2019-08-26,2019,35,True,504
+Cabbage,2019-09-02,2019,36,True,505
+Cabbage,2019-09-09,2019,37,True,506
+Cabbage,2019-09-16,2019,38,True,507
+Cabbage,2019-09-23,2019,39,True,508
+Cabbage,2019-09-30,2019,40,True,509
+Cabbage,2019-10-07,2019,41,True,510
+Cabbage,2019-10-14,2019,42,True,511
+Cabbage,2019-10-21,2019,43,True,512
+Cabbage,2019-10-28,2019,44,True,513
+Cabbage,2019-11-04,2019,45,True,514
+Cabbage,2019-11-11,2019,46,True,515
+Cabbage,2019-11-18,2019,47,True,516
+Cabbage,2019-11-25,2019,48,True,517
+Cabbage,2019-12-02,2019,49,True,518
+Cabbage,2019-12-09,2019,50,True,519
+Cabbage,2019-12-16,2019,51,True,520
+Cabbage,2019-12-23,2019,52,True,521
+Cabbage,2019-12-30,2020,1,True,522
+Cabbage,2020-01-06,2020,2,True,523
+Cabbage,2020-01-13,2020,3,True,524
+Cabbage,2020-01-20,2020,4,True,525
+Cabbage,2020-01-27,2020,5,True,526
+Cabbage,2020-02-03,2020,6,True,527
+Cabbage,2020-02-10,2020,7,True,528
+Cabbage,2020-02-17,2020,8,True,529
+Cabbage,2020-02-24,2020,9,True,530
+Cabbage,2020-03-02,2020,10,True,531
+Cabbage,2020-03-09,2020,11,True,532
+Cabbage,2020-03-16,2020,12,True,533
+Cabbage,2020-03-23,2020,13,True,534
+Cabbage,2020-03-30,2020,14,True,535
+Cabbage,2020-04-06,2020,15,True,536
+Cabbage,2020-04-13,2020,16,True,537
+Cabbage,2020-04-20,2020,17,True,538
+Cabbage,2020-04-27,2020,18,True,539
+Cabbage,2020-05-04,2020,19,True,540
+Cabbage,2020-05-11,2020,20,True,541
+Cabbage,2020-05-18,2020,21,True,542
+Cabbage,2020-05-25,2020,22,True,543
+Cabbage,2020-06-01,2020,23,True,544
+Cabbage,2020-06-08,2020,24,True,545
+Cabbage,2020-06-15,2020,25,True,546
+Cabbage,2020-06-22,2020,26,True,547
+Cabbage,2020-06-29,2020,27,True,548
+Cabbage,2020-07-06,2020,28,True,549
+Cabbage,2020-07-13,2020,29,True,550
+Cabbage,2020-07-20,2020,30,True,551
+Cabbage,2020-07-27,2020,31,True,552
+Cabbage,2020-08-03,2020,32,True,553
+Cabbage,2020-08-10,2020,33,True,554
+Cabbage,2020-08-17,2020,34,True,555
+Cabbage,2020-08-24,2020,35,True,556
+Cabbage,2020-08-31,2020,36,True,557
+Cabbage,2020-09-07,2020,37,True,558
+Cabbage,2020-09-14,2020,38,True,559
+Cabbage,2020-09-21,2020,39,True,560
+Cabbage,2020-09-28,2020,40,True,561
+Cabbage,2020-10-05,2020,41,True,562
+Cabbage,2020-10-12,2020,42,True,563
+Cabbage,2020-10-19,2020,43,True,564
+Cabbage,2020-10-26,2020,44,True,565
+Cabbage,2020-11-02,2020,45,True,566
+Cabbage,2020-11-09,2020,46,True,567
+Cabbage,2020-11-16,2020,47,True,568
+Cabbage,2020-11-23,2020,48,True,569
+Cabbage,2020-11-30,2020,49,True,570
+Cabbage,2020-12-07,2020,50,True,571
+Cabbage,2020-12-14,2020,51,True,572
+Cabbage,2020-12-21,2020,52,True,573
+Cabbage,2020-12-28,2020,53,True,574
+Cabbage,2021-01-04,2021,1,True,575
+Cabbage,2021-01-11,2021,2,True,576
+Cabbage,2021-01-18,2021,3,True,577
+Cabbage,2021-01-25,2021,4,True,578
+Cabbage,2021-02-01,2021,5,True,579
+Cabbage,2021-02-08,2021,6,True,580
+Cabbage,2021-02-15,2021,7,True,581
+Cabbage,2021-02-22,2021,8,True,582
+Cabbage,2021-03-01,2021,9,True,583
+Cabbage,2021-03-08,2021,10,True,584
+Cabbage,2021-03-15,2021,11,True,585
+Cabbage,2021-03-22,2021,12,True,586
+Cabbage,2021-03-29,2021,13,True,587
+Cabbage,2021-04-05,2021,14,True,588
+Cabbage,2021-04-12,2021,15,True,589
+Cabbage,2021-04-19,2021,16,True,590
+Cabbage,2021-04-26,2021,17,True,591
+Cabbage,2021-05-03,2021,18,True,592
+Cabbage,2021-05-10,2021,19,True,593
+Cabbage,2021-05-17,2021,20,True,594
+Cabbage,2021-05-24,2021,21,True,595
+Cabbage,2021-05-31,2021,22,True,596
+Cabbage,2021-06-07,2021,23,True,597
+Cabbage,2021-06-14,2021,24,True,598
+Cabbage,2021-06-21,2021,25,True,599
+Cabbage,2021-06-28,2021,26,True,600
+Cabbage,2021-07-05,2021,27,True,601
+Cabbage,2021-07-12,2021,28,True,602
+Cabbage,2021-07-19,2021,29,True,603
+Cabbage,2021-07-26,2021,30,True,604
+Cabbage,2021-08-02,2021,31,True,605
+Cabbage,2021-08-09,2021,32,True,606
+Cabbage,2021-08-16,2021,33,True,607
+Cabbage,2021-08-23,2021,34,True,608
+Cabbage,2021-08-30,2021,35,True,609
+Cabbage,2021-09-06,2021,36,True,610
+Cabbage,2021-09-13,2021,37,True,611
+Cabbage,2021-09-20,2021,38,True,612
+Cabbage,2021-09-27,2021,39,True,613
+Cabbage,2021-10-04,2021,40,True,614
+Cabbage,2021-10-11,2021,41,True,615
+Cabbage,2021-10-18,2021,42,True,616
+Cabbage,2021-10-25,2021,43,True,617
+Cabbage,2021-11-01,2021,44,True,618
+Cabbage,2021-11-08,2021,45,True,619
+Cabbage,2021-11-15,2021,46,True,620
+Cabbage,2021-11-22,2021,47,True,621
+Cabbage,2021-11-29,2021,48,True,622
+Cabbage,2021-12-06,2021,49,True,623
+Cabbage,2021-12-13,2021,50,True,624
+Cabbage,2021-12-20,2021,51,True,625
+Cabbage,2021-12-27,2021,52,True,626
+Cabbage,2022-01-03,2022,1,True,627
+Cabbage,2022-01-10,2022,2,True,628
+Cabbage,2022-01-17,2022,3,True,629
+Cabbage,2022-01-24,2022,4,True,630
+Cabbage,2022-01-31,2022,5,True,631
+Cabbage,2022-02-07,2022,6,True,632
+Cabbage,2022-02-14,2022,7,True,633
+Cabbage,2022-02-21,2022,8,True,634
+Cabbage,2022-02-28,2022,9,True,635
+Cabbage,2022-03-07,2022,10,True,636
+Cabbage,2022-03-14,2022,11,True,637
+Cabbage,2022-03-21,2022,12,True,638
+Cabbage,2022-03-28,2022,13,True,639
+Cabbage,2022-04-04,2022,14,True,640
+Cabbage,2022-04-11,2022,15,True,641
+Cabbage,2022-04-18,2022,16,True,642
+Cabbage,2022-04-25,2022,17,True,643
+Cabbage,2022-05-02,2022,18,True,644
+Cabbage,2022-05-09,2022,19,True,645
+Cabbage,2022-05-16,2022,20,True,646
+Cabbage,2022-05-23,2022,21,True,647
+Cabbage,2022-05-30,2022,22,True,648
+Cabbage,2022-06-06,2022,23,True,649
+Cabbage,2022-06-13,2022,24,True,650
+Cabbage,2022-06-20,2022,25,True,651
+Cabbage,2022-06-27,2022,26,True,652
+Cabbage,2022-07-04,2022,27,True,653
+Cabbage,2022-07-11,2022,28,True,654
+Cabbage,2022-07-18,2022,29,True,655
+Cabbage,2022-07-25,2022,30,True,656
+Cabbage,2022-08-01,2022,31,True,657
+Cabbage,2022-08-08,2022,32,True,658
+Cabbage,2022-08-15,2022,33,True,659
+Cabbage,2022-08-22,2022,34,True,660
+Cabbage,2022-08-29,2022,35,True,661
+Cabbage,2022-09-05,2022,36,True,662
+Cabbage,2022-09-12,2022,37,True,663
+Cabbage,2022-09-19,2022,38,True,664
+Cabbage,2022-09-26,2022,39,True,665
+Cabbage,2022-10-03,2022,40,True,666
+Cabbage,2022-10-10,2022,41,True,667
+Cabbage,2022-10-17,2022,42,True,668
+Cabbage,2022-10-24,2022,43,True,669
+Cabbage,2022-10-31,2022,44,True,670
+Cabbage,2022-11-07,2022,45,True,671
+Cabbage,2022-11-14,2022,46,True,672
+Cabbage,2022-11-21,2022,47,True,673
+Cabbage,2022-11-28,2022,48,True,674
+Cabbage,2022-12-05,2022,49,True,675
+Cabbage,2022-12-12,2022,50,True,676
+Cabbage,2022-12-19,2022,51,True,677
+Cabbage,2022-12-26,2022,52,True,678
+Cabbage,2022-12-26,2022,52,True,679
+Cabbage,2023-01-02,2023,1,False,680
+Cabbage,2023-01-09,2023,2,False,681
+Cabbage,2023-01-16,2023,3,False,682
+Cabbage,2023-01-23,2023,4,False,683
+Cabbage,2023-01-30,2023,5,False,684
+Cabbage,2023-02-06,2023,6,False,685
+Cabbage,2023-02-13,2023,7,False,686
+Cabbage,2023-02-20,2023,8,False,687
+Cabbage,2023-02-27,2023,9,False,688
+Cabbage,2023-03-06,2023,10,False,689
+Cabbage,2023-03-13,2023,11,False,690
+Cabbage,2023-03-20,2023,12,False,691
+Cabbage,2023-03-27,2023,13,False,692
+Cabbage,2023-04-03,2023,14,False,693
+Cabbage,2023-04-10,2023,15,False,694
+Cabbage,2023-04-17,2023,16,False,695
+Cabbage,2023-04-24,2023,17,False,696
+Cabbage,2023-05-01,2023,18,False,697
+Cabbage,2023-05-08,2023,19,False,698
+Cabbage,2023-05-15,2023,20,False,699
+Cabbage,2023-05-22,2023,21,False,700
+Cabbage,2023-05-29,2023,22,False,701
+Cabbage,2023-06-05,2023,23,False,702
+Cabbage,2023-06-12,2023,24,False,703
+Cabbage,2023-06-19,2023,25,False,704
+Cabbage,2023-06-26,2023,26,False,705
+Cabbage,2023-07-03,2023,27,False,706
+Cabbage,2023-07-10,2023,28,False,707
+Cabbage,2023-07-17,2023,29,False,708
+Cabbage,2023-07-24,2023,30,False,709
+Cabbage,2023-07-31,2023,31,False,710
+Cabbage,2023-08-07,2023,32,False,711
+Cabbage,2023-08-14,2023,33,False,712
+Cabbage,2023-08-21,2023,34,False,713
+Cabbage,2023-08-28,2023,35,False,714
+Cabbage,2023-09-04,2023,36,False,715
+Cabbage,2023-09-11,2023,37,False,716
+Cabbage,2023-09-18,2023,38,False,717
+Cabbage,2023-09-25,2023,39,False,718
+Cabbage,2023-10-02,2023,40,False,719
+Cabbage,2023-10-09,2023,41,False,720
+Cabbage,2023-10-16,2023,42,False,721
+Cabbage,2023-10-23,2023,43,False,722
+Cabbage,2023-10-30,2023,44,False,723
+Cabbage,2023-11-06,2023,45,False,724
+Cabbage,2023-11-13,2023,46,False,725
+Cabbage,2023-11-20,2023,47,False,726
+Cabbage,2023-11-27,2023,48,False,727
+Cabbage,2023-12-04,2023,49,False,728
+Cabbage,2023-12-11,2023,50,False,729
+Cabbage,2023-12-18,2023,51,False,730
+Cabbage,2023-12-25,2023,52,False,731
+Cabbage,2024-01-01,2024,1,False,732
+Cabbage,2024-01-08,2024,2,False,733
+Cabbage,2024-01-15,2024,3,False,734
+Cabbage,2024-01-22,2024,4,False,735
+Cabbage,2024-01-29,2024,5,False,736
+Cabbage,2024-02-05,2024,6,False,737
+Cabbage,2024-02-12,2024,7,False,738
+Cabbage,2024-02-19,2024,8,False,739
+Cabbage,2024-02-26,2024,9,False,740
+Cabbage,2024-03-04,2024,10,False,741
+Cabbage,2024-03-11,2024,11,False,742
+Cabbage,2024-03-18,2024,12,False,743
+Cabbage,2024-03-25,2024,13,False,744
+Cabbage,2024-04-01,2024,14,False,745
+Cabbage,2024-04-08,2024,15,False,746
+Cabbage,2024-04-15,2024,16,False,747
+Cabbage,2024-04-22,2024,17,False,748
+Cabbage,2024-04-29,2024,18,False,749
+Cabbage,2024-05-06,2024,19,False,750
+Cabbage,2024-05-13,2024,20,False,751
+Cabbage,2024-05-20,2024,21,False,752
+Cabbage,2024-05-27,2024,22,False,753
+Cabbage,2024-06-03,2024,23,False,754
+Cabbage,2024-06-10,2024,24,False,755
+Cabbage,2024-06-17,2024,25,False,756
+Cabbage,2024-06-24,2024,26,False,757
+Cabbage,2024-07-01,2024,27,False,758
+Cabbage,2024-07-08,2024,28,False,759
+Cabbage,2024-07-15,2024,29,False,760
+Cabbage,2024-07-22,2024,30,False,761
+Cabbage,2024-07-29,2024,31,False,762
+Cabbage,2024-08-05,2024,32,False,763
+Cabbage,2024-08-12,2024,33,False,764
+Cabbage,2024-08-19,2024,34,False,765
+Cabbage,2024-08-26,2024,35,False,766
+Cabbage,2024-09-02,2024,36,False,767
+Cabbage,2024-09-09,2024,37,False,768
+Cabbage,2024-09-16,2024,38,False,769
+Cabbage,2024-09-23,2024,39,False,770
+Cabbage,2024-09-30,2024,40,False,771
+Cabbage,2024-10-07,2024,41,False,772
+Cabbage,2024-10-14,2024,42,False,773
+Cabbage,2024-10-21,2024,43,False,774
+Cabbage,2024-10-28,2024,44,False,775
+Cabbage,2024-11-04,2024,45,False,776
+Cabbage,2024-11-11,2024,46,False,777
+Cabbage,2024-11-18,2024,47,False,778
+Cabbage,2024-11-25,2024,48,False,779
+Cabbage,2024-12-02,2024,49,False,780
+Cabbage,2024-12-09,2024,50,False,781
+Cabbage,2024-12-16,2024,51,False,782
+Cabbage,2024-12-23,2024,52,False,783
+Cabbage,2024-12-30,2025,1,False,784
+Cabbage,2025-01-06,2025,2,False,785
+Cabbage,2025-01-13,2025,3,False,786
+Cabbage,2025-01-20,2025,4,False,787
+Cabbage,2025-01-27,2025,5,False,788
+Cabbage,2025-02-03,2025,6,False,789
+Cabbage,2025-02-10,2025,7,False,790
+Cabbage,2025-02-17,2025,8,False,791
+Cabbage,2025-02-24,2025,9,False,792
+Cabbage,2025-03-03,2025,10,False,793
+Cabbage,2025-03-10,2025,11,False,794
+Cabbage,2025-03-17,2025,12,False,795
+Cabbage,2025-03-24,2025,13,False,796
+Cabbage,2025-03-31,2025,14,False,797
+Cabbage,2025-04-07,2025,15,False,798
+Cabbage,2025-04-14,2025,16,False,799
+Cabbage,2025-04-21,2025,17,False,800
+Cabbage,2025-04-28,2025,18,False,801
+Cabbage,2025-05-05,2025,19,False,802
+Cabbage,2025-05-12,2025,20,False,803
+Cabbage,2025-05-19,2025,21,False,804
+Cabbage,2025-05-26,2025,22,False,805
+Cabbage,2025-06-02,2025,23,False,806
+Cabbage,2025-06-09,2025,24,False,807
+Cabbage,2025-06-16,2025,25,False,808
+Cabbage,2025-06-23,2025,26,False,809
+Cabbage,2025-06-30,2025,27,False,810
+Cabbage,2025-07-07,2025,28,False,811
+Cabbage,2025-07-14,2025,29,False,812
+Cabbage,2025-07-21,2025,30,False,813
+Cabbage,2025-07-28,2025,31,False,814
+Cabbage,2025-08-04,2025,32,False,815
+Cabbage,2025-08-11,2025,33,False,816
+Cabbage,2025-08-18,2025,34,False,817
+Cabbage,2025-08-25,2025,35,False,818
+Cabbage,2025-09-01,2025,36,False,819
+Cabbage,2025-09-08,2025,37,False,820
+Cabbage,2025-09-15,2025,38,False,821
+Cabbage,2025-09-22,2025,39,False,822
+Cabbage,2025-09-29,2025,40,False,823
+Cabbage,2025-10-06,2025,41,False,824
+Cabbage,2025-10-13,2025,42,False,825
+Cabbage,2025-10-20,2025,43,False,826
+Cabbage,2025-10-27,2025,44,False,827
+Cabbage,2025-11-03,2025,45,False,828
+Cabbage,2025-11-10,2025,46,False,829
+Cabbage,2025-11-17,2025,47,False,830
+Cabbage,2025-11-24,2025,48,False,831
+Cabbage,2025-12-01,2025,49,False,832
+Cabbage,2025-12-08,2025,50,False,833
+Cabbage,2025-12-15,2025,51,False,834
+Cabbage,2025-12-22,2025,52,False,835
+Cabbage,2025-12-29,2026,1,False,836
+Cabbage,2026-01-05,2026,2,False,837
+Carrot,2009-12-28,2009,53,True,0
+Carrot,2010-01-04,2010,1,True,1
+Carrot,2010-01-11,2010,2,True,2
+Carrot,2010-01-18,2010,3,True,3
+Carrot,2010-01-25,2010,4,True,4
+Carrot,2010-02-01,2010,5,True,5
+Carrot,2010-02-08,2010,6,True,6
+Carrot,2010-02-15,2010,7,True,7
+Carrot,2010-02-22,2010,8,True,8
+Carrot,2010-03-01,2010,9,True,9
+Carrot,2010-03-08,2010,10,True,10
+Carrot,2010-03-15,2010,11,True,11
+Carrot,2010-03-22,2010,12,True,12
+Carrot,2010-03-29,2010,13,True,13
+Carrot,2010-04-05,2010,14,True,14
+Carrot,2010-04-12,2010,15,True,15
+Carrot,2010-04-19,2010,16,True,16
+Carrot,2010-04-26,2010,17,True,17
+Carrot,2010-05-03,2010,18,True,18
+Carrot,2010-05-10,2010,19,True,19
+Carrot,2010-05-17,2010,20,True,20
+Carrot,2010-05-24,2010,21,True,21
+Carrot,2010-05-31,2010,22,True,22
+Carrot,2010-06-07,2010,23,True,23
+Carrot,2010-06-14,2010,24,True,24
+Carrot,2010-06-21,2010,25,True,25
+Carrot,2010-06-28,2010,26,True,26
+Carrot,2010-07-05,2010,27,True,27
+Carrot,2010-07-12,2010,28,True,28
+Carrot,2010-07-19,2010,29,True,29
+Carrot,2010-07-26,2010,30,True,30
+Carrot,2010-08-02,2010,31,True,31
+Carrot,2010-08-09,2010,32,True,32
+Carrot,2010-08-16,2010,33,True,33
+Carrot,2010-08-23,2010,34,True,34
+Carrot,2010-08-30,2010,35,True,35
+Carrot,2010-09-06,2010,36,True,36
+Carrot,2010-09-13,2010,37,True,37
+Carrot,2010-09-20,2010,38,True,38
+Carrot,2010-09-27,2010,39,True,39
+Carrot,2010-10-04,2010,40,True,40
+Carrot,2010-10-11,2010,41,True,41
+Carrot,2010-10-18,2010,42,True,42
+Carrot,2010-10-25,2010,43,True,43
+Carrot,2010-11-01,2010,44,True,44
+Carrot,2010-11-08,2010,45,True,45
+Carrot,2010-11-15,2010,46,True,46
+Carrot,2010-11-22,2010,47,True,47
+Carrot,2010-11-29,2010,48,True,48
+Carrot,2010-12-06,2010,49,True,49
+Carrot,2010-12-13,2010,50,True,50
+Carrot,2010-12-20,2010,51,True,51
+Carrot,2010-12-27,2010,52,True,52
+Carrot,2011-01-03,2011,1,True,53
+Carrot,2011-01-10,2011,2,True,54
+Carrot,2011-01-17,2011,3,True,55
+Carrot,2011-01-24,2011,4,True,56
+Carrot,2011-01-31,2011,5,True,57
+Carrot,2011-02-07,2011,6,True,58
+Carrot,2011-02-14,2011,7,True,59
+Carrot,2011-02-21,2011,8,True,60
+Carrot,2011-02-28,2011,9,True,61
+Carrot,2011-03-07,2011,10,True,62
+Carrot,2011-03-14,2011,11,True,63
+Carrot,2011-03-21,2011,12,True,64
+Carrot,2011-03-28,2011,13,True,65
+Carrot,2011-04-04,2011,14,True,66
+Carrot,2011-04-11,2011,15,True,67
+Carrot,2011-04-18,2011,16,True,68
+Carrot,2011-04-25,2011,17,True,69
+Carrot,2011-05-02,2011,18,True,70
+Carrot,2011-05-09,2011,19,True,71
+Carrot,2011-05-16,2011,20,True,72
+Carrot,2011-05-23,2011,21,True,73
+Carrot,2011-05-30,2011,22,True,74
+Carrot,2011-06-06,2011,23,True,75
+Carrot,2011-06-13,2011,24,True,76
+Carrot,2011-06-20,2011,25,True,77
+Carrot,2011-06-27,2011,26,True,78
+Carrot,2011-07-04,2011,27,True,79
+Carrot,2011-07-11,2011,28,True,80
+Carrot,2011-07-18,2011,29,True,81
+Carrot,2011-07-25,2011,30,True,82
+Carrot,2011-08-01,2011,31,True,83
+Carrot,2011-08-08,2011,32,True,84
+Carrot,2011-08-15,2011,33,True,85
+Carrot,2011-08-22,2011,34,True,86
+Carrot,2011-08-29,2011,35,True,87
+Carrot,2011-09-05,2011,36,True,88
+Carrot,2011-09-12,2011,37,True,89
+Carrot,2011-09-19,2011,38,True,90
+Carrot,2011-09-26,2011,39,True,91
+Carrot,2011-10-03,2011,40,True,92
+Carrot,2011-10-10,2011,41,True,93
+Carrot,2011-10-17,2011,42,True,94
+Carrot,2011-10-24,2011,43,True,95
+Carrot,2011-10-31,2011,44,True,96
+Carrot,2011-11-07,2011,45,True,97
+Carrot,2011-11-14,2011,46,True,98
+Carrot,2011-11-21,2011,47,True,99
+Carrot,2011-11-28,2011,48,True,100
+Carrot,2011-12-05,2011,49,True,101
+Carrot,2011-12-12,2011,50,True,102
+Carrot,2011-12-19,2011,51,True,103
+Carrot,2011-12-26,2011,52,True,104
+Carrot,2012-01-02,2012,1,True,105
+Carrot,2012-01-09,2012,2,True,106
+Carrot,2012-01-16,2012,3,True,107
+Carrot,2012-01-23,2012,4,True,108
+Carrot,2012-01-30,2012,5,True,109
+Carrot,2012-02-06,2012,6,True,110
+Carrot,2012-02-13,2012,7,True,111
+Carrot,2012-02-20,2012,8,True,112
+Carrot,2012-02-27,2012,9,True,113
+Carrot,2012-03-05,2012,10,True,114
+Carrot,2012-03-12,2012,11,True,115
+Carrot,2012-03-19,2012,12,True,116
+Carrot,2012-03-26,2012,13,True,117
+Carrot,2012-04-02,2012,14,True,118
+Carrot,2012-04-09,2012,15,True,119
+Carrot,2012-04-16,2012,16,True,120
+Carrot,2012-04-23,2012,17,True,121
+Carrot,2012-04-30,2012,18,True,122
+Carrot,2012-05-07,2012,19,True,123
+Carrot,2012-05-14,2012,20,True,124
+Carrot,2012-05-21,2012,21,True,125
+Carrot,2012-05-28,2012,22,True,126
+Carrot,2012-06-04,2012,23,True,127
+Carrot,2012-06-11,2012,24,True,128
+Carrot,2012-06-18,2012,25,True,129
+Carrot,2012-06-25,2012,26,True,130
+Carrot,2012-07-02,2012,27,True,131
+Carrot,2012-07-09,2012,28,True,132
+Carrot,2012-07-16,2012,29,True,133
+Carrot,2012-07-23,2012,30,True,134
+Carrot,2012-07-30,2012,31,True,135
+Carrot,2012-08-06,2012,32,True,136
+Carrot,2012-08-13,2012,33,True,137
+Carrot,2012-08-20,2012,34,True,138
+Carrot,2012-08-27,2012,35,True,139
+Carrot,2012-09-03,2012,36,True,140
+Carrot,2012-09-10,2012,37,True,141
+Carrot,2012-09-17,2012,38,True,142
+Carrot,2012-09-24,2012,39,True,143
+Carrot,2012-10-01,2012,40,True,144
+Carrot,2012-10-08,2012,41,True,145
+Carrot,2012-10-15,2012,42,True,146
+Carrot,2012-10-22,2012,43,True,147
+Carrot,2012-10-29,2012,44,True,148
+Carrot,2012-11-05,2012,45,True,149
+Carrot,2012-11-12,2012,46,True,150
+Carrot,2012-11-19,2012,47,True,151
+Carrot,2012-11-26,2012,48,True,152
+Carrot,2012-12-03,2012,49,True,153
+Carrot,2012-12-10,2012,50,True,154
+Carrot,2012-12-17,2012,51,True,155
+Carrot,2012-12-24,2012,52,True,156
+Carrot,2012-12-31,2013,1,True,157
+Carrot,2013-01-07,2013,2,True,158
+Carrot,2013-01-14,2013,3,True,159
+Carrot,2013-01-21,2013,4,True,160
+Carrot,2013-01-28,2013,5,True,161
+Carrot,2013-02-04,2013,6,True,162
+Carrot,2013-02-11,2013,7,True,163
+Carrot,2013-02-18,2013,8,True,164
+Carrot,2013-02-25,2013,9,True,165
+Carrot,2013-03-04,2013,10,True,166
+Carrot,2013-03-11,2013,11,True,167
+Carrot,2013-03-18,2013,12,True,168
+Carrot,2013-03-25,2013,13,True,169
+Carrot,2013-04-01,2013,14,True,170
+Carrot,2013-04-08,2013,15,True,171
+Carrot,2013-04-15,2013,16,True,172
+Carrot,2013-04-22,2013,17,True,173
+Carrot,2013-04-29,2013,18,True,174
+Carrot,2013-05-06,2013,19,True,175
+Carrot,2013-05-13,2013,20,True,176
+Carrot,2013-05-20,2013,21,True,177
+Carrot,2013-05-27,2013,22,True,178
+Carrot,2013-06-03,2013,23,True,179
+Carrot,2013-06-10,2013,24,True,180
+Carrot,2013-06-17,2013,25,True,181
+Carrot,2013-06-24,2013,26,True,182
+Carrot,2013-07-01,2013,27,True,183
+Carrot,2013-07-08,2013,28,True,184
+Carrot,2013-07-15,2013,29,True,185
+Carrot,2013-07-22,2013,30,True,186
+Carrot,2013-07-29,2013,31,True,187
+Carrot,2013-08-05,2013,32,True,188
+Carrot,2013-08-12,2013,33,True,189
+Carrot,2013-08-19,2013,34,True,190
+Carrot,2013-08-26,2013,35,True,191
+Carrot,2013-09-02,2013,36,True,192
+Carrot,2013-09-09,2013,37,True,193
+Carrot,2013-09-16,2013,38,True,194
+Carrot,2013-09-23,2013,39,True,195
+Carrot,2013-09-30,2013,40,True,196
+Carrot,2013-10-07,2013,41,True,197
+Carrot,2013-10-14,2013,42,True,198
+Carrot,2013-10-21,2013,43,True,199
+Carrot,2013-10-28,2013,44,True,200
+Carrot,2013-11-04,2013,45,True,201
+Carrot,2013-11-11,2013,46,True,202
+Carrot,2013-11-18,2013,47,True,203
+Carrot,2013-11-25,2013,48,True,204
+Carrot,2013-12-02,2013,49,True,205
+Carrot,2013-12-09,2013,50,True,206
+Carrot,2013-12-16,2013,51,True,207
+Carrot,2013-12-23,2013,52,True,208
+Carrot,2013-12-30,2014,1,True,209
+Carrot,2014-01-06,2014,2,True,210
+Carrot,2014-01-13,2014,3,True,211
+Carrot,2014-01-20,2014,4,True,212
+Carrot,2014-01-27,2014,5,True,213
+Carrot,2014-02-03,2014,6,True,214
+Carrot,2014-02-10,2014,7,True,215
+Carrot,2014-02-17,2014,8,True,216
+Carrot,2014-02-24,2014,9,True,217
+Carrot,2014-03-03,2014,10,True,218
+Carrot,2014-03-10,2014,11,True,219
+Carrot,2014-03-17,2014,12,True,220
+Carrot,2014-03-24,2014,13,True,221
+Carrot,2014-03-31,2014,14,True,222
+Carrot,2014-04-07,2014,15,True,223
+Carrot,2014-04-14,2014,16,True,224
+Carrot,2014-04-21,2014,17,True,225
+Carrot,2014-04-28,2014,18,True,226
+Carrot,2014-05-05,2014,19,True,227
+Carrot,2014-05-12,2014,20,True,228
+Carrot,2014-05-19,2014,21,True,229
+Carrot,2014-05-26,2014,22,True,230
+Carrot,2014-06-02,2014,23,True,231
+Carrot,2014-06-09,2014,24,True,232
+Carrot,2014-06-16,2014,25,True,233
+Carrot,2014-06-23,2014,26,True,234
+Carrot,2014-06-30,2014,27,True,235
+Carrot,2014-07-07,2014,28,True,236
+Carrot,2014-07-14,2014,29,True,237
+Carrot,2014-07-21,2014,30,True,238
+Carrot,2014-07-28,2014,31,True,239
+Carrot,2014-08-04,2014,32,True,240
+Carrot,2014-08-11,2014,33,True,241
+Carrot,2014-08-18,2014,34,True,242
+Carrot,2014-08-25,2014,35,True,243
+Carrot,2014-09-01,2014,36,True,244
+Carrot,2014-09-08,2014,37,True,245
+Carrot,2014-09-15,2014,38,True,246
+Carrot,2014-09-22,2014,39,True,247
+Carrot,2014-09-29,2014,40,True,248
+Carrot,2014-10-06,2014,41,True,249
+Carrot,2014-10-13,2014,42,True,250
+Carrot,2014-10-20,2014,43,True,251
+Carrot,2014-10-27,2014,44,True,252
+Carrot,2014-11-03,2014,45,True,253
+Carrot,2014-11-10,2014,46,True,254
+Carrot,2014-11-17,2014,47,True,255
+Carrot,2014-11-24,2014,48,True,256
+Carrot,2014-12-01,2014,49,True,257
+Carrot,2014-12-08,2014,50,True,258
+Carrot,2014-12-15,2014,51,True,259
+Carrot,2014-12-22,2014,52,True,260
+Carrot,2014-12-29,2015,1,True,261
+Carrot,2015-01-05,2015,2,True,262
+Carrot,2015-01-12,2015,3,True,263
+Carrot,2015-01-19,2015,4,True,264
+Carrot,2015-01-26,2015,5,True,265
+Carrot,2015-02-02,2015,6,True,266
+Carrot,2015-02-09,2015,7,True,267
+Carrot,2015-02-16,2015,8,True,268
+Carrot,2015-02-23,2015,9,True,269
+Carrot,2015-03-02,2015,10,True,270
+Carrot,2015-03-09,2015,11,True,271
+Carrot,2015-03-16,2015,12,True,272
+Carrot,2015-03-23,2015,13,True,273
+Carrot,2015-03-30,2015,14,True,274
+Carrot,2015-04-06,2015,15,True,275
+Carrot,2015-04-13,2015,16,True,276
+Carrot,2015-04-20,2015,17,True,277
+Carrot,2015-04-27,2015,18,True,278
+Carrot,2015-05-04,2015,19,True,279
+Carrot,2015-05-11,2015,20,True,280
+Carrot,2015-05-18,2015,21,True,281
+Carrot,2015-05-25,2015,22,True,282
+Carrot,2015-06-01,2015,23,True,283
+Carrot,2015-06-08,2015,24,True,284
+Carrot,2015-06-15,2015,25,True,285
+Carrot,2015-06-22,2015,26,True,286
+Carrot,2015-06-29,2015,27,True,287
+Carrot,2015-07-06,2015,28,True,288
+Carrot,2015-07-13,2015,29,True,289
+Carrot,2015-07-20,2015,30,True,290
+Carrot,2015-07-27,2015,31,True,291
+Carrot,2015-08-03,2015,32,True,292
+Carrot,2015-08-10,2015,33,True,293
+Carrot,2015-08-17,2015,34,True,294
+Carrot,2015-08-24,2015,35,True,295
+Carrot,2015-08-31,2015,36,True,296
+Carrot,2015-09-07,2015,37,True,297
+Carrot,2015-09-14,2015,38,True,298
+Carrot,2015-09-21,2015,39,True,299
+Carrot,2015-09-28,2015,40,True,300
+Carrot,2015-10-05,2015,41,True,301
+Carrot,2015-10-12,2015,42,True,302
+Carrot,2015-10-19,2015,43,True,303
+Carrot,2015-10-26,2015,44,True,304
+Carrot,2015-11-02,2015,45,True,305
+Carrot,2015-11-09,2015,46,True,306
+Carrot,2015-11-16,2015,47,True,307
+Carrot,2015-11-23,2015,48,True,308
+Carrot,2015-11-30,2015,49,True,309
+Carrot,2015-12-07,2015,50,True,310
+Carrot,2015-12-14,2015,51,True,311
+Carrot,2015-12-21,2015,52,True,312
+Carrot,2015-12-28,2015,53,True,313
+Carrot,2016-01-04,2016,1,True,314
+Carrot,2016-01-11,2016,2,True,315
+Carrot,2016-01-18,2016,3,True,316
+Carrot,2016-01-25,2016,4,True,317
+Carrot,2016-02-01,2016,5,True,318
+Carrot,2016-02-08,2016,6,True,319
+Carrot,2016-02-15,2016,7,True,320
+Carrot,2016-02-22,2016,8,True,321
+Carrot,2016-02-29,2016,9,True,322
+Carrot,2016-03-07,2016,10,True,323
+Carrot,2016-03-14,2016,11,True,324
+Carrot,2016-03-21,2016,12,True,325
+Carrot,2016-03-28,2016,13,True,326
+Carrot,2016-04-04,2016,14,True,327
+Carrot,2016-04-11,2016,15,True,328
+Carrot,2016-04-18,2016,16,True,329
+Carrot,2016-04-25,2016,17,True,330
+Carrot,2016-05-02,2016,18,True,331
+Carrot,2016-05-09,2016,19,True,332
+Carrot,2016-05-16,2016,20,True,333
+Carrot,2016-05-23,2016,21,True,334
+Carrot,2016-05-30,2016,22,True,335
+Carrot,2016-06-06,2016,23,True,336
+Carrot,2016-06-13,2016,24,True,337
+Carrot,2016-06-20,2016,25,True,338
+Carrot,2016-06-27,2016,26,True,339
+Carrot,2016-07-04,2016,27,True,340
+Carrot,2016-07-11,2016,28,True,341
+Carrot,2016-07-18,2016,29,True,342
+Carrot,2016-07-25,2016,30,True,343
+Carrot,2016-08-01,2016,31,True,344
+Carrot,2016-08-08,2016,32,True,345
+Carrot,2016-08-15,2016,33,True,346
+Carrot,2016-08-22,2016,34,True,347
+Carrot,2016-08-29,2016,35,True,348
+Carrot,2016-09-05,2016,36,True,349
+Carrot,2016-09-12,2016,37,True,350
+Carrot,2016-09-19,2016,38,True,351
+Carrot,2016-09-26,2016,39,True,352
+Carrot,2016-10-03,2016,40,True,353
+Carrot,2016-10-10,2016,41,True,354
+Carrot,2016-10-17,2016,42,True,355
+Carrot,2016-10-24,2016,43,True,356
+Carrot,2016-10-31,2016,44,True,357
+Carrot,2016-11-07,2016,45,True,358
+Carrot,2016-11-14,2016,46,True,359
+Carrot,2016-11-21,2016,47,True,360
+Carrot,2016-11-28,2016,48,True,361
+Carrot,2016-12-05,2016,49,True,362
+Carrot,2016-12-12,2016,50,True,363
+Carrot,2016-12-19,2016,51,True,364
+Carrot,2016-12-26,2016,52,True,365
+Carrot,2017-01-02,2017,1,True,366
+Carrot,2017-01-09,2017,2,True,367
+Carrot,2017-01-16,2017,3,True,368
+Carrot,2017-01-23,2017,4,True,369
+Carrot,2017-01-30,2017,5,True,370
+Carrot,2017-02-06,2017,6,True,371
+Carrot,2017-02-13,2017,7,True,372
+Carrot,2017-02-20,2017,8,True,373
+Carrot,2017-02-27,2017,9,True,374
+Carrot,2017-03-06,2017,10,True,375
+Carrot,2017-03-13,2017,11,True,376
+Carrot,2017-03-20,2017,12,True,377
+Carrot,2017-03-27,2017,13,True,378
+Carrot,2017-04-03,2017,14,True,379
+Carrot,2017-04-10,2017,15,True,380
+Carrot,2017-04-17,2017,16,True,381
+Carrot,2017-04-24,2017,17,True,382
+Carrot,2017-05-01,2017,18,True,383
+Carrot,2017-05-08,2017,19,True,384
+Carrot,2017-05-15,2017,20,True,385
+Carrot,2017-05-22,2017,21,True,386
+Carrot,2017-05-29,2017,22,True,387
+Carrot,2017-06-05,2017,23,True,388
+Carrot,2017-06-12,2017,24,True,389
+Carrot,2017-06-19,2017,25,True,390
+Carrot,2017-06-26,2017,26,True,391
+Carrot,2017-07-03,2017,27,True,392
+Carrot,2017-07-10,2017,28,True,393
+Carrot,2017-07-17,2017,29,True,394
+Carrot,2017-07-24,2017,30,True,395
+Carrot,2017-07-31,2017,31,True,396
+Carrot,2017-08-07,2017,32,True,397
+Carrot,2017-08-14,2017,33,True,398
+Carrot,2017-08-21,2017,34,True,399
+Carrot,2017-08-28,2017,35,True,400
+Carrot,2017-09-04,2017,36,True,401
+Carrot,2017-09-11,2017,37,True,402
+Carrot,2017-09-18,2017,38,True,403
+Carrot,2017-09-25,2017,39,True,404
+Carrot,2017-10-02,2017,40,True,405
+Carrot,2017-10-09,2017,41,True,406
+Carrot,2017-10-16,2017,42,True,407
+Carrot,2017-10-23,2017,43,True,408
+Carrot,2017-10-30,2017,44,True,409
+Carrot,2017-11-06,2017,45,True,410
+Carrot,2017-11-13,2017,46,True,411
+Carrot,2017-11-20,2017,47,True,412
+Carrot,2017-11-27,2017,48,True,413
+Carrot,2017-12-04,2017,49,True,414
+Carrot,2017-12-11,2017,50,True,415
+Carrot,2017-12-18,2017,51,True,416
+Carrot,2017-12-25,2017,52,True,417
+Carrot,2018-01-01,2018,1,True,418
+Carrot,2018-01-08,2018,2,True,419
+Carrot,2018-01-15,2018,3,True,420
+Carrot,2018-01-22,2018,4,True,421
+Carrot,2018-01-29,2018,5,True,422
+Carrot,2018-02-05,2018,6,True,423
+Carrot,2018-02-12,2018,7,True,424
+Carrot,2018-02-19,2018,8,True,425
+Carrot,2018-02-26,2018,9,True,426
+Carrot,2018-03-05,2018,10,True,427
+Carrot,2018-03-12,2018,11,True,428
+Carrot,2018-03-19,2018,12,True,429
+Carrot,2018-03-26,2018,13,True,430
+Carrot,2018-04-02,2018,14,True,431
+Carrot,2018-04-09,2018,15,True,432
+Carrot,2018-04-16,2018,16,True,433
+Carrot,2018-04-23,2018,17,True,434
+Carrot,2018-04-30,2018,18,True,435
+Carrot,2018-05-07,2018,19,True,436
+Carrot,2018-05-14,2018,20,True,437
+Carrot,2018-05-21,2018,21,True,438
+Carrot,2018-05-28,2018,22,True,439
+Carrot,2018-06-04,2018,23,True,440
+Carrot,2018-06-11,2018,24,True,441
+Carrot,2018-06-18,2018,25,True,442
+Carrot,2018-06-25,2018,26,True,443
+Carrot,2018-07-02,2018,27,True,444
+Carrot,2018-07-09,2018,28,True,445
+Carrot,2018-07-16,2018,29,True,446
+Carrot,2018-07-23,2018,30,True,447
+Carrot,2018-07-30,2018,31,True,448
+Carrot,2018-08-06,2018,32,True,449
+Carrot,2018-08-13,2018,33,True,450
+Carrot,2018-08-20,2018,34,True,451
+Carrot,2018-08-27,2018,35,True,452
+Carrot,2018-09-03,2018,36,True,453
+Carrot,2018-09-10,2018,37,True,454
+Carrot,2018-09-17,2018,38,True,455
+Carrot,2018-09-24,2018,39,True,456
+Carrot,2018-10-01,2018,40,True,457
+Carrot,2018-10-08,2018,41,True,458
+Carrot,2018-10-15,2018,42,True,459
+Carrot,2018-10-22,2018,43,True,460
+Carrot,2018-10-29,2018,44,True,461
+Carrot,2018-11-05,2018,45,True,462
+Carrot,2018-11-12,2018,46,True,463
+Carrot,2018-11-19,2018,47,True,464
+Carrot,2018-11-26,2018,48,True,465
+Carrot,2018-12-03,2018,49,True,466
+Carrot,2018-12-10,2018,50,True,467
+Carrot,2018-12-17,2018,51,True,468
+Carrot,2018-12-24,2018,52,True,469
+Carrot,2018-12-31,2019,1,True,470
+Carrot,2019-01-07,2019,2,True,471
+Carrot,2019-01-14,2019,3,True,472
+Carrot,2019-01-21,2019,4,True,473
+Carrot,2019-01-28,2019,5,True,474
+Carrot,2019-02-04,2019,6,True,475
+Carrot,2019-02-11,2019,7,True,476
+Carrot,2019-02-18,2019,8,True,477
+Carrot,2019-02-25,2019,9,True,478
+Carrot,2019-03-04,2019,10,True,479
+Carrot,2019-03-11,2019,11,True,480
+Carrot,2019-03-18,2019,12,True,481
+Carrot,2019-03-25,2019,13,True,482
+Carrot,2019-04-01,2019,14,True,483
+Carrot,2019-04-08,2019,15,True,484
+Carrot,2019-04-15,2019,16,True,485
+Carrot,2019-04-22,2019,17,True,486
+Carrot,2019-04-29,2019,18,True,487
+Carrot,2019-05-06,2019,19,True,488
+Carrot,2019-05-13,2019,20,True,489
+Carrot,2019-05-20,2019,21,True,490
+Carrot,2019-05-27,2019,22,True,491
+Carrot,2019-06-03,2019,23,True,492
+Carrot,2019-06-10,2019,24,True,493
+Carrot,2019-06-17,2019,25,True,494
+Carrot,2019-06-24,2019,26,True,495
+Carrot,2019-07-01,2019,27,True,496
+Carrot,2019-07-08,2019,28,True,497
+Carrot,2019-07-15,2019,29,True,498
+Carrot,2019-07-22,2019,30,True,499
+Carrot,2019-07-29,2019,31,True,500
+Carrot,2019-08-05,2019,32,True,501
+Carrot,2019-08-12,2019,33,True,502
+Carrot,2019-08-19,2019,34,True,503
+Carrot,2019-08-26,2019,35,True,504
+Carrot,2019-09-02,2019,36,True,505
+Carrot,2019-09-09,2019,37,True,506
+Carrot,2019-09-16,2019,38,True,507
+Carrot,2019-09-23,2019,39,True,508
+Carrot,2019-09-30,2019,40,True,509
+Carrot,2019-10-07,2019,41,True,510
+Carrot,2019-10-14,2019,42,True,511
+Carrot,2019-10-21,2019,43,True,512
+Carrot,2019-10-28,2019,44,True,513
+Carrot,2019-11-04,2019,45,True,514
+Carrot,2019-11-11,2019,46,True,515
+Carrot,2019-11-18,2019,47,True,516
+Carrot,2019-11-25,2019,48,True,517
+Carrot,2019-12-02,2019,49,True,518
+Carrot,2019-12-09,2019,50,True,519
+Carrot,2019-12-16,2019,51,True,520
+Carrot,2019-12-23,2019,52,True,521
+Carrot,2019-12-30,2020,1,True,522
+Carrot,2020-01-06,2020,2,True,523
+Carrot,2020-01-13,2020,3,True,524
+Carrot,2020-01-20,2020,4,True,525
+Carrot,2020-01-27,2020,5,True,526
+Carrot,2020-02-03,2020,6,True,527
+Carrot,2020-02-10,2020,7,True,528
+Carrot,2020-02-17,2020,8,True,529
+Carrot,2020-02-24,2020,9,True,530
+Carrot,2020-03-02,2020,10,True,531
+Carrot,2020-03-09,2020,11,True,532
+Carrot,2020-03-16,2020,12,True,533
+Carrot,2020-03-23,2020,13,True,534
+Carrot,2020-03-30,2020,14,True,535
+Carrot,2020-04-06,2020,15,True,536
+Carrot,2020-04-13,2020,16,True,537
+Carrot,2020-04-20,2020,17,True,538
+Carrot,2020-04-27,2020,18,True,539
+Carrot,2020-05-04,2020,19,True,540
+Carrot,2020-05-11,2020,20,True,541
+Carrot,2020-05-18,2020,21,True,542
+Carrot,2020-05-25,2020,22,True,543
+Carrot,2020-06-01,2020,23,True,544
+Carrot,2020-06-08,2020,24,True,545
+Carrot,2020-06-15,2020,25,True,546
+Carrot,2020-06-22,2020,26,True,547
+Carrot,2020-06-29,2020,27,True,548
+Carrot,2020-07-06,2020,28,True,549
+Carrot,2020-07-13,2020,29,True,550
+Carrot,2020-07-20,2020,30,True,551
+Carrot,2020-07-27,2020,31,True,552
+Carrot,2020-08-03,2020,32,True,553
+Carrot,2020-08-10,2020,33,True,554
+Carrot,2020-08-17,2020,34,True,555
+Carrot,2020-08-24,2020,35,True,556
+Carrot,2020-08-31,2020,36,True,557
+Carrot,2020-09-07,2020,37,True,558
+Carrot,2020-09-14,2020,38,True,559
+Carrot,2020-09-21,2020,39,True,560
+Carrot,2020-09-28,2020,40,True,561
+Carrot,2020-10-05,2020,41,True,562
+Carrot,2020-10-12,2020,42,True,563
+Carrot,2020-10-19,2020,43,True,564
+Carrot,2020-10-26,2020,44,True,565
+Carrot,2020-11-02,2020,45,True,566
+Carrot,2020-11-09,2020,46,True,567
+Carrot,2020-11-16,2020,47,True,568
+Carrot,2020-11-23,2020,48,True,569
+Carrot,2020-11-30,2020,49,True,570
+Carrot,2020-12-07,2020,50,True,571
+Carrot,2020-12-14,2020,51,True,572
+Carrot,2020-12-21,2020,52,True,573
+Carrot,2020-12-28,2020,53,True,574
+Carrot,2021-01-04,2021,1,True,575
+Carrot,2021-01-11,2021,2,True,576
+Carrot,2021-01-18,2021,3,True,577
+Carrot,2021-01-25,2021,4,True,578
+Carrot,2021-02-01,2021,5,True,579
+Carrot,2021-02-08,2021,6,True,580
+Carrot,2021-02-15,2021,7,True,581
+Carrot,2021-02-22,2021,8,True,582
+Carrot,2021-03-01,2021,9,True,583
+Carrot,2021-03-08,2021,10,True,584
+Carrot,2021-03-15,2021,11,True,585
+Carrot,2021-03-22,2021,12,True,586
+Carrot,2021-03-29,2021,13,True,587
+Carrot,2021-04-05,2021,14,True,588
+Carrot,2021-04-12,2021,15,True,589
+Carrot,2021-04-19,2021,16,True,590
+Carrot,2021-04-26,2021,17,True,591
+Carrot,2021-05-03,2021,18,True,592
+Carrot,2021-05-10,2021,19,True,593
+Carrot,2021-05-17,2021,20,True,594
+Carrot,2021-05-24,2021,21,True,595
+Carrot,2021-05-31,2021,22,True,596
+Carrot,2021-06-07,2021,23,True,597
+Carrot,2021-06-14,2021,24,True,598
+Carrot,2021-06-21,2021,25,True,599
+Carrot,2021-06-28,2021,26,True,600
+Carrot,2021-07-05,2021,27,True,601
+Carrot,2021-07-12,2021,28,True,602
+Carrot,2021-07-19,2021,29,True,603
+Carrot,2021-07-26,2021,30,True,604
+Carrot,2021-08-02,2021,31,True,605
+Carrot,2021-08-09,2021,32,True,606
+Carrot,2021-08-16,2021,33,True,607
+Carrot,2021-08-23,2021,34,True,608
+Carrot,2021-08-30,2021,35,True,609
+Carrot,2021-09-06,2021,36,True,610
+Carrot,2021-09-13,2021,37,True,611
+Carrot,2021-09-20,2021,38,True,612
+Carrot,2021-09-27,2021,39,True,613
+Carrot,2021-10-04,2021,40,True,614
+Carrot,2021-10-11,2021,41,True,615
+Carrot,2021-10-18,2021,42,True,616
+Carrot,2021-10-25,2021,43,True,617
+Carrot,2021-11-01,2021,44,True,618
+Carrot,2021-11-08,2021,45,True,619
+Carrot,2021-11-15,2021,46,True,620
+Carrot,2021-11-22,2021,47,True,621
+Carrot,2021-11-29,2021,48,True,622
+Carrot,2021-12-06,2021,49,True,623
+Carrot,2021-12-13,2021,50,True,624
+Carrot,2021-12-20,2021,51,True,625
+Carrot,2021-12-27,2021,52,True,626
+Carrot,2022-01-03,2022,1,True,627
+Carrot,2022-01-10,2022,2,True,628
+Carrot,2022-01-17,2022,3,True,629
+Carrot,2022-01-24,2022,4,True,630
+Carrot,2022-01-31,2022,5,True,631
+Carrot,2022-02-07,2022,6,True,632
+Carrot,2022-02-14,2022,7,True,633
+Carrot,2022-02-21,2022,8,True,634
+Carrot,2022-02-28,2022,9,True,635
+Carrot,2022-03-07,2022,10,True,636
+Carrot,2022-03-14,2022,11,True,637
+Carrot,2022-03-21,2022,12,True,638
+Carrot,2022-03-28,2022,13,True,639
+Carrot,2022-04-04,2022,14,True,640
+Carrot,2022-04-11,2022,15,True,641
+Carrot,2022-04-18,2022,16,True,642
+Carrot,2022-04-25,2022,17,True,643
+Carrot,2022-05-02,2022,18,True,644
+Carrot,2022-05-09,2022,19,True,645
+Carrot,2022-05-16,2022,20,True,646
+Carrot,2022-05-23,2022,21,True,647
+Carrot,2022-05-30,2022,22,True,648
+Carrot,2022-06-06,2022,23,True,649
+Carrot,2022-06-13,2022,24,True,650
+Carrot,2022-06-20,2022,25,True,651
+Carrot,2022-06-27,2022,26,True,652
+Carrot,2022-07-04,2022,27,True,653
+Carrot,2022-07-11,2022,28,True,654
+Carrot,2022-07-18,2022,29,True,655
+Carrot,2022-07-25,2022,30,True,656
+Carrot,2022-08-01,2022,31,True,657
+Carrot,2022-08-08,2022,32,True,658
+Carrot,2022-08-15,2022,33,True,659
+Carrot,2022-08-22,2022,34,True,660
+Carrot,2022-08-29,2022,35,True,661
+Carrot,2022-09-05,2022,36,True,662
+Carrot,2022-09-12,2022,37,True,663
+Carrot,2022-09-19,2022,38,True,664
+Carrot,2022-09-26,2022,39,True,665
+Carrot,2022-10-03,2022,40,True,666
+Carrot,2022-10-10,2022,41,True,667
+Carrot,2022-10-17,2022,42,True,668
+Carrot,2022-10-24,2022,43,True,669
+Carrot,2022-10-31,2022,44,True,670
+Carrot,2022-11-07,2022,45,True,671
+Carrot,2022-11-14,2022,46,True,672
+Carrot,2022-11-21,2022,47,True,673
+Carrot,2022-11-28,2022,48,True,674
+Carrot,2022-12-05,2022,49,True,675
+Carrot,2022-12-12,2022,50,True,676
+Carrot,2022-12-19,2022,51,True,677
+Carrot,2022-12-26,2022,52,True,678
+Carrot,2022-12-26,2022,52,True,679
+Carrot,2023-01-02,2023,1,False,680
+Carrot,2023-01-09,2023,2,False,681
+Carrot,2023-01-16,2023,3,False,682
+Carrot,2023-01-23,2023,4,False,683
+Carrot,2023-01-30,2023,5,False,684
+Carrot,2023-02-06,2023,6,False,685
+Carrot,2023-02-13,2023,7,False,686
+Carrot,2023-02-20,2023,8,False,687
+Carrot,2023-02-27,2023,9,False,688
+Carrot,2023-03-06,2023,10,False,689
+Carrot,2023-03-13,2023,11,False,690
+Carrot,2023-03-20,2023,12,False,691
+Carrot,2023-03-27,2023,13,False,692
+Carrot,2023-04-03,2023,14,False,693
+Carrot,2023-04-10,2023,15,False,694
+Carrot,2023-04-17,2023,16,False,695
+Carrot,2023-04-24,2023,17,False,696
+Carrot,2023-05-01,2023,18,False,697
+Carrot,2023-05-08,2023,19,False,698
+Carrot,2023-05-15,2023,20,False,699
+Carrot,2023-05-22,2023,21,False,700
+Carrot,2023-05-29,2023,22,False,701
+Carrot,2023-06-05,2023,23,False,702
+Carrot,2023-06-12,2023,24,False,703
+Carrot,2023-06-19,2023,25,False,704
+Carrot,2023-06-26,2023,26,False,705
+Carrot,2023-07-03,2023,27,False,706
+Carrot,2023-07-10,2023,28,False,707
+Carrot,2023-07-17,2023,29,False,708
+Carrot,2023-07-24,2023,30,False,709
+Carrot,2023-07-31,2023,31,False,710
+Carrot,2023-08-07,2023,32,False,711
+Carrot,2023-08-14,2023,33,False,712
+Carrot,2023-08-21,2023,34,False,713
+Carrot,2023-08-28,2023,35,False,714
+Carrot,2023-09-04,2023,36,False,715
+Carrot,2023-09-11,2023,37,False,716
+Carrot,2023-09-18,2023,38,False,717
+Carrot,2023-09-25,2023,39,False,718
+Carrot,2023-10-02,2023,40,False,719
+Carrot,2023-10-09,2023,41,False,720
+Carrot,2023-10-16,2023,42,False,721
+Carrot,2023-10-23,2023,43,False,722
+Carrot,2023-10-30,2023,44,False,723
+Carrot,2023-11-06,2023,45,False,724
+Carrot,2023-11-13,2023,46,False,725
+Carrot,2023-11-20,2023,47,False,726
+Carrot,2023-11-27,2023,48,False,727
+Carrot,2023-12-04,2023,49,False,728
+Carrot,2023-12-11,2023,50,False,729
+Carrot,2023-12-18,2023,51,False,730
+Carrot,2023-12-25,2023,52,False,731
+Carrot,2024-01-01,2024,1,False,732
+Carrot,2024-01-08,2024,2,False,733
+Carrot,2024-01-15,2024,3,False,734
+Carrot,2024-01-22,2024,4,False,735
+Carrot,2024-01-29,2024,5,False,736
+Carrot,2024-02-05,2024,6,False,737
+Carrot,2024-02-12,2024,7,False,738
+Carrot,2024-02-19,2024,8,False,739
+Carrot,2024-02-26,2024,9,False,740
+Carrot,2024-03-04,2024,10,False,741
+Carrot,2024-03-11,2024,11,False,742
+Carrot,2024-03-18,2024,12,False,743
+Carrot,2024-03-25,2024,13,False,744
+Carrot,2024-04-01,2024,14,False,745
+Carrot,2024-04-08,2024,15,False,746
+Carrot,2024-04-15,2024,16,False,747
+Carrot,2024-04-22,2024,17,False,748
+Carrot,2024-04-29,2024,18,False,749
+Carrot,2024-05-06,2024,19,False,750
+Carrot,2024-05-13,2024,20,False,751
+Carrot,2024-05-20,2024,21,False,752
+Carrot,2024-05-27,2024,22,False,753
+Carrot,2024-06-03,2024,23,False,754
+Carrot,2024-06-10,2024,24,False,755
+Carrot,2024-06-17,2024,25,False,756
+Carrot,2024-06-24,2024,26,False,757
+Carrot,2024-07-01,2024,27,False,758
+Carrot,2024-07-08,2024,28,False,759
+Carrot,2024-07-15,2024,29,False,760
+Carrot,2024-07-22,2024,30,False,761
+Carrot,2024-07-29,2024,31,False,762
+Carrot,2024-08-05,2024,32,False,763
+Carrot,2024-08-12,2024,33,False,764
+Carrot,2024-08-19,2024,34,False,765
+Carrot,2024-08-26,2024,35,False,766
+Carrot,2024-09-02,2024,36,False,767
+Carrot,2024-09-09,2024,37,False,768
+Carrot,2024-09-16,2024,38,False,769
+Carrot,2024-09-23,2024,39,False,770
+Carrot,2024-09-30,2024,40,False,771
+Carrot,2024-10-07,2024,41,False,772
+Carrot,2024-10-14,2024,42,False,773
+Carrot,2024-10-21,2024,43,False,774
+Carrot,2024-10-28,2024,44,False,775
+Carrot,2024-11-04,2024,45,False,776
+Carrot,2024-11-11,2024,46,False,777
+Carrot,2024-11-18,2024,47,False,778
+Carrot,2024-11-25,2024,48,False,779
+Carrot,2024-12-02,2024,49,False,780
+Carrot,2024-12-09,2024,50,False,781
+Carrot,2024-12-16,2024,51,False,782
+Carrot,2024-12-23,2024,52,False,783
+Carrot,2024-12-30,2025,1,False,784
+Carrot,2025-01-06,2025,2,False,785
+Carrot,2025-01-13,2025,3,False,786
+Carrot,2025-01-20,2025,4,False,787
+Carrot,2025-01-27,2025,5,False,788
+Carrot,2025-02-03,2025,6,False,789
+Carrot,2025-02-10,2025,7,False,790
+Carrot,2025-02-17,2025,8,False,791
+Carrot,2025-02-24,2025,9,False,792
+Carrot,2025-03-03,2025,10,False,793
+Carrot,2025-03-10,2025,11,False,794
+Carrot,2025-03-17,2025,12,False,795
+Carrot,2025-03-24,2025,13,False,796
+Carrot,2025-03-31,2025,14,False,797
+Carrot,2025-04-07,2025,15,False,798
+Carrot,2025-04-14,2025,16,False,799
+Carrot,2025-04-21,2025,17,False,800
+Carrot,2025-04-28,2025,18,False,801
+Carrot,2025-05-05,2025,19,False,802
+Carrot,2025-05-12,2025,20,False,803
+Carrot,2025-05-19,2025,21,False,804
+Carrot,2025-05-26,2025,22,False,805
+Carrot,2025-06-02,2025,23,False,806
+Carrot,2025-06-09,2025,24,False,807
+Carrot,2025-06-16,2025,25,False,808
+Carrot,2025-06-23,2025,26,False,809
+Carrot,2025-06-30,2025,27,False,810
+Carrot,2025-07-07,2025,28,False,811
+Carrot,2025-07-14,2025,29,False,812
+Carrot,2025-07-21,2025,30,False,813
+Carrot,2025-07-28,2025,31,False,814
+Carrot,2025-08-04,2025,32,False,815
+Carrot,2025-08-11,2025,33,False,816
+Carrot,2025-08-18,2025,34,False,817
+Carrot,2025-08-25,2025,35,False,818
+Carrot,2025-09-01,2025,36,False,819
+Carrot,2025-09-08,2025,37,False,820
+Carrot,2025-09-15,2025,38,False,821
+Carrot,2025-09-22,2025,39,False,822
+Carrot,2025-09-29,2025,40,False,823
+Carrot,2025-10-06,2025,41,False,824
+Carrot,2025-10-13,2025,42,False,825
+Carrot,2025-10-20,2025,43,False,826
+Carrot,2025-10-27,2025,44,False,827
+Carrot,2025-11-03,2025,45,False,828
+Carrot,2025-11-10,2025,46,False,829
+Carrot,2025-11-17,2025,47,False,830
+Carrot,2025-11-24,2025,48,False,831
+Carrot,2025-12-01,2025,49,False,832
+Carrot,2025-12-08,2025,50,False,833
+Carrot,2025-12-15,2025,51,False,834
+Carrot,2025-12-22,2025,52,False,835
+Carrot,2025-12-29,2026,1,False,836
+Carrot,2026-01-05,2026,2,False,837
+Pumpkin,2009-12-28,2009,53,True,0
+Pumpkin,2010-01-04,2010,1,True,1
+Pumpkin,2010-01-11,2010,2,True,2
+Pumpkin,2010-01-18,2010,3,True,3
+Pumpkin,2010-01-25,2010,4,True,4
+Pumpkin,2010-02-01,2010,5,True,5
+Pumpkin,2010-02-08,2010,6,True,6
+Pumpkin,2010-02-15,2010,7,True,7
+Pumpkin,2010-02-22,2010,8,True,8
+Pumpkin,2010-03-01,2010,9,True,9
+Pumpkin,2010-03-08,2010,10,True,10
+Pumpkin,2010-03-15,2010,11,True,11
+Pumpkin,2010-03-22,2010,12,True,12
+Pumpkin,2010-03-29,2010,13,True,13
+Pumpkin,2010-04-05,2010,14,True,14
+Pumpkin,2010-04-12,2010,15,True,15
+Pumpkin,2010-04-19,2010,16,True,16
+Pumpkin,2010-04-26,2010,17,True,17
+Pumpkin,2010-05-03,2010,18,True,18
+Pumpkin,2010-05-10,2010,19,True,19
+Pumpkin,2010-05-17,2010,20,True,20
+Pumpkin,2010-05-24,2010,21,True,21
+Pumpkin,2010-05-31,2010,22,True,22
+Pumpkin,2010-06-07,2010,23,True,23
+Pumpkin,2010-06-14,2010,24,True,24
+Pumpkin,2010-06-21,2010,25,True,25
+Pumpkin,2010-06-28,2010,26,True,26
+Pumpkin,2010-07-05,2010,27,True,27
+Pumpkin,2010-07-12,2010,28,True,28
+Pumpkin,2010-07-19,2010,29,True,29
+Pumpkin,2010-07-26,2010,30,True,30
+Pumpkin,2010-08-02,2010,31,True,31
+Pumpkin,2010-08-09,2010,32,True,32
+Pumpkin,2010-08-16,2010,33,True,33
+Pumpkin,2010-08-23,2010,34,True,34
+Pumpkin,2010-08-30,2010,35,True,35
+Pumpkin,2010-09-06,2010,36,True,36
+Pumpkin,2010-09-13,2010,37,True,37
+Pumpkin,2010-09-20,2010,38,True,38
+Pumpkin,2010-09-27,2010,39,True,39
+Pumpkin,2010-10-04,2010,40,True,40
+Pumpkin,2010-10-11,2010,41,True,41
+Pumpkin,2010-10-18,2010,42,True,42
+Pumpkin,2010-10-25,2010,43,True,43
+Pumpkin,2010-11-01,2010,44,True,44
+Pumpkin,2010-11-08,2010,45,True,45
+Pumpkin,2010-11-15,2010,46,True,46
+Pumpkin,2010-11-22,2010,47,True,47
+Pumpkin,2010-11-29,2010,48,True,48
+Pumpkin,2010-12-06,2010,49,True,49
+Pumpkin,2010-12-13,2010,50,True,50
+Pumpkin,2010-12-20,2010,51,True,51
+Pumpkin,2010-12-27,2010,52,True,52
+Pumpkin,2011-01-03,2011,1,True,53
+Pumpkin,2011-01-10,2011,2,True,54
+Pumpkin,2011-01-17,2011,3,True,55
+Pumpkin,2011-01-24,2011,4,True,56
+Pumpkin,2011-01-31,2011,5,True,57
+Pumpkin,2011-02-07,2011,6,True,58
+Pumpkin,2011-02-14,2011,7,True,59
+Pumpkin,2011-02-21,2011,8,True,60
+Pumpkin,2011-02-28,2011,9,True,61
+Pumpkin,2011-03-07,2011,10,True,62
+Pumpkin,2011-03-14,2011,11,True,63
+Pumpkin,2011-03-21,2011,12,True,64
+Pumpkin,2011-03-28,2011,13,True,65
+Pumpkin,2011-04-04,2011,14,True,66
+Pumpkin,2011-04-11,2011,15,True,67
+Pumpkin,2011-04-18,2011,16,True,68
+Pumpkin,2011-04-25,2011,17,True,69
+Pumpkin,2011-05-02,2011,18,True,70
+Pumpkin,2011-05-09,2011,19,True,71
+Pumpkin,2011-05-16,2011,20,True,72
+Pumpkin,2011-05-23,2011,21,True,73
+Pumpkin,2011-05-30,2011,22,True,74
+Pumpkin,2011-06-06,2011,23,True,75
+Pumpkin,2011-06-13,2011,24,True,76
+Pumpkin,2011-06-20,2011,25,True,77
+Pumpkin,2011-06-27,2011,26,True,78
+Pumpkin,2011-07-04,2011,27,True,79
+Pumpkin,2011-07-11,2011,28,True,80
+Pumpkin,2011-07-18,2011,29,True,81
+Pumpkin,2011-07-25,2011,30,True,82
+Pumpkin,2011-08-01,2011,31,True,83
+Pumpkin,2011-08-08,2011,32,True,84
+Pumpkin,2011-08-15,2011,33,True,85
+Pumpkin,2011-08-22,2011,34,True,86
+Pumpkin,2011-08-29,2011,35,True,87
+Pumpkin,2011-09-05,2011,36,True,88
+Pumpkin,2011-09-12,2011,37,True,89
+Pumpkin,2011-09-19,2011,38,True,90
+Pumpkin,2011-09-26,2011,39,True,91
+Pumpkin,2011-10-03,2011,40,True,92
+Pumpkin,2011-10-10,2011,41,True,93
+Pumpkin,2011-10-17,2011,42,True,94
+Pumpkin,2011-10-24,2011,43,True,95
+Pumpkin,2011-10-31,2011,44,True,96
+Pumpkin,2011-11-07,2011,45,True,97
+Pumpkin,2011-11-14,2011,46,True,98
+Pumpkin,2011-11-21,2011,47,True,99
+Pumpkin,2011-11-28,2011,48,True,100
+Pumpkin,2011-12-05,2011,49,True,101
+Pumpkin,2011-12-12,2011,50,True,102
+Pumpkin,2011-12-19,2011,51,True,103
+Pumpkin,2011-12-26,2011,52,True,104
+Pumpkin,2012-01-02,2012,1,True,105
+Pumpkin,2012-01-09,2012,2,True,106
+Pumpkin,2012-01-16,2012,3,True,107
+Pumpkin,2012-01-23,2012,4,True,108
+Pumpkin,2012-01-30,2012,5,True,109
+Pumpkin,2012-02-06,2012,6,True,110
+Pumpkin,2012-02-13,2012,7,True,111
+Pumpkin,2012-02-20,2012,8,True,112
+Pumpkin,2012-02-27,2012,9,True,113
+Pumpkin,2012-03-05,2012,10,True,114
+Pumpkin,2012-03-12,2012,11,True,115
+Pumpkin,2012-03-19,2012,12,True,116
+Pumpkin,2012-03-26,2012,13,True,117
+Pumpkin,2012-04-02,2012,14,True,118
+Pumpkin,2012-04-09,2012,15,True,119
+Pumpkin,2012-04-16,2012,16,True,120
+Pumpkin,2012-04-23,2012,17,True,121
+Pumpkin,2012-04-30,2012,18,True,122
+Pumpkin,2012-05-07,2012,19,True,123
+Pumpkin,2012-05-14,2012,20,True,124
+Pumpkin,2012-05-21,2012,21,True,125
+Pumpkin,2012-05-28,2012,22,True,126
+Pumpkin,2012-06-04,2012,23,True,127
+Pumpkin,2012-06-11,2012,24,True,128
+Pumpkin,2012-06-18,2012,25,True,129
+Pumpkin,2012-06-25,2012,26,True,130
+Pumpkin,2012-07-02,2012,27,True,131
+Pumpkin,2012-07-09,2012,28,True,132
+Pumpkin,2012-07-16,2012,29,True,133
+Pumpkin,2012-07-23,2012,30,True,134
+Pumpkin,2012-07-30,2012,31,True,135
+Pumpkin,2012-08-06,2012,32,True,136
+Pumpkin,2012-08-13,2012,33,True,137
+Pumpkin,2012-08-20,2012,34,True,138
+Pumpkin,2012-08-27,2012,35,True,139
+Pumpkin,2012-09-03,2012,36,True,140
+Pumpkin,2012-09-10,2012,37,True,141
+Pumpkin,2012-09-17,2012,38,True,142
+Pumpkin,2012-09-24,2012,39,True,143
+Pumpkin,2012-10-01,2012,40,True,144
+Pumpkin,2012-10-08,2012,41,True,145
+Pumpkin,2012-10-15,2012,42,True,146
+Pumpkin,2012-10-22,2012,43,True,147
+Pumpkin,2012-10-29,2012,44,True,148
+Pumpkin,2012-11-05,2012,45,True,149
+Pumpkin,2012-11-12,2012,46,True,150
+Pumpkin,2012-11-19,2012,47,True,151
+Pumpkin,2012-11-26,2012,48,True,152
+Pumpkin,2012-12-03,2012,49,True,153
+Pumpkin,2012-12-10,2012,50,True,154
+Pumpkin,2012-12-17,2012,51,True,155
+Pumpkin,2012-12-24,2012,52,True,156
+Pumpkin,2012-12-31,2013,1,True,157
+Pumpkin,2013-01-07,2013,2,True,158
+Pumpkin,2013-01-14,2013,3,True,159
+Pumpkin,2013-01-21,2013,4,True,160
+Pumpkin,2013-01-28,2013,5,True,161
+Pumpkin,2013-02-04,2013,6,True,162
+Pumpkin,2013-02-11,2013,7,True,163
+Pumpkin,2013-02-18,2013,8,True,164
+Pumpkin,2013-02-25,2013,9,True,165
+Pumpkin,2013-03-04,2013,10,True,166
+Pumpkin,2013-03-11,2013,11,True,167
+Pumpkin,2013-03-18,2013,12,True,168
+Pumpkin,2013-03-25,2013,13,True,169
+Pumpkin,2013-04-01,2013,14,True,170
+Pumpkin,2013-04-08,2013,15,True,171
+Pumpkin,2013-04-15,2013,16,True,172
+Pumpkin,2013-04-22,2013,17,True,173
+Pumpkin,2013-04-29,2013,18,True,174
+Pumpkin,2013-05-06,2013,19,True,175
+Pumpkin,2013-05-13,2013,20,True,176
+Pumpkin,2013-05-20,2013,21,True,177
+Pumpkin,2013-05-27,2013,22,True,178
+Pumpkin,2013-06-03,2013,23,True,179
+Pumpkin,2013-06-10,2013,24,True,180
+Pumpkin,2013-06-17,2013,25,True,181
+Pumpkin,2013-06-24,2013,26,True,182
+Pumpkin,2013-07-01,2013,27,True,183
+Pumpkin,2013-07-08,2013,28,True,184
+Pumpkin,2013-07-15,2013,29,True,185
+Pumpkin,2013-07-22,2013,30,True,186
+Pumpkin,2013-07-29,2013,31,True,187
+Pumpkin,2013-08-05,2013,32,True,188
+Pumpkin,2013-08-12,2013,33,True,189
+Pumpkin,2013-08-19,2013,34,True,190
+Pumpkin,2013-08-26,2013,35,True,191
+Pumpkin,2013-09-02,2013,36,True,192
+Pumpkin,2013-09-09,2013,37,True,193
+Pumpkin,2013-09-16,2013,38,True,194
+Pumpkin,2013-09-23,2013,39,True,195
+Pumpkin,2013-09-30,2013,40,True,196
+Pumpkin,2013-10-07,2013,41,True,197
+Pumpkin,2013-10-14,2013,42,True,198
+Pumpkin,2013-10-21,2013,43,True,199
+Pumpkin,2013-10-28,2013,44,True,200
+Pumpkin,2013-11-04,2013,45,True,201
+Pumpkin,2013-11-11,2013,46,True,202
+Pumpkin,2013-11-18,2013,47,True,203
+Pumpkin,2013-11-25,2013,48,True,204
+Pumpkin,2013-12-02,2013,49,True,205
+Pumpkin,2013-12-09,2013,50,True,206
+Pumpkin,2013-12-16,2013,51,True,207
+Pumpkin,2013-12-23,2013,52,True,208
+Pumpkin,2013-12-30,2014,1,True,209
+Pumpkin,2014-01-06,2014,2,True,210
+Pumpkin,2014-01-13,2014,3,True,211
+Pumpkin,2014-01-20,2014,4,True,212
+Pumpkin,2014-01-27,2014,5,True,213
+Pumpkin,2014-02-03,2014,6,True,214
+Pumpkin,2014-02-10,2014,7,True,215
+Pumpkin,2014-02-17,2014,8,True,216
+Pumpkin,2014-02-24,2014,9,True,217
+Pumpkin,2014-03-03,2014,10,True,218
+Pumpkin,2014-03-10,2014,11,True,219
+Pumpkin,2014-03-17,2014,12,True,220
+Pumpkin,2014-03-24,2014,13,True,221
+Pumpkin,2014-03-31,2014,14,True,222
+Pumpkin,2014-04-07,2014,15,True,223
+Pumpkin,2014-04-14,2014,16,True,224
+Pumpkin,2014-04-21,2014,17,True,225
+Pumpkin,2014-04-28,2014,18,True,226
+Pumpkin,2014-05-05,2014,19,True,227
+Pumpkin,2014-05-12,2014,20,True,228
+Pumpkin,2014-05-19,2014,21,True,229
+Pumpkin,2014-05-26,2014,22,True,230
+Pumpkin,2014-06-02,2014,23,True,231
+Pumpkin,2014-06-09,2014,24,True,232
+Pumpkin,2014-06-16,2014,25,True,233
+Pumpkin,2014-06-23,2014,26,True,234
+Pumpkin,2014-06-30,2014,27,True,235
+Pumpkin,2014-07-07,2014,28,True,236
+Pumpkin,2014-07-14,2014,29,True,237
+Pumpkin,2014-07-21,2014,30,True,238
+Pumpkin,2014-07-28,2014,31,True,239
+Pumpkin,2014-08-04,2014,32,True,240
+Pumpkin,2014-08-11,2014,33,True,241
+Pumpkin,2014-08-18,2014,34,True,242
+Pumpkin,2014-08-25,2014,35,True,243
+Pumpkin,2014-09-01,2014,36,True,244
+Pumpkin,2014-09-08,2014,37,True,245
+Pumpkin,2014-09-15,2014,38,True,246
+Pumpkin,2014-09-22,2014,39,True,247
+Pumpkin,2014-09-29,2014,40,True,248
+Pumpkin,2014-10-06,2014,41,True,249
+Pumpkin,2014-10-13,2014,42,True,250
+Pumpkin,2014-10-20,2014,43,True,251
+Pumpkin,2014-10-27,2014,44,True,252
+Pumpkin,2014-11-03,2014,45,True,253
+Pumpkin,2014-11-10,2014,46,True,254
+Pumpkin,2014-11-17,2014,47,True,255
+Pumpkin,2014-11-24,2014,48,True,256
+Pumpkin,2014-12-01,2014,49,True,257
+Pumpkin,2014-12-08,2014,50,True,258
+Pumpkin,2014-12-15,2014,51,True,259
+Pumpkin,2014-12-22,2014,52,True,260
+Pumpkin,2014-12-29,2015,1,True,261
+Pumpkin,2015-01-05,2015,2,True,262
+Pumpkin,2015-01-12,2015,3,True,263
+Pumpkin,2015-01-19,2015,4,True,264
+Pumpkin,2015-01-26,2015,5,True,265
+Pumpkin,2015-02-02,2015,6,True,266
+Pumpkin,2015-02-09,2015,7,True,267
+Pumpkin,2015-02-16,2015,8,True,268
+Pumpkin,2015-02-23,2015,9,True,269
+Pumpkin,2015-03-02,2015,10,True,270
+Pumpkin,2015-03-09,2015,11,True,271
+Pumpkin,2015-03-16,2015,12,True,272
+Pumpkin,2015-03-23,2015,13,True,273
+Pumpkin,2015-03-30,2015,14,True,274
+Pumpkin,2015-04-06,2015,15,True,275
+Pumpkin,2015-04-13,2015,16,True,276
+Pumpkin,2015-04-20,2015,17,True,277
+Pumpkin,2015-04-27,2015,18,True,278
+Pumpkin,2015-05-04,2015,19,True,279
+Pumpkin,2015-05-11,2015,20,True,280
+Pumpkin,2015-05-18,2015,21,True,281
+Pumpkin,2015-05-25,2015,22,True,282
+Pumpkin,2015-06-01,2015,23,True,283
+Pumpkin,2015-06-08,2015,24,True,284
+Pumpkin,2015-06-15,2015,25,True,285
+Pumpkin,2015-06-22,2015,26,True,286
+Pumpkin,2015-06-29,2015,27,True,287
+Pumpkin,2015-07-06,2015,28,True,288
+Pumpkin,2015-07-13,2015,29,True,289
+Pumpkin,2015-07-20,2015,30,True,290
+Pumpkin,2015-07-27,2015,31,True,291
+Pumpkin,2015-08-03,2015,32,True,292
+Pumpkin,2015-08-10,2015,33,True,293
+Pumpkin,2015-08-17,2015,34,True,294
+Pumpkin,2015-08-24,2015,35,True,295
+Pumpkin,2015-08-31,2015,36,True,296
+Pumpkin,2015-09-07,2015,37,True,297
+Pumpkin,2015-09-14,2015,38,True,298
+Pumpkin,2015-09-21,2015,39,True,299
+Pumpkin,2015-09-28,2015,40,True,300
+Pumpkin,2015-10-05,2015,41,True,301
+Pumpkin,2015-10-12,2015,42,True,302
+Pumpkin,2015-10-19,2015,43,True,303
+Pumpkin,2015-10-26,2015,44,True,304
+Pumpkin,2015-11-02,2015,45,True,305
+Pumpkin,2015-11-09,2015,46,True,306
+Pumpkin,2015-11-16,2015,47,True,307
+Pumpkin,2015-11-23,2015,48,True,308
+Pumpkin,2015-11-30,2015,49,True,309
+Pumpkin,2015-12-07,2015,50,True,310
+Pumpkin,2015-12-14,2015,51,True,311
+Pumpkin,2015-12-21,2015,52,True,312
+Pumpkin,2015-12-28,2015,53,True,313
+Pumpkin,2016-01-04,2016,1,True,314
+Pumpkin,2016-01-11,2016,2,True,315
+Pumpkin,2016-01-18,2016,3,True,316
+Pumpkin,2016-01-25,2016,4,True,317
+Pumpkin,2016-02-01,2016,5,True,318
+Pumpkin,2016-02-08,2016,6,True,319
+Pumpkin,2016-02-15,2016,7,True,320
+Pumpkin,2016-02-22,2016,8,True,321
+Pumpkin,2016-02-29,2016,9,True,322
+Pumpkin,2016-03-07,2016,10,True,323
+Pumpkin,2016-03-14,2016,11,True,324
+Pumpkin,2016-03-21,2016,12,True,325
+Pumpkin,2016-03-28,2016,13,True,326
+Pumpkin,2016-04-04,2016,14,True,327
+Pumpkin,2016-04-11,2016,15,True,328
+Pumpkin,2016-04-18,2016,16,True,329
+Pumpkin,2016-04-25,2016,17,True,330
+Pumpkin,2016-05-02,2016,18,True,331
+Pumpkin,2016-05-09,2016,19,True,332
+Pumpkin,2016-05-16,2016,20,True,333
+Pumpkin,2016-05-23,2016,21,True,334
+Pumpkin,2016-05-30,2016,22,True,335
+Pumpkin,2016-06-06,2016,23,True,336
+Pumpkin,2016-06-13,2016,24,True,337
+Pumpkin,2016-06-20,2016,25,True,338
+Pumpkin,2016-06-27,2016,26,True,339
+Pumpkin,2016-07-04,2016,27,True,340
+Pumpkin,2016-07-11,2016,28,True,341
+Pumpkin,2016-07-18,2016,29,True,342
+Pumpkin,2016-07-25,2016,30,True,343
+Pumpkin,2016-08-01,2016,31,True,344
+Pumpkin,2016-08-08,2016,32,True,345
+Pumpkin,2016-08-15,2016,33,True,346
+Pumpkin,2016-08-22,2016,34,True,347
+Pumpkin,2016-08-29,2016,35,True,348
+Pumpkin,2016-09-05,2016,36,True,349
+Pumpkin,2016-09-12,2016,37,True,350
+Pumpkin,2016-09-19,2016,38,True,351
+Pumpkin,2016-09-26,2016,39,True,352
+Pumpkin,2016-10-03,2016,40,True,353
+Pumpkin,2016-10-10,2016,41,True,354
+Pumpkin,2016-10-17,2016,42,True,355
+Pumpkin,2016-10-24,2016,43,True,356
+Pumpkin,2016-10-31,2016,44,True,357
+Pumpkin,2016-11-07,2016,45,True,358
+Pumpkin,2016-11-14,2016,46,True,359
+Pumpkin,2016-11-21,2016,47,True,360
+Pumpkin,2016-11-28,2016,48,True,361
+Pumpkin,2016-12-05,2016,49,True,362
+Pumpkin,2016-12-12,2016,50,True,363
+Pumpkin,2016-12-19,2016,51,True,364
+Pumpkin,2016-12-26,2016,52,True,365
+Pumpkin,2017-01-02,2017,1,True,366
+Pumpkin,2017-01-09,2017,2,True,367
+Pumpkin,2017-01-16,2017,3,True,368
+Pumpkin,2017-01-23,2017,4,True,369
+Pumpkin,2017-01-30,2017,5,True,370
+Pumpkin,2017-02-06,2017,6,True,371
+Pumpkin,2017-02-13,2017,7,True,372
+Pumpkin,2017-02-20,2017,8,True,373
+Pumpkin,2017-02-27,2017,9,True,374
+Pumpkin,2017-03-06,2017,10,True,375
+Pumpkin,2017-03-13,2017,11,True,376
+Pumpkin,2017-03-20,2017,12,True,377
+Pumpkin,2017-03-27,2017,13,True,378
+Pumpkin,2017-04-03,2017,14,True,379
+Pumpkin,2017-04-10,2017,15,True,380
+Pumpkin,2017-04-17,2017,16,True,381
+Pumpkin,2017-04-24,2017,17,True,382
+Pumpkin,2017-05-01,2017,18,True,383
+Pumpkin,2017-05-08,2017,19,True,384
+Pumpkin,2017-05-15,2017,20,True,385
+Pumpkin,2017-05-22,2017,21,True,386
+Pumpkin,2017-05-29,2017,22,True,387
+Pumpkin,2017-06-05,2017,23,True,388
+Pumpkin,2017-06-12,2017,24,True,389
+Pumpkin,2017-06-19,2017,25,True,390
+Pumpkin,2017-06-26,2017,26,True,391
+Pumpkin,2017-07-03,2017,27,True,392
+Pumpkin,2017-07-10,2017,28,True,393
+Pumpkin,2017-07-17,2017,29,True,394
+Pumpkin,2017-07-24,2017,30,True,395
+Pumpkin,2017-07-31,2017,31,True,396
+Pumpkin,2017-08-07,2017,32,True,397
+Pumpkin,2017-08-14,2017,33,True,398
+Pumpkin,2017-08-21,2017,34,True,399
+Pumpkin,2017-08-28,2017,35,True,400
+Pumpkin,2017-09-04,2017,36,True,401
+Pumpkin,2017-09-11,2017,37,True,402
+Pumpkin,2017-09-18,2017,38,True,403
+Pumpkin,2017-09-25,2017,39,True,404
+Pumpkin,2017-10-02,2017,40,True,405
+Pumpkin,2017-10-09,2017,41,True,406
+Pumpkin,2017-10-16,2017,42,True,407
+Pumpkin,2017-10-23,2017,43,True,408
+Pumpkin,2017-10-30,2017,44,True,409
+Pumpkin,2017-11-06,2017,45,True,410
+Pumpkin,2017-11-13,2017,46,True,411
+Pumpkin,2017-11-20,2017,47,True,412
+Pumpkin,2017-11-27,2017,48,True,413
+Pumpkin,2017-12-04,2017,49,True,414
+Pumpkin,2017-12-11,2017,50,True,415
+Pumpkin,2017-12-18,2017,51,True,416
+Pumpkin,2017-12-25,2017,52,True,417
+Pumpkin,2018-01-01,2018,1,True,418
+Pumpkin,2018-01-08,2018,2,True,419
+Pumpkin,2018-01-15,2018,3,True,420
+Pumpkin,2018-01-22,2018,4,True,421
+Pumpkin,2018-01-29,2018,5,True,422
+Pumpkin,2018-02-05,2018,6,True,423
+Pumpkin,2018-02-12,2018,7,True,424
+Pumpkin,2018-02-19,2018,8,True,425
+Pumpkin,2018-02-26,2018,9,True,426
+Pumpkin,2018-03-05,2018,10,True,427
+Pumpkin,2018-03-12,2018,11,True,428
+Pumpkin,2018-03-19,2018,12,True,429
+Pumpkin,2018-03-26,2018,13,True,430
+Pumpkin,2018-04-02,2018,14,True,431
+Pumpkin,2018-04-09,2018,15,True,432
+Pumpkin,2018-04-16,2018,16,True,433
+Pumpkin,2018-04-23,2018,17,True,434
+Pumpkin,2018-04-30,2018,18,True,435
+Pumpkin,2018-05-07,2018,19,True,436
+Pumpkin,2018-05-14,2018,20,True,437
+Pumpkin,2018-05-21,2018,21,True,438
+Pumpkin,2018-05-28,2018,22,True,439
+Pumpkin,2018-06-04,2018,23,True,440
+Pumpkin,2018-06-11,2018,24,True,441
+Pumpkin,2018-06-18,2018,25,True,442
+Pumpkin,2018-06-25,2018,26,True,443
+Pumpkin,2018-07-02,2018,27,True,444
+Pumpkin,2018-07-09,2018,28,True,445
+Pumpkin,2018-07-16,2018,29,True,446
+Pumpkin,2018-07-23,2018,30,True,447
+Pumpkin,2018-07-30,2018,31,True,448
+Pumpkin,2018-08-06,2018,32,True,449
+Pumpkin,2018-08-13,2018,33,True,450
+Pumpkin,2018-08-20,2018,34,True,451
+Pumpkin,2018-08-27,2018,35,True,452
+Pumpkin,2018-09-03,2018,36,True,453
+Pumpkin,2018-09-10,2018,37,True,454
+Pumpkin,2018-09-17,2018,38,True,455
+Pumpkin,2018-09-24,2018,39,True,456
+Pumpkin,2018-10-01,2018,40,True,457
+Pumpkin,2018-10-08,2018,41,True,458
+Pumpkin,2018-10-15,2018,42,True,459
+Pumpkin,2018-10-22,2018,43,True,460
+Pumpkin,2018-10-29,2018,44,True,461
+Pumpkin,2018-11-05,2018,45,True,462
+Pumpkin,2018-11-12,2018,46,True,463
+Pumpkin,2018-11-19,2018,47,True,464
+Pumpkin,2018-11-26,2018,48,True,465
+Pumpkin,2018-12-03,2018,49,True,466
+Pumpkin,2018-12-10,2018,50,True,467
+Pumpkin,2018-12-17,2018,51,True,468
+Pumpkin,2018-12-24,2018,52,True,469
+Pumpkin,2018-12-31,2019,1,True,470
+Pumpkin,2019-01-07,2019,2,True,471
+Pumpkin,2019-01-14,2019,3,True,472
+Pumpkin,2019-01-21,2019,4,True,473
+Pumpkin,2019-01-28,2019,5,True,474
+Pumpkin,2019-02-04,2019,6,True,475
+Pumpkin,2019-02-11,2019,7,True,476
+Pumpkin,2019-02-18,2019,8,True,477
+Pumpkin,2019-02-25,2019,9,True,478
+Pumpkin,2019-03-04,2019,10,True,479
+Pumpkin,2019-03-11,2019,11,True,480
+Pumpkin,2019-03-18,2019,12,True,481
+Pumpkin,2019-03-25,2019,13,True,482
+Pumpkin,2019-04-01,2019,14,True,483
+Pumpkin,2019-04-08,2019,15,True,484
+Pumpkin,2019-04-15,2019,16,True,485
+Pumpkin,2019-04-22,2019,17,True,486
+Pumpkin,2019-04-29,2019,18,True,487
+Pumpkin,2019-05-06,2019,19,True,488
+Pumpkin,2019-05-13,2019,20,True,489
+Pumpkin,2019-05-20,2019,21,True,490
+Pumpkin,2019-05-27,2019,22,True,491
+Pumpkin,2019-06-03,2019,23,True,492
+Pumpkin,2019-06-10,2019,24,True,493
+Pumpkin,2019-06-17,2019,25,True,494
+Pumpkin,2019-06-24,2019,26,True,495
+Pumpkin,2019-07-01,2019,27,True,496
+Pumpkin,2019-07-08,2019,28,True,497
+Pumpkin,2019-07-15,2019,29,True,498
+Pumpkin,2019-07-22,2019,30,True,499
+Pumpkin,2019-07-29,2019,31,True,500
+Pumpkin,2019-08-05,2019,32,True,501
+Pumpkin,2019-08-12,2019,33,True,502
+Pumpkin,2019-08-19,2019,34,True,503
+Pumpkin,2019-08-26,2019,35,True,504
+Pumpkin,2019-09-02,2019,36,True,505
+Pumpkin,2019-09-09,2019,37,True,506
+Pumpkin,2019-09-16,2019,38,True,507
+Pumpkin,2019-09-23,2019,39,True,508
+Pumpkin,2019-09-30,2019,40,True,509
+Pumpkin,2019-10-07,2019,41,True,510
+Pumpkin,2019-10-14,2019,42,True,511
+Pumpkin,2019-10-21,2019,43,True,512
+Pumpkin,2019-10-28,2019,44,True,513
+Pumpkin,2019-11-04,2019,45,True,514
+Pumpkin,2019-11-11,2019,46,True,515
+Pumpkin,2019-11-18,2019,47,True,516
+Pumpkin,2019-11-25,2019,48,True,517
+Pumpkin,2019-12-02,2019,49,True,518
+Pumpkin,2019-12-09,2019,50,True,519
+Pumpkin,2019-12-16,2019,51,True,520
+Pumpkin,2019-12-23,2019,52,True,521
+Pumpkin,2019-12-30,2020,1,True,522
+Pumpkin,2020-01-06,2020,2,True,523
+Pumpkin,2020-01-13,2020,3,True,524
+Pumpkin,2020-01-20,2020,4,True,525
+Pumpkin,2020-01-27,2020,5,True,526
+Pumpkin,2020-02-03,2020,6,True,527
+Pumpkin,2020-02-10,2020,7,True,528
+Pumpkin,2020-02-17,2020,8,True,529
+Pumpkin,2020-02-24,2020,9,True,530
+Pumpkin,2020-03-02,2020,10,True,531
+Pumpkin,2020-03-09,2020,11,True,532
+Pumpkin,2020-03-16,2020,12,True,533
+Pumpkin,2020-03-23,2020,13,True,534
+Pumpkin,2020-03-30,2020,14,True,535
+Pumpkin,2020-04-06,2020,15,True,536
+Pumpkin,2020-04-13,2020,16,True,537
+Pumpkin,2020-04-20,2020,17,True,538
+Pumpkin,2020-04-27,2020,18,True,539
+Pumpkin,2020-05-04,2020,19,True,540
+Pumpkin,2020-05-11,2020,20,True,541
+Pumpkin,2020-05-18,2020,21,True,542
+Pumpkin,2020-05-25,2020,22,True,543
+Pumpkin,2020-06-01,2020,23,True,544
+Pumpkin,2020-06-08,2020,24,True,545
+Pumpkin,2020-06-15,2020,25,True,546
+Pumpkin,2020-06-22,2020,26,True,547
+Pumpkin,2020-06-29,2020,27,True,548
+Pumpkin,2020-07-06,2020,28,True,549
+Pumpkin,2020-07-13,2020,29,True,550
+Pumpkin,2020-07-20,2020,30,True,551
+Pumpkin,2020-07-27,2020,31,True,552
+Pumpkin,2020-08-03,2020,32,True,553
+Pumpkin,2020-08-10,2020,33,True,554
+Pumpkin,2020-08-17,2020,34,True,555
+Pumpkin,2020-08-24,2020,35,True,556
+Pumpkin,2020-08-31,2020,36,True,557
+Pumpkin,2020-09-07,2020,37,True,558
+Pumpkin,2020-09-14,2020,38,True,559
+Pumpkin,2020-09-21,2020,39,True,560
+Pumpkin,2020-09-28,2020,40,True,561
+Pumpkin,2020-10-05,2020,41,True,562
+Pumpkin,2020-10-12,2020,42,True,563
+Pumpkin,2020-10-19,2020,43,True,564
+Pumpkin,2020-10-26,2020,44,True,565
+Pumpkin,2020-11-02,2020,45,True,566
+Pumpkin,2020-11-09,2020,46,True,567
+Pumpkin,2020-11-16,2020,47,True,568
+Pumpkin,2020-11-23,2020,48,True,569
+Pumpkin,2020-11-30,2020,49,True,570
+Pumpkin,2020-12-07,2020,50,True,571
+Pumpkin,2020-12-14,2020,51,True,572
+Pumpkin,2020-12-21,2020,52,True,573
+Pumpkin,2020-12-28,2020,53,True,574
+Pumpkin,2021-01-04,2021,1,True,575
+Pumpkin,2021-01-11,2021,2,True,576
+Pumpkin,2021-01-18,2021,3,True,577
+Pumpkin,2021-01-25,2021,4,True,578
+Pumpkin,2021-02-01,2021,5,True,579
+Pumpkin,2021-02-08,2021,6,True,580
+Pumpkin,2021-02-15,2021,7,True,581
+Pumpkin,2021-02-22,2021,8,True,582
+Pumpkin,2021-03-01,2021,9,True,583
+Pumpkin,2021-03-08,2021,10,True,584
+Pumpkin,2021-03-15,2021,11,True,585
+Pumpkin,2021-03-22,2021,12,True,586
+Pumpkin,2021-03-29,2021,13,True,587
+Pumpkin,2021-04-05,2021,14,True,588
+Pumpkin,2021-04-12,2021,15,True,589
+Pumpkin,2021-04-19,2021,16,True,590
+Pumpkin,2021-04-26,2021,17,True,591
+Pumpkin,2021-05-03,2021,18,True,592
+Pumpkin,2021-05-10,2021,19,True,593
+Pumpkin,2021-05-17,2021,20,True,594
+Pumpkin,2021-05-24,2021,21,True,595
+Pumpkin,2021-05-31,2021,22,True,596
+Pumpkin,2021-06-07,2021,23,True,597
+Pumpkin,2021-06-14,2021,24,True,598
+Pumpkin,2021-06-21,2021,25,True,599
+Pumpkin,2021-06-28,2021,26,True,600
+Pumpkin,2021-07-05,2021,27,True,601
+Pumpkin,2021-07-12,2021,28,True,602
+Pumpkin,2021-07-19,2021,29,True,603
+Pumpkin,2021-07-26,2021,30,True,604
+Pumpkin,2021-08-02,2021,31,True,605
+Pumpkin,2021-08-09,2021,32,True,606
+Pumpkin,2021-08-16,2021,33,True,607
+Pumpkin,2021-08-23,2021,34,True,608
+Pumpkin,2021-08-30,2021,35,True,609
+Pumpkin,2021-09-06,2021,36,True,610
+Pumpkin,2021-09-13,2021,37,True,611
+Pumpkin,2021-09-20,2021,38,True,612
+Pumpkin,2021-09-27,2021,39,True,613
+Pumpkin,2021-10-04,2021,40,True,614
+Pumpkin,2021-10-11,2021,41,True,615
+Pumpkin,2021-10-18,2021,42,True,616
+Pumpkin,2021-10-25,2021,43,True,617
+Pumpkin,2021-11-01,2021,44,True,618
+Pumpkin,2021-11-08,2021,45,True,619
+Pumpkin,2021-11-15,2021,46,True,620
+Pumpkin,2021-11-22,2021,47,True,621
+Pumpkin,2021-11-29,2021,48,True,622
+Pumpkin,2021-12-06,2021,49,True,623
+Pumpkin,2021-12-13,2021,50,True,624
+Pumpkin,2021-12-20,2021,51,True,625
+Pumpkin,2021-12-27,2021,52,True,626
+Pumpkin,2022-01-03,2022,1,True,627
+Pumpkin,2022-01-10,2022,2,True,628
+Pumpkin,2022-01-17,2022,3,True,629
+Pumpkin,2022-01-24,2022,4,True,630
+Pumpkin,2022-01-31,2022,5,True,631
+Pumpkin,2022-02-07,2022,6,True,632
+Pumpkin,2022-02-14,2022,7,True,633
+Pumpkin,2022-02-21,2022,8,True,634
+Pumpkin,2022-02-28,2022,9,True,635
+Pumpkin,2022-03-07,2022,10,True,636
+Pumpkin,2022-03-14,2022,11,True,637
+Pumpkin,2022-03-21,2022,12,True,638
+Pumpkin,2022-03-28,2022,13,True,639
+Pumpkin,2022-04-04,2022,14,True,640
+Pumpkin,2022-04-11,2022,15,True,641
+Pumpkin,2022-04-18,2022,16,True,642
+Pumpkin,2022-04-25,2022,17,True,643
+Pumpkin,2022-05-02,2022,18,True,644
+Pumpkin,2022-05-09,2022,19,True,645
+Pumpkin,2022-05-16,2022,20,True,646
+Pumpkin,2022-05-23,2022,21,True,647
+Pumpkin,2022-05-30,2022,22,True,648
+Pumpkin,2022-06-06,2022,23,True,649
+Pumpkin,2022-06-13,2022,24,True,650
+Pumpkin,2022-06-20,2022,25,True,651
+Pumpkin,2022-06-27,2022,26,True,652
+Pumpkin,2022-07-04,2022,27,True,653
+Pumpkin,2022-07-11,2022,28,True,654
+Pumpkin,2022-07-18,2022,29,True,655
+Pumpkin,2022-07-25,2022,30,True,656
+Pumpkin,2022-08-01,2022,31,True,657
+Pumpkin,2022-08-08,2022,32,True,658
+Pumpkin,2022-08-15,2022,33,True,659
+Pumpkin,2022-08-22,2022,34,True,660
+Pumpkin,2022-08-29,2022,35,True,661
+Pumpkin,2022-09-05,2022,36,True,662
+Pumpkin,2022-09-12,2022,37,True,663
+Pumpkin,2022-09-19,2022,38,True,664
+Pumpkin,2022-09-26,2022,39,True,665
+Pumpkin,2022-10-03,2022,40,True,666
+Pumpkin,2022-10-10,2022,41,True,667
+Pumpkin,2022-10-17,2022,42,True,668
+Pumpkin,2022-10-24,2022,43,True,669
+Pumpkin,2022-10-31,2022,44,True,670
+Pumpkin,2022-11-07,2022,45,True,671
+Pumpkin,2022-11-14,2022,46,True,672
+Pumpkin,2022-11-21,2022,47,True,673
+Pumpkin,2022-11-28,2022,48,True,674
+Pumpkin,2022-12-05,2022,49,True,675
+Pumpkin,2022-12-12,2022,50,True,676
+Pumpkin,2022-12-19,2022,51,True,677
+Pumpkin,2022-12-26,2022,52,True,678
+Pumpkin,2022-12-26,2022,52,True,679
+Pumpkin,2023-01-02,2023,1,False,680
+Pumpkin,2023-01-09,2023,2,False,681
+Pumpkin,2023-01-16,2023,3,False,682
+Pumpkin,2023-01-23,2023,4,False,683
+Pumpkin,2023-01-30,2023,5,False,684
+Pumpkin,2023-02-06,2023,6,False,685
+Pumpkin,2023-02-13,2023,7,False,686
+Pumpkin,2023-02-20,2023,8,False,687
+Pumpkin,2023-02-27,2023,9,False,688
+Pumpkin,2023-03-06,2023,10,False,689
+Pumpkin,2023-03-13,2023,11,False,690
+Pumpkin,2023-03-20,2023,12,False,691
+Pumpkin,2023-03-27,2023,13,False,692
+Pumpkin,2023-04-03,2023,14,False,693
+Pumpkin,2023-04-10,2023,15,False,694
+Pumpkin,2023-04-17,2023,16,False,695
+Pumpkin,2023-04-24,2023,17,False,696
+Pumpkin,2023-05-01,2023,18,False,697
+Pumpkin,2023-05-08,2023,19,False,698
+Pumpkin,2023-05-15,2023,20,False,699
+Pumpkin,2023-05-22,2023,21,False,700
+Pumpkin,2023-05-29,2023,22,False,701
+Pumpkin,2023-06-05,2023,23,False,702
+Pumpkin,2023-06-12,2023,24,False,703
+Pumpkin,2023-06-19,2023,25,False,704
+Pumpkin,2023-06-26,2023,26,False,705
+Pumpkin,2023-07-03,2023,27,False,706
+Pumpkin,2023-07-10,2023,28,False,707
+Pumpkin,2023-07-17,2023,29,False,708
+Pumpkin,2023-07-24,2023,30,False,709
+Pumpkin,2023-07-31,2023,31,False,710
+Pumpkin,2023-08-07,2023,32,False,711
+Pumpkin,2023-08-14,2023,33,False,712
+Pumpkin,2023-08-21,2023,34,False,713
+Pumpkin,2023-08-28,2023,35,False,714
+Pumpkin,2023-09-04,2023,36,False,715
+Pumpkin,2023-09-11,2023,37,False,716
+Pumpkin,2023-09-18,2023,38,False,717
+Pumpkin,2023-09-25,2023,39,False,718
+Pumpkin,2023-10-02,2023,40,False,719
+Pumpkin,2023-10-09,2023,41,False,720
+Pumpkin,2023-10-16,2023,42,False,721
+Pumpkin,2023-10-23,2023,43,False,722
+Pumpkin,2023-10-30,2023,44,False,723
+Pumpkin,2023-11-06,2023,45,False,724
+Pumpkin,2023-11-13,2023,46,False,725
+Pumpkin,2023-11-20,2023,47,False,726
+Pumpkin,2023-11-27,2023,48,False,727
+Pumpkin,2023-12-04,2023,49,False,728
+Pumpkin,2023-12-11,2023,50,False,729
+Pumpkin,2023-12-18,2023,51,False,730
+Pumpkin,2023-12-25,2023,52,False,731
+Pumpkin,2024-01-01,2024,1,False,732
+Pumpkin,2024-01-08,2024,2,False,733
+Pumpkin,2024-01-15,2024,3,False,734
+Pumpkin,2024-01-22,2024,4,False,735
+Pumpkin,2024-01-29,2024,5,False,736
+Pumpkin,2024-02-05,2024,6,False,737
+Pumpkin,2024-02-12,2024,7,False,738
+Pumpkin,2024-02-19,2024,8,False,739
+Pumpkin,2024-02-26,2024,9,False,740
+Pumpkin,2024-03-04,2024,10,False,741
+Pumpkin,2024-03-11,2024,11,False,742
+Pumpkin,2024-03-18,2024,12,False,743
+Pumpkin,2024-03-25,2024,13,False,744
+Pumpkin,2024-04-01,2024,14,False,745
+Pumpkin,2024-04-08,2024,15,False,746
+Pumpkin,2024-04-15,2024,16,False,747
+Pumpkin,2024-04-22,2024,17,False,748
+Pumpkin,2024-04-29,2024,18,False,749
+Pumpkin,2024-05-06,2024,19,False,750
+Pumpkin,2024-05-13,2024,20,False,751
+Pumpkin,2024-05-20,2024,21,False,752
+Pumpkin,2024-05-27,2024,22,False,753
+Pumpkin,2024-06-03,2024,23,False,754
+Pumpkin,2024-06-10,2024,24,False,755
+Pumpkin,2024-06-17,2024,25,False,756
+Pumpkin,2024-06-24,2024,26,False,757
+Pumpkin,2024-07-01,2024,27,False,758
+Pumpkin,2024-07-08,2024,28,False,759
+Pumpkin,2024-07-15,2024,29,False,760
+Pumpkin,2024-07-22,2024,30,False,761
+Pumpkin,2024-07-29,2024,31,False,762
+Pumpkin,2024-08-05,2024,32,False,763
+Pumpkin,2024-08-12,2024,33,False,764
+Pumpkin,2024-08-19,2024,34,False,765
+Pumpkin,2024-08-26,2024,35,False,766
+Pumpkin,2024-09-02,2024,36,False,767
+Pumpkin,2024-09-09,2024,37,False,768
+Pumpkin,2024-09-16,2024,38,False,769
+Pumpkin,2024-09-23,2024,39,False,770
+Pumpkin,2024-09-30,2024,40,False,771
+Pumpkin,2024-10-07,2024,41,False,772
+Pumpkin,2024-10-14,2024,42,False,773
+Pumpkin,2024-10-21,2024,43,False,774
+Pumpkin,2024-10-28,2024,44,False,775
+Pumpkin,2024-11-04,2024,45,False,776
+Pumpkin,2024-11-11,2024,46,False,777
+Pumpkin,2024-11-18,2024,47,False,778
+Pumpkin,2024-11-25,2024,48,False,779
+Pumpkin,2024-12-02,2024,49,False,780
+Pumpkin,2024-12-09,2024,50,False,781
+Pumpkin,2024-12-16,2024,51,False,782
+Pumpkin,2024-12-23,2024,52,False,783
+Pumpkin,2024-12-30,2025,1,False,784
+Pumpkin,2025-01-06,2025,2,False,785
+Pumpkin,2025-01-13,2025,3,False,786
+Pumpkin,2025-01-20,2025,4,False,787
+Pumpkin,2025-01-27,2025,5,False,788
+Pumpkin,2025-02-03,2025,6,False,789
+Pumpkin,2025-02-10,2025,7,False,790
+Pumpkin,2025-02-17,2025,8,False,791
+Pumpkin,2025-02-24,2025,9,False,792
+Pumpkin,2025-03-03,2025,10,False,793
+Pumpkin,2025-03-10,2025,11,False,794
+Pumpkin,2025-03-17,2025,12,False,795
+Pumpkin,2025-03-24,2025,13,False,796
+Pumpkin,2025-03-31,2025,14,False,797
+Pumpkin,2025-04-07,2025,15,False,798
+Pumpkin,2025-04-14,2025,16,False,799
+Pumpkin,2025-04-21,2025,17,False,800
+Pumpkin,2025-04-28,2025,18,False,801
+Pumpkin,2025-05-05,2025,19,False,802
+Pumpkin,2025-05-12,2025,20,False,803
+Pumpkin,2025-05-19,2025,21,False,804
+Pumpkin,2025-05-26,2025,22,False,805
+Pumpkin,2025-06-02,2025,23,False,806
+Pumpkin,2025-06-09,2025,24,False,807
+Pumpkin,2025-06-16,2025,25,False,808
+Pumpkin,2025-06-23,2025,26,False,809
+Pumpkin,2025-06-30,2025,27,False,810
+Pumpkin,2025-07-07,2025,28,False,811
+Pumpkin,2025-07-14,2025,29,False,812
+Pumpkin,2025-07-21,2025,30,False,813
+Pumpkin,2025-07-28,2025,31,False,814
+Pumpkin,2025-08-04,2025,32,False,815
+Pumpkin,2025-08-11,2025,33,False,816
+Pumpkin,2025-08-18,2025,34,False,817
+Pumpkin,2025-08-25,2025,35,False,818
+Pumpkin,2025-09-01,2025,36,False,819
+Pumpkin,2025-09-08,2025,37,False,820
+Pumpkin,2025-09-15,2025,38,False,821
+Pumpkin,2025-09-22,2025,39,False,822
+Pumpkin,2025-09-29,2025,40,False,823
+Pumpkin,2025-10-06,2025,41,False,824
+Pumpkin,2025-10-13,2025,42,False,825
+Pumpkin,2025-10-20,2025,43,False,826
+Pumpkin,2025-10-27,2025,44,False,827
+Pumpkin,2025-11-03,2025,45,False,828
+Pumpkin,2025-11-10,2025,46,False,829
+Pumpkin,2025-11-17,2025,47,False,830
+Pumpkin,2025-11-24,2025,48,False,831
+Pumpkin,2025-12-01,2025,49,False,832
+Pumpkin,2025-12-08,2025,50,False,833
+Pumpkin,2025-12-15,2025,51,False,834
+Pumpkin,2025-12-22,2025,52,False,835
+Pumpkin,2025-12-29,2026,1,False,836
+Pumpkin,2026-01-05,2026,2,False,837
+Tomato,2009-12-28,2009,53,True,0
+Tomato,2010-01-04,2010,1,True,1
+Tomato,2010-01-11,2010,2,True,2
+Tomato,2010-01-18,2010,3,True,3
+Tomato,2010-01-25,2010,4,True,4
+Tomato,2010-02-01,2010,5,True,5
+Tomato,2010-02-08,2010,6,True,6
+Tomato,2010-02-15,2010,7,True,7
+Tomato,2010-02-22,2010,8,True,8
+Tomato,2010-03-01,2010,9,True,9
+Tomato,2010-03-08,2010,10,True,10
+Tomato,2010-03-15,2010,11,True,11
+Tomato,2010-03-22,2010,12,True,12
+Tomato,2010-03-29,2010,13,True,13
+Tomato,2010-04-05,2010,14,True,14
+Tomato,2010-04-12,2010,15,True,15
+Tomato,2010-04-19,2010,16,True,16
+Tomato,2010-04-26,2010,17,True,17
+Tomato,2010-05-03,2010,18,True,18
+Tomato,2010-05-10,2010,19,True,19
+Tomato,2010-05-17,2010,20,True,20
+Tomato,2010-05-24,2010,21,True,21
+Tomato,2010-05-31,2010,22,True,22
+Tomato,2010-06-07,2010,23,True,23
+Tomato,2010-06-14,2010,24,True,24
+Tomato,2010-06-21,2010,25,True,25
+Tomato,2010-06-28,2010,26,True,26
+Tomato,2010-07-05,2010,27,True,27
+Tomato,2010-07-12,2010,28,True,28
+Tomato,2010-07-19,2010,29,True,29
+Tomato,2010-07-26,2010,30,True,30
+Tomato,2010-08-02,2010,31,True,31
+Tomato,2010-08-09,2010,32,True,32
+Tomato,2010-08-16,2010,33,True,33
+Tomato,2010-08-23,2010,34,True,34
+Tomato,2010-08-30,2010,35,True,35
+Tomato,2010-09-06,2010,36,True,36
+Tomato,2010-09-13,2010,37,True,37
+Tomato,2010-09-20,2010,38,True,38
+Tomato,2010-09-27,2010,39,True,39
+Tomato,2010-10-04,2010,40,True,40
+Tomato,2010-10-11,2010,41,True,41
+Tomato,2010-10-18,2010,42,True,42
+Tomato,2010-10-25,2010,43,True,43
+Tomato,2010-11-01,2010,44,True,44
+Tomato,2010-11-08,2010,45,True,45
+Tomato,2010-11-15,2010,46,True,46
+Tomato,2010-11-22,2010,47,True,47
+Tomato,2010-11-29,2010,48,True,48
+Tomato,2010-12-06,2010,49,True,49
+Tomato,2010-12-13,2010,50,True,50
+Tomato,2010-12-20,2010,51,True,51
+Tomato,2010-12-27,2010,52,True,52
+Tomato,2011-01-03,2011,1,True,53
+Tomato,2011-01-10,2011,2,True,54
+Tomato,2011-01-17,2011,3,True,55
+Tomato,2011-01-24,2011,4,True,56
+Tomato,2011-01-31,2011,5,True,57
+Tomato,2011-02-07,2011,6,True,58
+Tomato,2011-02-14,2011,7,True,59
+Tomato,2011-02-21,2011,8,True,60
+Tomato,2011-02-28,2011,9,True,61
+Tomato,2011-03-07,2011,10,True,62
+Tomato,2011-03-14,2011,11,True,63
+Tomato,2011-03-21,2011,12,True,64
+Tomato,2011-03-28,2011,13,True,65
+Tomato,2011-04-04,2011,14,True,66
+Tomato,2011-04-11,2011,15,True,67
+Tomato,2011-04-18,2011,16,True,68
+Tomato,2011-04-25,2011,17,True,69
+Tomato,2011-05-02,2011,18,True,70
+Tomato,2011-05-09,2011,19,True,71
+Tomato,2011-05-16,2011,20,True,72
+Tomato,2011-05-23,2011,21,True,73
+Tomato,2011-05-30,2011,22,True,74
+Tomato,2011-06-06,2011,23,True,75
+Tomato,2011-06-13,2011,24,True,76
+Tomato,2011-06-20,2011,25,True,77
+Tomato,2011-06-27,2011,26,True,78
+Tomato,2011-07-04,2011,27,True,79
+Tomato,2011-07-11,2011,28,True,80
+Tomato,2011-07-18,2011,29,True,81
+Tomato,2011-07-25,2011,30,True,82
+Tomato,2011-08-01,2011,31,True,83
+Tomato,2011-08-08,2011,32,True,84
+Tomato,2011-08-15,2011,33,True,85
+Tomato,2011-08-22,2011,34,True,86
+Tomato,2011-08-29,2011,35,True,87
+Tomato,2011-09-05,2011,36,True,88
+Tomato,2011-09-12,2011,37,True,89
+Tomato,2011-09-19,2011,38,True,90
+Tomato,2011-09-26,2011,39,True,91
+Tomato,2011-10-03,2011,40,True,92
+Tomato,2011-10-10,2011,41,True,93
+Tomato,2011-10-17,2011,42,True,94
+Tomato,2011-10-24,2011,43,True,95
+Tomato,2011-10-31,2011,44,True,96
+Tomato,2011-11-07,2011,45,True,97
+Tomato,2011-11-14,2011,46,True,98
+Tomato,2011-11-21,2011,47,True,99
+Tomato,2011-11-28,2011,48,True,100
+Tomato,2011-12-05,2011,49,True,101
+Tomato,2011-12-12,2011,50,True,102
+Tomato,2011-12-19,2011,51,True,103
+Tomato,2011-12-26,2011,52,True,104
+Tomato,2012-01-02,2012,1,True,105
+Tomato,2012-01-09,2012,2,True,106
+Tomato,2012-01-16,2012,3,True,107
+Tomato,2012-01-23,2012,4,True,108
+Tomato,2012-01-30,2012,5,True,109
+Tomato,2012-02-06,2012,6,True,110
+Tomato,2012-02-13,2012,7,True,111
+Tomato,2012-02-20,2012,8,True,112
+Tomato,2012-02-27,2012,9,True,113
+Tomato,2012-03-05,2012,10,True,114
+Tomato,2012-03-12,2012,11,True,115
+Tomato,2012-03-19,2012,12,True,116
+Tomato,2012-03-26,2012,13,True,117
+Tomato,2012-04-02,2012,14,True,118
+Tomato,2012-04-09,2012,15,True,119
+Tomato,2012-04-16,2012,16,True,120
+Tomato,2012-04-23,2012,17,True,121
+Tomato,2012-04-30,2012,18,True,122
+Tomato,2012-05-07,2012,19,True,123
+Tomato,2012-05-14,2012,20,True,124
+Tomato,2012-05-21,2012,21,True,125
+Tomato,2012-05-28,2012,22,True,126
+Tomato,2012-06-04,2012,23,True,127
+Tomato,2012-06-11,2012,24,True,128
+Tomato,2012-06-18,2012,25,True,129
+Tomato,2012-06-25,2012,26,True,130
+Tomato,2012-07-02,2012,27,True,131
+Tomato,2012-07-09,2012,28,True,132
+Tomato,2012-07-16,2012,29,True,133
+Tomato,2012-07-23,2012,30,True,134
+Tomato,2012-07-30,2012,31,True,135
+Tomato,2012-08-06,2012,32,True,136
+Tomato,2012-08-13,2012,33,True,137
+Tomato,2012-08-20,2012,34,True,138
+Tomato,2012-08-27,2012,35,True,139
+Tomato,2012-09-03,2012,36,True,140
+Tomato,2012-09-10,2012,37,True,141
+Tomato,2012-09-17,2012,38,True,142
+Tomato,2012-09-24,2012,39,True,143
+Tomato,2012-10-01,2012,40,True,144
+Tomato,2012-10-08,2012,41,True,145
+Tomato,2012-10-15,2012,42,True,146
+Tomato,2012-10-22,2012,43,True,147
+Tomato,2012-10-29,2012,44,True,148
+Tomato,2012-11-05,2012,45,True,149
+Tomato,2012-11-12,2012,46,True,150
+Tomato,2012-11-19,2012,47,True,151
+Tomato,2012-11-26,2012,48,True,152
+Tomato,2012-12-03,2012,49,True,153
+Tomato,2012-12-10,2012,50,True,154
+Tomato,2012-12-17,2012,51,True,155
+Tomato,2012-12-24,2012,52,True,156
+Tomato,2012-12-31,2013,1,True,157
+Tomato,2013-01-07,2013,2,True,158
+Tomato,2013-01-14,2013,3,True,159
+Tomato,2013-01-21,2013,4,True,160
+Tomato,2013-01-28,2013,5,True,161
+Tomato,2013-02-04,2013,6,True,162
+Tomato,2013-02-11,2013,7,True,163
+Tomato,2013-02-18,2013,8,True,164
+Tomato,2013-02-25,2013,9,True,165
+Tomato,2013-03-04,2013,10,True,166
+Tomato,2013-03-11,2013,11,True,167
+Tomato,2013-03-18,2013,12,True,168
+Tomato,2013-03-25,2013,13,True,169
+Tomato,2013-04-01,2013,14,True,170
+Tomato,2013-04-08,2013,15,True,171
+Tomato,2013-04-15,2013,16,True,172
+Tomato,2013-04-22,2013,17,True,173
+Tomato,2013-04-29,2013,18,True,174
+Tomato,2013-05-06,2013,19,True,175
+Tomato,2013-05-13,2013,20,True,176
+Tomato,2013-05-20,2013,21,True,177
+Tomato,2013-05-27,2013,22,True,178
+Tomato,2013-06-03,2013,23,True,179
+Tomato,2013-06-10,2013,24,True,180
+Tomato,2013-06-17,2013,25,True,181
+Tomato,2013-06-24,2013,26,True,182
+Tomato,2013-07-01,2013,27,True,183
+Tomato,2013-07-08,2013,28,True,184
+Tomato,2013-07-15,2013,29,True,185
+Tomato,2013-07-22,2013,30,True,186
+Tomato,2013-07-29,2013,31,True,187
+Tomato,2013-08-05,2013,32,True,188
+Tomato,2013-08-12,2013,33,True,189
+Tomato,2013-08-19,2013,34,True,190
+Tomato,2013-08-26,2013,35,True,191
+Tomato,2013-09-02,2013,36,True,192
+Tomato,2013-09-09,2013,37,True,193
+Tomato,2013-09-16,2013,38,True,194
+Tomato,2013-09-23,2013,39,True,195
+Tomato,2013-09-30,2013,40,True,196
+Tomato,2013-10-07,2013,41,True,197
+Tomato,2013-10-14,2013,42,True,198
+Tomato,2013-10-21,2013,43,True,199
+Tomato,2013-10-28,2013,44,True,200
+Tomato,2013-11-04,2013,45,True,201
+Tomato,2013-11-11,2013,46,True,202
+Tomato,2013-11-18,2013,47,True,203
+Tomato,2013-11-25,2013,48,True,204
+Tomato,2013-12-02,2013,49,True,205
+Tomato,2013-12-09,2013,50,True,206
+Tomato,2013-12-16,2013,51,True,207
+Tomato,2013-12-23,2013,52,True,208
+Tomato,2013-12-30,2014,1,True,209
+Tomato,2014-01-06,2014,2,True,210
+Tomato,2014-01-13,2014,3,True,211
+Tomato,2014-01-20,2014,4,True,212
+Tomato,2014-01-27,2014,5,True,213
+Tomato,2014-02-03,2014,6,True,214
+Tomato,2014-02-10,2014,7,True,215
+Tomato,2014-02-17,2014,8,True,216
+Tomato,2014-02-24,2014,9,True,217
+Tomato,2014-03-03,2014,10,True,218
+Tomato,2014-03-10,2014,11,True,219
+Tomato,2014-03-17,2014,12,True,220
+Tomato,2014-03-24,2014,13,True,221
+Tomato,2014-03-31,2014,14,True,222
+Tomato,2014-04-07,2014,15,True,223
+Tomato,2014-04-14,2014,16,True,224
+Tomato,2014-04-21,2014,17,True,225
+Tomato,2014-04-28,2014,18,True,226
+Tomato,2014-05-05,2014,19,True,227
+Tomato,2014-05-12,2014,20,True,228
+Tomato,2014-05-19,2014,21,True,229
+Tomato,2014-05-26,2014,22,True,230
+Tomato,2014-06-02,2014,23,True,231
+Tomato,2014-06-09,2014,24,True,232
+Tomato,2014-06-16,2014,25,True,233
+Tomato,2014-06-23,2014,26,True,234
+Tomato,2014-06-30,2014,27,True,235
+Tomato,2014-07-07,2014,28,True,236
+Tomato,2014-07-14,2014,29,True,237
+Tomato,2014-07-21,2014,30,True,238
+Tomato,2014-07-28,2014,31,True,239
+Tomato,2014-08-04,2014,32,True,240
+Tomato,2014-08-11,2014,33,True,241
+Tomato,2014-08-18,2014,34,True,242
+Tomato,2014-08-25,2014,35,True,243
+Tomato,2014-09-01,2014,36,True,244
+Tomato,2014-09-08,2014,37,True,245
+Tomato,2014-09-15,2014,38,True,246
+Tomato,2014-09-22,2014,39,True,247
+Tomato,2014-09-29,2014,40,True,248
+Tomato,2014-10-06,2014,41,True,249
+Tomato,2014-10-13,2014,42,True,250
+Tomato,2014-10-20,2014,43,True,251
+Tomato,2014-10-27,2014,44,True,252
+Tomato,2014-11-03,2014,45,True,253
+Tomato,2014-11-10,2014,46,True,254
+Tomato,2014-11-17,2014,47,True,255
+Tomato,2014-11-24,2014,48,True,256
+Tomato,2014-12-01,2014,49,True,257
+Tomato,2014-12-08,2014,50,True,258
+Tomato,2014-12-15,2014,51,True,259
+Tomato,2014-12-22,2014,52,True,260
+Tomato,2014-12-29,2015,1,True,261
+Tomato,2015-01-05,2015,2,True,262
+Tomato,2015-01-12,2015,3,True,263
+Tomato,2015-01-19,2015,4,True,264
+Tomato,2015-01-26,2015,5,True,265
+Tomato,2015-02-02,2015,6,True,266
+Tomato,2015-02-09,2015,7,True,267
+Tomato,2015-02-16,2015,8,True,268
+Tomato,2015-02-23,2015,9,True,269
+Tomato,2015-03-02,2015,10,True,270
+Tomato,2015-03-09,2015,11,True,271
+Tomato,2015-03-16,2015,12,True,272
+Tomato,2015-03-23,2015,13,True,273
+Tomato,2015-03-30,2015,14,True,274
+Tomato,2015-04-06,2015,15,True,275
+Tomato,2015-04-13,2015,16,True,276
+Tomato,2015-04-20,2015,17,True,277
+Tomato,2015-04-27,2015,18,True,278
+Tomato,2015-05-04,2015,19,True,279
+Tomato,2015-05-11,2015,20,True,280
+Tomato,2015-05-18,2015,21,True,281
+Tomato,2015-05-25,2015,22,True,282
+Tomato,2015-06-01,2015,23,True,283
+Tomato,2015-06-08,2015,24,True,284
+Tomato,2015-06-15,2015,25,True,285
+Tomato,2015-06-22,2015,26,True,286
+Tomato,2015-06-29,2015,27,True,287
+Tomato,2015-07-06,2015,28,True,288
+Tomato,2015-07-13,2015,29,True,289
+Tomato,2015-07-20,2015,30,True,290
+Tomato,2015-07-27,2015,31,True,291
+Tomato,2015-08-03,2015,32,True,292
+Tomato,2015-08-10,2015,33,True,293
+Tomato,2015-08-17,2015,34,True,294
+Tomato,2015-08-24,2015,35,True,295
+Tomato,2015-08-31,2015,36,True,296
+Tomato,2015-09-07,2015,37,True,297
+Tomato,2015-09-14,2015,38,True,298
+Tomato,2015-09-21,2015,39,True,299
+Tomato,2015-09-28,2015,40,True,300
+Tomato,2015-10-05,2015,41,True,301
+Tomato,2015-10-12,2015,42,True,302
+Tomato,2015-10-19,2015,43,True,303
+Tomato,2015-10-26,2015,44,True,304
+Tomato,2015-11-02,2015,45,True,305
+Tomato,2015-11-09,2015,46,True,306
+Tomato,2015-11-16,2015,47,True,307
+Tomato,2015-11-23,2015,48,True,308
+Tomato,2015-11-30,2015,49,True,309
+Tomato,2015-12-07,2015,50,True,310
+Tomato,2015-12-14,2015,51,True,311
+Tomato,2015-12-21,2015,52,True,312
+Tomato,2015-12-28,2015,53,True,313
+Tomato,2016-01-04,2016,1,True,314
+Tomato,2016-01-11,2016,2,True,315
+Tomato,2016-01-18,2016,3,True,316
+Tomato,2016-01-25,2016,4,True,317
+Tomato,2016-02-01,2016,5,True,318
+Tomato,2016-02-08,2016,6,True,319
+Tomato,2016-02-15,2016,7,True,320
+Tomato,2016-02-22,2016,8,True,321
+Tomato,2016-02-29,2016,9,True,322
+Tomato,2016-03-07,2016,10,True,323
+Tomato,2016-03-14,2016,11,True,324
+Tomato,2016-03-21,2016,12,True,325
+Tomato,2016-03-28,2016,13,True,326
+Tomato,2016-04-04,2016,14,True,327
+Tomato,2016-04-11,2016,15,True,328
+Tomato,2016-04-18,2016,16,True,329
+Tomato,2016-04-25,2016,17,True,330
+Tomato,2016-05-02,2016,18,True,331
+Tomato,2016-05-09,2016,19,True,332
+Tomato,2016-05-16,2016,20,True,333
+Tomato,2016-05-23,2016,21,True,334
+Tomato,2016-05-30,2016,22,True,335
+Tomato,2016-06-06,2016,23,True,336
+Tomato,2016-06-13,2016,24,True,337
+Tomato,2016-06-20,2016,25,True,338
+Tomato,2016-06-27,2016,26,True,339
+Tomato,2016-07-04,2016,27,True,340
+Tomato,2016-07-11,2016,28,True,341
+Tomato,2016-07-18,2016,29,True,342
+Tomato,2016-07-25,2016,30,True,343
+Tomato,2016-08-01,2016,31,True,344
+Tomato,2016-08-08,2016,32,True,345
+Tomato,2016-08-15,2016,33,True,346
+Tomato,2016-08-22,2016,34,True,347
+Tomato,2016-08-29,2016,35,True,348
+Tomato,2016-09-05,2016,36,True,349
+Tomato,2016-09-12,2016,37,True,350
+Tomato,2016-09-19,2016,38,True,351
+Tomato,2016-09-26,2016,39,True,352
+Tomato,2016-10-03,2016,40,True,353
+Tomato,2016-10-10,2016,41,True,354
+Tomato,2016-10-17,2016,42,True,355
+Tomato,2016-10-24,2016,43,True,356
+Tomato,2016-10-31,2016,44,True,357
+Tomato,2016-11-07,2016,45,True,358
+Tomato,2016-11-14,2016,46,True,359
+Tomato,2016-11-21,2016,47,True,360
+Tomato,2016-11-28,2016,48,True,361
+Tomato,2016-12-05,2016,49,True,362
+Tomato,2016-12-12,2016,50,True,363
+Tomato,2016-12-19,2016,51,True,364
+Tomato,2016-12-26,2016,52,True,365
+Tomato,2017-01-02,2017,1,True,366
+Tomato,2017-01-09,2017,2,True,367
+Tomato,2017-01-16,2017,3,True,368
+Tomato,2017-01-23,2017,4,True,369
+Tomato,2017-01-30,2017,5,True,370
+Tomato,2017-02-06,2017,6,True,371
+Tomato,2017-02-13,2017,7,True,372
+Tomato,2017-02-20,2017,8,True,373
+Tomato,2017-02-27,2017,9,True,374
+Tomato,2017-03-06,2017,10,True,375
+Tomato,2017-03-13,2017,11,True,376
+Tomato,2017-03-20,2017,12,True,377
+Tomato,2017-03-27,2017,13,True,378
+Tomato,2017-04-03,2017,14,True,379
+Tomato,2017-04-10,2017,15,True,380
+Tomato,2017-04-17,2017,16,True,381
+Tomato,2017-04-24,2017,17,True,382
+Tomato,2017-05-01,2017,18,True,383
+Tomato,2017-05-08,2017,19,True,384
+Tomato,2017-05-15,2017,20,True,385
+Tomato,2017-05-22,2017,21,True,386
+Tomato,2017-05-29,2017,22,True,387
+Tomato,2017-06-05,2017,23,True,388
+Tomato,2017-06-12,2017,24,True,389
+Tomato,2017-06-19,2017,25,True,390
+Tomato,2017-06-26,2017,26,True,391
+Tomato,2017-07-03,2017,27,True,392
+Tomato,2017-07-10,2017,28,True,393
+Tomato,2017-07-17,2017,29,True,394
+Tomato,2017-07-24,2017,30,True,395
+Tomato,2017-07-31,2017,31,True,396
+Tomato,2017-08-07,2017,32,True,397
+Tomato,2017-08-14,2017,33,True,398
+Tomato,2017-08-21,2017,34,True,399
+Tomato,2017-08-28,2017,35,True,400
+Tomato,2017-09-04,2017,36,True,401
+Tomato,2017-09-11,2017,37,True,402
+Tomato,2017-09-18,2017,38,True,403
+Tomato,2017-09-25,2017,39,True,404
+Tomato,2017-10-02,2017,40,True,405
+Tomato,2017-10-09,2017,41,True,406
+Tomato,2017-10-16,2017,42,True,407
+Tomato,2017-10-23,2017,43,True,408
+Tomato,2017-10-30,2017,44,True,409
+Tomato,2017-11-06,2017,45,True,410
+Tomato,2017-11-13,2017,46,True,411
+Tomato,2017-11-20,2017,47,True,412
+Tomato,2017-11-27,2017,48,True,413
+Tomato,2017-12-04,2017,49,True,414
+Tomato,2017-12-11,2017,50,True,415
+Tomato,2017-12-18,2017,51,True,416
+Tomato,2017-12-25,2017,52,True,417
+Tomato,2018-01-01,2018,1,True,418
+Tomato,2018-01-08,2018,2,True,419
+Tomato,2018-01-15,2018,3,True,420
+Tomato,2018-01-22,2018,4,True,421
+Tomato,2018-01-29,2018,5,True,422
+Tomato,2018-02-05,2018,6,True,423
+Tomato,2018-02-12,2018,7,True,424
+Tomato,2018-02-19,2018,8,True,425
+Tomato,2018-02-26,2018,9,True,426
+Tomato,2018-03-05,2018,10,True,427
+Tomato,2018-03-12,2018,11,True,428
+Tomato,2018-03-19,2018,12,True,429
+Tomato,2018-03-26,2018,13,True,430
+Tomato,2018-04-02,2018,14,True,431
+Tomato,2018-04-09,2018,15,True,432
+Tomato,2018-04-16,2018,16,True,433
+Tomato,2018-04-23,2018,17,True,434
+Tomato,2018-04-30,2018,18,True,435
+Tomato,2018-05-07,2018,19,True,436
+Tomato,2018-05-14,2018,20,True,437
+Tomato,2018-05-21,2018,21,True,438
+Tomato,2018-05-28,2018,22,True,439
+Tomato,2018-06-04,2018,23,True,440
+Tomato,2018-06-11,2018,24,True,441
+Tomato,2018-06-18,2018,25,True,442
+Tomato,2018-06-25,2018,26,True,443
+Tomato,2018-07-02,2018,27,True,444
+Tomato,2018-07-09,2018,28,True,445
+Tomato,2018-07-16,2018,29,True,446
+Tomato,2018-07-23,2018,30,True,447
+Tomato,2018-07-30,2018,31,True,448
+Tomato,2018-08-06,2018,32,True,449
+Tomato,2018-08-13,2018,33,True,450
+Tomato,2018-08-20,2018,34,True,451
+Tomato,2018-08-27,2018,35,True,452
+Tomato,2018-09-03,2018,36,True,453
+Tomato,2018-09-10,2018,37,True,454
+Tomato,2018-09-17,2018,38,True,455
+Tomato,2018-09-24,2018,39,True,456
+Tomato,2018-10-01,2018,40,True,457
+Tomato,2018-10-08,2018,41,True,458
+Tomato,2018-10-15,2018,42,True,459
+Tomato,2018-10-22,2018,43,True,460
+Tomato,2018-10-29,2018,44,True,461
+Tomato,2018-11-05,2018,45,True,462
+Tomato,2018-11-12,2018,46,True,463
+Tomato,2018-11-19,2018,47,True,464
+Tomato,2018-11-26,2018,48,True,465
+Tomato,2018-12-03,2018,49,True,466
+Tomato,2018-12-10,2018,50,True,467
+Tomato,2018-12-17,2018,51,True,468
+Tomato,2018-12-24,2018,52,True,469
+Tomato,2018-12-31,2019,1,True,470
+Tomato,2019-01-07,2019,2,True,471
+Tomato,2019-01-14,2019,3,True,472
+Tomato,2019-01-21,2019,4,True,473
+Tomato,2019-01-28,2019,5,True,474
+Tomato,2019-02-04,2019,6,True,475
+Tomato,2019-02-11,2019,7,True,476
+Tomato,2019-02-18,2019,8,True,477
+Tomato,2019-02-25,2019,9,True,478
+Tomato,2019-03-04,2019,10,True,479
+Tomato,2019-03-11,2019,11,True,480
+Tomato,2019-03-18,2019,12,True,481
+Tomato,2019-03-25,2019,13,True,482
+Tomato,2019-04-01,2019,14,True,483
+Tomato,2019-04-08,2019,15,True,484
+Tomato,2019-04-15,2019,16,True,485
+Tomato,2019-04-22,2019,17,True,486
+Tomato,2019-04-29,2019,18,True,487
+Tomato,2019-05-06,2019,19,True,488
+Tomato,2019-05-13,2019,20,True,489
+Tomato,2019-05-20,2019,21,True,490
+Tomato,2019-05-27,2019,22,True,491
+Tomato,2019-06-03,2019,23,True,492
+Tomato,2019-06-10,2019,24,True,493
+Tomato,2019-06-17,2019,25,True,494
+Tomato,2019-06-24,2019,26,True,495
+Tomato,2019-07-01,2019,27,True,496
+Tomato,2019-07-08,2019,28,True,497
+Tomato,2019-07-15,2019,29,True,498
+Tomato,2019-07-22,2019,30,True,499
+Tomato,2019-07-29,2019,31,True,500
+Tomato,2019-08-05,2019,32,True,501
+Tomato,2019-08-12,2019,33,True,502
+Tomato,2019-08-19,2019,34,True,503
+Tomato,2019-08-26,2019,35,True,504
+Tomato,2019-09-02,2019,36,True,505
+Tomato,2019-09-09,2019,37,True,506
+Tomato,2019-09-16,2019,38,True,507
+Tomato,2019-09-23,2019,39,True,508
+Tomato,2019-09-30,2019,40,True,509
+Tomato,2019-10-07,2019,41,True,510
+Tomato,2019-10-14,2019,42,True,511
+Tomato,2019-10-21,2019,43,True,512
+Tomato,2019-10-28,2019,44,True,513
+Tomato,2019-11-04,2019,45,True,514
+Tomato,2019-11-11,2019,46,True,515
+Tomato,2019-11-18,2019,47,True,516
+Tomato,2019-11-25,2019,48,True,517
+Tomato,2019-12-02,2019,49,True,518
+Tomato,2019-12-09,2019,50,True,519
+Tomato,2019-12-16,2019,51,True,520
+Tomato,2019-12-23,2019,52,True,521
+Tomato,2019-12-30,2020,1,True,522
+Tomato,2020-01-06,2020,2,True,523
+Tomato,2020-01-13,2020,3,True,524
+Tomato,2020-01-20,2020,4,True,525
+Tomato,2020-01-27,2020,5,True,526
+Tomato,2020-02-03,2020,6,True,527
+Tomato,2020-02-10,2020,7,True,528
+Tomato,2020-02-17,2020,8,True,529
+Tomato,2020-02-24,2020,9,True,530
+Tomato,2020-03-02,2020,10,True,531
+Tomato,2020-03-09,2020,11,True,532
+Tomato,2020-03-16,2020,12,True,533
+Tomato,2020-03-23,2020,13,True,534
+Tomato,2020-03-30,2020,14,True,535
+Tomato,2020-04-06,2020,15,True,536
+Tomato,2020-04-13,2020,16,True,537
+Tomato,2020-04-20,2020,17,True,538
+Tomato,2020-04-27,2020,18,True,539
+Tomato,2020-05-04,2020,19,True,540
+Tomato,2020-05-11,2020,20,True,541
+Tomato,2020-05-18,2020,21,True,542
+Tomato,2020-05-25,2020,22,True,543
+Tomato,2020-06-01,2020,23,True,544
+Tomato,2020-06-08,2020,24,True,545
+Tomato,2020-06-15,2020,25,True,546
+Tomato,2020-06-22,2020,26,True,547
+Tomato,2020-06-29,2020,27,True,548
+Tomato,2020-07-06,2020,28,True,549
+Tomato,2020-07-13,2020,29,True,550
+Tomato,2020-07-20,2020,30,True,551
+Tomato,2020-07-27,2020,31,True,552
+Tomato,2020-08-03,2020,32,True,553
+Tomato,2020-08-10,2020,33,True,554
+Tomato,2020-08-17,2020,34,True,555
+Tomato,2020-08-24,2020,35,True,556
+Tomato,2020-08-31,2020,36,True,557
+Tomato,2020-09-07,2020,37,True,558
+Tomato,2020-09-14,2020,38,True,559
+Tomato,2020-09-21,2020,39,True,560
+Tomato,2020-09-28,2020,40,True,561
+Tomato,2020-10-05,2020,41,True,562
+Tomato,2020-10-12,2020,42,True,563
+Tomato,2020-10-19,2020,43,True,564
+Tomato,2020-10-26,2020,44,True,565
+Tomato,2020-11-02,2020,45,True,566
+Tomato,2020-11-09,2020,46,True,567
+Tomato,2020-11-16,2020,47,True,568
+Tomato,2020-11-23,2020,48,True,569
+Tomato,2020-11-30,2020,49,True,570
+Tomato,2020-12-07,2020,50,True,571
+Tomato,2020-12-14,2020,51,True,572
+Tomato,2020-12-21,2020,52,True,573
+Tomato,2020-12-28,2020,53,True,574
+Tomato,2021-01-04,2021,1,True,575
+Tomato,2021-01-11,2021,2,True,576
+Tomato,2021-01-18,2021,3,True,577
+Tomato,2021-01-25,2021,4,True,578
+Tomato,2021-02-01,2021,5,True,579
+Tomato,2021-02-08,2021,6,True,580
+Tomato,2021-02-15,2021,7,True,581
+Tomato,2021-02-22,2021,8,True,582
+Tomato,2021-03-01,2021,9,True,583
+Tomato,2021-03-08,2021,10,True,584
+Tomato,2021-03-15,2021,11,True,585
+Tomato,2021-03-22,2021,12,True,586
+Tomato,2021-03-29,2021,13,True,587
+Tomato,2021-04-05,2021,14,True,588
+Tomato,2021-04-12,2021,15,True,589
+Tomato,2021-04-19,2021,16,True,590
+Tomato,2021-04-26,2021,17,True,591
+Tomato,2021-05-03,2021,18,True,592
+Tomato,2021-05-10,2021,19,True,593
+Tomato,2021-05-17,2021,20,True,594
+Tomato,2021-05-24,2021,21,True,595
+Tomato,2021-05-31,2021,22,True,596
+Tomato,2021-06-07,2021,23,True,597
+Tomato,2021-06-14,2021,24,True,598
+Tomato,2021-06-21,2021,25,True,599
+Tomato,2021-06-28,2021,26,True,600
+Tomato,2021-07-05,2021,27,True,601
+Tomato,2021-07-12,2021,28,True,602
+Tomato,2021-07-19,2021,29,True,603
+Tomato,2021-07-26,2021,30,True,604
+Tomato,2021-08-02,2021,31,True,605
+Tomato,2021-08-09,2021,32,True,606
+Tomato,2021-08-16,2021,33,True,607
+Tomato,2021-08-23,2021,34,True,608
+Tomato,2021-08-30,2021,35,True,609
+Tomato,2021-09-06,2021,36,True,610
+Tomato,2021-09-13,2021,37,True,611
+Tomato,2021-09-20,2021,38,True,612
+Tomato,2021-09-27,2021,39,True,613
+Tomato,2021-10-04,2021,40,True,614
+Tomato,2021-10-11,2021,41,True,615
+Tomato,2021-10-18,2021,42,True,616
+Tomato,2021-10-25,2021,43,True,617
+Tomato,2021-11-01,2021,44,True,618
+Tomato,2021-11-08,2021,45,True,619
+Tomato,2021-11-15,2021,46,True,620
+Tomato,2021-11-22,2021,47,True,621
+Tomato,2021-11-29,2021,48,True,622
+Tomato,2021-12-06,2021,49,True,623
+Tomato,2021-12-13,2021,50,True,624
+Tomato,2021-12-20,2021,51,True,625
+Tomato,2021-12-27,2021,52,True,626
+Tomato,2022-01-03,2022,1,True,627
+Tomato,2022-01-10,2022,2,True,628
+Tomato,2022-01-17,2022,3,True,629
+Tomato,2022-01-24,2022,4,True,630
+Tomato,2022-01-31,2022,5,True,631
+Tomato,2022-02-07,2022,6,True,632
+Tomato,2022-02-14,2022,7,True,633
+Tomato,2022-02-21,2022,8,True,634
+Tomato,2022-02-28,2022,9,True,635
+Tomato,2022-03-07,2022,10,True,636
+Tomato,2022-03-14,2022,11,True,637
+Tomato,2022-03-21,2022,12,True,638
+Tomato,2022-03-28,2022,13,True,639
+Tomato,2022-04-04,2022,14,True,640
+Tomato,2022-04-11,2022,15,True,641
+Tomato,2022-04-18,2022,16,True,642
+Tomato,2022-04-25,2022,17,True,643
+Tomato,2022-05-02,2022,18,True,644
+Tomato,2022-05-09,2022,19,True,645
+Tomato,2022-05-16,2022,20,True,646
+Tomato,2022-05-23,2022,21,True,647
+Tomato,2022-05-30,2022,22,True,648
+Tomato,2022-06-06,2022,23,True,649
+Tomato,2022-06-13,2022,24,True,650
+Tomato,2022-06-20,2022,25,True,651
+Tomato,2022-06-27,2022,26,True,652
+Tomato,2022-07-04,2022,27,True,653
+Tomato,2022-07-11,2022,28,True,654
+Tomato,2022-07-18,2022,29,True,655
+Tomato,2022-07-25,2022,30,True,656
+Tomato,2022-08-01,2022,31,True,657
+Tomato,2022-08-08,2022,32,True,658
+Tomato,2022-08-15,2022,33,True,659
+Tomato,2022-08-22,2022,34,True,660
+Tomato,2022-08-29,2022,35,True,661
+Tomato,2022-09-05,2022,36,True,662
+Tomato,2022-09-12,2022,37,True,663
+Tomato,2022-09-19,2022,38,True,664
+Tomato,2022-09-26,2022,39,True,665
+Tomato,2022-10-03,2022,40,True,666
+Tomato,2022-10-10,2022,41,True,667
+Tomato,2022-10-17,2022,42,True,668
+Tomato,2022-10-24,2022,43,True,669
+Tomato,2022-10-31,2022,44,True,670
+Tomato,2022-11-07,2022,45,True,671
+Tomato,2022-11-14,2022,46,True,672
+Tomato,2022-11-21,2022,47,True,673
+Tomato,2022-11-28,2022,48,True,674
+Tomato,2022-12-05,2022,49,True,675
+Tomato,2022-12-12,2022,50,True,676
+Tomato,2022-12-19,2022,51,True,677
+Tomato,2022-12-26,2022,52,True,678
+Tomato,2022-12-26,2022,52,True,679
+Tomato,2023-01-02,2023,1,False,680
+Tomato,2023-01-09,2023,2,False,681
+Tomato,2023-01-16,2023,3,False,682
+Tomato,2023-01-23,2023,4,False,683
+Tomato,2023-01-30,2023,5,False,684
+Tomato,2023-02-06,2023,6,False,685
+Tomato,2023-02-13,2023,7,False,686
+Tomato,2023-02-20,2023,8,False,687
+Tomato,2023-02-27,2023,9,False,688
+Tomato,2023-03-06,2023,10,False,689
+Tomato,2023-03-13,2023,11,False,690
+Tomato,2023-03-20,2023,12,False,691
+Tomato,2023-03-27,2023,13,False,692
+Tomato,2023-04-03,2023,14,False,693
+Tomato,2023-04-10,2023,15,False,694
+Tomato,2023-04-17,2023,16,False,695
+Tomato,2023-04-24,2023,17,False,696
+Tomato,2023-05-01,2023,18,False,697
+Tomato,2023-05-08,2023,19,False,698
+Tomato,2023-05-15,2023,20,False,699
+Tomato,2023-05-22,2023,21,False,700
+Tomato,2023-05-29,2023,22,False,701
+Tomato,2023-06-05,2023,23,False,702
+Tomato,2023-06-12,2023,24,False,703
+Tomato,2023-06-19,2023,25,False,704
+Tomato,2023-06-26,2023,26,False,705
+Tomato,2023-07-03,2023,27,False,706
+Tomato,2023-07-10,2023,28,False,707
+Tomato,2023-07-17,2023,29,False,708
+Tomato,2023-07-24,2023,30,False,709
+Tomato,2023-07-31,2023,31,False,710
+Tomato,2023-08-07,2023,32,False,711
+Tomato,2023-08-14,2023,33,False,712
+Tomato,2023-08-21,2023,34,False,713
+Tomato,2023-08-28,2023,35,False,714
+Tomato,2023-09-04,2023,36,False,715
+Tomato,2023-09-11,2023,37,False,716
+Tomato,2023-09-18,2023,38,False,717
+Tomato,2023-09-25,2023,39,False,718
+Tomato,2023-10-02,2023,40,False,719
+Tomato,2023-10-09,2023,41,False,720
+Tomato,2023-10-16,2023,42,False,721
+Tomato,2023-10-23,2023,43,False,722
+Tomato,2023-10-30,2023,44,False,723
+Tomato,2023-11-06,2023,45,False,724
+Tomato,2023-11-13,2023,46,False,725
+Tomato,2023-11-20,2023,47,False,726
+Tomato,2023-11-27,2023,48,False,727
+Tomato,2023-12-04,2023,49,False,728
+Tomato,2023-12-11,2023,50,False,729
+Tomato,2023-12-18,2023,51,False,730
+Tomato,2023-12-25,2023,52,False,731
+Tomato,2024-01-01,2024,1,False,732
+Tomato,2024-01-08,2024,2,False,733
+Tomato,2024-01-15,2024,3,False,734
+Tomato,2024-01-22,2024,4,False,735
+Tomato,2024-01-29,2024,5,False,736
+Tomato,2024-02-05,2024,6,False,737
+Tomato,2024-02-12,2024,7,False,738
+Tomato,2024-02-19,2024,8,False,739
+Tomato,2024-02-26,2024,9,False,740
+Tomato,2024-03-04,2024,10,False,741
+Tomato,2024-03-11,2024,11,False,742
+Tomato,2024-03-18,2024,12,False,743
+Tomato,2024-03-25,2024,13,False,744
+Tomato,2024-04-01,2024,14,False,745
+Tomato,2024-04-08,2024,15,False,746
+Tomato,2024-04-15,2024,16,False,747
+Tomato,2024-04-22,2024,17,False,748
+Tomato,2024-04-29,2024,18,False,749
+Tomato,2024-05-06,2024,19,False,750
+Tomato,2024-05-13,2024,20,False,751
+Tomato,2024-05-20,2024,21,False,752
+Tomato,2024-05-27,2024,22,False,753
+Tomato,2024-06-03,2024,23,False,754
+Tomato,2024-06-10,2024,24,False,755
+Tomato,2024-06-17,2024,25,False,756
+Tomato,2024-06-24,2024,26,False,757
+Tomato,2024-07-01,2024,27,False,758
+Tomato,2024-07-08,2024,28,False,759
+Tomato,2024-07-15,2024,29,False,760
+Tomato,2024-07-22,2024,30,False,761
+Tomato,2024-07-29,2024,31,False,762
+Tomato,2024-08-05,2024,32,False,763
+Tomato,2024-08-12,2024,33,False,764
+Tomato,2024-08-19,2024,34,False,765
+Tomato,2024-08-26,2024,35,False,766
+Tomato,2024-09-02,2024,36,False,767
+Tomato,2024-09-09,2024,37,False,768
+Tomato,2024-09-16,2024,38,False,769
+Tomato,2024-09-23,2024,39,False,770
+Tomato,2024-09-30,2024,40,False,771
+Tomato,2024-10-07,2024,41,False,772
+Tomato,2024-10-14,2024,42,False,773
+Tomato,2024-10-21,2024,43,False,774
+Tomato,2024-10-28,2024,44,False,775
+Tomato,2024-11-04,2024,45,False,776
+Tomato,2024-11-11,2024,46,False,777
+Tomato,2024-11-18,2024,47,False,778
+Tomato,2024-11-25,2024,48,False,779
+Tomato,2024-12-02,2024,49,False,780
+Tomato,2024-12-09,2024,50,False,781
+Tomato,2024-12-16,2024,51,False,782
+Tomato,2024-12-23,2024,52,False,783
+Tomato,2024-12-30,2025,1,False,784
+Tomato,2025-01-06,2025,2,False,785
+Tomato,2025-01-13,2025,3,False,786
+Tomato,2025-01-20,2025,4,False,787
+Tomato,2025-01-27,2025,5,False,788
+Tomato,2025-02-03,2025,6,False,789
+Tomato,2025-02-10,2025,7,False,790
+Tomato,2025-02-17,2025,8,False,791
+Tomato,2025-02-24,2025,9,False,792
+Tomato,2025-03-03,2025,10,False,793
+Tomato,2025-03-10,2025,11,False,794
+Tomato,2025-03-17,2025,12,False,795
+Tomato,2025-03-24,2025,13,False,796
+Tomato,2025-03-31,2025,14,False,797
+Tomato,2025-04-07,2025,15,False,798
+Tomato,2025-04-14,2025,16,False,799
+Tomato,2025-04-21,2025,17,False,800
+Tomato,2025-04-28,2025,18,False,801
+Tomato,2025-05-05,2025,19,False,802
+Tomato,2025-05-12,2025,20,False,803
+Tomato,2025-05-19,2025,21,False,804
+Tomato,2025-05-26,2025,22,False,805
+Tomato,2025-06-02,2025,23,False,806
+Tomato,2025-06-09,2025,24,False,807
+Tomato,2025-06-16,2025,25,False,808
+Tomato,2025-06-23,2025,26,False,809
+Tomato,2025-06-30,2025,27,False,810
+Tomato,2025-07-07,2025,28,False,811
+Tomato,2025-07-14,2025,29,False,812
+Tomato,2025-07-21,2025,30,False,813
+Tomato,2025-07-28,2025,31,False,814
+Tomato,2025-08-04,2025,32,False,815
+Tomato,2025-08-11,2025,33,False,816
+Tomato,2025-08-18,2025,34,False,817
+Tomato,2025-08-25,2025,35,False,818
+Tomato,2025-09-01,2025,36,False,819
+Tomato,2025-09-08,2025,37,False,820
+Tomato,2025-09-15,2025,38,False,821
+Tomato,2025-09-22,2025,39,False,822
+Tomato,2025-09-29,2025,40,False,823
+Tomato,2025-10-06,2025,41,False,824
+Tomato,2025-10-13,2025,42,False,825
+Tomato,2025-10-20,2025,43,False,826
+Tomato,2025-10-27,2025,44,False,827
+Tomato,2025-11-03,2025,45,False,828
+Tomato,2025-11-10,2025,46,False,829
+Tomato,2025-11-17,2025,47,False,830
+Tomato,2025-11-24,2025,48,False,831
+Tomato,2025-12-01,2025,49,False,832
+Tomato,2025-12-08,2025,50,False,833
+Tomato,2025-12-15,2025,51,False,834
+Tomato,2025-12-22,2025,52,False,835
+Tomato,2025-12-29,2026,1,False,836
+Tomato,2026-01-05,2026,2,False,837
