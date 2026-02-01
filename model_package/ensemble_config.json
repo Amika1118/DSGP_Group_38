@@ -1,0 +1,68 @@
+{
+    "ensemble_type": "Weighted Average",
+    "models": [
+        "LightGBM",
+        "XGBoost"
+    ],
+    "weights": {
+        "LightGBM": 0.5,
+        "XGBoost": 0.5
+    },
+    "selected_features": [
+        "x12",
+        "x111",
+        "x18",
+        "x128",
+        "x120",
+        "x16",
+        "x6",
+        "x132",
+        "x131",
+        "x112",
+        "x5",
+        "x113",
+        "x7",
+        "x122",
+        "x114",
+        "x124",
+        "x129",
+        "x10",
+        "x126",
+        "x117",
+        "x106",
+        "x3",
+        "x22",
+        "x127",
+        "x115",
+        "x116",
+        "x125",
+        "x123",
+        "x15",
+        "x13"
+    ],
+    "feature_scaler": "scaler_X.pkl",
+    "target_scaler": "scaler_y.pkl",
+    "performance": {
+        "validation_r2": 0.7357932155247076,
+        "validation_mae": 11.368106971309981,
+        "validation_rmse": 25.583762584607296,
+        "validation_mape": 3.5821205326654693
+    },
+    "data_info": {
+        "train_size": 464,
+        "val_size": 154,
+        "test_size": 156,
+        "feature_count": 30,
+        "date_ranges": {
+            "train": "2009-12-28 to 2018-11-12",
+            "val": "2018-11-19 to 2021-10-25",
+            "test": "2021-11-01 to 2024-10-14"
+        }
+    },
+    "prediction_settings": {
+        "confidence_level_95": 1.96,
+        "confidence_level_80": 1.28,
+        "default_vegetable": "Tomato",
+        "creation_date": "2026-02-01 15:24:18"
+    }
+}
