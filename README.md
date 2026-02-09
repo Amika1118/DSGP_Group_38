@@ -1,7 +1,0 @@
-# Retail Price Prediction
-
-## Project Overview
-DSGP Project
-
-## Data Source
-# Continue with your README content
