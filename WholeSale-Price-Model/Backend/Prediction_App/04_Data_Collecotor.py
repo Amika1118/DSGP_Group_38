@@ -1,5 +1,5 @@
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
 
 # ========== CONFIGURATION ==========
@@ -7,7 +7,7 @@ INPUT_PATH = "../../data/raw/Vegetable_prices_weekly.csv"
 OUTPUT_PATH = "../Data/Backend_Data.csv"
 
 # Set True for current week, False for next week
-USE_CURRENT_WEEK = True   # Change to False if you need next week's data
+USE_CURRENT_WEEK = True  # Change to False if you need next week's data
 # ====================================
 
 # Mapping dictionaries (keys must match the raw data exactly after cleaning)
@@ -40,15 +40,57 @@ required_columns = [
     'USD_LKR_avg', 'RateChange_avg', 'week_num'
 ]
 
-def get_custom_week_number(date):
-    """Return custom week number (1‑based, weeks of 7 days from Jan 1)."""
-    day_of_year = date.timetuple().tm_yday
-    return (day_of_year - 1) // 7 + 1
+
+def get_week_from_date(date):
+    """
+    Determine the custom week number for a given date based on the defined week boundaries.
+    Week 1: Jan 1-7
+    Week 2: Jan 8-14
+    Week 3: Jan 15-21
+    Week 4: Jan 22-28
+    Week 5: Jan 29-Feb 4
+    ... and so on with 7-day intervals
+    """
+    year = date.year
+    # Create Jan 1 of the given year
+    jan1 = datetime(year, 1, 1)
+
+    # Calculate days since Jan 1
+    days_diff = (date - jan1).days
+
+    # Week number is floor(days_diff / 7) + 1
+    # But careful: Jan 1 (days_diff=0) should be week 1
+    week_num = (days_diff // 7) + 1
+
+    # Handle dates that might fall into next year's weeks
+    if week_num > 52:
+        # If we're near year end, this might be week 52 or 53
+        # Cap at 52 for simplicity (or adjust based on your needs)
+        week_num = min(week_num, 52)
+
+    return week_num
+
+
+def get_week_range(week_num, year):
+    """
+    Get the start and end dates for a given week number in the custom system.
+    Returns (start_date, end_date) as datetime objects.
+    """
+    jan1 = datetime(year, 1, 1)
+    start_date = jan1 + timedelta(days=(week_num - 1) * 7)
+    end_date = start_date + timedelta(days=6)
+    return start_date, end_date
+
 
 def get_target_week_and_year(today, use_current):
     """Determine target week number and year based on current date and flag."""
-    current_week = get_custom_week_number(today)
+    current_week = get_week_from_date(today)
     current_year = today.year
+
+    # Get the date ranges for debugging/information
+    week_start, week_end = get_week_range(current_week, current_year)
+    print(f"Current date {today.strftime('%Y-%m-%d')} falls in:")
+    print(f"Week {current_week}: {week_start.strftime('%b %d')} – {week_end.strftime('%b %d')}")
 
     if use_current:
         target_week = current_week
@@ -56,11 +98,23 @@ def get_target_week_and_year(today, use_current):
     else:
         target_week = current_week + 1
         target_year = current_year
-        # Handle year rollover (max 53 weeks per year)
-        if target_week > 53:
-            target_week = 1
-            target_year += 1
+
+        # Get next week's date range to check if it's in next year
+        next_week_start, next_week_end = get_week_range(target_week, target_year)
+
+        # If next week's start date is in the next year, adjust year
+        if next_week_start.year > current_year:
+            target_year = next_week_start.year
+            # Recalculate week number for the new year
+            target_week = get_week_from_date(next_week_start)
+
+        # Show next week's range
+        print(f"\nNext week (target):")
+        print(
+            f"Week {target_week}: {next_week_start.strftime('%b %d')} – {next_week_end.strftime('%b %d')} ({target_year})")
+
     return target_week, target_year
+
 
 def week_to_int(week_series):
     """
@@ -72,14 +126,13 @@ def week_to_int(week_series):
     # Assume string; remove any non-digit characters and convert
     return week_series.astype(str).str.replace(r'\D', '', regex=True).astype(int)
 
+
 # ========== MAIN ==========
 today = datetime.now()
 target_week_num, target_year = get_target_week_and_year(today, USE_CURRENT_WEEK)
 target_week_str = f"W{target_week_num}"
 
-print(f"Today's date: {today.strftime('%Y-%m-%d')}")
-print(f"Current custom week: W{get_custom_week_number(today)}")
-print(f"Target week: {target_week_str} of {target_year}")
+print(f"\nTarget week: {target_week_str} of {target_year}")
 
 # --- Load raw data ---
 if not os.path.exists(INPUT_PATH):
