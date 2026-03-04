@@ -1,0 +1,4 @@
+split,years,rows,row_indices
+train,1-11,3078,0-3077
+validation,12-13,576,3078-3653
+test,14-17,966,3654-4619

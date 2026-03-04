@@ -1,184 +1,194 @@
+"""
+Feature filling script for backend data.
+Fills null values in derived columns using the same formulas as training.
+Run this BEFORE the prediction script.
+"""
+
 import pandas as pd
 import numpy as np
 import os
 
 # ========== CONFIGURATION ==========
 INPUT_PATH = "../Data/Backend_Data.csv"
-OUTPUT_PATH = "../Data/Backend_Data.csv"  # Save back to same file
+OUTPUT_PATH = "../Data/Backend_Data.csv"
 # ====================================
 
-# List of cities (used for probability aggregations)
 cities = ['Badulla', 'Hambantota', 'Jaffna', 'Kurunegala',
           'Matale', 'Nuwara_Eliya', 'Ratnapura']
-
-# Actual class columns
 actual_cols = [f"{city}_actual_class" for city in cities]
-
-# Probability types
 prob_types = ['prob_drought', 'prob_flood_risk', 'prob_normal']
 
-# List of all remaining columns to compute
-remaining_columns = [
-    'price_lag1',
-    'price_lag2',
-    'price_roll_mean_4',
-    'price_roll_std_4',
-    'avg_prob_drought',
-    'max_prob_drought',
-    'min_prob_drought',
-    'std_prob_drought',
-    'avg_prob_flood_risk',
-    'max_prob_flood_risk',
-    'min_prob_flood_risk',
-    'std_prob_flood_risk',
-    'avg_prob_normal',
-    'max_prob_normal',
-    'min_prob_normal',
-    'std_prob_normal',
-    'count_drought',
-    'count_normal',
-    'count_flood_risk',
-    'usd_x_avg_drought',
-    'usd_x_avg_flood',
-    'usd_x_avg_normal',
-    'week_x_avg_drought',
-    'week_x_avg_flood',
-    'USD_LKR_avg_sq',
-    'RateChange_avg_%_sq',
-    'week_num_sq',
-    'week_sin',
-    'week_cos',
-    'veg_2',
-    'veg_3',
-    'veg_4',
-    'veg_5',
-    'veg_6'
+# All derived columns that may need filling
+derived_cols = [
+    'price_lag1', 'price_lag2',
+    'price_roll_mean_4', 'price_roll_std_4',
+    'avg_prob_drought', 'max_prob_drought', 'min_prob_drought', 'std_prob_drought',
+    'avg_prob_flood_risk', 'max_prob_flood_risk', 'min_prob_flood_risk', 'std_prob_flood_risk',
+    'avg_prob_normal', 'max_prob_normal', 'min_prob_normal', 'std_prob_normal',
+    'count_drought', 'count_normal', 'count_flood_risk',
+    'usd_x_avg_drought', 'usd_x_avg_flood', 'usd_x_avg_normal',
+    'week_x_avg_drought', 'week_x_avg_flood',
+    'USD_LKR_avg_sq', 'RateChange_avg_%_sq', 'week_num_sq',
+    'week_sin', 'week_cos',
+    'veg_2', 'veg_3', 'veg_4', 'veg_5', 'veg_6'
 ]
 
-# ========== MAIN ==========
+# ------------------------------------------------------------
+print("=" * 60)
+print("FEATURE FILLING FOR BACKEND DATA")
+print("=" * 60)
 
-# --- Load data ---
 if not os.path.exists(INPUT_PATH):
-    raise FileNotFoundError(f"Backend data file not found: {INPUT_PATH}")
+    raise FileNotFoundError(f"File not found: {INPUT_PATH}")
 
 df = pd.read_csv(INPUT_PATH)
-print(f"Loaded data shape: {df.shape}")
+print(f"Loaded data: {df.shape[0]} rows, {df.shape[1]} columns")
 
-# --- Identify rows that need computation (any remaining column is null) ---
-# First, check which remaining columns exist in the dataframe
-existing_remaining = [col for col in remaining_columns if col in df.columns]
-missing_remaining = [col for col in remaining_columns if col not in df.columns]
-
-if missing_remaining:
-    print(f"Adding missing columns: {missing_remaining}")
-    for col in missing_remaining:
+# Ensure all derived columns exist
+for col in derived_cols:
+    if col not in df.columns:
         df[col] = np.nan
+        print(f"Added missing column: {col}")
 
-# Find rows where ANY of the remaining columns are null
-null_mask = df[existing_remaining + missing_remaining].isnull().any(axis=1)
-rows_to_compute = null_mask.sum()
-print(f"Rows needing computation: {rows_to_compute} out of {len(df)}")
+# Count new rows (price is null) – just for info
+new_rows = df['price'].isnull().sum()
+print(f"Rows with null price (new rows): {new_rows}")
 
-if rows_to_compute == 0:
-    print("All remaining columns are already filled. No computation needed.")
-else:
-    # Create a copy of rows to compute to avoid SettingWithCopyWarning
-    compute_idx = df[null_mask].index
-    df_to_compute = df.loc[compute_idx].copy()
+# ------------------------------------------------------------
+# 1. Price lags (shift within each vegetable)
+# ------------------------------------------------------------
+new_lag1 = df.groupby('vegetable')['price'].shift(1)
+new_lag2 = df.groupby('vegetable')['price'].shift(2)
 
-    print(f"Computing features for {len(df_to_compute)} rows...")
+df['price_lag1'] = df['price_lag1'].fillna(new_lag1)
+df['price_lag2'] = df['price_lag2'].fillna(new_lag2)
+print("✓ Lag features filled")
 
-    # --- Sort by vegetable and week_num for proper lag calculations ---
-    df_to_compute = df_to_compute.sort_values(['vegetable', 'week_num'])
+# ------------------------------------------------------------
+# 2. Rolling statistics (4‑week, using past prices only)
+# ------------------------------------------------------------
+# Use shifted price to avoid including current week
+shifted_price = df.groupby('vegetable')['price'].shift(1)
 
-    # --- 1. Price lag features ---
-    # Need to use the full dataset for lags to get previous weeks
-    df_full_sorted = df.sort_values(['vegetable', 'week_num'])
-    df['price_lag1'] = df_full_sorted.groupby('vegetable')['price'].shift(1)
-    df['price_lag2'] = df_full_sorted.groupby('vegetable')['price'].shift(2)
-    print("Lag features created.")
+new_roll_mean = shifted_price.groupby(df['vegetable']).transform(
+    lambda x: x.rolling(4, min_periods=1).mean()
+)
+new_roll_std = shifted_price.groupby(df['vegetable']).transform(
+    lambda x: x.rolling(4, min_periods=1).std()
+)
 
-    # --- 2. Rolling statistics ---
-    df['price_roll_mean_4'] = df.groupby('vegetable')['price'].transform(
-        lambda x: x.rolling(4, min_periods=1).mean()
-    )
-    df['price_roll_std_4'] = df.groupby('vegetable')['price'].transform(
-        lambda x: x.rolling(4, min_periods=1).std()
-    )
-    print("Rolling features created.")
+df['price_roll_mean_4'] = df['price_roll_mean_4'].fillna(new_roll_mean)
+df['price_roll_std_4']  = df['price_roll_std_4'].fillna(new_roll_std)
+print("✓ Rolling features filled")
 
-    # --- 3. Probability aggregations ---
-    for prob in prob_types:
-        prob_cols = [f"{city}_{prob}" for city in cities if f"{city}_{prob}" in df.columns]
-        if prob_cols:
-            df[f'avg_{prob}'] = df[prob_cols].mean(axis=1)
-            df[f'max_{prob}'] = df[prob_cols].max(axis=1)
-            df[f'min_{prob}'] = df[prob_cols].min(axis=1)
-            df[f'std_{prob}'] = df[prob_cols].std(axis=1)
-    print("Aggregated probability features added.")
+# ------------------------------------------------------------
+# 3. Probability aggregations (averages, max, min, std)
+# ------------------------------------------------------------
+for prob in prob_types:
+    prob_cols = [f"{city}_{prob}" for city in cities if f"{city}_{prob}" in df.columns]
+    if prob_cols:
+        new_avg = df[prob_cols].mean(axis=1)
+        new_max = df[prob_cols].max(axis=1)
+        new_min = df[prob_cols].min(axis=1)
+        new_std = df[prob_cols].std(axis=1)
 
-    # --- 4. Count features ---
-    for class_val, class_name in [(-1, 'drought'), (0, 'normal'), (1, 'flood_risk')]:
-        df[f'count_{class_name}'] = (df[actual_cols] == class_val).sum(axis=1)
-    print("Count features added.")
+        df[f'avg_{prob}'] = df[f'avg_{prob}'].fillna(new_avg)
+        df[f'max_{prob}'] = df[f'max_{prob}'].fillna(new_max)
+        df[f'min_{prob}'] = df[f'min_{prob}'].fillna(new_min)
+        df[f'std_{prob}'] = df[f'std_{prob}'].fillna(new_std)
+print("✓ Probability aggregations filled")
 
-    # --- 5. Interaction features ---
-    df['usd_x_avg_drought'] = df['USD_LKR_avg'] * df['avg_prob_drought']
-    df['usd_x_avg_flood'] = df['USD_LKR_avg'] * df['avg_prob_flood_risk']
-    df['usd_x_avg_normal'] = df['USD_LKR_avg'] * df['avg_prob_normal']
+# ------------------------------------------------------------
+# 4. Count of actual classes (drought, normal, flood)
+# ------------------------------------------------------------
+for class_val, class_name in [(-1, 'drought'), (0, 'normal'), (1, 'flood_risk')]:
+    new_count = (df[actual_cols] == class_val).sum(axis=1)
+    df[f'count_{class_name}'] = df[f'count_{class_name}'].fillna(new_count)
+print("✓ Count features filled")
 
-    df['week_x_avg_drought'] = df['week_num'] * df['avg_prob_drought']
-    df['week_x_avg_flood'] = df['week_num'] * df['avg_prob_flood_risk']
-    print("Interaction features added.")
+# ------------------------------------------------------------
+# 5. Interaction terms (USD_LKR and week)
+# ------------------------------------------------------------
+new_usd_drought = df['USD_LKR_avg'] * df['avg_prob_drought']
+new_usd_flood   = df['USD_LKR_avg'] * df['avg_prob_flood_risk']
+new_usd_normal  = df['USD_LKR_avg'] * df['avg_prob_normal']
 
-    # --- 6. Polynomial features ---
-    df['USD_LKR_avg_sq'] = df['USD_LKR_avg'] ** 2
-    df['RateChange_avg_%_sq'] = df['RateChange_avg'] ** 2
-    df['week_num_sq'] = df['week_num'] ** 2
-    print("Polynomial features added.")
+df['usd_x_avg_drought'] = df['usd_x_avg_drought'].fillna(new_usd_drought)
+df['usd_x_avg_flood']   = df['usd_x_avg_flood'].fillna(new_usd_flood)
+df['usd_x_avg_normal']  = df['usd_x_avg_normal'].fillna(new_usd_normal)
 
-    # --- 7. Cyclical week features ---
-    df['week_sin'] = np.sin(2 * np.pi * df['week_num'] / 52)
-    df['week_cos'] = np.cos(2 * np.pi * df['week_num'] / 52)
-    print("Cyclical week features added.")
+new_week_drought = df['week_num'] * df['avg_prob_drought']
+new_week_flood   = df['week_num'] * df['avg_prob_flood_risk']
 
-    # --- 8. One-hot encoded vegetable columns ---
-    # Check if vegetable column exists and has the mapping
-    if 'vegetable' in df.columns:
-        # Create dummies (drop_first=True creates k-1 dummies)
-        veg_dummies = pd.get_dummies(df['vegetable'], prefix='veg', drop_first=True)
+df['week_x_avg_drought'] = df['week_x_avg_drought'].fillna(new_week_drought)
+df['week_x_avg_flood']   = df['week_x_avg_flood'].fillna(new_week_flood)
+print("✓ Interaction features filled")
 
-        # Add dummy columns to dataframe
-        for col in veg_dummies.columns:
-            df[col] = veg_dummies[col]
+# ------------------------------------------------------------
+# 6. Polynomial features (squares)
+# ------------------------------------------------------------
+new_usd_sq    = df['USD_LKR_avg'] ** 2
+new_rate_sq   = df['RateChange_avg'] ** 2    # column name in CSV
+new_week_sq   = df['week_num'] ** 2
 
-        # Ensure all expected veg_X columns exist (fill missing with 0)
-        expected_veg_cols = ['veg_2', 'veg_3', 'veg_4', 'veg_5', 'veg_6']
-        for col in expected_veg_cols:
+df['USD_LKR_avg_sq']      = df['USD_LKR_avg_sq'].fillna(new_usd_sq)
+df['RateChange_avg_%_sq'] = df['RateChange_avg_%_sq'].fillna(new_rate_sq)
+df['week_num_sq']         = df['week_num_sq'].fillna(new_week_sq)
+print("✓ Polynomial features filled")
+
+# ------------------------------------------------------------
+# 7. Cyclical week encoding
+# ------------------------------------------------------------
+new_sin = np.sin(2 * np.pi * df['week_num'] / 52)
+new_cos = np.cos(2 * np.pi * df['week_num'] / 52)
+
+df['week_sin'] = df['week_sin'].fillna(new_sin)
+df['week_cos'] = df['week_cos'].fillna(new_cos)
+print("✓ Cyclical week features filled")
+
+# ------------------------------------------------------------
+# 8. One‑hot vegetable dummies
+# ------------------------------------------------------------
+if 'vegetable' in df.columns:
+    # Generate dummies for all rows (same as during training)
+    veg_dummies = pd.get_dummies(df['vegetable'], prefix='veg', drop_first=True)
+    expected_veg = ['veg_2', 'veg_3', 'veg_4', 'veg_5', 'veg_6']
+
+    for col in expected_veg:
+        if col in veg_dummies.columns:
+            new_dummy = veg_dummies[col]
+            if col not in df.columns:
+                df[col] = np.nan
+            df[col] = df[col].fillna(new_dummy)
+        else:
+            # If no rows have this vegetable, dummy should be 0
             if col not in df.columns:
                 df[col] = 0
+            else:
+                df[col] = df[col].fillna(0)
 
-        # Convert to int
-        for col in expected_veg_cols:
-            if col in df.columns:
-                df[col] = df[col].astype(int)
+    # Convert to int (same as training)
+    for col in expected_veg:
+        if col in df.columns:
+            df[col] = df[col].astype(int)
+    print("✓ One‑hot vegetable columns filled")
 
-        print("One-hot encoded vegetable columns added.")
+# ------------------------------------------------------------
+# Final check: any nulls left in derived columns for new rows?
+# ------------------------------------------------------------
+new_rows_df = df[df['price'].isnull()]
+if len(new_rows_df) > 0:
+    still_null = new_rows_df[derived_cols].isnull().sum()
+    if still_null.sum() > 0:
+        print("\n⚠️ Warning: Some derived columns still have nulls in new rows:")
+        print(still_null[still_null > 0])
     else:
-        print("Warning: 'vegetable' column not found for one-hot encoding.")
+        print("\n✅ All derived columns are fully filled for new rows.")
+else:
+    print("\nℹ️ No new rows found – nothing to fill.")
 
-    # --- Verify that all remaining columns are now filled for computed rows ---
-    # (Optional: check specific rows)
-
-    print(f"Feature computation complete. Final shape: {df.shape}")
-
-# --- Save updated data ---
+# ------------------------------------------------------------
+# Save updated data
+# ------------------------------------------------------------
 df.to_csv(OUTPUT_PATH, index=False)
-print(f"Data successfully saved to {OUTPUT_PATH}")
-
-# --- Display summary of the newly computed columns ---
-print("\n--- Summary of computed columns ---")
-for col in remaining_columns:
-    if col in df.columns:
-        null_count = df[col].isnull().sum()
-        print(f"{col}: {null_count} null values out of {len(df)} rows")
+print(f"\nData saved to {OUTPUT_PATH}")
