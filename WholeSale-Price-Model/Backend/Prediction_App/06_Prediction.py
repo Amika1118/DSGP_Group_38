@@ -195,6 +195,6 @@ print(f"📉 Max: {results_df['Predicted Price'].max():.2f}")
 print("\n✅ Backend processing completed successfully!")
 
 # Optional: save detailed results
-out_file = os.path.join(script_dir, f"predictions_week{current_week}_{current_year}.csv")
+out_file = os.path.join(script_dir, "..", "Data", "Predictions.csv")
 results_df.to_csv(out_file, index=False)
 print(f"\n📁 Detailed predictions saved to: {out_file}")
