@@ -161,7 +161,8 @@ for _, row in filtered_df.iterrows():
     name = veg_names.get(veg, f"Unknown({veg})")
     results.append({
         'Vegetable': name,
-        'Vegetable Code': veg,
+        'Week': f"W{current_week}",
+        'Year': current_year,
         'Predicted Price': round(row['predicted_price'], 2)
     })
 
@@ -194,7 +195,7 @@ print(f"📈 Min: {results_df['Predicted Price'].min():.2f}")
 print(f"📉 Max: {results_df['Predicted Price'].max():.2f}")
 print("\n✅ Backend processing completed successfully!")
 
-# Optional: save detailed results
+# Optional: save detailed results in the desired format
 out_file = os.path.join(script_dir, "..", "Data", "Predictions.csv")
 results_df.to_csv(out_file, index=False)
 print(f"\n📁 Detailed predictions saved to: {out_file}")
