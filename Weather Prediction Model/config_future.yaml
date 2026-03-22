@@ -1,0 +1,101 @@
+# config_future.yaml
+# General settings
+random_seed: 42
+
+# Data paths
+data:
+  file_path: "data/processed_data.csv"
+  train_start: "2010-01-01"
+  train_end: "2024-12-31"
+  val_start: "2025-01-01"
+  val_end: "2025-12-31"
+  test_start: "2026-01-01"
+  test_end: "2026-12-31"
+  target_column: "weather_event"
+
+# Cities and climate zones
+cities:
+  wet_zone:
+    - Ratnapura
+  intermediate_zone:
+    - Badulla
+    - Matale
+    - Kandy
+    - Nuwara_Eliya
+    - Kurunegala
+  dry_zone:
+    - Jaffna
+    - Hambantota
+  all_cities:
+    - Ratnapura
+    - Badulla
+    - Matale
+    - Kandy
+    - Nuwara_Eliya
+    - Kurunegala
+    - Jaffna
+    - Hambantota
+
+# Event thresholds
+thresholds:
+  flood_percentile: 0.95
+  min_drought_days: 7
+  min_flood_days: 1
+  flood_saturation_percentile: 0.90
+  drought_spi_wet_zone: -1.2
+  drought_spi_intermediate: -1.0
+  drought_spi_dry_zone: -0.8
+  drought_spi_default: -1.0          # <-- ADDED global fallback
+
+# Training settings (common to all models)
+training:
+  random_state: 42
+  early_stopping_rounds: 10   # Only used by XGBoost; ignored by others
+
+# Hyperparameter tuning (enables grid/random search for any model)
+hyperparameter_tuning:
+  enabled: true                # set to true to tune, false to use defaults
+  method: random               # grid or random
+  n_splits: 3
+  cv_gap: 30
+  scoring: f1_macro
+  n_iter: 20
+
+# Model-specific configurations
+models:
+  xgboost:
+    hyperparameters:
+      n_estimators: [100, 200, 300]
+      max_depth: [3, 5, 7, 9]
+      learning_rate: [0.01, 0.05, 0.1, 0.2]
+      subsample: [0.7, 0.8, 0.9, 1.0]
+      colsample_bytree: [0.7, 0.8, 0.9, 1.0]
+      reg_lambda: [0.1, 1.0, 5.0, 10.0]
+      reg_alpha: [0.0, 0.1, 1.0, 5.0]
+      min_child_weight: [1, 3, 5, 7]
+
+  random_forest:
+    hyperparameters:
+      n_estimators: [100, 200, 300, 500]
+      max_depth: [5, 10, 15, 20, None]
+      min_samples_split: [2, 5, 10]
+      min_samples_leaf: [1, 2, 4]
+      max_features: ['sqrt', 'log2', None]
+      class_weight: ['balanced', 'balanced_subsample', None]
+
+  svm:
+    hyperparameters:
+      C: [0.1, 1.0, 10.0, 100.0]
+      gamma: ['scale', 'auto', 0.01, 0.1, 1.0]
+      kernel: ['rbf', 'poly', 'sigmoid']
+      degree: [2, 3, 4]
+      coef0: [0.0, 0.1, 0.5]
+
+# Weather API Configuration (for validation – not used in current pipeline)
+api:
+  provider: 'openweathermap'
+  base_url: 'http://api.openweathermap.org/data/2.5'
+  api_key_env: 'OPENWEATHER_API_KEY'
+  rate_limit_delay: 1
+  timeout: 10
+  retry_attempts: 3
