@@ -1,6 +1,10 @@
 """
 Script to run the USD/LKR scraper, retrieve the predicted rate,
-and append it to the historical CSV with the correct date and rate change.
+and append/update the historical CSV with the correct date and rate change.
+The date used is the first day of the current week based on a fixed weekly grid:
+- Week 1 starts on Jan 1
+- Week n starts on Jan 1 + (n-1)*7 days
+- Week numbers are capped at 52 (the last week may be longer to include Dec 31)
 """
 
 import subprocess
@@ -29,7 +33,6 @@ csv_path = os.path.join(script_dir, "..", "..", "data", "raw", "USD_LKR Historic
 # ----------------------------------------------------------------------
 print("Running USD/LKR scraper...")
 try:
-    # Run the scraper script (assumes it's a Python script)
     result = subprocess.run(
         [sys.executable, scraper_path],
         capture_output=True,
@@ -75,51 +78,95 @@ if not all(col in df.columns for col in required_cols):
     sys.exit(1)
 
 # ----------------------------------------------------------------------
-# Step 5: Determine the last date and compute new date
+# Step 5: Determine target date based on current week definition
 # ----------------------------------------------------------------------
-# Convert Date column to datetime (assuming mm/dd/yyyy format)
-df["Date_dt"] = pd.to_datetime(df["Date"], format="%m/%d/%Y")
+today = datetime.now().date()
+year = today.year
+jan1 = datetime(year, 1, 1).date()
+delta_days = (today - jan1).days
+week_num = delta_days // 7 + 1
+if week_num > 52:
+    week_num = 52  # last week absorbs remaining days
+target_date = jan1 + timedelta(days=(week_num - 1) * 7)
+target_date_str = target_date.strftime("%m/%d/%Y")
 
-# Sort by date just in case
+print(f"Today's date: {today.strftime('%m/%d/%Y')}")
+print(f"Target date (first day of current week): {target_date_str}")
+
+# ----------------------------------------------------------------------
+# Step 6: Prepare dataframe with datetime column for comparison
+# ----------------------------------------------------------------------
+df["Date_dt"] = pd.to_datetime(df["Date"], format="%m/%d/%Y")
 df = df.sort_values("Date_dt").reset_index(drop=True)
 
-last_row = df.iloc[-1]
-last_date = last_row["Date_dt"]
-last_rate = last_row["DollarRate"]
-
-# New date = last date + 7 days
-new_date = last_date + timedelta(days=7)
-new_date_str = new_date.strftime("%m/%d/%Y")  # back to mm/dd/yyyy
-
-print(f"Last date: {last_date.strftime('%m/%d/%Y')} with rate {last_rate}")
-print(f"New date: {new_date_str}")
+# Helper to find the most recent row before a given date (exclusive)
+def get_previous_rate(before_date):
+    mask = df["Date_dt"] < pd.Timestamp(before_date)
+    if mask.any():
+        return df.loc[mask, "DollarRate"].iloc[-1]
+    return None
 
 # ----------------------------------------------------------------------
-# Step 6: Calculate the rate change percentage
+# Step 7: Check if target date already exists
 # ----------------------------------------------------------------------
-rate_change_pct = ((predicted_rate - last_rate) / last_rate) * 100
-# Format to 2 decimal places (like -0.08%)
-rate_change_str = f"{rate_change_pct:.2f}%"
+mask_target = df["Date_dt"] == pd.Timestamp(target_date)
+if mask_target.any():
+    # Update existing row
+    idx = df[mask_target].index[0]
+    print(f"Row for {target_date_str} already exists. Updating...")
 
-print(f"Rate change: {rate_change_str}")
+    # Get rate from exactly 7 days prior (previous week's start)
+    prev_week_date = target_date - timedelta(days=7)
+    prev_mask = df["Date_dt"] == pd.Timestamp(prev_week_date)
+    if prev_mask.any():
+        prev_rate = df.loc[prev_mask, "DollarRate"].values[0]
+    else:
+        # Fallback to most recent row before target date
+        prev_rate = get_previous_rate(target_date)
+        if prev_rate is None:
+            prev_rate = predicted_rate  # no previous data, change 0
+            print("Warning: No previous rate found. Setting change to 0.")
+        else:
+            print(f"Previous week's date {prev_week_date.strftime('%m/%d/%Y')} not found; using last available rate from {df.loc[df['Date_dt'] < pd.Timestamp(target_date), 'Date_dt'].iloc[-1].strftime('%m/%d/%Y')}")
+
+    rate_change_pct = ((predicted_rate - prev_rate) / prev_rate) * 100 if prev_rate != 0 else 0.0
+    rate_change_str = f"{rate_change_pct:.2f}%"
+
+    # Update the row
+    df.at[idx, "DollarRate"] = predicted_rate
+    df.at[idx, "RateChange %"] = rate_change_str
+    print(f"Updated rate to {predicted_rate} with change {rate_change_str}")
+else:
+    # Append new row
+    print(f"No row for {target_date_str} found. Appending new row.")
+
+    # Get rate from previous week's start
+    prev_week_date = target_date - timedelta(days=7)
+    prev_mask = df["Date_dt"] == pd.Timestamp(prev_week_date)
+    if prev_mask.any():
+        prev_rate = df.loc[prev_mask, "DollarRate"].values[0]
+    else:
+        # Fallback to last row overall
+        if not df.empty:
+            prev_rate = df.iloc[-1]["DollarRate"]
+            print(f"Previous week's date {prev_week_date.strftime('%m/%d/%Y')} not found; using last available rate from {df.iloc[-1]['Date']}")
+        else:
+            prev_rate = predicted_rate  # empty CSV, change 0
+
+    rate_change_pct = ((predicted_rate - prev_rate) / prev_rate) * 100 if prev_rate != 0 else 0.0
+    rate_change_str = f"{rate_change_pct:.2f}%"
+
+    new_row = {
+        "Date": target_date_str,
+        "DollarRate": predicted_rate,
+        "RateChange %": rate_change_str
+    }
+    df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
+    print(f"Appended new row with rate {predicted_rate} and change {rate_change_str}")
 
 # ----------------------------------------------------------------------
-# Step 7: Append the new row
+# Step 8: Drop temporary column and save
 # ----------------------------------------------------------------------
-new_row = {
-    "Date": new_date_str,
-    "DollarRate": predicted_rate,
-    "RateChange %": rate_change_str
-}
-
-# Use pd.concat instead of append (future proof)
-df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
-
-# Drop the temporary datetime column before saving
 df = df.drop(columns=["Date_dt"])
-
-# ----------------------------------------------------------------------
-# Step 8: Save the updated CSV
-# ----------------------------------------------------------------------
 df.to_csv(csv_path, index=False)
 print(f"Updated CSV saved to {csv_path}")
